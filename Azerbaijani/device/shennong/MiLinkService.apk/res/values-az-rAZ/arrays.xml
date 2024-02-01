@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Tətbiqləri birləşdir</item>
+        <item>Ara bağlantı/Tətbiqləri birləşdir</item>
+        <item>Avtomobil özəllikləri</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Ara bağlantı</item>
+        <item>Ara bağlantı/Ara bağlantı</item>
+        <item>Cihaz ara bağlantısı, Cihaz ara bağlantı xidmətləri, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, ağıllı bağlantı, Mi Smart Hub, Ara bağlantı, Duo, Xiaomi telefonu, Xiaomi kompüteri, Çoxlu ekran, Duet, yayım, tətbiqləri birləşdir, toxunmadan, Mirror, Xiaomi Eko sistemi, cihaz bağlantısı</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Gizlilik</item>
+        <item>Ara bağlantı/Gizlilik</item>
+        <item>Gizlilik və ara bağlantı, Gizlilik</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Ara bağlantı xidmətləri</item>
+        <item>Ara bağlantı/Ara bağlantı xidmətləri</item>
+        <item>Ara bağlantı xidmətləri</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Tətbiq köçürmə</item>
+        <item>Ara bağlantı/Tətbiq köçürmə</item>
+        <item>Tətbiqləri köçür, ötür, transfer et</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Zənglər</item>
+        <item>Ara bağlantı/Zənglər</item>
+        <item>Zənglər</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Şəbəkə köməyi</item>
+        <item>Ara bağlantı/Şəbəkə yardımı</item>
+        <item>Şəbəkə köməyi, internet paylaşımı, hotspot paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Əsas ekran+</item>
+        <item>Ara bağlantı/Əsas ekran+</item>
+        <item>Əsas ekran+, Mi Smart Hub, ekran paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Lövhə</item>
+        <item>Ara bağlantı/Lövhə</item>
+        <item>Lövhə</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Cihazlar arası bildirişlər</item>
+        <item>Ara bağlantı/Bildirişlər</item>
+        <item>Cihazlar arası bildirişlər</item>
+    </string-array>
+</resources>

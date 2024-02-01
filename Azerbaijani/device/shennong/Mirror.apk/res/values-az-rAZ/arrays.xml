@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_positions">
+        <item>Sol</item>
+        <item>Sağ</item>
+    </string-array>
+    <string-array name="settings_search_mirror_desktop">
+        <item>Əsas ekran+</item>
+        <item>Ara bağlantı/Əsas ekran+</item>
+        <item>Əsas ekran+, Əsas ekran, Mi Smart Hub, Ekran Kombo, cihaz ara bağlantısı</item>
+    </string-array>
+</resources>

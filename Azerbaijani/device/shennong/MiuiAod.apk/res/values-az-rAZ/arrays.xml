@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kg_glass_filters">
+        <item>Orijinal</item>
+        <item>Bulanıq</item>
+        <item>Reeded</item>
+        <item>Ribbed</item>
+        <item>Prizma</item>
+        <item>Grooves</item>
+        <item>Dalğalar</item>
+        <item>Kvadratlar</item>
+    </string-array>
+</resources>
