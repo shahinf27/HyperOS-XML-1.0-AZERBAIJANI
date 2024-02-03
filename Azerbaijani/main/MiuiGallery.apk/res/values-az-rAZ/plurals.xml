@@ -141,8 +141,8 @@
         <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="all_story_count_desc">
-        <item quantity="other">%d yaddaş</item>
-        <item quantity="one">%d yaddaş</item>
+        <item quantity="other">%d xatirə</item>
+        <item quantity="one">%d xatirə</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%2$s - %1$d fotosu əlavə ediləcək</item>
