@@ -502,7 +502,7 @@
         <item>Qrafik</item>
         <item>Faiz (nişan daxilində)</item>
         <item>Faiz (nişanın yanında)</item>
-        <item>İrəlIləyIş çubuğu</item>
+        <item>İrəliləyiş çubuğu</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
