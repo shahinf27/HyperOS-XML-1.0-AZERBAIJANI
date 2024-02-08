@@ -1313,7 +1313,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="rem_Duration_increase_description">REM yuxunuz çox uzundur</string>
     <string name="rem_duration">REM</string>
     <string name="rem_duration_decrease_description">REM yuxunuz çox qısadır</string>
-    <string name="rem_duration_description">REM, sürətli göz hərəkətidir. Yuxu, sürətli göz hərəkəti (REM) yuxusu və sürətli olmayan göz hərəkəti (NREM) yuxularına bölünür. Sürətli göz hərəkəti yuxusu, ümumi yuxu müddətinin təxminən 20-25%-ini təşkil edir. İnsanlar bu mərhələdə oyandıqda, onların 74-95%-i yuxu gördüyünü və yuxularını xatırlaya bildiyini söyləyir. REM yuxusu zamanı beyin çox aktiv olur və bədən tamamilə rahatlaşır, bu da bu yuxu mərhələsini idrak funksiyalarını qorumaq üçün vacib edir.</string>
+    <string name="rem_duration_description">REM, sürətli göz hərəkətidir. Yuxu, sürətli göz hərəkəti (REM) yuxusu və sürətli olmayan göz hərəkəti (NREM) yuxularına bölünür. Sürətli göz hərəkəti yuxusu, ümumi yuxu müddətinin təxminən 20-25%%-ini təşkil edir. İnsanlar bu mərhələdə oyandıqda, onların 74-95%%-i yuxu gördüyünü və yuxularını xatırlaya bildiyini söyləyir. REM yuxusu zamanı beyin çox aktiv olur və bədən tamamilə rahatlaşır, bu da bu yuxu mərhələsini idrak funksiyalarını qorumaq üçün vacib edir.</string>
     <string name="rem_duration_normal_description">REM yuxu müddəti normaldır</string>
     <string name="remarks">Açıqlama</string>
     <string name="remind">Xatırlat</string>

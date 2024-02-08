@@ -4231,7 +4231,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_quality_title_sub">Hazırkı dəqiqlik: %1$s (≈%2$s)</string>
     <string name="video_tags_enter">İşarələri göstər</string>
     <string name="video_with_time">%s saatında yazılmış video</string>
-    <string name="video_with_time_and_location">%s saatında yazılmış video. Yerləşmə: %2$s.</string>
+    <string name="video_with_time_and_location">%1$s saatında yazılmış video. Yerləşmə: %2$s.</string>
     <string name="view_by_gallery_tip">Qalereya</string>
     <string name="view_face_album">Alboma bax</string>
     <string name="view_more_face_desc">Daha çox insan göstər</string>
