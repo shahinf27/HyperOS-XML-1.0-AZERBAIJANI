@@ -3738,15 +3738,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>@string/wifi_calling_mode_cellular_preferred_summary</item>
         <item>@string/wifi_calling_mode_wifi_only_summary</item>
     </string-array>
-    <string-array name="wifi_calling_mode_summaries_without_wifi_only">
-        <item>@string/wifi_calling_mode_wifi_preferred_summary</item>
-        <item>@string/wifi_calling_mode_cellular_preferred_summary</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_summaries_without_wifi_only_with_ims_preferred">
-        <item>@string/wifi_calling_mode_ims_preferred_summary</item>
-        <item>@string/wifi_calling_mode_wifi_preferred_summary</item>
-        <item>@string/wifi_calling_mode_cellular_preferred_summary</item>
-    </string-array>
     <string-array name="wifi_calling_mode_values">
         <item>2</item>
         <item>1</item>
@@ -3881,19 +3872,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Əllə</item>
         <item>Proksi avto-konfiqurasiyası</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
@@ -3939,13 +3917,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Uğursuz</item>
         <item>Əngəlləndi</item>
         <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
-    </string-array>
-    <string-array name="wifi_tether_security">
-        <item>@string/wifi_security_sae</item>
-        <item>@string/wifi_security_psk_sae</item>
-        <item>@string/wifi_security_wpa2</item>
-        <item>@string/wifi_security_owe</item>
-        <item>@string/wifi_security_none</item>
     </string-array>
     <string-array name="wifi_tether_security_values">
         <item>3</item>
@@ -3995,12 +3966,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>2</item>
         <item>5</item>
         <item>10</item>
-    </string-array>
-    <string-array name="zen_mode_contacts_calls_entries">
-        <item>@string/zen_mode_from_anyone</item>
-        <item>@string/zen_mode_from_contacts</item>
-        <item>@string/zen_mode_from_starred</item>
-        <item>@string/zen_mode_none_calls</item>
     </string-array>
     <string-array name="zen_mode_contacts_values">
         <item>zen_mode_from_anyone</item>
