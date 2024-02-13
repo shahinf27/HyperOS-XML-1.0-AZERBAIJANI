@@ -3313,30 +3313,11 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>@string/tare_min_balance_other_app</item>
         <item>@string/tare_min_balance_addition_app_updater</item>
     </string-array>
-    <string-array name="tare_job_scheduler_rewards_subfactors">
-        <item>@string/tare_top_activity</item>
-        <item>@string/tare_notification_seen</item>
-        <item>@string/tare_notification_interaction</item>
-        <item>@string/tare_widget_interaction</item>
-        <item>@string/tare_other_interaction</item>
-        <item>@string/tare_app_install</item>
-    </string-array>
     <string-array name="tare_modifiers_subfactors">
         <item>Dolur</item>
         <item>Yuxulatma</item>
         <item>Enerjiyə qənaət rejimi</item>
         <item>Proses statusu</item>
-    </string-array>
-    <string-array name="tare_policies">
-        <item>@string/tare_alarmmanager</item>
-        <item>@string/tare_jobscheduler</item>
-    </string-array>
-    <string-array name="tare_rewards_subfactors">
-        <item>@string/tare_top_activity</item>
-        <item>@string/tare_notification_seen</item>
-        <item>@string/tare_notification_interaction</item>
-        <item>@string/tare_widget_interaction</item>
-        <item>@string/tare_other_interaction</item>
     </string-array>
     <string-array name="tare_units">
         <item>ARC</item>
@@ -3399,29 +3380,9 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="triple_click_mode_entries">
-        <item>@string/miheadet_up_music</item>
-        <item>@string/miheadset_minus</item>
-    </string-array>
     <string-array name="triple_key_mode_values">
         <item>02</item>
         <item>05</item>
-    </string-array>
-    <string-array name="triple_tone_entries">
-        <item>@string/miheadet_up_music</item>
-        <item>@string/miheadset_key_config_volume_down</item>
-    </string-array>
-    <string-array name="triple_tone_entries_left_TWS01">
-        <item>@string/miheadset_key_config_next_music</item>
-        <item>@string/miheadet_up_music</item>
-        <item>@string/miheadset_key_config_volume_up</item>
-        <item>@string/miheadset_key_config_volume_down</item>
-    </string-array>
-    <string-array name="triple_tone_entriess_right_TWS01">
-        <item>@string/miheadset_key_config_next_music</item>
-        <item>@string/miheadet_up_music</item>
-        <item>@string/miheadset_key_config_volume_up</item>
-        <item>@string/miheadset_key_config_volume_down</item>
     </string-array>
     <string-array name="triple_tone_entry_values">
         <item>0</item>
@@ -3601,37 +3562,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>IKEv2/IPSec PSK</item>
         <item>IKEv2/IPSec RSA</item>
     </string-array>
-    <string-array name="wapi_psk_type">
-        <item>@string/wapi_psk_type_ascii</item>
-        <item>@string/wapi_psk_type_hex</item>
-    </string-array>
-    <string-array name="week_days">
-        <item>@string/sunday</item>
-        <item>@string/monday</item>
-        <item>@string/tuesday</item>
-        <item>@string/wednesday</item>
-        <item>@string/thursday</item>
-        <item>@string/friday</item>
-        <item>@string/saturday</item>
-    </string-array>
-    <string-array name="week_days_short">
-        <item>@string/sunday_short</item>
-        <item>@string/monday_short</item>
-        <item>@string/tuesday_short</item>
-        <item>@string/wednesday_short</item>
-        <item>@string/thursday_short</item>
-        <item>@string/friday_short</item>
-        <item>@string/saturday_short</item>
-    </string-array>
-    <string-array name="week_days_shortest">
-        <item>@string/sunday_shortest</item>
-        <item>@string/monday_shortest</item>
-        <item>@string/tuesday_shortest</item>
-        <item>@string/wednesday_shortest</item>
-        <item>@string/thursday_shortest</item>
-        <item>@string/friday_shortest</item>
-        <item>@string/saturday_shortest</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>Seans başladılır…</item>
         <item>Seans başladıldı</item>
@@ -3639,15 +3569,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>"Seans başladıla bilmir"</item>
         <item>Vaxt bitdi. Yenidən cəhd edilir…</item>
         <item>Cihaz bağlantılıdır</item>
-    </string-array>
-    <string-array name="when_to_start_screensaver_entries">
-        <item>@string/screensaver_settings_summary_sleep</item>
-        <item>@string/screensaver_settings_summary_dock</item>
-        <item>@string/screensaver_settings_summary_either_long</item>
-    </string-array>
-    <string-array name="when_to_start_screensaver_entries_no_battery">
-        <item>@string/screensaver_settings_summary_sleep</item>
-        <item>@string/screensaver_settings_summary_dock_and_charging</item>
     </string-array>
     <string-array name="when_to_start_screensaver_values">
         <item>while_charging_only</item>
@@ -3679,33 +3600,9 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>1</item>
         <item>3</item>
     </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_2G_only">
-        <item>@string/wifi_ap_choose_2G</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_full">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_band_summary">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_prefer_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>@string/wifi_ap_ssid_off</item>
-        <item>@string/wifi_ap_ssid_on</item>
-    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
-    </string-array>
-    <string-array name="wifi_ap_security_with_sae">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa2</item>
-        <item>@string/wifi_security_sae</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -3726,17 +3623,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>IMS tərcih edilən</item>
         <item>Wi-Fi</item>
         <item>Mobil</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_summaries">
-        <item>@string/wifi_calling_mode_wifi_preferred_summary</item>
-        <item>@string/wifi_calling_mode_cellular_preferred_summary</item>
-        <item>@string/wifi_calling_mode_wifi_only_summary</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_summaries_with_ims_preferred">
-        <item>@string/wifi_calling_mode_ims_preferred_summary</item>
-        <item>@string/wifi_calling_mode_wifi_preferred_summary</item>
-        <item>@string/wifi_calling_mode_cellular_preferred_summary</item>
-        <item>@string/wifi_calling_mode_wifi_only_summary</item>
     </string-array>
     <string-array name="wifi_calling_mode_values">
         <item>2</item>
