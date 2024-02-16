@@ -3098,33 +3098,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>2</item>
         <item>0</item>
     </string-array>
-    <string-array name="solar_terms">
-        <item>@string/empty</item>
-        <item>@string/solar_term_slight_cold</item>
-        <item>@string/solar_term_great_cold</item>
-        <item>@string/solar_term_spring_begins</item>
-        <item>@string/solar_term_the_rains</item>
-        <item>@string/solar_term_insects_awaken</item>
-        <item>@string/solar_term_vernal_equinox</item>
-        <item>@string/solar_term_clear_and_bright</item>
-        <item>@string/solar_term_grain_rain</item>
-        <item>@string/solar_term_summer_begins</item>
-        <item>@string/solar_term_grain_buds</item>
-        <item>@string/solar_term_grain_in_ear</item>
-        <item>@string/solar_term_summer_solstice</item>
-        <item>@string/solar_term_slight_heat</item>
-        <item>@string/solar_term_great_heat</item>
-        <item>@string/solar_term_autumn_begins</item>
-        <item>@string/solar_term_stopping_the_heat</item>
-        <item>@string/solar_term_white_dews</item>
-        <item>@string/solar_term_autumn_equinox</item>
-        <item>@string/solar_term_cold_dews</item>
-        <item>@string/solar_term_hoar_frost_falls</item>
-        <item>@string/solar_term_winter_begins</item>
-        <item>@string/solar_term_light_snow</item>
-        <item>@string/solar_term_heavy_snow</item>
-        <item>@string/solar_term_winter_solstice</item>
-    </string-array>
     <string-array name="special_locale_codes_global">
         <item>zh_CN</item>
         <item>zh_TW</item>
@@ -3270,23 +3243,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     <string-array name="tabs_taptic_detail_m2">
         <item>Təzə</item>
         <item>Qatı</item>
-    </string-array>
-    <string-array name="tare_alarm_manager_actions">
-        <item>@string/tare_wakeup_exact_idle</item>
-        <item>@string/tare_wakeup_inexact_idle</item>
-        <item>@string/tare_wakeup_exact</item>
-        <item>@string/tare_wakeup_inexact</item>
-        <item>@string/tare_nonwakeup_exact_idle</item>
-        <item>@string/tare_nonwakeup_exact</item>
-        <item>@string/tare_nonwakeup_inexact_idle</item>
-        <item>@string/tare_nonwakeup_inexact</item>
-        <item>@string/tare_alarm_clock</item>
-    </string-array>
-    <string-array name="tare_app_balance_subfactors">
-        <item>@string/tare_max_satiated_balance</item>
-        <item>@string/tare_min_balance_exempted</item>
-        <item>@string/tare_min_balance_headless_app</item>
-        <item>@string/tare_min_balance_other_app</item>
     </string-array>
     <string-array name="tare_modifiers_subfactors">
         <item>Dolur</item>
