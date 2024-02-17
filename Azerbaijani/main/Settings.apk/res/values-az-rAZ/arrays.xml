@@ -2002,11 +2002,6 @@
         <item>@string/input_method_middle_function_move_cursor</item>
         <item>@string/input_method_function_no_function</item>
     </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
     <string-array name="inputdebuglog_select_level_entries">
         <item>Səviyyə 0</item>
         <item>Səviyyə 1</item>
@@ -2093,12 +2088,6 @@
         <item>8000</item>
         <item>9000</item>
     </string-array>
-    <string-array name="left_tone_entries">
-        <item>@string/miheadset_call_assist</item>
-        <item>@string/miheadset_play_pause</item>
-        <item>@string/miheadet_up_music</item>
-        <item>@string/miheadset_next</item>
-    </string-array>
     <string-array name="left_tone_entry_values">
         <item>0</item>
         <item>1</item>
@@ -2144,14 +2133,6 @@
         <item>300000</item>
         <item>2147483647</item>
     </string-array>
-    <string-array name="long_press_entries_left_TWS_K77s">
-        <item>@string/miheadset_key_config_call_ai</item>
-        <item>@string/miheadset_play_pause</item>
-    </string-array>
-    <string-array name="long_press_entries_right_TWS_K77s">
-        <item>@string/miheadset_key_config_call_ai</item>
-        <item>@string/miheadset_play_pause</item>
-    </string-array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>Qısa</item>
         <item>Orta</item>
@@ -2178,11 +2159,6 @@
         <item>Küçə şəkli</item>
         <item>Küçə filmi</item>
         <item>public_transportation_shortcuts</item>
-    </string-array>
-    <string-array name="magnification_mode_summaries">
-        <item>@string/accessibility_magnification_area_settings_full_screen_summary</item>
-        <item>@string/accessibility_magnification_area_settings_window_screen_summary</item>
-        <item>@string/accessibility_magnification_area_settings_all_summary</item>
     </string-array>
     <string-array name="max_number_titles">
         <item>6</item>
@@ -2228,14 +2204,6 @@
         <item>\#FF5500FF</item>
         <item>magenta</item>
     </string-array>
-    <string-array name="mi2_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="miui_entries_font_size">
         <item>XS</item>
         <item>S</item>
@@ -2252,64 +2220,11 @@
         <item>huge</item>
         <item>godzilla</item>
     </string-array>
-    <string-array name="modem_perm_action_items">
-        <item>@string/allow</item>
-        <item>@string/permission_action_prompt</item>
-        <item>@string/deny</item>
-    </string-array>
-    <string-array name="months">
-        <item>@string/month_january</item>
-        <item>@string/month_february</item>
-        <item>@string/month_march</item>
-        <item>@string/month_april</item>
-        <item>@string/month_may</item>
-        <item>@string/month_june</item>
-        <item>@string/month_july</item>
-        <item>@string/month_august</item>
-        <item>@string/month_september</item>
-        <item>@string/month_october</item>
-        <item>@string/month_november</item>
-        <item>@string/month_december</item>
-    </string-array>
-    <string-array name="months_short">
-        <item>@string/month_january_short</item>
-        <item>@string/month_february_short</item>
-        <item>@string/month_march_short</item>
-        <item>@string/month_april_short</item>
-        <item>@string/month_may_short</item>
-        <item>@string/month_june_short</item>
-        <item>@string/month_july_short</item>
-        <item>@string/month_august_short</item>
-        <item>@string/month_september_short</item>
-        <item>@string/month_october_short</item>
-        <item>@string/month_november_short</item>
-        <item>@string/month_december_short</item>
-    </string-array>
-    <string-array name="months_shortest">
-        <item>@string/month_january_shortest</item>
-        <item>@string/month_february_shortest</item>
-        <item>@string/month_march_shortest</item>
-        <item>@string/month_april_shortest</item>
-        <item>@string/month_may_shortest</item>
-        <item>@string/month_june_shortest</item>
-        <item>@string/month_july_shortest</item>
-        <item>@string/month_august_shortest</item>
-        <item>@string/month_september_shortest</item>
-        <item>@string/month_october_shortest</item>
-        <item>@string/month_november_shortest</item>
-        <item>@string/month_december_shortest</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP və daha köhnə</item>
         <item>Windows Vista və daha yeni</item>
         <item>OSX</item>
         <item>Linux</item>
-    </string-array>
-    <string-array name="msd_pc_system_download_summary">
-        <item>@string/msd_driver_download_xp</item>
-        <item></item>
-        <item>@string/msd_driver_download_mac</item>
-        <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
@@ -2331,14 +2246,6 @@
         <item>Taxılmış cihaza müraciət edin: mtpfs /media/mtp Fayl İdarəçisi vasitəsilə; yerli qovluq kimi.</item>
         <item>"Cihazı çıxardın: fusermount -u/media/mtp
 Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>@string/msd_install_retry_reinstall_mac</item>
-        <item>@string/msd_install_retry_connect</item>
-        <item>@string/msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -2378,10 +2285,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Şəbəkə, həddindən çox trafikə görə yavaşdır</item>
         <item>Şəbəkə, zəif siqnal gücünə görə yavaşdır</item>
         <item>Daşınır…</item>
-    </string-array>
-    <string-array name="new_dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_contact</item>
-        <item>@string/dndm_vip_list_starred_contact</item>
     </string-array>
     <string-array name="nfc_notification_mode_summaries">
         <item>Ödəniş, müraciət və ağıllı ev kartları</item>
@@ -2424,29 +2327,11 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>1</item>
         <item>3</item>
     </string-array>
-    <string-array name="notifi_importance_entries">
-        <item>@string/importance_high</item>
-        <item>@string/importance_default</item>
-        <item>@string/importance_low</item>
-        <item>@string/importance_min</item>
-    </string-array>
-    <string-array name="notifi_importance_summaries">
-        <item>@string/notifi_importance_high</item>
-        <item>@string/notifi_importance_default</item>
-        <item>@string/notifi_importance_low</item>
-        <item>@string/notifi_importance_min</item>
-    </string-array>
     <string-array name="notifi_importance_values">
         <item>4</item>
         <item>3</item>
         <item>2</item>
         <item>1</item>
-    </string-array>
-    <string-array name="notification_icon_counts_entries">
-        <item>@string/display_notification_icon_0</item>
-        <item>@string/display_notification_icon_1</item>
-        <item>@string/display_notification_icon_3</item>
-        <item>@string/display_notification_icon_5</item>
     </string-array>
     <string-array name="notification_icon_counts_values">
         <item>0</item>
@@ -2727,10 +2612,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>8</item>
         <item>9</item>
     </string-array>
-    <string-array name="press_key_entries">
-        <item>@string/miheadset_key_config_call_ai</item>
-        <item>@string/miheadset_key_config_noise_control</item>
-    </string-array>
     <string-array name="press_key_entry_values">
         <item>0</item>
         <item>1</item>
@@ -2766,23 +2647,11 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>davinci</item>
         <item>raphael</item>
     </string-array>
-    <string-array name="right_tone_entries">
-        <item>@string/miheadset_call_assist</item>
-        <item>@string/miheadset_play_pause</item>
-        <item>@string/miheadet_up_music</item>
-        <item>@string/miheadset_next</item>
-    </string-array>
     <string-array name="right_tone_entry_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-    </string-array>
-    <string-array name="rtt_setting_mode">
-        <item></item>
-        <item>@string/rtt_settings_no_visible</item>
-        <item>@string/rtt_settings_visible_during_call</item>
-        <item>@string/rtt_settings_always_visible</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>Sol əl stili</item>
@@ -2792,15 +2661,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>İsti</item>
         <item>Standart</item>
         <item>Sərin</item>
-    </string-array>
-    <string-array name="screen_flash_color_entries">
-        <item>@string/screen_flash_color_none</item>
-        <item>@string/screen_flash_color_blue</item>
-        <item>@string/screen_flash_color_green</item>
-        <item>@string/screen_flash_color_yellow</item>
-        <item>@string/screen_flash_color_orange</item>
-        <item>@string/screen_flash_color_red</item>
-        <item>@string/screen_flash_color_violet</item>
     </string-array>
     <string-array name="screen_flash_color_values">
         <item>0</item>
@@ -2857,11 +2717,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Canlı (tövsiyə edilən)</item>
         <item>Doymuş</item>
         <item>Standart</item>
-    </string-array>
-    <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -2985,16 +2840,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>default,security,kernel</item>
         <item>kernel</item>
     </string-array>
-    <string-array name="setting_palette_data">
-        <item>@string/color_red</item>
-        <item>@string/color_orange</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_purple</item>
-        <item>@string/color_gray</item>
-    </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Bağlı</item>
         <item>Qeyri-düzbucaqlı bölgəni mavi rəngdə çək</item>
@@ -3043,10 +2888,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>tulip</item>
         <item>equuleus</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Həmişə</item>
         <item>30 dəqiqə</item>
@@ -3065,25 +2906,12 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>4</item>
         <item>1</item>
     </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
     <string-array name="simulate_color_space_values">
         <item>-1</item>
         <item>0</item>
         <item>2</item>
         <item>1</item>
         <item>3</item>
-    </string-array>
-    <array name="slice_allowlist_package_names"></array>
-    <string-array name="smart_device_control_entries">
-        <item>@string/mi_smart_hub_entry_title</item>
-        <item>Ağıllı ev</item>
-        <item>Yoxdur</item>
     </string-array>
     <string-array name="smart_device_control_values">
         <item>1</item>
@@ -3216,10 +3044,6 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>rain</item>
         <item>eos</item>
         <item>opal</item>
-    </string-array>
-    <string-array name="swipe_direction_titles">
-        <item>@string/swipe_direction_rtl</item>
-        <item>@string/swipe_direction_ltr</item>
     </string-array>
     <string-array name="swipe_direction_values">
         <item>1</item>
