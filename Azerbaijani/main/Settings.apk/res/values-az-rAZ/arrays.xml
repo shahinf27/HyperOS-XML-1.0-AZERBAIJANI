@@ -1985,19 +1985,6 @@
         <item>@string/input_method_function_switch_keyboard_type_des</item>
         <item>@string/input_method_function_no_function_des</item>
     </string-array>
-    <string-array name="input_method_function_title">
-        <item>@string/input_method_function_voice</item>
-        <item>@string/input_method_function_xiaoai</item>
-        <item>@string/input_method_function_switch</item>
-        <item>@string/input_method_function_clipboard</item>
-        <item>@string/input_method_function_switch_keyboard_language</item>
-        <item>@string/input_method_function_switch_keyboard_type</item>
-        <item>@string/input_method_function_no_function</item>
-    </string-array>
-    <string-array name="input_method_middle_function_des">
-        <item>@string/input_method_middle_function_move_cursor_des</item>
-        <item>@string/input_method_middle_function_no_function_des</item>
-    </string-array>
     <string-array name="inputdebuglog_select_level_entries">
         <item>Səviyyə 0</item>
         <item>Səviyyə 1</item>
