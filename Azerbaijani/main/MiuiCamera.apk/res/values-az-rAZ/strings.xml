@@ -2642,7 +2642,6 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_show_gender_age_label_alias">Yaş</string>
     <string name="pref_camera_show_gender_age_label_on">Yaş və cins</string>
     <string name="pref_camera_show_gender_age_title">Yaş və cins</string>
-    <string name="pref_camera_snap_default">@string/pref_camera_snap_value_off</string>
     <string name="pref_camera_snap_enable_title">Cəld çəkiliş rejimi</string>
     <string name="pref_camera_snap_entry_off">Bağlı</string>
     <string name="pref_camera_snap_entry_summary">Foto çəkmək üçün ekran sönülü olduqda Səs azaltma düyməsini basılı tutun</string>
