@@ -2925,7 +2925,6 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
-    <string name="pref_video_quality_entry_value_4kuhd">8</string>
     <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
     <string name="pref_video_quality_entry_value_720p_60fps">5,60</string>
     <string name="pref_video_quality_entry_value_8kuhd">3001</string>
@@ -2954,7 +2953,6 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_video_speed_fast_title">Sürətləndirilmiş</string>
     <string name="pref_video_speed_slow_title">Yavaş hərəkətli</string>
     <string name="pref_video_subtitle">Altyazılar</string>
-    <string name="pref_video_time_lapse_frame_interval_default">120</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (0.3-saniyə aralığı)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (4-saniyə aralığı)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150X (5-saniyə aralığı)</string>
