@@ -58,8 +58,6 @@
     <string name="android_volume_icon_description_media">@android:string/volume_icon_description_media</string>
     <string name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</string>
     <string name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</string>
-    <string name="android_wait">@android:string/wait</string>
-    <string name="android_whichApplication">@android:string/whichApplication</string>
     <string name="app_continuity_channel_name">Tətbiq düzüm nizamlamaları</string>
     <string name="application_cannot_open_alipay_health_code">"Alipay sağlamlıq kodu açıla bilmədi"</string>
     <string name="application_cannot_open_alipay_payment_code">"Alipay ödəniş kodu açıla bilmədi"</string>
