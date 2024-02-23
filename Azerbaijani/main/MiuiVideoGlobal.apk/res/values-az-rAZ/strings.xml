@@ -294,8 +294,7 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.crashlytics.android.build_id">1c1c1e5f65e846aca198836853cc95a6</string>
-    <string name="com.miapm.build_id">66cbcc2afcb64935aaf96438600099bb</string>
+    <string name="com.crashlytics.android.build_id">1216db709af44ba786cfeed9d4169a06</string>
     <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Ayarlarda müraciətə icazə verin."</string>
     <string name="com_permission_title">İcazələr tələb olunur</string>
     <string name="comment_model_add_comment">Bir rəy əlavə et</string>
@@ -1786,6 +1785,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="sending">Göndərilir…</string>
     <string name="service_error">Server xətası</string>
     <string name="set_success">Uğurla dəyişdirildi</string>
+    <string name="setting_privacy_title">Şərtlər və qaydalar</string>
     <string name="settings_inline_auto_play">Həmişə avto-oxut</string>
     <string name="settings_inline_auto_play_close">Avto-oxutma bağlıdır</string>
     <string name="settings_inline_auto_play_tip_close_forever">Həmişə bağlı</string>
