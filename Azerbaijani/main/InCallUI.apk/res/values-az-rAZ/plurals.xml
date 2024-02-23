@@ -140,4 +140,10 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">"Peyklə bağlantı olmadan %d saniyə keçdi.
+Sınamağa davam edə və ya indi çıxa bilərsiniz."</item>
+        <item quantity="one">"Peyklə bağlantı olmadan %d saniyə keçdi.
+Sınamağa davam edə və ya indi çıxa bilərsiniz."</item>
+    </plurals>
 </resources>
