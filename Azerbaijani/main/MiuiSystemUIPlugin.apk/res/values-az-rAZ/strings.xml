@@ -348,6 +348,8 @@
     <string name="miplay_bluetooth_share_des_text">"Xiaomi qulaqlıq istifadəçiləri: doldurma qutusunu açın və ya qutu düyməsini %d saniyəlik basılı tutun
 Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarlarında sıfırlayın, daha sonra bağlantı qurun"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Səsi paylaşmaq üçün qulaqlıqları əlavə edin</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Səs paylaşımı bitdi</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Səsi paylaşmaq üçün qulaqlıq əlavə edin</string>
     <string name="miplay_bluetooth_share_subTitle_text">Cihaz səsini başqa bir şəxslə paylaş</string>
     <string name="miplay_bluetooth_share_title_text">Səsi paylaş</string>
     <string name="miplay_detail_divider_title">Dinamiklər</string>
