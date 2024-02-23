@@ -288,7 +288,7 @@
     <string name="cloud_app_restore_title">Gözləyir</string>
     <string name="color_group">Nişanları rəngə görə qruplaşdır</string>
     <string name="color_group_anim">Rəng kateqoriyalarında animasiyalar</string>
-    <string name="com.crashlytics.android.build_id">70939024841c4a3e99a194eb41d3aa8c</string>
+    <string name="com.crashlytics.android.build_id">0281dab426f74530a91b8261a306ec3b</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_home_search_delete">Axtarış çubuğu silmə</string>
     <string name="common_home_search_delete_cancle">İmtina</string>
@@ -608,7 +608,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="mi_wallpaper">MIUI Temalar</string>
     <string name="midnight">Gecə</string>
     <string name="minus_one_screen">Tətbiq kassası</string>
-    <string name="miui_screen_config_title">Əsas ekran ayarları</string>
+    <string name="miui_screen_config_title">Əsas ekran düzümü</string>
     <string name="miui_setting_config_title">Əsas ekran ayarları</string>
     <string name="miui_widget_menu_replace_text">Dəyişdir</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Tətbiq kassası bu ölçüdəki vicetləri dəstəkləmir"</string>
@@ -837,6 +837,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="recent_menu_item_unlock">Kilidi aç</string>
     <string name="recent_menu_item_worldcirculate">Tətbiq tapşırıqlarını köçür</string>
     <string name="recent_menu_item_worldcirculate_disable">"Tətbiq tapşırıqları bağlantılı cihazlar arasında köçürülə bilmir"</string>
+    <string name="recent_pin_text">Sancaqla</string>
     <string name="recents_app_info_button_label">Tətbiq məlumatı</string>
     <string name="recents_config_title">Sonuncular</string>
     <string name="recents_dimiss_task">Təmizlə</string>
@@ -965,6 +966,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="switch_personal_assistant_none">Yoxdur</string>
     <string name="switch_screen_button_order">Düymələrin yerini dəyişdir</string>
     <string name="switch_screen_button_order_desc">Geri və Menyu düymələrinin yerini dəyişdir</string>
+    <string name="system_sdk_disabled_toast">Sistem SDK-sı sıradan çıxarıldı. Əvvəlcə onu fəallaşdırın.</string>
     <string name="system_shortcuts_edit">Düzəliş et</string>
     <string name="system_shortcuts_icon_remove">Çıxart</string>
     <string name="system_shortcuts_more_operation">Tətbiq məlumatı</string>
