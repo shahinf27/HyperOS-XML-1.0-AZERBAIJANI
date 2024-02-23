@@ -1663,6 +1663,8 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="phone_locked_string">Bu cihaz kilidlidir</string>
     <string name="phone_locked_string_owner_user">Birinci sahə parolunu daxil etmək üçün çox sayda uğursuz cəhd edildi. Bu cihaz indi kilidlidir.</string>
     <string name="phone_locked_string_second_user">İkinci sahə parolunu daxil etmək üçün çox sayda uğursuz cəhd edildi. Bu cihaz indi kilidlidir.</string>
+    <string name="pin_toast">Bu tətbiqin sancağını götürmək üçün ekranın aşağısından yuxarı sürüşdürün və gözləyin</string>
+    <string name="pin_toast_nav">Bu tətbiqin sancağını götürmək üçün geri və önizləmə düymələrini basılı tutun</string>
     <string name="pip_close">Bağla</string>
     <string name="pip_collapse">Yığcamlaşdır</string>
     <string name="pip_edu_text">Kontrollar üçün <annotation icon="home_icon"> ƏSAS EKRAN </annotation> düyməsinə cüt basın</string>
