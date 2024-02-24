@@ -28,7 +28,7 @@
     <string name="abc_menu_function_shortcut_label">Fn+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">boşluq</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menyu+</string>
     <string name="abc_search_hint">Axtar…</string>
@@ -145,6 +145,64 @@
     <string name="artist_home_search_hint">Sənətçi axtar</string>
     <string name="artist_is_empty">Sənətçi adı boş ola bilməz.</string>
     <string name="artist_name">Sənətçi</string>
+    <string name="asm_batch_download_failed">"Endirilə bilmədi"</string>
+    <string name="asm_buy_member_success">VIP üzvlük uğurla satın alındı</string>
+    <string name="asm_dialog_title_tips">VIP üzvlük</string>
+    <string name="asm_dialog_vip_confirm_text">Qoşul</string>
+    <string name="asm_dialog_vip_message">Yüksək keyfiyyətli mahnıları dinləmək və daha çox məzmun endirmək üçün VIP üzvlükdə qeydiyyatdan keçin.</string>
+    <string name="asm_disable_song_click_tip">"Bu mahnı, müəllif hüququ ilə bağlı məsələlərə görə mövcud deyil"</string>
+    <string name="asm_download_failed">"\"%1$s\" endirilə bilmədi"</string>
+    <string name="asm_download_is_downloaded">Mahnı uğurla endirildi</string>
+    <string name="asm_download_is_downloaded_hq">HQ olaraq endirildi</string>
+    <string name="asm_download_is_downloading">Endirilir…</string>
+    <string name="asm_download_list_not_supported">"Bu siyahıdakı bəzi mahnılar endirilə bilmir"</string>
+    <string name="asm_download_pending_status_msg">Endirməyə hazırlanır…</string>
+    <string name="asm_download_success">\"%1$s\" endirildi</string>
+    <string name="asm_during_the_payment">Ödəniş statusu yoxlanılır…</string>
+    <string name="asm_fail_play_song">"Mahnı endirilə bilmədi"</string>
+    <string name="asm_google_connect_failed">"Ödəniş tamamlana bilmədi. Play Store-da qeydiyyatdan keçdiyinizə əmin olun."</string>
+    <string name="asm_google_no_goods">"Məhsul məlumatı əldə edilə bilmədi"</string>
+    <string name="asm_google_not_login">Play Store hesabınıza daxil olub yenidən sınayın</string>
+    <string name="asm_google_pay_success">Google Pay sifarişi yaradıldı</string>
+    <string name="asm_google_query_failed">"Məhsul məlumatı əldə edilə bilmədi"</string>
+    <string name="asm_google_service_failed">"Google xidmətləri başladıla bilmədi. Yenidən sınayın."</string>
+    <string name="asm_gooleplay_notice">"Google Play xidmətləri quraşdırılmayıb"</string>
+    <string name="asm_loadstate_error_retry">İnternetə bağlanın və yenidən sınamaq üçün toxunun</string>
+    <string name="asm_loadstate_not_more">"İndilik bu qədər"</string>
+    <string name="asm_network_error">Şəbəkə bağlantınızı yoxlayın</string>
+    <string name="asm_new_song_title">Yeni mahnılar</string>
+    <string name="asm_no_need_download_songs">Mahnı endirmə növbəsindədir</string>
+    <string name="asm_no_network">"Şəbəkəyə bağlana bilmədi"</string>
+    <string name="asm_not_action_is_local_music">"Bu əməliyyat daxili fayllarda icra edilə bilmir"</string>
+    <string name="asm_notify_use_mobile_download">Mobil internetlə endirilir</string>
+    <string name="asm_page_empty_search">"Nəticələr tapıla bilmədi"</string>
+    <string name="asm_page_error_airplane">Bağlantı qura bilmək üçün Təyyarə rejimini söndürün</string>
+    <string name="asm_page_error_data">Xəta baş verdi</string>
+    <string name="asm_page_error_no_network">"Şəbəkəyə bağlana bilmədi"</string>
+    <string name="asm_page_local_empty_action">Yeni musiqi kəşf et</string>
+    <string name="asm_pay_info_deduction_failed">"Avto-ödəniş tamamlana bilmədi. VIP üzvlüyünüzün üstünlüklərini itirməmək üçün vaxt itirmədən ödəniş üsulunuzu yoxlayın."</string>
+    <string name="asm_pay_info_upload_failed">"Sifariş məlumatı yüklənə bilmədi"</string>
+    <string name="asm_pay_order_generate">Sifariş yaradılır…</string>
+    <string name="asm_pay_order_generate_failed">"Sifariş yaradıla bilmədi"</string>
+    <string name="asm_pay_query_overtime">Ödəniş statusu tələbi üçün vaxt bitdi</string>
+    <string name="asm_privacy_desc">Wansheng Gizlilik Siyasəti</string>
+    <string name="asm_privacy_tips_content">Onlayn musiqi xidmətlərini istifadə edə bilmək üçün <a href="/link/click">Wansheng Gizlilik Siyasəti</a> ilə razılaşın.</string>
+    <string name="asm_privacy_tips_title">Wansheng Gizlilik Siyasəti</string>
+    <string name="asm_pro_center">Üzvlük</string>
+    <string name="asm_search_result_contain_music">Daxildir: \"%1$s\"</string>
+    <string name="asm_song_err_connect">"Serverə bağlana bilmədi"</string>
+    <string name="asm_song_err_not_exist">"Tələb olunan səs mənbəyi mövcud deyil"</string>
+    <string name="asm_song_err_not_exist_clear">"Mahnı mövcud deyil. Növbədən silindi."</string>
+    <string name="asm_song_err_play">"Oxudula bilmədi. Yenidən sınayın."</string>
+    <string name="asm_songlist_all_genre_close">Hamısını yığcamlaşdır</string>
+    <string name="asm_songlist_all_genre_title">Bütün kateqoriyalar</string>
+    <string name="asm_songs_is_downloading">Mahnı endirilir…</string>
+    <string name="asm_stop_action_when_no_network">Şəbəkəyə bağlanıb yenidən sınayın</string>
+    <string name="asm_tips_cannot_download_disable_songs">"Bu mahnı endirilə bilmir"</string>
+    <string name="asm_toast_pay_canceled">Ödəniş ləğv edildi</string>
+    <string name="asm_toast_pay_failed">"Ödəniş tamamlana bilmədi"</string>
+    <string name="asm_unknow_album">Bilinməyən albom</string>
+    <string name="asm_unknow_artist">Bilinməyən sənətçi</string>
     <string name="audio_ad_countdown">%s san ərzində reklamı ötür</string>
     <string name="audio_ad_pass">Reklamı ötür</string>
     <string name="audio_add_equalizer">Ekvalayzer+</string>
@@ -191,7 +249,7 @@
     <string name="back_confirm">Çıxmaq üçün yenidən toxunun</string>
     <string name="banner_op">Mi Musiqi</string>
     <string name="best_experience">Ən yaxşı təcrübə</string>
-    <string name="billion_char">%sB</string>
+    <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Bluetooth səs cihazı</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
@@ -231,74 +289,6 @@
     <string name="chart_second_song">2.%s</string>
     <string name="chart_third_song">3.%s</string>
     <string name="checking_new_version">Güncəlləmələr yoxlanılır…</string>
-    <string name="chinese_day_1">初一</string>
-    <string name="chinese_day_10">初十</string>
-    <string name="chinese_day_11">十一</string>
-    <string name="chinese_day_12">十二</string>
-    <string name="chinese_day_13">十三</string>
-    <string name="chinese_day_14">十四</string>
-    <string name="chinese_day_15">十五</string>
-    <string name="chinese_day_16">十六</string>
-    <string name="chinese_day_17">十七</string>
-    <string name="chinese_day_18">十八</string>
-    <string name="chinese_day_19">十九</string>
-    <string name="chinese_day_2">初二</string>
-    <string name="chinese_day_20">二十</string>
-    <string name="chinese_day_21">廿一</string>
-    <string name="chinese_day_22">廿二</string>
-    <string name="chinese_day_23">廿三</string>
-    <string name="chinese_day_24">廿四</string>
-    <string name="chinese_day_25">廿五</string>
-    <string name="chinese_day_26">廿六</string>
-    <string name="chinese_day_27">廿七</string>
-    <string name="chinese_day_28">廿八</string>
-    <string name="chinese_day_29">廿九</string>
-    <string name="chinese_day_3">初三</string>
-    <string name="chinese_day_30">三十</string>
-    <string name="chinese_day_4">初四</string>
-    <string name="chinese_day_5">初五</string>
-    <string name="chinese_day_6">初六</string>
-    <string name="chinese_day_7">初七</string>
-    <string name="chinese_day_8">初八</string>
-    <string name="chinese_day_9">初九</string>
-    <string name="chinese_day_elementary">初</string>
-    <string name="chinese_digit_eight">八</string>
-    <string name="chinese_digit_five">五</string>
-    <string name="chinese_digit_four">四</string>
-    <string name="chinese_digit_nine">九</string>
-    <string name="chinese_digit_one">一</string>
-    <string name="chinese_digit_seven">七</string>
-    <string name="chinese_digit_six">六</string>
-    <string name="chinese_digit_ten">十</string>
-    <string name="chinese_digit_three">三</string>
-    <string name="chinese_digit_two">二</string>
-    <string name="chinese_digit_zero">〇</string>
-    <string name="chinese_leap">闰</string>
-    <string name="chinese_month">月</string>
-    <string name="chinese_month_april">四</string>
-    <string name="chinese_month_august">八</string>
-    <string name="chinese_month_december">腊</string>
-    <string name="chinese_month_february">二</string>
-    <string name="chinese_month_january">正</string>
-    <string name="chinese_month_july">七</string>
-    <string name="chinese_month_june">六</string>
-    <string name="chinese_month_march">三</string>
-    <string name="chinese_month_may">五</string>
-    <string name="chinese_month_november">冬</string>
-    <string name="chinese_month_october">十</string>
-    <string name="chinese_month_september">九</string>
-    <string name="chinese_symbol_animals_chicken">鸡</string>
-    <string name="chinese_symbol_animals_cow">牛</string>
-    <string name="chinese_symbol_animals_dog">狗</string>
-    <string name="chinese_symbol_animals_dragon">龙</string>
-    <string name="chinese_symbol_animals_horse">马</string>
-    <string name="chinese_symbol_animals_monkey">猴</string>
-    <string name="chinese_symbol_animals_mouse">鼠</string>
-    <string name="chinese_symbol_animals_pig">猪</string>
-    <string name="chinese_symbol_animals_rabbit">兔</string>
-    <string name="chinese_symbol_animals_sheep">羊</string>
-    <string name="chinese_symbol_animals_snake">蛇</string>
-    <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="chip_text">Çip mətni</string>
     <string name="choose_download_quality">Endirmə keyfiyyətini seçin</string>
     <string name="choose_music_lang_pref">Mahnılar üçün tərcih edilən dillər</string>
@@ -324,8 +314,8 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">1f1d6c556ab44f4da8df7a3cfa47ffee</string>
-    <string name="com.miapm.build_id">7cc2fd12e7504abaa31f4796a458a204</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">6bd2a25900b04629999851bf47717a74</string>
+    <string name="com.miapm.build_id">e54d085ab6364592814c930ee69af058</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -367,6 +357,7 @@
     <string name="current_lyric">Hazırkı mahnı sözləri</string>
     <string name="current_service_key">xidmət</string>
     <string name="current_version">Hazırkı versiya</string>
+    <string name="daily_recommend_desc">Sizin üçün xüsusi seçilmiş gündəlik tövsiyələr</string>
     <string name="daily_recommendation">Gündəlik qarışıq</string>
     <string name="dark_mode">Qaranlıq rejim</string>
     <string name="data_usage_warning">İnternet istifadəsi</string>
@@ -534,18 +525,6 @@
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">Səhər</string>
-    <string name="earthly_branches_chen">辰</string>
-    <string name="earthly_branches_chou">丑</string>
-    <string name="earthly_branches_hai">亥</string>
-    <string name="earthly_branches_mao">卯</string>
-    <string name="earthly_branches_shen">申</string>
-    <string name="earthly_branches_si">巳</string>
-    <string name="earthly_branches_wei">未</string>
-    <string name="earthly_branches_wu">午</string>
-    <string name="earthly_branches_xu">戌</string>
-    <string name="earthly_branches_yin">寅</string>
-    <string name="earthly_branches_you">酉</string>
-    <string name="earthly_branches_zi">子</string>
     <string name="edit_playlist_info">Pleylist məlumatına düzəliş et</string>
     <string name="empty"></string>
     <string name="empty_page_no_album">Albom yoxdur.</string>
@@ -782,16 +761,6 @@
     <string name="headset_and_audio_effect_category">Qulaqlıqlar və səs effektləri</string>
     <string name="headset_and_audio_effect_summary">Qulaqlıqlar və tarazlayıcı</string>
     <string name="headset_and_audio_effect_title">Qulaqlıqlar və səs effektləri</string>
-    <string name="heavenly_stems_bing">丙</string>
-    <string name="heavenly_stems_ding">丁</string>
-    <string name="heavenly_stems_geng">庚</string>
-    <string name="heavenly_stems_gui">癸</string>
-    <string name="heavenly_stems_ji">己</string>
-    <string name="heavenly_stems_jia">甲</string>
-    <string name="heavenly_stems_ren">壬</string>
-    <string name="heavenly_stems_wu">戊</string>
-    <string name="heavenly_stems_xin">辛</string>
-    <string name="heavenly_stems_yi">乙</string>
     <string name="hgm_failed_to_connect_hint">"Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın. Əgər problem hungama server xətasıdırsa, mümkün qədər tez düzəldəcəyik."</string>
     <string name="hgm_has_offline">"Hungama tərəfindən təqdim olunan musiqi oxudula bilmir"</string>
     <string name="hgm_network_request_error_toast">"Hungama serverlərinə bağlana bilmədi. Yenidən sınayın."</string>
@@ -1058,7 +1027,7 @@
     <string name="middle_sound_quality">Standart</string>
     <string name="midnight">Gecə</string>
     <string name="milink_unavaliable_please_update">"Mi Link əlçatmazdır. MIUI-ı güncəllə."</string>
-    <string name="million_char">%sM</string>
+    <string name="million_char">%s M</string>
     <string name="millions_songs">Milyonlarla mahnı</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Bilinmir&gt;</string>
@@ -1555,9 +1524,9 @@
     <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
-    <string name="privacy_request_desc"><Data>\"Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Ayarlarda \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
+    <string name="privacy_request_desc">"&lt;Data&gt;Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Ayarlarda \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
 Mi Musiqi tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.
-Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallığı hələ də sizin üçün əlçatan olacaq.\"</Data></string>
+Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallığı hələ də sizin üçün əlçatan olacaq.&lt;/Data&gt;"</string>
     <string name="privacy_request_subtitle">"\"Mi Musiqi\"yə xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri göstərir:
 - Yerli səs pleyeri
 - Onlayn yayım xidmətləri"</string>
@@ -1573,9 +1542,10 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">Oxutma növbəsi boşdur.</string>
-    <string name="read_and_agree_hungama_protocol"><Data>\"Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>\"Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>\"Bunları oxudum və razılaşıram: Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Read and agree to the &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Wansheng Privacy Policy&lt;/a&gt;&lt;/font&gt; to be able to use online music services.&lt;/Data&gt;</string>
+    <string name="read_and_agree_hungama_protocol">"&lt;Data&gt;Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
+    <string name="read_and_agree_joox_protocol">"&lt;Data&gt;Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
+    <string name="read_and_agree_mi_protocol">"&lt;Data&gt;Bunları oxudum və razılaşıram: Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_protocol">Davam etməzdən əvvəl İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxuyun və razılaşın.</string>
     <string name="ready_to_play">Növbəti</string>
     <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
@@ -1876,7 +1846,7 @@ Xoşbəxt ol"</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
-    <string name="thousand_char">%sK</string>
+    <string name="thousand_char">%s K</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
@@ -2270,5 +2240,6 @@ Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</s
     <string name="youtube_tab_popular">Məşhur</string>
     <string name="youtube_tab_radar">Radar</string>
     <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Trendlər</string>
 </resources>
