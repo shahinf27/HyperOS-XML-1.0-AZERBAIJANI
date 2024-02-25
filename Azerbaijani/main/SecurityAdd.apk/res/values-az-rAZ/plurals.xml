@@ -96,4 +96,12 @@
         <item quantity="other">Ekran vaxtına %s dəqiqə qalıb</item>
         <item quantity="one">Ekran vaxtına %s dəqiqə qalıb</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s sa</item>
+        <item quantity="one">%s sa</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s dəq</item>
+        <item quantity="one">%s dəq</item>
+    </plurals>
 </resources>
