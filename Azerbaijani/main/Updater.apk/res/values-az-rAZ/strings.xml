@@ -6,7 +6,7 @@
     <string name="btn_changelog">Dəyişiklik jurnalı</string>
     <string name="btn_download">Endir (%1$s)</string>
     <string name="btn_error">Xəta baş verdi, yenidən sınayırsınız?</string>
-    <string name="btn_install">MD5-i yoxlayın və Quraşdırın</string>
+    <string name="btn_install">MD5-i yoxla və Quraşdır</string>
     <string name="btn_no">İmtina</string>
     <string name="btn_not">Xeyr</string>
     <string name="btn_ok">Oldu</string>
@@ -19,6 +19,7 @@
     <string name="channel_service">Güncəlləyici Arxaplan Xidməti</string>
     <string name="channel_update">Yeni versiya mövcuddur</string>
     <string name="check_new_version">Güncəlləmələri yoxla</string>
+    <string name="chengelog">%1$s</string>
     <string name="dialog_3g_desc">ROM-ları Mobil İnternet istifadə edərək endirsəniz, paketinizin əhəmiyyətli miqdarda kvotasını istifadə etmiş olacaqsınız.</string>
     <string name="dialog_3g_title">Xəbərdarlıq!</string>
     <string name="dialog_ab">Cihazınız \"Problemsiz Sistem Güncəlləmələri\"ni dəstəkləyir, TWRP-də soruşulanda \"A Yuvası\"nı seçməyi unutmayın!</string>
@@ -32,10 +33,11 @@
     <string name="download_fail">Endirilərkən xəta baş verdi!</string>
     <string name="download_fail_desc">MD5 Sum uyuşmur…</string>
     <string name="downloading">Endirilir:</string>
-    <string name="downloading_desc">Endirmə davam edir, bildiriş sahəsində statusu yoxlayın.</string>
-    <string name="fastboot_desc">Cihaz indi Fastboot rejimində yenidən başladılacaq. Rejim sizə tanış gəlmirsə, gələcək əməliyyatlardan imtina edin. Davam edilsin?</string>
+    <string name="downloading_desc">Endirmə davam edir, bildiriş sahəsindəki statusu yoxlayın.</string>
+    <string name="fastboot_desc">Cihaz indi Fastboot rejimində yenidən başladılacaq. Rejim sizə tanış gəlmirsə, növbəti əməliyyatlardan imtina edin. Davam edilsin?</string>
     <string name="fastboot_mode">Güncəlləyici Fastboot rejimindədir, ROM-ları yalnız PC-də Terminal ilə yükləyə bilərsiniz!</string>
     <string name="fastboot_update_warning">Bu güncəlləmə yalnız fastboot quraşdırması üçündür!</string>
+    <string name="fetch_notification_default_channel_id">fetch_downloads_channel_id</string>
     <string name="fetch_notification_default_channel_name">Endirilənlər</string>
     <string name="fetch_notification_download_cancel">İmtina</string>
     <string name="fetch_notification_download_complete">Tamamlandı</string>
@@ -61,6 +63,7 @@ Datalar silinməyəcək.\"</string>
     <string name="menu_title_recovery">Geri qaytarma rejimində yenidən başlat</string>
     <string name="menu_title_recovery_mode">Geri qaytarma rejimində güncəllə</string>
     <string name="menu_title_show_notifications">Bildirişləri göstər</string>
+    <string name="message">%1$s</string>
     <string name="message_checkbox">Xiaomi.eu komandasından gələcək mesajları gizlət</string>
     <string name="message_checkbox_device">Təkrar göstərmə</string>
     <string name="message_title">QEYD!</string>
@@ -90,6 +93,7 @@ Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="share_desc">HyperOS versiyanız %1$s versiyasına güncəlləndi. Son dəyişiklikləri yoxlayın: %2$s</string>
     <string name="share_title">Paylaş</string>
     <string name="stable">Stabil</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="twrp_update_warning">OTA-nı istifadə edə bilmək üçün cihazınızda TWRP-nin quraşdırılıb-quraşdırılmadığını seçməlisiniz:</string>
     <string name="version">Hazırda quraşdırılan:</string>
     <string name="weekly">Beta</string>
