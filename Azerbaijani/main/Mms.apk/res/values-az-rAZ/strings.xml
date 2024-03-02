@@ -295,7 +295,6 @@ Yenidən sınayın."</string>
     <string name="favorite_at_time">Sevimlilərə əlavə edildi: %1s</string>
     <string name="fdn_check_failure">Yalnız sabit yığım nömrələrinə mesaj göndərə bilərsiniz.</string>
     <string name="file_expired">Bu faylın müddəti bitib</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -1098,7 +1097,6 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="send_sms">Mesaj göndər</string>
     <string name="send_sms_with_location">Olduğunuz yeri ehtiva edən mesajlar göndərə bilmək üçün bu tətbiqin yerləşmənizə müraciətinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="send_to">Kimə:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_label">"Göndərildi: "</string>
     <string name="service_message_not_found">Mesajın vaxtı bitdi və ya mesaj əlçatmazdır</string>
     <string name="service_network_problem">"Şəbəkə probleminə görə göndərilə bilmədi"</string>

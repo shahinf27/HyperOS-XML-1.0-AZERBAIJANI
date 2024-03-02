@@ -522,8 +522,6 @@
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilmiş tarix</string>
@@ -583,7 +581,6 @@
     <string name="note_write_hint">Yazmağa başla</string>
     <string name="notealert_enter">Qeydi aç</string>
     <string name="notealert_ok">Bağla</string>
-    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">"Notlar, bir sistem tətbiqidir. Bu tətbiqi sildikdən sonra istifadə edə bilməyəcəksiniz."</string>
     <string name="notes_description_title">Notlar silinsin?</string>
     <string name="notification_content_add_todo_from_other_app">Yeni tapşırıq əlavə etdiniz. Baxmaq üçün toxunun.</string>
@@ -1008,7 +1005,6 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="widget_take_notes_title">Notlar</string>
     <string name="widget_total_notes">%1$d</string>
     <string name="widget_total_todo">%1$d</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə mövcuddur</string>

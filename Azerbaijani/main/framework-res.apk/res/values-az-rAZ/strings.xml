@@ -416,8 +416,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="concurrent_display_notification_thermal_title">Cihaz çox isinib</string>
     <string name="condition_provider_service_binding_label">Vəziyyət provayderi</string>
     <string name="conference_call">Konfrans zəngi</string>
-    <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
-    <string name="config_activityRecognitionHardwarePackageName">\@null</string>
     <string name="config_ambientContextEventArrayExtraKey"></string>
     <string name="config_ambientContextPackageNameExtraKey"></string>
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
@@ -426,7 +424,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_batterySaverDeviceSpecificConfig"></string>
     <string name="config_batterySaverScheduleProvider"></string>
     <string name="config_batterymeterBoltPath">M5,17.5 V12 H3 L7,4.5 V10 h2 L5,17.5 z</string>
-    <string name="config_batterymeterErrorPerimeterPath">@string/config_batterymeterPerimeterPath</string>
     <string name="config_batterymeterFillMask">M2,18 v-14 h8 v14 z</string>
     <string name="config_batterymeterPerimeterPath">M3.5,2 v0 H1.33 C0.6,2 0,2.6 0,3.33 V13v5.67 C0,19.4 0.6,20 1.33,20 h9.33 C11.4,20 12,19.4 12,18.67 V13V3.33 C12,2.6 11.4,2 10.67,2 H8.5 V0 H3.5 z M2,18v-7V4h8v9v5H2L2,18z</string>
     <string name="config_batterymeterPowersavePath">M9,10l-2,0l0,-2l-2,0l0,2l-2,0l0,2l2,0l0,2l2,0l0,-2l2,0z</string>
@@ -469,7 +466,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_defaultAugmentedAutofillService"></string>
     <string name="config_defaultAutofillService">com.miui.contentcatcher/.autofill.services.MiuiAutofillService</string>
     <string name="config_defaultAutomotiveNavigation"></string>
-    <string name="config_defaultBrowser">@string/default_browser</string>
     <string name="config_defaultBugReportHandlerApp"></string>
     <string name="config_defaultCallRedirection"></string>
     <string name="config_defaultCallScreening"></string>
@@ -500,7 +496,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_defaultSearchSelectorPackageName"></string>
     <string name="config_defaultSearchUiService"></string>
     <string name="config_defaultSmartspaceService"></string>
-    <string name="config_defaultSms">@string/default_sms_application</string>
     <string name="config_defaultSupervisionProfileOwnerComponent"></string>
     <string name="config_defaultSystemCaptionsManagerService"></string>
     <string name="config_defaultTextClassifierPackage"></string>
@@ -509,7 +504,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_defaultWallpaperEffectsGenerationService"></string>
     <string name="config_defaultWearableSensingConsentComponent"></string>
     <string name="config_defaultWearableSensingService"></string>
-    <string name="config_defaultWellbeingPackage">@string/config_systemWellbeing</string>
     <string name="config_default_dns_server">8.8.8.8</string>
     <string name="config_deviceConfiguratorPackageName"></string>
     <string name="config_devicePolicyManagement"></string>
@@ -541,20 +535,15 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_foldedArea"></string>
     <string name="config_forceVoiceInteractionServicePackage"></string>
     <string name="config_fusedLocationProviderPackageName">com.xiaomi.location.fused</string>
-    <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
-    <string name="config_geofenceProviderPackageName">\@null</string>
     <string name="config_globalAppSearchDataQuerierPackage"></string>
-    <string name="config_gnssLocationProviderPackageName">\@null</string>
     <string name="config_hdmiCecSetMenuLanguageActivity">com.android.systemui/com.android.systemui.hdmi.HdmiCecSetMenuLanguageActivity</string>
     <string name="config_headlineFontFamily"></string>
-    <string name="config_headlineFontFamilyMedium">@string/font_family_button_material</string>
     <string name="config_headlineFontFeatureSettings"></string>
     <string name="config_healthConnectMigratorPackageName"></string>
     <string name="config_helpIntentExtraKey"></string>
     <string name="config_helpIntentNameKey"></string>
     <string name="config_helpPackageNameKey"></string>
     <string name="config_helpPackageNameValue"></string>
-    <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
     <string name="config_icon_mask">M50,0L100,0 100,100 0,100 0,0z</string>
     <string name="config_inCallNotificationSound">/product/media/audio/ui/InCallNotification.ogg</string>
     <string name="config_incidentReportApproverPackage">com.android.permissioncontroller</string>
@@ -562,7 +551,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_isoImagePath"></string>
     <string name="config_keyguardComponent">com.android.systemui/com.android.systemui.keyguard.KeyguardService</string>
     <string name="config_mainBuiltInDisplayCutout"></string>
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation">@string/config_mainBuiltInDisplayCutout</string>
     <string name="config_mainDisplayShape"></string>
     <string name="config_managed_provisioning_package">com.android.managedprovisioning</string>
     <string name="config_mediaProjectionPermissionDialogComponent">com.android.systemui/com.android.systemui.media.MediaProjectionPermissionActivity</string>
@@ -572,7 +560,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_mms_user_agent_profile_url"></string>
     <string name="config_mobile_hotspot_provision_app_no_ui"></string>
     <string name="config_mobile_hotspot_provision_response"></string>
-    <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
     <string name="config_networkLocationProviderPackageNameGms">com.google.android.gms</string>
     <string name="config_networkOverLimitComponent">com.android.systemui/com.android.systemui.net.NetworkOverLimitActivity</string>
     <string name="config_notificationAccessConfirmationActivity">com.android.settings/com.android.settings.notification.NotificationAccessConfirmationActivity</string>
@@ -608,7 +595,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_screenshotServiceComponent">com.android.systemui/com.android.systemui.screenshot.TakeScreenshotService</string>
     <string name="config_searchKeyTargetActivity"></string>
     <string name="config_secondaryBuiltInDisplayCutout"></string>
-    <string name="config_secondaryBuiltInDisplayCutoutRectApproximation">@string/config_secondaryBuiltInDisplayCutout</string>
     <string name="config_secondaryDisplayShape"></string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
     <string name="config_secondaryLocationTimeZoneProviderPackageName"></string>
@@ -643,7 +629,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_systemSpeechRecognizer"></string>
     <string name="config_systemSupervision"></string>
     <string name="config_systemTelevisionNotificationHandler"></string>
-    <string name="config_systemTelevisionRemoteService">@string/config_tvRemoteServicePackage</string>
     <string name="config_systemTextIntelligence"></string>
     <string name="config_systemUIServiceComponent">com.android.systemui/com.android.systemui.SystemUIService</string>
     <string name="config_systemUi">com.android.systemui</string>
@@ -747,9 +732,6 @@ Qulaqlıq səsi tövsiyə olunan səviyyədən daha yüksək səviyyədə qalıb
     <string name="date_time_set">Ayarla</string>
     <string name="day">gün</string>
     <string name="days">gün</string>
-    <string name="db_default_journal_mode">PERSIST</string>
-    <string name="db_default_sync_mode">NORMAL</string>
-    <string name="db_wal_sync_mode">NORMAL</string>
     <string name="decline">Rədd et</string>
     <string name="decline_remote_bugreport_action">RƏDD ET</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -893,10 +875,8 @@ nömrəni yığın"</string>
     <string name="ext_media_unsupported_notification_message">Qurmaq üçün toxunun .</string>
     <string name="ext_media_unsupported_notification_title">%s aşkarlandı</string>
     <string name="extract_edit_menu_button">Düzəliş et</string>
-    <string name="face_acquired_dark_glasses_detected">@string/face_acquired_dark_glasses_detected_alt</string>
     <string name="face_acquired_dark_glasses_detected_alt">Tünd eynək aşkarlandı. Üzünüz tam görünməlidir.</string>
     <string name="face_acquired_insufficient">Üz modeliniz yaradıla bilmir. Yenidən sınayın.</string>
-    <string name="face_acquired_mouth_covering_detected">@string/face_acquired_mouth_covering_detected_alt</string>
     <string name="face_acquired_mouth_covering_detected_alt">Üz örtüyü aşkarlandı. Üzünüz tam görünməlidir.</string>
     <string name="face_acquired_not_detected">Üzünüz görünə bilmir. Telefonunuzu göz səviyyəsində tutun.</string>
     <string name="face_acquired_obscured">Üzünüzü gizlədən hər şeyi götürün.</string>
@@ -959,7 +939,6 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Özəllik kodu tamamlandı.</string>
     <string name="fcError">Bağlantı problemi və ya yararsız özəllik kodu.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_count">{count, plural, one {}=1 {{file_name} + # fayl} other {{file_name} + # fayl} }</string>
     <string name="find">Tap</string>
     <string name="find_next">Növbətini tap</string>
@@ -1229,7 +1208,6 @@ Bu səhifəni tərk etmək istədiyinizə əminsiniz?"</string>
     <string name="kg_reordering_delete_drop_target_text">Sil</string>
     <string name="kg_sim_pin_instructions">SIM PIN-ini daxil edin</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM kilidi açılır…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Parolunuzu %1$d dəfə yanlış yazdınız. 
 
 %2$d saniyə ərzində yenidən sınayın."</string>
@@ -1538,7 +1516,6 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="needPuk2">SIM-i əngəldən çıxartmaq üçün PUK2-ni yazın.</string>
     <string name="negative_duration">−%1$s</string>
     <string name="network_available_sign_in">Şəbəkəyə daxil ol</string>
-    <string name="network_available_sign_in_detailed">%1$s</string>
     <string name="network_logging_notification_text">Təşkilatınız, bu cihazı idarə edə və şəbəkə trafikini izləyə bilər. Detallar üçün toxunun.</string>
     <string name="network_logging_notification_title">Cihaz idarə edilir</string>
     <string name="network_partial_connectivity">%1$s, limitli bağlantıya sahibdir</string>
@@ -1613,7 +1590,6 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="notification_history_title_placeholder">Özəl tətbiq bildirişi</string>
     <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">Bildiriş dinləyici</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_phishing_alert_content_description">Fişinq xəbərdarlığı</string>
     <string name="notification_ranker_binding_label">Bildiriş sıralama xidməti</string>
     <string name="notification_reply_button_accessibility">Cavabla</string>
@@ -2294,42 +2270,15 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="ssl_certificate">Güvənlik sertifikatı</string>
     <string name="ssl_certificate_is_valid">Sertifikat yararlıdır.</string>
     <string name="status_bar_airplane">airplane</string>
-    <string name="status_bar_alarm_clock">alarm_clock</string>
-    <string name="status_bar_battery">battery</string>
-    <string name="status_bar_bluetooth">bluetooth</string>
     <string name="status_bar_call_strength">call_strength</string>
     <string name="status_bar_camera">camera</string>
-    <string name="status_bar_cast">cast</string>
-    <string name="status_bar_cdma_eri">cdma_eri</string>
-    <string name="status_bar_clock">clock</string>
-    <string name="status_bar_data_connection">data_connection</string>
-    <string name="status_bar_data_saver">data_saver</string>
     <string name="status_bar_ethernet">ethernet</string>
-    <string name="status_bar_headset">headset</string>
-    <string name="status_bar_hotspot">hotspot</string>
-    <string name="status_bar_ime">ime</string>
-    <string name="status_bar_location">location</string>
-    <string name="status_bar_managed_profile">managed_profile</string>
     <string name="status_bar_microphone">microphone</string>
     <string name="status_bar_mobile">mobile</string>
-    <string name="status_bar_mute">status_bar_mute</string>
-    <string name="status_bar_nfc">nfc</string>
     <string name="status_bar_no_calling">no_calling</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
-    <string name="status_bar_phone_signal">phone_signal</string>
-    <string name="status_bar_rotate">rotate</string>
     <string name="status_bar_screen_record">ekran_yazısı</string>
-    <string name="status_bar_secure">secure</string>
     <string name="status_bar_sensors_off">sensors_off</string>
-    <string name="status_bar_speakerphone">speakerphone</string>
-    <string name="status_bar_sync_active">sync_active</string>
-    <string name="status_bar_sync_failing">sync_failing</string>
-    <string name="status_bar_tty">tty</string>
-    <string name="status_bar_volume">volume</string>
     <string name="status_bar_vpn">vpn</string>
-    <string name="status_bar_wifi">wifi</string>
-    <string name="status_bar_zen">zen</string>
     <string name="status_communication_speaker_summary">Dinamik açıqdır. Qulaqlıq taxılanda səs hələ də dinamikdən çıxacaq.</string>
     <string name="status_communication_summary">Zəng davam edir. Artıq yalnız zəng səsi səviyyəsini ayarlaya bilərsiniz.</string>
     <string name="stk_cc_ss_to_dial">SS tələbi, müntəzəm zəngə dəyişdirildi</string>
@@ -2358,7 +2307,6 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="system_error_manufacturer">"Cihazınızın daxili problemi var. Əlavə məlumat üçün istehsalçı ilə əlaqə saxlayın."</string>
     <string name="system_error_wipe_data">"Cihazınızın daxili bir problemi var və fabrik datasına sıfırlanana qədər qeyri-stabil ola bilər."</string>
     <string name="system_locale_title">Sistem ilkin halı</string>
-    <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
     <string name="taking_remote_bugreport_notification_title">Xəta hesabatı düzəldilir…</string>
     <string name="test_harness_mode_notification_message">Test Harness rejimini sıradan çıxartmaq üçün fabrik sıfırlaması edin.</string>
     <string name="test_harness_mode_notification_title">Test Harness rejimi fəaldır</string>
@@ -2576,7 +2524,6 @@ Bağlamaq istəyirsiniz?"</string>
     <string name="zen_mode_feature_name">Narahat etməyin</string>
     <string name="zen_mode_forever">Söndürənə qədər</string>
     <string name="zen_mode_forever_dnd">\"Narahat etməyin\"i söndürənə qədər</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">%1$s qədər</string>
     <string name="zen_mode_until_next_day">%1$s qədər</string>
     <string name="zen_upgrade_notification_content">"Nələrin əngəlləndiyini yoxlamaq üçün toxunun."</string>

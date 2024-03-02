@@ -43,11 +43,9 @@
     <string name="app_market_title">Tətbiq mağazası</string>
     <string name="app_name">Sistem xidməti əlavəsi</string>
     <string name="app_select_title">Tez-tez istifadə edilən tətbiqləri əlavə et</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auto_task_now_city">Hazırkı yerləşmə</string>
     <string name="auto_task_search_address_point">Yerləri axtar</string>
     <string name="auto_task_select_city">Şəhər seçin</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="btn_connecting">Bağlantı qurulur</string>
     <string name="btn_holding">Quraşdırma gözlənilir</string>
     <string name="btn_install">Quraşdır</string>
@@ -128,7 +126,6 @@
     <string name="duration_time_start">Başlama vaxtı</string>
     <string name="duration_use_interval_title">Hər istifadə üçün bu dəyərdən (dəqiqədən) çox deyil</string>
     <string name="early_morning">Səhər</string>
-    <string name="empty">" "</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
     <string name="error_icon_content_description">Xəta</string>
@@ -477,8 +474,6 @@ Güvənli və zəmanətli."</string>
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarix seç</string>
     <string name="mtrl_picker_date_header_unselected">Seçilmiş tarix</string>
@@ -569,10 +564,6 @@ Güvənli və zəmanətli."</string>
     <string name="password_protect">Parol qoruması</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="password_verify_checkbox_title">Uşaq rejimindən çıxmaq üçün parolu doğrulamalısınız. Kilid ekranı parolu varsa, çıxarkən kilid ekranı parolunu doğrulamalısınız.</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pc_activity_title">Batareyanı optimallaşdır</string>
     <string name="pc_entered_extreme_mode">Yuxu rejimi açıqdır</string>
     <string name="pc_entered_extreme_mode_summary">"Cihazınız batareyası tükəndiyi üçün Yuxu rejiminə keçib. Tətbiqlər arxaplanda işləyəcək, bildirişlər göndərilməyəcək."</string>
@@ -593,8 +584,6 @@ Güvənli və zəmanətli."</string>
     <string name="power_center_battery_duration_screen_on">Qalan ekran vaxtı</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ekran vaxtı qaldı</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="preference_key_information_setting_close">key_information_setting_close</string>
-    <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
     <string name="privacy_declare_dialog_title">Xidmət Şərtləri</string>
     <string name="privacy_name">\"Gizlilik Siyasəti\"</string>
     <string name="privacy_prompt_traffic_purchase_message">"Telefon nömrəniz və operator təfsilatları şifrələnəcək və internet satın alma seçimləri haqqında daha çox məlumat almaq üçün Mi serverlərinə yüklənəcək."</string>
@@ -661,7 +650,6 @@ Lütfən oxuyub razılaşın: %s."</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="sound_control_desc">Şən fon musiqisi körpələrə daha çox əyləncə verir</string>
     <string name="sound_control_title">Səs effektlərini aç</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>

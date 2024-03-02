@@ -43,14 +43,6 @@
         <item>com.miui.miwallpaper.earth</item>
         <item>com.miui.miwallpaper.mars</item>
     </string-array>
-    <string-array name="super_wallpaper_list_ids">
-        <item>@string/moon_id</item>
-        <item>@string/snowmountain_id</item>
-        <item>@string/geometry_id</item>
-        <item>@string/saturn_id</item>
-        <item>@string/earth_id</item>
-        <item>@string/mars_id</item>
-    </string-array>
     <string-array name="super_wallpaper_list_packages">
         <item>com.miui.miwallpaper.moon</item>
         <item>com.miui.miwallpaper.snowdain</item>
@@ -58,21 +50,5 @@
         <item>com.miui.miwallpaper.saturn</item>
         <item>com.miui.miwallpaper.earth</item>
         <item>com.miui.miwallpaper.mars</item>
-    </string-array>
-    <string-array name="super_wallpaper_list_summaries">
-        <item>@string/moon_summary</item>
-        <item>@string/snowmountain_summary</item>
-        <item>@string/geometry_summary</item>
-        <item>@string/saturn_summary</item>
-        <item>@string/earth_summary</item>
-        <item>@string/mars_summary</item>
-    </string-array>
-    <string-array name="super_wallpaper_list_titles">
-        <item>@string/moon_title</item>
-        <item>@string/snowmountain_title</item>
-        <item>@string/geometry_title</item>
-        <item>@string/saturn_title</item>
-        <item>@string/earth_title</item>
-        <item>@string/mars_title</item>
     </string-array>
 </resources>

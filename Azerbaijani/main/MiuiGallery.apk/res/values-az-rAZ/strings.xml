@@ -410,7 +410,6 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="art_still_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="art_still_download_sdk_without_wifi_title">\"İncəsənət\" qoşmasını endir</string>
     <string name="art_still_load_data_fail">"Məlumat yüklənə bilmədi"</string>
-    <string name="art_still_module_failed">@string/error_install_connect_fail</string>
     <string name="art_still_module_finish">\"İncəsənət\" qoşması uğurla endirildi</string>
     <string name="art_still_module_loading">\"İncəsənət\" qoşması endirilir…</string>
     <string name="assistant_page_community">Cəmiyyət</string>
@@ -550,7 +549,6 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="blackshark_phone">Black Shark</string>
     <string name="blank_app_name"></string>
     <string name="blur_refocus_enter">Bokeh</string>
-    <string name="both_stroke_and_substrate_are_not_supported">@string/text_edit_dialog_style_toast</string>
     <string name="browse_category_title">Nəzər yetir</string>
     <string name="btn_cancel">İmtina</string>
     <string name="btn_cancel_send">Bu köçürməni ləğv et</string>
@@ -579,7 +577,6 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="by_sms">SMS</string>
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Kamera albomu sinxronlaşdırılmalıdır</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="can_authorize_owner_albums_share_to_tv">Elementləri paylaşmağa çalışın</string>
     <string name="can_not_transfer_when_screening">"Köçürmə əsnasında yayımlana bilmir"</string>
     <string name="cancel">İmtina</string>
@@ -601,7 +598,6 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="card_description_annual_peoples">Üzlər, hekayələr, məkanlar</string>
     <string name="card_description_annual_pets">Quyruqlar, pəncələr və bığlar</string>
     <string name="card_description_annual_travel">Yolda olarkən gördükləriniz</string>
-    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Tədbirlər</string>
     <string name="card_title_annual_babys">%1$s - şirinlik</string>
     <string name="card_title_annual_events">%1$s daxilindəki partilərim</string>
@@ -616,7 +612,6 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="card_title_pastyear_party">Keçən ilki partilər</string>
     <string name="card_title_pastyear_sports">Keçən ilki məşqlər</string>
     <string name="card_title_recent_memory">Son xatirələr</string>
-    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Məşqlər</string>
     <string name="card_title_three_month_baby">Vaxt uçur</string>
     <string name="cast_devices_unavailable_desc">Həm bu cihazın, həm də proyektorun eyni Wi-Fi şəbəkəsinə bağlandığına əmin olun</string>
@@ -1563,7 +1558,6 @@ Dostlarınızın daha çox fotosunu çəkin!"</string>
     <string name="face_name_edit">Düzəliş et</string>
     <string name="face_name_input">Adı daxil edin</string>
     <string name="face_recommend">Tövsiyələr</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_application_id"></string>
     <string name="facebook_login_btn_content_description">Facebook ilə daxil olun</string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
@@ -1581,7 +1575,6 @@ mövcuddur"</string>
     <string name="feedback_my_reports">Əks-əlaqə</string>
     <string name="feedback_problem">Problemi bildir</string>
     <string name="feedback_suggest">Təklif göndər</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Bu element çap edilə bilmir."</string>
     <string name="file_cannot_screen_throw">"Bu element yayımlana bilmir."</string>
     <string name="file_sending">Fayllar köçürülür…</string>
@@ -1860,7 +1853,6 @@ mövcuddur"</string>
     <string name="grant_permission_go_and_set">Ayarla</string>
     <string name="grant_permission_go_and_set_2">Ayarlar</string>
     <string name="grant_permission_go_and_set_3">Ayarlar</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">İcazələr tələb olunur</string>
     <string name="grant_permission_manage_storage_unlock">Cihazın kilidini açın və elementlərə baxa bilmək üçün bu tətbiqin bütün fayllara müraciətinə icazə verin.</string>
     <string name="grant_permission_shortcut">Əvvəlcə bu tətbiqin Əsas ekran qısayolları yaratmasına icazə verin.</string>
@@ -1909,9 +1901,7 @@ mövcuddur"</string>
     <string name="home_menu_camera">Yalnız Kamera elementlərini göstər</string>
     <string name="home_menu_cleaner">Boş yer aç</string>
     <string name="home_menu_collage">Kollaj</string>
-    <string name="home_menu_community">@string/assistant_page_community</string>
     <string name="home_menu_id_photo">ID</string>
-    <string name="home_menu_image_printing">@string/assistant_page_image_printing</string>
     <string name="home_menu_macarons">Sehrli vinyet</string>
     <string name="home_menu_magic_matting">Kəs</string>
     <string name="home_menu_photo_movie">Klip</string>
@@ -1951,7 +1941,6 @@ mövcuddur"</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">\"Kimlik\" qoşmasını endir</string>
     <string name="id_photo_load_data_fail">"Məlumat yüklənə bilmədi"</string>
-    <string name="id_photo_module_failed">@string/error_install_connect_fail</string>
     <string name="id_photo_module_finish">\"Kimlik\" qoşması uğurla endirildi</string>
     <string name="id_photo_module_loading">\"Kimlik\" qoşması endirilir…</string>
     <string name="ignore_album">"Göstərmə"</string>
@@ -2138,7 +2127,6 @@ mövcuddur"</string>
     <string name="magic_matting_error_px">"Bu təsvir ölçüsü dəstəklənmir"</string>
     <string name="magic_matting_face_fail">"Üz emal oluna bilmədi"</string>
     <string name="magic_matting_load_data_fail">"Məlumat yüklənə bilmədi"</string>
-    <string name="magic_matting_module_failed">@string/error_install_connect_fail</string>
     <string name="magic_matting_module_finish">\"Cutout\" qoşması uğurla endirildi</string>
     <string name="magic_matting_module_loading">\"Cutout\" qoşmasını endirilir…</string>
     <string name="magic_max_px">Bu təsvir çox böyükdür</string>
@@ -2186,9 +2174,6 @@ mövcuddur"</string>
     <string name="manual_hide_state">\".nomedia\" faylları uğurla əlavə edildi</string>
     <string name="map_album">Xəritə</string>
     <string name="map_album_detail_page_title">Yerləşmə</string>
-    <string name="map_common_download_failed_for_network_msg">@string/magic_matting_download_failed_for_notwork</string>
-    <string name="map_common_download_failed_msg">@string/magic_matting_load_data_fail</string>
-    <string name="map_common_library_loading_msg">@string/loading</string>
     <string name="map_enable_position_service_message">Foto və videolara xəritədə baxmaq üçün əvvəlcə yerləşmə xidmətlərini işə salın.</string>
     <string name="map_enable_position_service_title">Yerləşmə xidmətlərini aç</string>
     <string name="map_grant_position_permission_after_declined_twice_message">Foto və videolara xəritədə baxmaq üçün əvvəlcə Qalereyanın yerləşmənizə müraciətinə icazə verin.</string>
@@ -2720,7 +2705,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="people_page_label">İnsanlar</string>
     <string name="people_page_photo">Bir şəxsin kiçik şəkli</string>
     <string name="people_page_unname">Adsız</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Sistem hesabına daxil olmaq və onu idarə etmək üçün</string>
     <string name="permission_account_name">Hesablara müraciət</string>
     <string name="permission_clipboard_desc">Elementlərə müraciət etmək və onları lövhədə saxlamaq üçün</string>
@@ -2742,7 +2726,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="permission_read_media_images_desc">Qalereyanı istifadə edərkən foto və videolara müraciət etmək və onları saxlamaq üçün</string>
     <string name="permission_require_category">Məcburi icazələr</string>
     <string name="permission_storage_desc">Foto və videolarınızı saxlamaq, göstərmək, sinxronlaşdırmaq, endirmək və onlara düzəliş etmək üçün</string>
-    <string name="permission_storage_desc_2">@string/permission_storage_desc</string>
     <string name="permission_storage_name">Anbar</string>
     <string name="permission_storage_name_2">Cihazdakı fotolara və fayllara müraciət et və onları saxla</string>
     <string name="permission_use_desc">İcazələr</string>
@@ -2757,7 +2740,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_editor_beautify_auto">Avto</string>
     <string name="photo_editor_beauty_compare">Orijinal</string>
     <string name="photo_editor_common_download_failed">"Qoşma endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">Qoşma uğurla endirildi</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Deyəsən, Wi-Fi-ya bağlanmamısınız. Qoşma, mobil internet istifadə edilərək (%1$d MB) endirilsin?"</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Qoşmanı endir</string>
@@ -2844,7 +2826,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_editor_talkback_crop_9_18">Doqquzun on səkkizə</string>
     <string name="photo_editor_talkback_crop_free">Sərbəst</string>
     <string name="photo_editor_talkback_crop_mirror">Güzgü</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Orijinal</string>
     <string name="photo_editor_talkback_crop_reset">Sıfırla</string>
     <string name="photo_editor_talkback_crop_right_rotate">%d dərəcə döndər</string>
@@ -2868,15 +2849,12 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_editor_talkback_sky_audio_open">Səsi oxut</string>
     <string name="photo_editor_talkback_undo">Geri al</string>
     <string name="photo_editor_text">Mətn</string>
-    <string name="photo_editor_transition_image_view">photo_view</string>
     <string name="photo_editor_watermark_default">KOPYALAMA</string>
     <string name="photo_font_cancel_download">İmtina</string>
     <string name="photo_font_download">Endir</string>
     <string name="photo_font_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkəyə bağlanıb yenidən sınayın."</string>
     <string name="photo_font_download_without_wifi_msg">"Faylları endirmək üçün mobil internet bağlantısını istifadə etmək, internet istifadənizi artıracaq. Planınızın internet limitini aşsanız, operatorunuz əlavə ödənişlər ala bilər."</string>
     <string name="photo_font_download_without_wifi_title">İnternet istifadə xəbərdarlığı</string>
-    <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
-    <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_movie_module_finish">Kliplər uğurla yükləndi</string>
     <string name="photo_movie_module_loading">Kliplər yüklənir…</string>
     <string name="photo_movie_select_image_range">Kliplər %1$d-%2$d foto ehtiva edə bilər</string>
@@ -2900,8 +2878,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_save_to_msg">Saxlanıldı: %s</string>
     <string name="photo_size_not_support">"Bu təsvir dəqiqliyi dəstəklənmir"</string>
     <string name="photo_video_count">%1$s və %2$s</string>
-    <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
-    <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_vlog_module_finish">Video redaktor uğurla endirildi</string>
     <string name="photo_vlog_module_loading">Video redaktor endirililr…</string>
     <string name="photodetail_failed_already_exist">Bu fayl artıq mövcuddur</string>
@@ -3023,7 +2999,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="prompt_not_support_format">"Sehrli bir vinyet yaratmaq üçün bu təsvir istifadə oluna bilməz"</string>
     <string name="protocal_dialog_confirm">Razıyam</string>
     <string name="protocal_dialog_title">Diqqət</string>
-    <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="public_url_descript">Bu URL-ni istifadə edən hər kəs albomunuza baxa bilər</string>
     <string name="publish_failed">"Dərc edilə bilmədi"</string>
     <string name="publish_succeeded">Albom dərc edildi</string>
@@ -3189,18 +3164,13 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="screen_editor_btn_save">Saxla</string>
     <string name="screen_editor_btn_shell_off">Cihaz çərçivəsini sil</string>
     <string name="screen_editor_btn_shell_on">Cihaz çərçivəsini əlavə et</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">"Ekran şəkilləri cihaz çərçivəsi ilə kəsilə bilmir"</string>
     <string name="screen_editor_delete_dialog_msg">Bu ekran şəkli silinsin?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Hazırdır</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">"Kəsilmiş ekran şəkillərinə cihaz çərçivəsi əlavə edilə bilmir"</string>
     <string name="screen_editor_shell_net_error">Cihaz çərçivəsini endirmək üçün şəbəkəyə bağlanın</string>
     <string name="screen_editor_shell_res_downloading">Cihaz çərçivəsi endirilir…</string>
     <string name="screen_editor_shell_storage_insufficient">"Yetərsiz anbar sahəsinə görə cihaz çərçivəsi endirilə bilmir"</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">İmtina</string>
     <string name="screen_save_dialog_btn_delete">Ekran şəklini sil</string>
     <string name="screen_save_dialog_btn_save">Qalareyada saxla</string>
@@ -3283,9 +3253,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="search_title_recommend">Tövsiyə edilən</string>
     <string name="search_title_suggestion">Təkliflər</string>
     <string name="search_title_tag">Obyektlər</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="search_wait_msg">Axtarılır…</string>
     <string name="searching_cast_devices">Proyektor axtarılır…</string>
     <string name="secret_album_card_description">Bütün kiçik sirləriniz üçün ən yaxşı yer</string>
@@ -3370,7 +3337,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="share_album_cancel_share">Paylaşımı dayandır</string>
     <string name="share_album_change_background">Arxaplan fotosunu dəyişdir</string>
     <string name="share_album_create_failed">"Paylaşılan albom yaradıla bilmədi"</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Paylaşımı dayandır</string>
     <string name="share_album_exit_confirm">Davam etsəniz, artıq bu albomdakı bütün elementlərə müraciət edə bilməyəcəksiniz. Getməzdən əvvəl bütün vacib elementləri saxlayın.</string>
     <string name="share_album_exit_confirm_title">Bu qrup tərk edilsin?</string>
@@ -3457,7 +3423,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="share_with_family">Ailə ilə paylaş</string>
     <string name="sharer_quota_fulfiled">"Bu albomu artıq maksimum sayda şəxslə paylaşırsınız."</string>
     <string name="show_cloud_albumlist_summary">"Sinxronlaşdırmanı söndürdükdən sonra seçilmiş albomlardakı yeni elementlər buluda yüklənməyəcək."</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Gizli albomları gör və idarə et</string>
     <string name="show_hidden_album_title">Gizli albomlara bax</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Uğurla silindi. Bu elementə artıq \"Albomlar\" arasında baxa bilərsiniz.</string>
@@ -3937,7 +3902,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="to_enable_sync_dialog_message">Əvvəlcə sinxronlaşdırmanı işə sal</string>
     <string name="to_enable_sync_dialog_positive_button_text">Ayarlara get</string>
     <string name="to_enable_sync_dialog_title">Sinxronlaşdır</string>
-    <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="toast_download_with_metered_network_btn_continue">Endir</string>
     <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil internet istifadə edərək endirilsin?"</string>
     <string name="toast_download_with_metered_network_title">İnternet istifadə xəbərdarlığı</string>
@@ -4215,7 +4179,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_post_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="video_post_download_sdk_without_wifi_title">\"Video effektləri\" qoşmasını endir</string>
     <string name="video_post_load_data_fail">"Məlumat yüklənə bilmədi"</string>
-    <string name="video_post_module_failed">@string/error_install_connect_fail</string>
     <string name="video_post_module_finish">\"Video effektləri\" qoşması uğurla endirildi</string>
     <string name="video_post_module_loading">\"Video effektləri\" qoşması endirilir…</string>
     <string name="video_quality_1080p">1080P</string>
@@ -4477,7 +4440,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="weibo_login_btn_content_description">Weibo ilə daxil olun</string>
     <string name="weibo_redirect_uri"></string>
     <string name="weixin_login_btn_content_description">WeChat ilə daxil olun</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">\"Xiaomi Cloud\"a xoş gəldiniz</string>
     <string name="where_is_barcode">"QR kodu haradadır?"</string>
     <string name="who_is_this">Bu kimdir?</string>

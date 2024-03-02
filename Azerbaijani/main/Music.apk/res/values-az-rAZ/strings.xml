@@ -100,13 +100,11 @@
     <string name="am">GƏ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_bugly_id">e5f6fa4ff3</string>
-    <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_description_content">"Musiqi, səs pleyeri ehtiva edən və səs fayllarını idarə etməyinizə imkan verən bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra yenə də səs fayllarını oxutmağa davam edə biləcəksiniz."</string>
     <string name="app_description_title">\"Musiqi\" Əsas ekrandan silinsin?</string>
     <string name="app_disable_description_content">Mi Musiqi, bir sistem tətbiqidir. Onu sıradan çıxartsanız, digər tətbiqlərin istifadəsinə təsir edə bilər. Yenə də sıradan çıxarılsın?</string>
     <string name="app_disable_description_title">Sistem tətbiqi sıradan çıxarılsın?</string>
     <string name="app_label">Endirilənlər</string>
-    <string name="app_name">podkast</string>
     <string name="app_notify_dialog_btn_desc">Ayarlar</string>
     <string name="app_notify_dialog_check_desc">"Bildiriş paneli vicetini işə salın, ancaq daimi bildirişlərə icazə verməyin"</string>
     <string name="app_notify_dialog_path">Ayarlar &gt; Bildirişlər və status çubuğu &gt; Tətbiq bildirişləri &gt; Musiqi</string>
@@ -370,7 +368,6 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_localization_key">sistem</string>
-    <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
     <string name="delete">Sil</string>
     <string name="delete_download">Sil</string>
     <string name="delete_file_as_well">Bu mahnını həmişəlik sil</string>
@@ -478,10 +475,7 @@
     <string name="download_method">Endir</string>
     <string name="download_no_application_title">"Fayl açıla bilmir"</string>
     <string name="download_paused_in_power_save_mode">Batareyeya qənaət açıq olanda endirmələrə fasilə verilir</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Endirilir…</string>
-    <string name="download_progress">%d%%</string>
-    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_quality">Endirmə keyfiyyəti</string>
     <string name="download_quality_summary">Endirdiyiniz mahnılar üçün əlavə ayarlar</string>
     <string name="download_queued">Növbədədir</string>
@@ -520,10 +514,7 @@
     <string name="downloading_empty">Boşdur</string>
     <string name="downloading_pause_apk">Fasilə verildi. Endirməni Bildiriş panelində davam etdirin.</string>
     <string name="due_date">Son tarix: %s</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
-    <string name="durationformatshort">%2$d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_playlist_info">Pleylist məlumatına düzəliş et</string>
     <string name="empty"></string>
@@ -596,9 +587,7 @@
     <string name="exo_media_action_repeat_all_description">Hamısını təkrarla</string>
     <string name="exo_media_action_repeat_off_description">Heç birini təkrarlama</string>
     <string name="exo_media_action_repeat_one_description">Birini təkrarla</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativ</string>
     <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Rəy</string>
@@ -618,7 +607,6 @@
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="facebook_app_id">1310336955745219</string>
     <string name="facebook_application_id"></string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="facebook_not_installed">Əvvəlcə Facebook-u quraşdırın.</string>
@@ -670,7 +658,6 @@
     <string name="filter_size_unit">%d KB</string>
     <string name="filter_sketch">素描</string>
     <string name="find_you_tunes">Mahnılarınızı tapın</string>
-    <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
     <string name="floating_view_dialog_desc">Səhifəni indi tərk etsəniz musiqi dayandırılacaq. Yenə də tərk edirsiniz?</string>
     <string name="floating_view_dialog_leave">Tərk et</string>
     <string name="floating_view_dialog_stay">Qal</string>
@@ -737,7 +724,6 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="gcm_defaultSenderId">948829309969</string>
     <string name="gcm_fallback_notification_channel_label">Müxtəlif</string>
     <string name="get_more_favorite_content_after_login">Daha çox mahnı və video kəşf etmək üçün daxil olun.</string>
     <string name="get_one_day_vip">%d günlük VIP qazandınız!</string>
@@ -746,12 +732,8 @@
     <string name="get_vip">VIP əldə et</string>
     <string name="go_agree">Oldu</string>
     <string name="google_account_login">Google ilə daxil olun</string>
-    <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-    <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
     <string name="google_application_id"></string>
-    <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
     <string name="google_download_music">%1$s - Google ilə endir</string>
-    <string name="google_storage_bucket">mi-music-global.appspot.com</string>
     <string name="goto_local_search">Cihazda axtar</string>
     <string name="goto_online_search">Onlayn axtar</string>
     <string name="gps_prompt_context">Mobil şəbəkə ilə endirilsin?</string>
@@ -824,7 +806,6 @@
     <string name="impunity_declaration_summary">Musiqi tətbiqi hər dəfə başladılanda Xidmət Şərtlərini göstər</string>
     <string name="impunity_declaration_title">Xidmət Şərtləri</string>
     <string name="in_searching_please_wait">Axtarılır…</string>
-    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">Daxil ol</string>
     <string name="individuation_card_login_message">"Sevəcəyiniz daha çox mahnını tapmaq üçün daxil olun"</string>
     <string name="individuation_card_title">Sizin üçün</string>
@@ -1130,7 +1111,6 @@
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Oldu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
@@ -1286,7 +1266,6 @@
     <string name="open_service">İşə sal</string>
     <string name="operation_done_close">Bağla</string>
     <string name="other_song_in_album">Bu albomdakı digər mahnılar</string>
-    <string name="partner_id">3041</string>
     <string name="party">Party</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu kəs</string>
@@ -1523,7 +1502,6 @@
     <string name="privacy_authorize_revoking">Səlahiyyət ləğv edilir…</string>
     <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="privacy_request_desc">"&lt;Data&gt;Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Ayarlarda \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
 Mi Musiqi tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.
 Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallığı hələ də sizin üçün əlçatan olacaq.&lt;/Data&gt;"</string>
@@ -1534,7 +1512,6 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="privacy_request_title">Şərtlər və qaydalar</string>
     <string name="pro_member">Gold üzvü</string>
     <string name="project_device">Mi Telefon</string>
-    <string name="project_id">mi-music-global</string>
     <string name="prompt_grant_write_settings_permission">Sistem ayarlarını dəyişdirməyə icazə ver</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Yüklənə bilmədi"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Uğurla yükləndi</string>
@@ -1749,7 +1726,6 @@ Xoşbəxt ol"</string>
     <string name="start_to_download">Endirilir…</string>
     <string name="start_to_play">Oxutmağa hazırlanır…</string>
     <string name="start_update">Yeni versiya quraşdırılır…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">Dayanma</string>
     <string name="storage_cloned_app">İkili tətbiqlər üçün anbar</string>
     <string name="storage_internal">Daxili anbar</string>
@@ -2076,7 +2052,6 @@ Xoşbəxt ol"</string>
     <string name="upload_playlist_to_hungama_title">Xiaomi Hesabınızı istifadə etdiyiniz digər cihazlarda əldə edə bilmək üçün onlayn mahnıları Hungama-ya sinxronlaşdırın.</string>
     <string name="upload_playlist_to_hungama_toast">Onlayn mahnılar Hungama-ya sinxronlaşdırılacaq</string>
     <string name="user_agreement">İstifadəçi Razılaşması</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="user_experience_program_open">Müəllif hüququ məhdudiyyətlərinə görə, endirilmiş mahnıları oxuda bilmək üçün İstifadəçi Təcrübə Proqramına yazılmaq lazımdır. Bunu Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadəçi Təcrübə Proqramına yazıl\"da edə bilərsiniz.</string>
     <string name="user_playlist_plaza">Pleylistlər</string>
     <string name="user_privacy_dialog_negative_text">İmtina</string>

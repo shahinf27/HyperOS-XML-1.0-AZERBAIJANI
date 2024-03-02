@@ -2025,7 +2025,6 @@ Bağlantı qurularkən, %2$s, %3$s cihazına gələn bütün zəngləri alacaq."
 Yuxarıdakılardan hər hansısa birini etmisinizsə, Mi Hesabınızı yenidən əlavə edin; əks halda cihazın kilidinizi aça bilməyəcəksiniz."</string>
     <string name="bootloader_tips_ok">Anladım</string>
     <string name="bootloader_tips_warning">"Şəbəkə bağlantısını kəsməyin, Mi Hesabınızdan çıxış etməyin, fabrik sıfırlaması etməyin və ya sistem məlumatlarını silməyin."</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Əlavə düymələrin funksiyaları</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
@@ -2186,7 +2185,6 @@ Bir CA sertifikatı quraşdırsanız, sertifikat sahibi, datanız şifrələnmi�
     <string name="call_example_name">Ad</string>
     <string name="call_manager_enable_summary">Bu xidmətin zənglərinizin necə edildiyini idarə etməsinə icazə verin.</string>
     <string name="call_manager_enable_title">Zəng Menecerini fəallaşdır</string>
-    <string name="call_manager_summary">%1$s</string>
     <string name="call_manager_title">Zəng Meneceri</string>
     <string name="call_notification_answer_action">Cavabla</string>
     <string name="call_notification_answer_video_action">Görüntülü</string>
@@ -2314,7 +2312,6 @@ Bir CA sertifikatı quraşdırsanız, sertifikat sahibi, datanız şifrələnmi�
     <string name="certificate_management_app_description">Aşağıdakı tətbiqləri və URL-ləri istifadə etdikdə sertifikatlar sizi doğrulayacaq</string>
     <string name="certificate_warning_dont_install">Quraşdırmayın</string>
     <string name="certificate_warning_install_anyway">Yenə də quraşdır</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change">Dəyişdir</string>
     <string name="change_brightness">Parlaqlığı ayarla</string>
     <string name="change_lock_screen_password_title">Ekran kilidini dəyişdir</string>
@@ -3240,7 +3237,6 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_wifi_context">Cihazınızı quraşdırmaq üçün internetə bağlanmalısınız. Wi-Fi-ya bağlanmasanız, mobil internet istifadə oluna bilər. Mobil internet istifadə etmək əlavə xərclər yarada bilər. Yenə də mobil internet istifadə edilsin?</string>
     <string name="dialog_wifi_title">Mobil internet istifadə edilir</string>
     <string name="dialog_yes">Bəli</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Qeyd: Yenidən başladıqdan sonra bu tətbiq, cihazınız kilidini açana qədər başlamayacaq."</string>
     <string name="disableNetwork">şəbəkəni söndür</string>
     <string name="disable_overlays">HW örtüklərini sıradan çıxart</string>
@@ -3333,7 +3329,6 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dndm_auto_button_title">Narahat etməyin rejimini təkrarlama vaxtı</string>
     <string name="dndm_auto_setting_group">Planlı</string>
     <string name="dndm_auto_time_setting">Vaxtı ayarla</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Bitiş</string>
     <string name="dndm_auto_time_turn_off_title">\"Narahat etməyin\"i avtomatik söndür</string>
     <string name="dndm_auto_time_turn_on">Başlanğıc</string>
@@ -3736,7 +3731,6 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="evening">Günortadan sonra</string>
     <string name="every_day">Hər gün</string>
     <string name="ex_func_find_device">Güvənlik - Cihazı tap</string>
-    <string name="ex_voice_assist">@string/voice_assist</string>
     <string name="exceptional_case">İstisnalar</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="expand_card_action">Əlavə kartlar</string>
@@ -4946,7 +4940,6 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="keyguard_multi_window_tip">"Bu səhifə Bölünmüş ekranda göstərilə bilmir. Bunun əvəzinə tam ekran versiyasına qayıda bilərsiniz."</string>
     <string name="keyguard_security_setting_others">Digərləri</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik Siyasəti</string>
-    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="keywords_access_point_names">apn</string>
     <string name="keywords_accessibility">İstifadəsi asan, müraciəti asan, kömək, köməkçi</string>
     <string name="keywords_accessibility_menu"></string>
@@ -5218,7 +5211,6 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="line_breaking_summary">Paraqraf sətir sonunu optimallaşdır</string>
     <string name="line_breaking_title">Mətni optimallaşdır</string>
     <string name="link_locale_picker_footer_learn_more">https://support.google.com/android?p=per_language_app_settings</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_to_windows_setting_off">Bağlı</string>
     <string name="link_to_windows_setting_on">Açıq</string>
     <string name="link_to_windows_settings_title">Windows ilə əlaqələndir</string>
@@ -5871,7 +5863,6 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="memory_usage">Yaddaş istifadəsi</string>
     <string name="memory_usage_apps">Tətbiqlərin istifadə etdiyi yaddaş</string>
     <string name="memory_usage_apps_summary">{count, plural, one {}=1 {Son {time} ərzində 1 tətbiq yaddaşı istifadə etdi} other {Son {time} ərzində # tətbiq yaddaşı istifadə etdi} }</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Son 3 saatda ortalama %1$s yaddaş istifadə olundu</string>
     <string name="memorycard_calculating">Hesablanır…</string>
     <string name="memtag_footer">"Qabaqcıl yaddaş qorumasını açmaq və ya bağlamaq üçün cihazı yenidən başlatmalı olacaqsınız. Açıq olduqda, cihazın performansının yavaşladığını görə bilərsiniz."</string>
@@ -6151,12 +6142,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"Ekran parlaqlığı avtomatik ayarlanmayacaq"</string>
     <string name="miui_input_method_attention">Diqqət</string>
     <string name="miui_input_method_settings">Giriş üsulu ayarları</string>
-    <string name="miui_keyboard_assistance_category">@string/keyboard_assistance_category</string>
     <string name="miui_keyboard_back_light">null</string>
-    <string name="miui_keyboard_layout_default_label">@string/keyboard_layout_default_label</string>
-    <string name="miui_keyboard_mouse_touch">@string/keyboard_mouse_touch</string>
-    <string name="miui_keyboard_shortcuts_helper">@string/keyboard_shortcuts_helper</string>
-    <string name="miui_keyboard_shortcuts_helper_summary">@string/keyboard_shortcuts_helper_summary</string>
     <string name="miui_lab_ai_cloud_closed">"AI ön yükləməsi hələ əlçatmazdır."</string>
     <string name="miui_lab_ai_preload_desc">AI ön yükləməsi, tətbiqi başlatma sürətini artırır</string>
     <string name="miui_lab_ai_preload_title">AI ön yükləməsi</string>
@@ -6187,8 +6173,6 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miui_nfc_dialog_title">NFC söndürülür</string>
     <string name="miui_nfc_mi_pay_summary">Mi Pay, nəqliyyat kartları, açar kartları</string>
     <string name="miui_optimization_disabled">Sistem optimallaşdırmasını söndür</string>
-    <string name="miui_pointer_settings_category">@string/pointer_settings_category</string>
-    <string name="miui_pointer_speed">@string/pointer_speed</string>
     <string name="miui_sos_around_photo_summary">Fövqəladə hallarda əlaqə saxlanılacaq əlaqələrinizə göndərilən mətn mesajına ön və arxa kameraların hər birindən %d foto əlavə edin</string>
     <string name="miui_sos_around_photo_title">Foto əlavə et</string>
     <string name="miui_sos_around_voice_summary">Fövqəladə hallarda əlaqə saxlanılacaq əlaqələrinizə göndərilən mətn mesajına %d saniyəlik bir səs yazısı əlavə edin</string>
@@ -6725,7 +6709,6 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="nfc_more_details">Daha ətraflı</string>
     <string name="nfc_more_title">Daha çox…</string>
     <string name="nfc_notification_mode_title">NFC kart oxuma xatırladıcıları</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">İlkin olaraq ayarla</string>
     <string name="nfc_payment_btn_text_update">Güncəllə</string>
     <string name="nfc_payment_default">İlkin ödəniş</string>
@@ -6931,7 +6914,6 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="notification_display_settings">Bildiriş paneli</string>
     <string name="notification_fold_summary">Bütün vacib olmayan bildirişlər ayrı bir qovluqda görünəcək</string>
     <string name="notification_fold_title">Bildirişlər qovluğu</string>
-    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_history">Bildiriş tarixçəsi</string>
     <string name="notification_history_count">{count, plural, one {}=1 {# bildiriş} other {# bildiriş} }</string>
     <string name="notification_history_dismiss">Təzəlikcə bağlanılan</string>
@@ -7330,7 +7312,6 @@ Bu xidməti istifadə etməzdən əvvəl bunu oxuyun və razılaşın: %s."</str
     <string name="power_cell">Mobil şəbəkə</string>
     <string name="power_center">Batareya optimallaşdırma</string>
     <string name="power_charge_remaining">%1$s dolacaq</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - Tam dolmasına %2$s qalıb</string>
     <string name="power_charging_future_paused">%1$s - Doldurma optimallaşdırıldı</string>
     <string name="power_charging_limited">%1$s - Doldurma optimallaşdırıldı</string>
@@ -7390,7 +7371,6 @@ Güc düyməsinə və səs artırma düyməsinə eyni anda basın"</string>
     <string name="power_remaining_less_than_duration_only">Ən çox %1$s qalıb</string>
     <string name="power_remaining_more_than_subtext">Ən az %1$s qalıb (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Ən az %1$s qalıb</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Ekran</string>
     <string name="power_settings_title">Sistem performansı</string>
     <string name="power_suggestion_battery_run_out">Batareya %1$s qədər bitə bilər</string>
@@ -7668,7 +7648,6 @@ Güc düyməsinə və səs artırma düyməsinə eyni anda basın"</string>
     <string name="privileged_action_disable_sub_dialog_title">%1$s söndürülsün?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">SIM söndürülsün?</string>
     <string name="process_dex2oat_label">Tətbiq optimallaşdırması</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_network_tethering">İnternet paylaşımı</string>
     <string name="process_provider_in_use_description">%1$s provayderi istifadədir.</string>
@@ -7720,14 +7699,10 @@ Güc düyməsinə və səs artırma düyməsinə eyni anda basın"</string>
     <string name="proxy_error_invalid_exclusion_list">Yazdığınız istisna siyahısı düzgün formatlanmayıb. İstisna edilən domenlərin vergüllə ayrılmış siyahısını yazın.</string>
     <string name="proxy_error_invalid_host">Yazdığınız host adı yararsızdır.</string>
     <string name="proxy_error_invalid_port">Daxil etdiyiniz port yararsızdır.</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_exclusionlist_label">Proxy istisna et</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_hostname_label">Host adı</string>
-    <string name="proxy_port_hint">8080</string>
     <string name="proxy_port_label">Port</string>
     <string name="proxy_settings_title">Proksi</string>
-    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="proxy_url_title">"PAC URL: "</string>
     <string name="proxy_warning_limited_support">HTTP proksi brauzer tərəfindən istifadə olunur və digər tətbiqlər tərəfindən istifadə edilə bilməz.</string>
     <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
@@ -8482,7 +8457,6 @@ Tətbiq sancılmasını istifadə etmək üçün: \u0009
     <string name="security_encryption_attention_3">"Yeni bir ekran kilidi təyin etməlisiniz."</string>
     <string name="security_encryption_attention_4">"Ekran kilidinizi xatırladığınıza əmin olun, əks halda tam bir sıfırlama etməyiniz və cihazdakı bütün dataları silməyiniz lazım gələcək."</string>
     <string name="security_encryption_attention_info">Hesabları, ayarları, endirilmiş tətbiqləri və onların məlumatlarını, media və digər faylları şifrələyə bilərsiniz.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Vacib</string>
     <string name="security_encryption_close_dialog_info">Cihazı bir ekran kilidi istifadə edərək şifrələməməyi seçmək, bəzi Google xidmətlərini əlçatmaz edə bilər.</string>
     <string name="security_encryption_close_dialog_title">İlkin sistem şifrələməsinə geri qayıt</string>
@@ -8804,11 +8778,9 @@ Hər dəfə barmağınızı yüngülcə hərəkət etdirin. Bu, barmaq izinizin 
     <string name="separate_ring_volume_option_title">Zəng səsi səviyyəsi</string>
     <string name="separator">ꚙ</string>
     <string name="service_background_processes">%1$s boşdur</string>
-    <string name="service_client_name">%1$s</string>
     <string name="service_foreground_processes">%1$s istifadə edildi</string>
     <string name="service_manage">Quraşdırma</string>
     <string name="service_manage_description">%1$s: hazırda istifadədədir. Nəzarət etmək üçün Ayarlara toxunun.</string>
-    <string name="service_process_name">%1$s</string>
     <string name="service_restarting">Yenidən başladılır</string>
     <string name="service_started_by_app">Tətbiq tərəfindən başladıldı.</string>
     <string name="service_stop">Dayandır</string>
@@ -8849,7 +8821,6 @@ Hər dəfə barmağınızı yüngülcə hərəkət etdirin. Bu, barmaq izinizin 
     <string name="settings_notify_need_backup">Telefonları dəyişdirdikdən sonra onlara müraciət etmək üçün ayarlarınızı Xiaomi Cloud-a nüsxələyin.</string>
     <string name="settings_notify_new_version">Güncəlləmə mövcuddur. Detallara baxmaq üçün toxunun.</string>
     <string name="settings_notify_phone_recycled">Telefon nömrəniz təkrar emal edilib. Fərqli telefon nömrəsi əlavə etmək üçün toxunun.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="settings_panel_title">Ayarlar paneli</string>
     <string name="settings_safetylegal_activity_loading">Yüklənir…</string>
     <string name="settings_safetylegal_title">Təhlükəsizlik məlumatı</string>
@@ -9090,7 +9061,6 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Yenə də ötür</string>
     <string name="skip_label">Ötür</string>
@@ -9355,10 +9325,8 @@ Cihazınızda quraşdırılmış güvənli bir kimlik məlumatı bunu mümkün e
     <string name="status_bar_app_enable_message">Nişanlar</string>
     <string name="status_bar_carrier_settings_no_sim_card">SIM kart yoxdur</string>
     <string name="status_bar_icons_title">Status çubuğu nişanları</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Bildirişlər və status çubuğu</string>
     <string name="status_bar_settings_all_app_display_loading">Bir saniyə…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Tətbiq bildirişləri</string>
     <string name="status_bar_settings_notification_bar">Bildiriş paneli</string>
     <string name="status_bar_settings_notification_use_app_icon">Bildirişlər üçün tətbiq nişanlarını istifadə et</string>
@@ -9701,10 +9669,8 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_empty"></string>
-    <string name="summary_font_size">%1$s</string>
     <string name="summary_placeholder"> </string>
     <string name="summary_quick_control_all_devices">Yaxınlıqdakı TV-lər, dinamiklər və avtomobillər üçün kontrolları İdarəetmə mərkəzində göstər</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
     <string name="sunday">Bazar</string>
@@ -10684,7 +10650,6 @@ Söz əlavə etmək üçün toplama nişanına toxunun."</string>
     <string name="vision_settings_title">Görmə ayarları</string>
     <string name="voice_access">Səs kontrolları</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Nitq</string>
     <string name="voice_helper_title">Səsli köməkçi</string>
     <string name="voice_input_output_settings">Səs girişi və çıxışı</string>
@@ -10977,7 +10942,6 @@ Detallar üçün operatorunuzun gizlilik siyasətinə baxın."</string>
     <string name="wifi_calling_off_explanation">Wi-Fi zəngi açıq olduqda, tərcihinizdən və siqnalın gücündən asılı olaraq telefon zəngləriniz Wi-Fi şəbəkələri və ya mobil şəbəkəniz vasitəsilə yönləndirə bilər. Bu özəlliyi işə salmazdan əvvəl, qiymətləri və digər detalları öyrənmək üçün operatorunuzla əlaqə saxlayın. %1$s</string>
     <string name="wifi_calling_off_explanation_2"></string>
     <string name="wifi_calling_roaming_mode_dialog_title">Rouminq tərcihi</string>
-    <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">Rouminq tərcihi</string>
     <string name="wifi_calling_settings_activation_instructions">Wi-Fi Zəngini aktivləşdir</string>
     <string name="wifi_calling_settings_title">Wi-Fi zəngi</string>
@@ -11328,7 +11292,6 @@ Skan etmək istəyən bütün tətbiqlərə icazə verilsin?"</string>
     <string name="wifi_security_none_owe">Heç biri/Təkmilləşdirilmiş açıq</string>
     <string name="wifi_security_owe">Təkmilləşdirilmiş açıq</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">WPA3-Personal</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -11340,7 +11303,6 @@ Skan etmək istəyən bütün tətbiqlərə icazə verilsin?"</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">Heç biri/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>
@@ -11922,11 +11884,9 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="zone_auto_summaryOff">Operator şəbəkəsi tərəfindən təmin edilən vaxt istifadə et</string>
     <string name="zone_auto_summaryOn">Operator şəbəkəsi tərəfindən təmin edilən vaxt istifadə et</string>
     <string name="zone_auto_title">Saat qurşağını avtomatik ayarla</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">%1$s istifadə edir. %2$s</string>
     <string name="zone_info_footer_no_dst">%1$s istifadə edir. Yay vaxtına keçid olmayacaq.</string>
     <string name="zone_info_footer_second_sentence">%1$s başlayır: %2$s.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Əlifba sırasına görə sırala</string>
     <string name="zone_list_menu_sort_by_timezone">Saat qurşağına görə sırala</string>
     <string name="zone_menu_by_offset">UTC fərqinə görə seç</string>

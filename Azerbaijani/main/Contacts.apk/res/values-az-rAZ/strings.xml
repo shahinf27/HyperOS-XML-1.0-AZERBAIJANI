@@ -378,7 +378,6 @@
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_file_prefix"></string>
     <string name="config_export_file_suffix"></string>
-    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Təsadüfi zəngləri önləmək üçün zəng qeydlərindən nömrə yığmazdan əvvəl təsdiq istənilsin.</string>
     <string name="confirm_call_log_dial_title">Zəng jurnalından yığımları təsdiqlə</string>
     <string name="confirm_delete_contact_all_call_logs">"Bütün %s tarixçəsi təmizlənsin?"</string>
@@ -680,7 +679,6 @@ Səbəb: \"%s\""</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Ad</string>
     <string name="gallery">Qalereya</string>
     <string name="ghostData_company">Şirkət</string>
@@ -817,7 +815,6 @@ Səbəb: \"%s\""</string>
     <string name="menu_sync_remove">Sinxronlaşdırılmış qrupu sil</string>
     <string name="midnight">Gecə</string>
     <string name="miprofile_account_type">Kontakt kartları</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profilə düzəliş et</string>
     <string name="miprofile_name">Profilim</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -996,7 +993,6 @@ Səbəb: \"%s\""</string>
     <string name="permission_retry_setting">Ayarlar</string>
     <string name="permission_write_external_storage_desc">Tətbiq datasını saxlamaq üçün</string>
     <string name="phoneLabelsGroup">Telefon</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Nömrə çox uzundur</string>
     <string name="phone_primary">Əsas</string>
     <string name="photoPickerNotFoundText">Cihazda heç bir şəkil yoxdur.</string>
@@ -1232,7 +1228,6 @@ Səbəb: \"%s\""</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Qrup üzvü yoxdur</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Şirkətlər</string>
     <string name="smart_group_company_unavailable">Şirkət məlumatı yoxdur</string>
     <string name="smart_group_frequency_1">Keçən ay ərzində</string>
@@ -1299,7 +1294,6 @@ Səbəb: \"%s\""</string>
     <string name="starred_contacts">Sevimlilər</string>
     <string name="status_available">Əlçatan</string>
     <string name="status_away">Uzaqda</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Məşğul</string>
     <string name="strequentList">Sevimlilər</string>
     <string name="success_message_import_from_account">Kontakt daxilə köçürüldü</string>

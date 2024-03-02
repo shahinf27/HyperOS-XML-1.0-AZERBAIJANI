@@ -230,7 +230,6 @@
     <string name="activate_usb_title">USB-ni aktivləşdir</string>
     <string name="add">Əlavə et</string>
     <string name="add_guest_failed">Yeni bir qonaq yaradılmadı</string>
-    <string name="add_user_supervised">@android:string/supervised_user_creation_label</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="air_quality_index_abbreviation">HKİ</string>
     <string name="airplane_mode">Təyyarə rejimi</string>
@@ -266,9 +265,7 @@
     <string name="battery_low_description">%s batareyanız qalıb. Batareyaya Qənaət rejimi Qaranlıq temanı işə salır, arxaplan fəaliyyətini məhdudlaşdırır və bildirişləri gecikdirir.</string>
     <string name="battery_low_intro">Batareyaya Qənaət rejimi Qaranlıq temanı işə salır, arxaplan fəaliyyətini məhdudlaşdırır və bildirişləri gecikdirir.</string>
     <string name="battery_low_title">Batareyaya Qənaət işə salınsın?</string>
-    <string name="battery_meter_charging_path">M11.671 26H19L3 43L7.571 30.474L7.329 30H0L16 13L11.428 25.526L11.671 26Z</string>
     <string name="battery_meter_percent_sign">%</string>
-    <string name="battery_meter_quick_charging_path">M13.368 13L11 20.5H18L11 29.5H17L5.677 43H4.632L7 35.5H0L8 26.5H1L12.323 13H13.368Z</string>
     <string name="battery_saver_confirmation_ok">İşə sal</string>
     <string name="battery_saver_confirmation_title">Batareya Qənaəti işə salınsın?</string>
     <string name="battery_saver_confirmation_title_generic">Batareya Qənaəti haqqında</string>
@@ -503,7 +500,6 @@ Yenidən qoşmaq üçün toxunun"</string>
     <string name="config_sceenshotWorkProfileFilesApp"></string>
     <string name="config_screenshotAppClipsActivityComponent">com.android.systemui/com.android.systemui.screenshot.appclips.AppClipsActivity</string>
     <string name="config_screenshotEditor"></string>
-    <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIInitializerImpl</string>
     <string name="config_systemUIVendorServiceComponent">com.android.systemui.VendorServices</string>
     <string name="config_udfpsIcon">M25.5,16.3283C28.47,14.8433 31.9167,14 35.5834,14C39.2501,14 42.6968,14.8433 45.6668,16.3283 M20,28.6669C22.7683,24.3402 28.7084,21.3335 35.5834,21.3335C42.4585,21.3335 48.3985, 24.3402 51.1669,28.6669 M22.8607,47.0002C21.834,44.3235 21.834,41.5002 21.834,41.5002C21.834, 34.4051 27.7374,28.6667 35.5841,28.6667C43.4308,28.6667 49.3341,34.4051 49.3341,41.5002 M49.3344,41.5003V42.0319C49.3344,44.7636 47.1161,47.0003 44.3661,47.0003C41.9461, 47.0003 39.8744,45.2403 39.471,42.857L38.9577, 39.7769C38.591,37.5953 36.7027,36.0002 34.5027, 36.0002C26.5826,36.0002 29.846,49.1087 35.291,50.6487 M44.9713,54.6267C42.5513,56.7167 39.2879,58.0001 35.5846,58.0001C32.2296, 58.0001 29.2229,56.9551 26.8945,55.195</string>
     <string name="config_wallpaperPickerPackage">com.android.wallpaper</string>
@@ -769,7 +765,6 @@ Onlar silindikdən sonra, telefonunuzun kilidini açmaq və siz olduğunuzu doğ
     <string name="fingerprint_reenroll_failure_dialog_content">Barmaq izi ilə kilid açma qurula bilmədi. Yenidən sınamaq üçün Ayarlara gedin.</string>
     <string name="fingerprint_try_again_msg">"Barmaq izi doğrulana bilmədi, yenidən sınayın."</string>
     <string name="fingerprint_try_again_text">Yenidən sına</string>
-    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="float_button_text">Üzən</string>
     <string name="float_notification_snooze_strategy">Üzən bildirişləri müvəqqəti gizlət</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -1096,7 +1091,6 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="keyguard_enter_password">Parolu daxil edin</string>
     <string name="keyguard_enter_pattern">Naxış çəkin</string>
     <string name="keyguard_enter_pin">PIN-i daxil edin</string>
-    <string name="keyguard_fancy_colon"></string>
     <string name="keyguard_indication_charging_time">%2$s • Dolur • %1$s ərzində tam dolacaq</string>
     <string name="keyguard_indication_charging_time_dock">%2$s • Dolur • %1$s ərzində tam dolacaq</string>
     <string name="keyguard_indication_charging_time_fast">%2$s • Sürətlə dolur • %1$s ərzində tam dolacaq</string>
@@ -1364,9 +1358,7 @@ d-M"</string>
     <string name="miui_notification_menu_msg_unfocus">"%1$s üçün Bildiriş spotlight-ını söndürmək üzrəsiniz. Bu bildirişlər normal şəkildə göstəriləcək. İndi ssöndürülsün?"</string>
     <string name="miui_notification_menu_setting_success">Hazırdır</string>
     <string name="miui_notification_menu_snooze">Ertələ</string>
-    <string name="miui_notification_menu_snooze_title">@string/miui_notification_menu_snooze</string>
     <string name="miui_notification_menu_title_not_allow">Məhdudlaşdır</string>
-    <string name="miui_notification_menu_title_unfocus">@string/miui_notification_menu_unfocus</string>
     <string name="miui_notification_menu_unfocus">Bildiriş spotlight-ı söndür</string>
     <string name="miui_quick_settings_tiles_default">cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controls,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,settings,edit</string>
     <string name="miui_quick_settings_tiles_default_international">cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controls,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,settings,wallet,scanner,custom(com.google.android.gms/.nearby.sharing.SharingTileService),quietmode,edit</string>
@@ -1440,7 +1432,6 @@ Daha çox məlumat üçün IT admininizlə əlaqə saxlayın."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Fərdi tətbiqləriniz %1$s üzərindən internetə bağlanıb. E-poçt və gəzinmə datası daxil olmaqla şəbəkə fəaliyyətiniz IT admininizə görünür.</string>
     <string name="monitoring_description_two_named_vpns">Bu cihaz %1$s və %2$s üzərindən internetə bağlanıb. E-poçt və gəzinmə datası daxil olmaqla şəbəkə fəaliyyətiniz IT admininizə görünür.</string>
     <string name="monitoring_description_vpn_settings">VPN ayarlarını aç</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s, bu cihazla əlaqələndirilmiş datalara müraciət edə, tətbiqləri idarə edə və bu cihazın ayarlarını dəyişdirə bilər.
 
 Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
@@ -1618,7 +1609,6 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="notification_vpn_connected">VPN bağlantılıdır</string>
     <string name="notification_vpn_disconnected">VPN bağlantısı kəsildi</string>
     <string name="num_pad_key_ratio">1</string>
-    <string name="ok">@android:string/ok</string>
     <string name="one_handed_tutorial_description">Çıxmaq üçün ekranın aşağısından yuxarıya doğru sürüşdürün və ya tətbiqin yuxarısında istənilən yerə toxunun</string>
     <string name="one_handed_tutorial_title">Tək əl rejimi istifadə edilir</string>
     <string name="one_week_timestamp">1 həftə əvvəl</string>
@@ -1897,11 +1887,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="quick_settings_sync_label">Sinxr</string>
     <string name="quick_settings_sync_state_change_message_off">Sinxr bağlıdır</string>
     <string name="quick_settings_sync_state_change_message_on">Sinxr açıqdır</string>
-    <string name="quick_settings_tiles">default</string>
-    <string name="quick_settings_tiles_default">internet,bt,flashlight,dnd,alarm,airplane,controls,wallet,rotation,battery,cast,screenrecord,mictoggle,cameratoggle,custom(com.android.permissioncontroller/.permission.service.SafetyCenterQsTileService)</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_retail_mode">night,dark,dnd,flashlight,rotation,location</string>
-    <string name="quick_settings_tiles_stock">internet;bt;fənər;narahat etməyin;zəngli saat;təyyarə;kontrollar;pulqabı;döndərmə;batareya;yayım;ekranyazma;mikrofonua açıb bağlama;kameranı açıb bağlama;yerləşmə;hotspot;tərs;qənaət;tünd;iş;gecə;əks;parlaqlığı_azalt;qr_kod_skaneri;təkəl;rəng_düzəltmə</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_ui_mode_night_label">Qaranlıq tema</string>
     <string name="quick_settings_vibrate_label">Titrəmə</string>
@@ -2108,10 +2094,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
-    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_sim">no_sim</string>
     <string name="status_bar_settings_auto_rotation">Ekranı avto-döndərmə</string>
     <string name="status_bar_work">İş profili</string>
@@ -2153,7 +2136,6 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="switch_system_user">Birinci sahəyə get</string>
     <string name="system_multitasking_full_screen">Bölünmüş ekrandan tam ekrana keçid</string>
     <string name="system_ui_aod_date_pattern">EEEdMMM</string>
-    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="system_ui_tuner">Sistem UI Tuner</string>
     <string name="tap_a_network_to_connect">Bağlanmaq üçün bir şəbəkəyə toxunun</string>
     <string name="tap_again">Yenidən toxun</string>

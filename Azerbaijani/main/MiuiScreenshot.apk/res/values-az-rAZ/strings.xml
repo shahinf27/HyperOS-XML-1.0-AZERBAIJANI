@@ -50,7 +50,6 @@
     <string name="blackshark_3_pro">Black Shark 3 Pro</string>
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
-    <string name="both_stroke_and_substrate_are_not_supported">@string/text_edit_dialog_style_toast</string>
     <string name="btn_cancel">İmtina</string>
     <string name="btn_cancel_send">Bu köçürməni ləğv et</string>
     <string name="btn_exit_send">Çıx</string>
@@ -466,17 +465,12 @@
     <string name="screen_editor_btn_save">Saxla</string>
     <string name="screen_editor_btn_shell_off">Cihaz çərçivəsini sil</string>
     <string name="screen_editor_btn_shell_on">Cihaz çərçivəsini əlavə et</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Bu ekran şəkli silinsin?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Bu şəkil indi silinsin?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Hazırdır</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">"Kəsilmiş ekran şəkillərinə cihaz çərçivəsi əlavə edilə bilmir"</string>
     <string name="screen_editor_shell_net_error">Cihaz çərçivəsini endirmək üçün şəbəkəyə bağlanın</string>
     <string name="screen_editor_shell_res_downloading">Cihaz çərçivəsi endirilir…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">İmtina</string>
     <string name="screen_save_dialog_btn_delete">Ekran şəklini sil</string>
     <string name="screen_save_dialog_btn_save">Qalareyada saxla</string>
@@ -624,7 +618,6 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
-    <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="toast_download_with_metered_network_btn_continue">Endir</string>
     <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil internet istifadə edərək endirilsin?"</string>
     <string name="toast_download_with_metered_network_title">İnternet istifadə xəbərdarlığı</string>

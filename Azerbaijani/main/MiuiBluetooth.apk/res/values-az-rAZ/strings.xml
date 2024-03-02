@@ -41,8 +41,6 @@
     <string name="ble_device_profile_summary">Bu cihazı idarə et</string>
     <string name="ble_device_profile_title">Cütləşmiş Ağıllı Bluetooth cihazı</string>
     <string name="ble_device_rename">Yenidən adlandır</string>
-    <string name="ble_profile_1">ble_profile_mi_band</string>
-    <string name="ble_profile_2">ble_profile_mi_key</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Media səsinə bağlandı</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Media səsi üçün istifadə edilir</string>
     <string name="bluetooth_active_battery_level">Aktiv, %1$s batareya</string>

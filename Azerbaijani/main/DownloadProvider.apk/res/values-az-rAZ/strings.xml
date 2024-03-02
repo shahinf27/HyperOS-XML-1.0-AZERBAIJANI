@@ -131,9 +131,7 @@
     <string name="dialog_data_limit_button1">Wi-Fi gözlə</string>
     <string name="dialog_data_limit_button2">Endir</string>
     <string name="dialog_data_limit_msg1">Bu faylı endirmək üçün %s mobil internet istifadə ediləcək. İndi endirilsin?</string>
-    <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
     <string name="dialog_data_limit_msg3">Limiti dəyişdir</string>
-    <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
     <string name="dialog_data_limit_title">İnternet istifadə xəbərdarlığı</string>
     <string name="dialog_delete_positive">Sil</string>
     <string name="dialog_file_missing_body">"Fayl tapıla bilmədi, görünüşə görə silinib."</string>
@@ -162,7 +160,6 @@
     <string name="download_queued">Növbədədir</string>
     <string name="download_remaining">%s qaldı</string>
     <string name="download_running">Davam edir</string>
-    <string name="download_running_percent">In progress, %d%%</string>
     <string name="download_status_continue">Davam et</string>
     <string name="download_status_fail">Yenidən sına</string>
     <string name="download_status_paused">Fasilə ver</string>

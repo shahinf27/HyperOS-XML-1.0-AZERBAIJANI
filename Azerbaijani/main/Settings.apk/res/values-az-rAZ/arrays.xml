@@ -43,26 +43,6 @@
         <item>accessibility_control_timeout_1min</item>
         <item>accessibility_control_timeout_2mins</item>
     </string-array>
-    <string-array name="accessibility_timeout_summaries">
-        <item>@string/accessibility_timeout_default</item>
-        <item>@string/accessibility_timeout_10secs</item>
-        <item>@string/accessibility_timeout_30secs</item>
-        <item>@string/accessibility_timeout_1min</item>
-        <item>@string/accessibility_timeout_2mins</item>
-    </string-array>
-    <string-array name="add_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap_wpa_wpa2</item>
-    </string-array>
-    <string-array name="add_wifi_security_with_sae">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>@string/wifi_security_sae</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
@@ -205,27 +185,6 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
-    <string-array name="always_enabled_app_list">
-        <item>com.android.providers.applications</item>
-        <item>com.android.providers.calendar</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.providers.downloads</item>
-        <item>com.android.providers.drm</item>
-        <item>com.android.providers.media</item>
-        <item>com.android.providers.telephony</item>
-        <item>com.android.providers.userdictionary</item>
-        <item>com.miui.providers.userbook</item>
-        <item>com.miui.providers.weather</item>
-        <item>com.miui.yellowpage</item>
-        <item>com.miui</item>
-        <item>com.android.htmlviewer</item>
-        <item>com.google.android.packageinstaller</item>
-        <item>com.miui.core</item>
-    </string-array>
-    <string-array name="am_pms">
-        <item>@string/am</item>
-        <item>@string/pm</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animasiya bağlıdır</item>
         <item>Animasiya miqyası .5x</item>
@@ -243,11 +202,6 @@
         <item>2</item>
         <item>5</item>
         <item>10</item>
-    </string-array>
-    <string-array name="aod_notification_status_entries">
-        <item>@string/aod_notification_style_none</item>
-        <item>@string/aod_notification_style_screen_on</item>
-        <item>@string/aod_notification_style_animation</item>
     </string-array>
     <string-array name="aod_show_style_values">
         <item>0</item>
@@ -435,11 +389,6 @@
         <item>3</item>
         <item>4</item>
     </string-array>
-    <string-array name="audio_mode_entries">
-        <item>@string/miheadset_audio_mode_normal</item>
-        <item>@string/miheadset_audio_mode_listen</item>
-        <item>@string/miheadset_audio_mode_high</item>
-    </string-array>
     <string-array name="audio_mode_values">
         <item>00</item>
         <item>01</item>
@@ -467,25 +416,10 @@
     </string-array>
     <array name="avatar_image_descriptions"></array>
     <array name="avatar_images"></array>
-    <string-array name="ba_disable_timeout">
-        <item>@string/short_time</item>
-        <item>@string/long_time</item>
-        <item>@string/always_on</item>
-    </string-array>
     <string-array name="ba_disable_timeout_value">
         <item>short_time</item>
         <item>long_time</item>
         <item>always_on</item>
-    </string-array>
-    <string-array name="ba_security_settings_entries">
-        <item>@string/ba_low_security_level</item>
-        <item>@string/ba_mid_security_level</item>
-        <item>@string/ba_high_security_level</item>
-    </string-array>
-    <string-array name="ba_security_settings_summaries">
-        <item>@string/ba_low_security_level_summary</item>
-        <item>@string/ba_mid_security_level_summary</item>
-        <item>@string/ba_high_security_level_summary</item>
     </string-array>
     <string-array name="ba_security_settings_values">
         <item>0</item>
@@ -876,26 +810,10 @@
         <item>20000</item>
         <item>-1</item>
     </string-array>
-    <string-array name="cached_apps_freezer_entries">
-        <item>@string/cached_apps_freezer_device_default</item>
-        <item>@string/cached_apps_freezer_enabled</item>
-        <item>@string/cached_apps_freezer_disabled</item>
-    </string-array>
     <string-array name="cached_apps_freezer_values">
         <item>device_default</item>
         <item>enabled</item>
         <item>disabled</item>
-    </string-array>
-    <string-array name="captioning_color_selector_titles">
-        <item>@string/color_unspecified</item>
-        <item>@string/color_white</item>
-        <item>@string/color_black</item>
-        <item>@string/color_red</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_magenta</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>İlkin</item>
@@ -984,18 +902,6 @@
         <item>PIN</item>
         <item>Parol</item>
     </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
-    </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>@string/charge_animation_style_none</item>
-        <item>@string/charge_animation_style_lollipop</item>
-        <item>@string/charge_animation_style_video</item>
-        <item>@string/charge_animation_style_wave</item>
-    </string-array>
     <string-array name="charge_animation_style_values">
         <item>-1</item>
         <item>0</item>
@@ -1030,11 +936,6 @@
         <item>46009</item>
         <item>46031</item>
         <item>46032</item>
-    </string-array>
-    <string-array name="choose_dns_mode">
-        <item>@string/private_dns_mode_off</item>
-        <item>@string/private_dns_mode_opportunistic</item>
-        <item>@string/private_dns_mode_provider</item>
     </string-array>
     <string-array name="city_timezone">
         <item>Afrika/Abican</item>
@@ -1327,9 +1228,6 @@
         <item>Amerika/Paramaribo</item>
         <item>Amerika/Panama</item>
     </string-array>
-    <string-array name="code_change_entries">
-        <item>@string/headset_sbc</item>
-    </string-array>
     <string-array name="code_change_values">
         <item>0</item>
     </string-array>
@@ -1380,21 +1278,11 @@
         <item>Tətbiq kilidi</item>
         <item>İkinci sahə</item>
     </string-array>
-    <string-array name="config_color_mode_options_strings">
-        <item>@string/color_mode_option_natural</item>
-        <item>@string/color_mode_option_boosted</item>
-        <item>@string/color_mode_option_saturated</item>
-        <item>@string/color_mode_option_automatic</item>
-    </string-array>
     <array name="config_device_lock_need"></array>
     <array name="config_disable_optimization_mode_apps"></array>
     <array name="config_disallowed_app_localeChange_packages"></array>
     <string-array name="config_downloaded_services">
         <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
-    </string-array>
-    <string-array name="config_exempt_wifi_permission_uid_name">
-        <item>@string/config_settingsintelligence_package_name</item>
-        <item>android.uid.system:1000</item>
     </string-array>
     <string-array name="config_known_host_certs">
         <item></item>
@@ -1419,10 +1307,6 @@
         <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
     </string-array>
     <array name="config_preinstalled_speech_services"></array>
-    <string-array name="config_screen_resolution_options_strings">
-        <item>@string/screen_resolution_option_high</item>
-        <item>@string/screen_resolution_option_full</item>
-    </string-array>
     <array name="config_settableAutoRotationDeviceStatesDescriptions"></array>
     <array name="config_settings_slices_accessibility_components"></array>
     <string-array name="config_skip_reset_apps_package_name">
@@ -1446,10 +1330,6 @@
         <item>file:///system/media/audio/ui/AustraliaAnimals_preview.ogg</item>
         <item>file:///system/media/audio/ui/ArcticAnimals_preview.ogg</item>
     </string-array>
-    <string-array name="cutout_mode_entries">
-        <item>@string/cutout_mode_default</item>
-        <item>@string/cutout_mode_always</item>
-    </string-array>
     <string-array name="daltonizer_mode_keys">
         <item>daltonizer_mode_deuteranomaly</item>
         <item>daltonizer_mode_protanomaly</item>
@@ -1459,17 +1339,6 @@
     <string-array name="dark_ui_mode_entries">
         <item>Qaranlıq</item>
         <item>Açıq</item>
-    </string-array>
-    <string-array name="dark_ui_scheduler_preference_titles">
-        <item>@string/dark_ui_auto_mode_never</item>
-        <item>@string/dark_ui_auto_mode_custom</item>
-        <item>@string/dark_ui_auto_mode_auto</item>
-    </string-array>
-    <string-array name="dark_ui_scheduler_with_bedtime_preference_titles">
-        <item>@string/dark_ui_auto_mode_never</item>
-        <item>@string/dark_ui_auto_mode_custom</item>
-        <item>@string/dark_ui_auto_mode_auto</item>
-        <item>@string/dark_ui_auto_mode_custom_bedtime</item>
     </string-array>
     <string-array name="data_network_type_name_default">
         <item>4G</item>
@@ -1548,15 +1417,6 @@
         <item>2</item>
         <item>3</item>
     </string-array>
-    <string-array name="detailed_am_pms">
-        <item>@string/midnight</item>
-        <item>@string/early_morning</item>
-        <item>@string/morning</item>
-        <item>@string/noon</item>
-        <item>@string/afternoon</item>
-        <item>@string/evening</item>
-        <item>@string/night</item>
-    </string-array>
     <string-array name="device_support_pickup_by_MTK">
         <item>cactus</item>
         <item>cereus</item>
@@ -1590,16 +1450,6 @@
         <item>camellian</item>
         <item>camellia</item>
     </string-array>
-    <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
-    </string-array>
-    <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_all</item>
-        <item>@string/dndm_vip_list_contact</item>
-        <item>@string/dndm_vip_list_starred_contact</item>
-        <item>@string/dndm_vip_list_custom</item>
-    </string-array>
     <string-array name="domestic_roaming_mplmns">
         <item>46050</item>
         <item>46051</item>
@@ -1610,27 +1460,9 @@
         <item>46060</item>
         <item>46061</item>
     </string-array>
-    <string-array name="double_click_mode_entries">
-        <item>@string/miheadset_next</item>
-        <item>@string/miheadset_plus</item>
-    </string-array>
     <string-array name="double_key_mode_values">
         <item>03</item>
         <item>04</item>
-    </string-array>
-    <string-array name="double_tone_entries">
-        <item>@string/miheadset_key_config_next_music</item>
-        <item>@string/miheadset_key_config_volume_up</item>
-    </string-array>
-    <string-array name="double_tone_entries_left_TWS01">
-        <item>@string/miheadset_play_pause</item>
-        <item>@string/miheadset_key_config_next_music</item>
-        <item>@string/miheadet_up_music</item>
-    </string-array>
-    <string-array name="double_tone_entries_right_TWS01">
-        <item>@string/miheadset_play_pause</item>
-        <item>@string/miheadset_key_config_next_music</item>
-        <item>@string/miheadet_up_music</item>
     </string-array>
     <string-array name="double_tone_entry_values">
         <item>0</item>
@@ -1679,11 +1511,6 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="enabled_networks_choices">
-        <item>@string/network_lte</item>
-        <item>@string/network_3G</item>
-        <item>@string/network_2G</item>
-    </string-array>
     <string-array name="enabled_networks_except_gsm_3g_values">
         <item>9</item>
     </string-array>
@@ -1697,11 +1524,6 @@
     <string-array name="enabled_networks_except_lte_values">
         <item>0</item>
         <item>1</item>
-    </string-array>
-    <string-array name="enabled_networks_gsm_wcdma_choices">
-        <item>@string/network_2G_only</item>
-        <item>@string/network_3G_only</item>
-        <item>@string/network_2G_3G_preferred</item>
     </string-array>
     <string-array name="enabled_networks_gsm_wcdma_values">
         <item>1</item>
@@ -1726,11 +1548,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <string-array name="enhanced_4g_lte_mode_title_variant">
-        <item>@string/enhanced_4g_lte_mode_title</item>
-        <item>@string/enhanced_4g_lte_mode_title_advanced_calling</item>
-        <item>@string/enhanced_4g_lte_mode_title_4g_calling</item>
-    </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
         <item>Təbii</item>
@@ -1744,15 +1561,7 @@
         <item>1.80</item>
         <item>2.0</item>
     </string-array>
-    <string-array name="eras">
-        <item>@string/eras_bc</item>
-        <item>@string/eras_ad</item>
-    </string-array>
     <array name="fingerprint_acquired_ignore_list"></array>
-    <string-array name="fingerprint_unlock_type_entries">
-        <item>@string/fingerprint_unlock_touch_type</item>
-        <item>@string/fingerprint_unlock_press_type</item>
-    </string-array>
     <string-array name="fingerprint_unlock_type_values">
         <item>0</item>
         <item>1</item>
@@ -1779,14 +1588,6 @@
         <item>"Cihazın performansını artırır"</item>
         <item>"Cihazın performansını yavaşlada bilər"</item>
     </string-array>
-    <string-array name="font_size_title">
-        <item>@string/layout_size_extral_small</item>
-        <item>@string/layout_size_small</item>
-        <item>@string/layout_size_normal</item>
-        <item>@string/layout_size_large</item>
-        <item>@string/layout_size_huge</item>
-        <item>@string/layout_size_exhuge</item>
-    </string-array>
     <string-array name="fps_list_entries">
         <item>120Hz</item>
         <item>60Hz</item>
@@ -1804,17 +1605,6 @@
         <item>0f</item>
         <item>0.53f</item>
         <item>1f</item>
-    </string-array>
-    <string-array name="graphics_driver_all_apps_preference_values">
-        <item>@string/graphics_driver_app_preference_default</item>
-        <item>@string/graphics_driver_app_preference_production_driver</item>
-        <item>@string/graphics_driver_app_preference_prerelease_driver</item>
-    </string-array>
-    <string-array name="graphics_driver_app_preference_values">
-        <item>@string/graphics_driver_app_preference_default</item>
-        <item>@string/graphics_driver_app_preference_prerelease_driver</item>
-        <item>@string/graphics_driver_app_preference_production_driver</item>
-        <item>@string/graphics_driver_app_preference_system</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5\u2033</item>
@@ -1857,14 +1647,6 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
-    <string-array name="ingress_rate_limit_entries">
-        <item>@string/ingress_rate_limit_no_limit_entry</item>
-        <item>128kbps</item>
-        <item>256kbps</item>
-        <item>1Mbps</item>
-        <item>5Mbps</item>
-        <item>15Mbps</item>
-    </string-array>
     <string-array name="ingress_rate_limit_values">
         <item>-1</item>
         <item>16000</item>
@@ -1872,15 +1654,6 @@
         <item>125000</item>
         <item>625000</item>
         <item>1875000</item>
-    </string-array>
-    <string-array name="input_method_function_des">
-        <item>@string/input_method_function_voice_des</item>
-        <item>@string/input_method_function_xiaoai_des</item>
-        <item>@string/input_method_function_switch_des</item>
-        <item>@string/input_method_function_clipboard_des</item>
-        <item>@string/input_method_function_switch_keyboard_language_des</item>
-        <item>@string/input_method_function_switch_keyboard_type_des</item>
-        <item>@string/input_method_function_no_function_des</item>
     </string-array>
     <string-array name="inputdebuglog_select_level_entries">
         <item>Səviyyə 0</item>
@@ -1897,15 +1670,6 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-    </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
     </string-array>
     <string-array name="key_slider_voice_choice">
         <item>slide_keji_open.ogg</item>

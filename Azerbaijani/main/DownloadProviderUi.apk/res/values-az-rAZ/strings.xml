@@ -179,7 +179,6 @@
     <string name="download_list_title_browser">Endirilənlər</string>
     <string name="download_no_application">Bu formatı dəstəkləyən tətbiq yoxdur</string>
     <string name="download_no_application_title">"Fayl açıla bilmir"</string>
-    <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_pending">Endirmə gözləyir</string>
     <string name="download_remain_time">Qalan</string>
     <string name="download_running">Endirilir…</string>
@@ -217,7 +216,6 @@
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="extract_file">Fayl paketi açılır…</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Bu fayl artıq mövcuddur</string>
     <string name="file_picker">Yerləşməni seçin</string>
     <string name="file_size">Həcmi</string>

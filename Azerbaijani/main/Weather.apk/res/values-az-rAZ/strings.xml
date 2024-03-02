@@ -178,12 +178,9 @@
     <string name="daily_forecast_add_city_message">Daha ətraflı hava proqnozu almaq üçün %1$s hava məlumatlarını izləyin.</string>
     <string name="daily_forecast_add_city_title">%1$s üzrə hava məlumatlarını izləyin</string>
     <string name="daily_forecast_detail_date">d/M</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Hava məlumatı alına bilmədi
 Yeniləmək üçün aşağıya çəkin və ya şəbəkə ayarlarını yoxlayın"</string>
     <string name="data_provided_by">Təminatçı</string>
-    <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
-    <string name="data_source_timezone">GMT%1$s</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
@@ -208,7 +205,6 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="dynamic_weather">Hava</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_city">Şəhərləri idarə et</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Güncəllənir…</string>
     <string name="empty_view_net_unavailable">"Şəbəkə ilə bağlantı qurula bilmədi"</string>
     <string name="empty_view_refresh">Yenidən sına</string>
@@ -336,8 +332,6 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="home_page_forecast_video_desc">Proqnoz</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">İndi</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_detail_chart_view_max_temperature_text">Yüksək</string>
     <string name="hourly_forecast_detail_chart_view_min_temperature_text">Aşağı</string>
@@ -366,7 +360,6 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="index_item_installing2_type_e">"正在
 安装"</string>
     <string name="indices_desc_humidity">Rütubət %1$s%%</string>
-    <string name="indices_desc_humidity_without_pic">%1$s%%</string>
     <string name="indices_desc_pressure">%1$smb</string>
     <string name="indices_title_chance_of_rain">Yağış yağma ehtimalı</string>
     <string name="indices_title_feel">Hissedilən</string>
@@ -380,16 +373,11 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="indices_wind_direction_west">Qə</string>
     <string name="information_settings_title">Hava məlumatı</string>
     <string name="install">Quraşdır</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">TƏZYİQ</string>
-    <string name="international_details_real_feel_title">@string/indices_title_feel</string>
     <string name="international_details_title">Detallar</string>
     <string name="international_details_uv_index_title">UV İNDEKSİ</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">KÜLƏK</string>
     <string name="it_is_going_to_rain">"Yağış yağacaq"</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="life_index_title">Hava durumu indeksi</string>
     <string name="locate_fail_detail_err">"Cihaz tapıla bilmir
 Əllə şəhər əlavə etmək və ya yenidən yerləşdirmək üçün ekrana toxunun"</string>
@@ -639,7 +627,6 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="share_button">Paylaş</string>
     <string name="share_menu_title">Paylaş</string>
     <string name="share_subject">Paylaş</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Ekran şəkli çəkilə bilmədi"</string>
     <string name="shortcut_short_label_24_hour_forecast">24 saatlıq proqnoz</string>

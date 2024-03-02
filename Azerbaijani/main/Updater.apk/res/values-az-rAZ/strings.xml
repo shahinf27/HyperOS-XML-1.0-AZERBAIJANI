@@ -19,7 +19,6 @@
     <string name="channel_service">Güncəlləyici Arxaplan Xidməti</string>
     <string name="channel_update">Yeni versiya mövcuddur</string>
     <string name="check_new_version">Güncəlləmələri yoxla</string>
-    <string name="chengelog">%1$s</string>
     <string name="dialog_3g_desc">ROM-ları Mobil İnternet istifadə edərək endirsəniz, paketinizin əhəmiyyətli miqdarda kvotasını istifadə etmiş olacaqsınız.</string>
     <string name="dialog_3g_title">Xəbərdarlıq!</string>
     <string name="dialog_ab">Cihazınız \"Problemsiz Sistem Güncəlləmələri\"ni dəstəkləyir, TWRP-də soruşulanda \"A Yuvası\"nı seçməyi unutmayın!</string>
@@ -63,7 +62,6 @@ Datalar silinməyəcək.\"</string>
     <string name="menu_title_recovery">Geri qaytarma rejimində yenidən başlat</string>
     <string name="menu_title_recovery_mode">Geri qaytarma rejimində güncəllə</string>
     <string name="menu_title_show_notifications">Bildirişləri göstər</string>
-    <string name="message">%1$s</string>
     <string name="message_checkbox">Xiaomi.eu komandasından gələcək mesajları gizlət</string>
     <string name="message_checkbox_device">Təkrar göstərmə</string>
     <string name="message_title">QEYD!</string>
@@ -93,7 +91,6 @@ Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="share_desc">HyperOS versiyanız %1$s versiyasına güncəlləndi. Son dəyişiklikləri yoxlayın: %2$s</string>
     <string name="share_title">Paylaş</string>
     <string name="stable">Stabil</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="twrp_update_warning">OTA-nı istifadə edə bilmək üçün cihazınızda TWRP-nin quraşdırılıb-quraşdırılmadığını seçməlisiniz:</string>
     <string name="version">Hazırda quraşdırılan:</string>
     <string name="weekly">Beta</string>

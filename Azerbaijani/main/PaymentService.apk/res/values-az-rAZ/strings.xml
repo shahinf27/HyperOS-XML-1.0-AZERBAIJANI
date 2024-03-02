@@ -225,7 +225,6 @@
     <string name="mibi_button_cancel">İmtina</string>
     <string name="mibi_button_confirm">Təsdiqlə</string>
     <string name="mibi_button_count_down_finish">Oldu (%1$s)</string>
-    <string name="mibi_button_count_down_reget">%1$s</string>
     <string name="mibi_button_custom_service_phone">Anladım</string>
     <string name="mibi_button_disagree">Razı deyiləm</string>
     <string name="mibi_button_next">Növbəti</string>
@@ -237,7 +236,6 @@
     <string name="mibi_change_security_lock">Daha çox ekran kilidi</string>
     <string name="mibi_check_giftcard">Kuponlara bax</string>
     <string name="mibi_click_retry">%1$s, yenidən sınamaq üçün toxun</string>
-    <string name="mibi_colon">": "</string>
     <string name="mibi_cta_agreement_checkbox_description">Lütfən oxuyub qəbul edin: %1$s və %2$s</string>
     <string name="mibi_cta_agreement_tips">Lütfən şərtləri və istifadəni qəbul edin.</string>
     <string name="mibi_cta_description">"Mi Coin-ə xoş gəlmisiniz, bu tətbiq Mi Coin doldurma və hədiyyə sertifikatına baxmaq kimi funksiyaları təqdim edir. Müvafiq məlumatlarınızı qanun və qaydaların tələb etdiyi kimi emal edəcəyik. Ciddi şəkildə xatırladırıq:
@@ -293,7 +291,6 @@ Lütfən yerli tarixinizi yoxlayıb yenidən sınayın."</string>
     <string name="mibi_error_common_summary">Sistem xətası. Daha sonra yenidən sınayın.</string>
     <string name="mibi_error_deduct">"Avto-ödəniş protokolu aktivləşdirilə bilmədi"</string>
     <string name="mibi_error_expired_summary">Sifarişinizin müddəti bitib</string>
-    <string name="mibi_error_frozen_service_num">400-100-3399</string>
     <string name="mibi_error_frozen_summary">Hesabınız dondurulub, müştəri xidməti mərkəzimizlə əlaqə saxlayın.</string>
     <string name="mibi_error_has_bought_summary">Artıq bu məhsulu satın almısınız.</string>
     <string name="mibi_error_illegal_order_summary">Sifariş xətası. Daha sonra yenidən sınayın</string>
@@ -1181,7 +1178,6 @@ yerli açarı güncəlləmək üçün ödəniş parolunu daxil edin."</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="statuecode_empty_prompt">İstifadəçi status kodu boş ola bilməz</string>
     <string name="statuecode_error_prompt">İstifadəçi status kodu xətası</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopUpGrade">Güncəlləməni dayandır</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>

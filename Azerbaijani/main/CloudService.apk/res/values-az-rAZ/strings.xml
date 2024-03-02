@@ -247,8 +247,6 @@
     <string name="feedback_custom_hint">"Burada qarşılaşdığınız problemləri izah edin. Təkliflər verirsinizsə, daha çox məlumat üçün təşəkkür edirik!"</string>
     <string name="find_device">Cihazı tap</string>
     <string name="find_device_dspt_provision">Cihazınızı itirsəniz, cihazı kilidləmək, tapmaq və ya sıfırlamaq üçün &lt;font color=#0097FF&gt;%s&lt;/font&gt; ünvanına gedə bilərsiniz. Bu özəlliyi istənilən vaxt Ayarlarda aça/bağlaya bilərsiniz.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">\"Cihazı tap\"ı açaraq, <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Siyasətimizi</a></u> qəbul edirsiniz. Razılığınızı geri götürmək istəsəniz bu özəlliyi söndürün.</string>
     <string name="find_device_operation_failure_rpc">"RPC xətasına görə əməliyyat icra edilə bilmədi."</string>
     <string name="find_device_permissions_footer">"Seçdiyiniz icazələri vermək üçün \"İcazə ver\"ə toxunun."</string>
@@ -381,10 +379,6 @@
     <string name="ks_download_success">Uğurla endirildi</string>
     <string name="ks_fingerprint_payment">Barmaq izi ödənişləri</string>
     <string name="ks_fingerprint_status">Ödəniş statusu</string>
-    <string name="ks_key_download_button">ks_key_download_button</string>
-    <string name="ks_key_status">ks_key_status</string>
-    <string name="ks_key_udpate_time">ks_key_udpate_time</string>
-    <string name="ks_key_version">ks_key_version</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_high_precise_position">high precise position</string>

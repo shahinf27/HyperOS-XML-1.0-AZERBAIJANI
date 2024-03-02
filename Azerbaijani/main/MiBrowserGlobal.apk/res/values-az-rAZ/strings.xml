@@ -201,7 +201,6 @@
     <string name="aqi_quality_index_pure">Əla</string>
     <string name="aqi_quality_index_unhealthy">Nasaz</string>
     <string name="articles_collection_empty">Burada məqalə yoxdur</string>
-    <string name="at_miui_browser">@string/mi_browser</string>
     <string name="auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="autoSwithcingSearchEngineTips">Çox istifadə edilən axtarış mühərrikinə keçildi</string>
     <string name="auto_play_permission_name">Avto-oxutma</string>
@@ -1300,7 +1299,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="mggc_no_more_games">Oyun yoxdur</string>
     <string name="mggc_ranking_page_title">Siyahılar</string>
     <string name="mggc_request_error">"Tələb tamamlana bilmədi"</string>
-    <string name="mi_browser">@string/application_name</string>
     <string name="mi_browser_clean_up_garbage">Mi Brauzer tullantıları təmizləyir…</string>
     <string name="mi_browser_is_scanning">Mi Brauzer skan edilir</string>
     <string name="midi_permission_name">MIDI cihazları idarə et</string>
@@ -1416,7 +1414,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Oldu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
@@ -2001,7 +1998,6 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_content_night_read_mode">Gecə rejimi</string>
     <string name="pref_content_search_engine">Ünvan çubuğunda axtarış mühərriki</string>
     <string name="pref_content_search_engine_summary">Axtarış mühərrikini seçin</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_value_always">ALWAYS</string>
     <string name="pref_data_preload_value_never">NEVER</string>
     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -2027,12 +2023,10 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_force_userscalable">Yaxınlaşdırmağa məcbur et</string>
     <string name="pref_force_userscalable_summary">"Yaxınlaşdırma davranışına nəzarət etmək üçün veb saytın tələbini yararsız et"</string>
     <string name="pref_general_title">Ümumi</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_key_gesture_title">Düymələr &amp; jestlər</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">ALWAYS</string>
     <string name="pref_link_prefetch_value_never">NEVER</string>
     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -2144,7 +2138,6 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="pref_title_dns_prefetch">DNS ön götürmə</string>
     <string name="pref_ua_string">İstifadəçi agent sətri</string>
     <string name="pref_version_info">Versiya məlumatı</string>
-    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_value_always">ALWAYS</string>
     <string name="pref_video_preload_value_never">NEVER</string>
     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>

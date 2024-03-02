@@ -509,8 +509,6 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="open_backup_switch">Nüsxələmə açarını dəyişdir</string>
     <string name="other_device_main_space">Birinci sahə</string>
     <string name="other_device_second_space">İkinci sahə</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"Elementlər PC rejimində bərpa edilə bilmir. PC rejimini söndürüb yenidən sınayın."</string>
     <string name="permission_to_use">İcazə detalları</string>
     <string name="pm">GS</string>
@@ -735,6 +733,5 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">Dünən</string>
 </resources>

@@ -88,7 +88,6 @@
     <string name="app_self_upgrade_dlg_postive_btn">İndi güncəllə</string>
     <string name="app_self_upgrade_dlg_title">Güncəlləmə mövcuddur</string>
     <string name="app_self_upgrade_toast_downloading_install">Güncəlləmə başladılır…</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applied_and_added_to_custom_wallpaper">"Slayd şounuza uğurla əlavə edildi. &lt;font color ='#3482FF'&gt;&lt;a href='%1$s'&gt;Bax&lt;/font&gt;&lt;/a&gt;"</string>
     <string name="apply">Tətbiq et</string>
     <string name="apply_success_toast">Divar kağızı uğurla ayarlandı</string>
@@ -103,7 +102,6 @@
     <string name="at_least_one">Ən azı 1 kateqoriya seçin</string>
     <string name="auto_interval">Cihazın kilidi hər açılanda</string>
     <string name="back_icon_content_description">Geri</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_button">Bəli</string>
     <string name="cancel_international">İmtina</string>
@@ -128,7 +126,6 @@
     <string name="change_time">Divar kağızını dəyişdir</string>
     <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
     <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
     <string name="chinese_day_11">十一</string>
@@ -417,7 +414,6 @@
     <string name="heavenly_stems_yi">乙</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history_list_no_data">Burada element yoxdur</string>
-    <string name="homepaperchanged">@string/theme_apply_success</string>
     <string name="hour_1">Hər saat</string>
     <string name="hour_3">Hər 3 saatda bir</string>
     <string name="icon_content_description">Dialoq nişanı</string>
@@ -518,7 +514,6 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="lockscreen_magazine_summary">Kateqoriyaları seçin</string>
     <string name="lockscreen_magazine_system_title">İlkin</string>
     <string name="lockscreen_magazine_title">Divar kağızı Karuseli</string>
-    <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
     <string name="login_app">Daxil ol</string>
     <string name="login_app_cancel">İmtina</string>
     <string name="login_app_confirm">Daxil ol</string>
@@ -657,8 +652,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarix seç</string>
     <string name="mtrl_picker_date_header_unselected">Seçilmiş tarix</string>
@@ -1094,7 +1087,6 @@ mm"</string>
     <string name="sst_wallpaper_history_title">Tarixçə</string>
     <string name="sst_wifi_only_desc">Divar kağızlarını yalnız Wi-Fi ilə güncəlləmək üçün bağlayın</string>
     <string name="sst_wifi_only_title">Divar kağızlarını mobil internet ilə güncəllə</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_wallpaper_loop_not_start">Bağlı</string>
     <string name="status_wallpaper_loop_start">Açıq</string>
     <string name="subscribe_apply_wp">Kilid ekranı divar kağızı uğurla tətbiq edildi</string>

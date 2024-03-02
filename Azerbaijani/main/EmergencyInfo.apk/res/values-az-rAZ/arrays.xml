@@ -41,30 +41,6 @@
         <item>50%</item>
         <item>100%</item>
     </string-array>
-    <string-array name="blood_type_content_description">
-        <item>@string/o_positive</item>
-        <item>@string/o_negative</item>
-        <item>@string/a_positive</item>
-        <item>@string/a_negative</item>
-        <item>@string/b_positive</item>
-        <item>@string/b_negative</item>
-        <item>@string/ab_positive</item>
-        <item>@string/ab_negative</item>
-        <item>@string/h_h</item>
-        <item>@string/unknown_blood_type</item>
-    </string-array>
-    <string-array name="blood_type_entries">
-        <item>@string/oplus</item>
-        <item>@string/ominus</item>
-        <item>@string/aplus</item>
-        <item>@string/aminus</item>
-        <item>@string/bplus</item>
-        <item>@string/bminus</item>
-        <item>@string/abplus</item>
-        <item>@string/abminus</item>
-        <item>@string/hh</item>
-        <item>@string/unknown_blood_type</item>
-    </string-array>
     <string-array name="blood_type_values">
         <item>0+</item>
         <item>O-</item>
@@ -220,11 +196,6 @@
         <item>mediapktsfiltered</item>
         <item>profilesfiltered</item>
     </string-array>
-    <string-array name="cached_apps_freezer_entries">
-        <item>@string/cached_apps_freezer_device_default</item>
-        <item>@string/cached_apps_freezer_enabled</item>
-        <item>@string/cached_apps_freezer_disabled</item>
-    </string-array>
     <string-array name="cached_apps_freezer_values">
         <item>device_default</item>
         <item>enabled</item>
@@ -288,11 +259,6 @@
     </string-array>
     <array name="kg_wrong_puk_code_message_list"></array>
     <array name="locale_carrier_names"></array>
-    <string-array name="organ_donor_entries">
-        <item>@string/yes</item>
-        <item>@string/no</item>
-        <item>@string/unknown_organ_donor</item>
-    </string-array>
     <string-array name="organ_donor_values">
         <item>Bəli</item>
         <item>Xeyr</item>
@@ -384,13 +350,6 @@
         <item>hide</item>
         <item>region</item>
         <item>highlight</item>
-    </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
     </string-array>
     <string-array name="simulate_color_space_values">
         <item>-1</item>

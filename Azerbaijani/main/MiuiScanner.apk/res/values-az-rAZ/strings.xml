@@ -244,7 +244,6 @@
     <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
-    <string name="default_language">@string/language_value_chinese_cn</string>
     <string name="delete">Sil</string>
     <string name="dis_select_all">Heç birini seçmə</string>
     <string name="document_color_picture">Rəng</string>
@@ -423,7 +422,6 @@
     <string name="general_recognized">"Nəticə: "</string>
     <string name="general_title">Tanımaq üçün obyetkin şəklini çəkin</string>
     <string name="general_wifi_data_wrong_data">Həm SSID, həm də parolu daxil edin</string>
-    <string name="global_default_language">@string/language_value_english</string>
     <string name="go_shut_down">Söndürmək üçün</string>
     <string name="goods_query">Məhsul</string>
     <string name="got_it">Anladım</string>

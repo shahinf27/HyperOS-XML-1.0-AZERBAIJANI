@@ -633,14 +633,6 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="mi_pay_summary">Nəqliyyat kartı/Mi Pay/Açar kartı</string>
     <string name="mi_pay_summary_without_nfc">Mi Pay</string>
     <string name="midnight">Gecə</string>
-    <string name="miui_keyboard_assistance_category">@string/keyboard_assistance_category</string>
-    <string name="miui_keyboard_back_light">@string/keyboard_back_light</string>
-    <string name="miui_keyboard_layout_default_label">@string/keyboard_layout_default_label</string>
-    <string name="miui_keyboard_mouse_touch">@string/keyboard_mouse_touch</string>
-    <string name="miui_keyboard_shortcuts_helper">@string/keyboard_shortcuts_helper</string>
-    <string name="miui_keyboard_shortcuts_helper_summary">@string/keyboard_shortcuts_helper_summary</string>
-    <string name="miui_pointer_settings_category">@string/pointer_settings_category</string>
-    <string name="miui_pointer_speed">@string/pointer_speed</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>

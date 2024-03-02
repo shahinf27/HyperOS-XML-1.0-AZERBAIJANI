@@ -292,7 +292,6 @@
     <string name="download_right_now">Endir</string>
     <string name="early_morning">GƏ</string>
     <string name="email">E-poçt</string>
-    <string name="empty"></string>
     <string name="eras_ad">M.T.</string>
     <string name="eras_bc">M.Ə.</string>
     <string name="error_forbidden">Sinxronlaşdırma, Mi Hesabınıza əlaqəli problemlərə görə söndürüldü.</string>
@@ -448,7 +447,6 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Payız başlayır</string>
     <string name="solar_term_autumn_equinox">Payız gündönümü</string>

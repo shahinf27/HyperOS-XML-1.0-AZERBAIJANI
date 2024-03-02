@@ -456,7 +456,6 @@
     <string name="gadget_clear_button_label">Təmizləyici</string>
     <string name="gadget_clock_24_label">Saat 4x2</string>
     <string name="gadget_clock_label">Saat</string>
-    <string name="gadget_common_global_search_label">@string/gadget_search_label</string>
     <string name="gadget_dual_clock_label">İkili Saat</string>
     <string name="gadget_error_text">"Vicet yüklənə bilmir"</string>
     <string name="gadget_google_search_label">Google Axtarış</string>
@@ -492,7 +491,6 @@
     <string name="home_gesture_no_action">Yoxdur</string>
     <string name="home_gesture_notification_and_control_center">Bildiriş paneli və İdarəetmə mərkəzi</string>
     <string name="home_gesture_notification_bar">Bildirişlər</string>
-    <string name="home_indicator">bottom_point</string>
     <string name="home_pull_down_content">Elementləri bu cihazda və onlayn axtarmaq üçün Əsas ekranda aşağı sürüşdürün.</string>
     <string name="home_pull_down_content_tips">Tərcihlərinizi Ayarlar &gt; Əsas ekran &gt; \"Əsas ekranda aşağı sürüşdür\" bölməsində dəyişdirə bilərsiniz. Yuxarı sürüşdürmə jesti üzrə tərcihləriniz dəyişməz qalacaq.</string>
     <string name="home_pull_down_know">Anladım</string>
@@ -688,7 +686,6 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Oldu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
@@ -946,7 +943,6 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="start_activity_failed">"Başladıcı başladıla bilmir"</string>
     <string name="start_new_window">Yeni pəncərə</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s/%2$s istifadə edilə bilər</string>
     <string name="status_bar_recent_memory_info2"></string>

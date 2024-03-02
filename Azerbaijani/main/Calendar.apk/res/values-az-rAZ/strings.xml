@@ -111,7 +111,6 @@
     <string name="birthday_event_description_today">Bu gün</string>
     <string name="birthday_event_description_tomorrow">Sabah</string>
     <string name="birthday_event_description_yesterday">Dünən</string>
-    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_notification_text_days_later">%1$s günə qədər %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">"Yaxşı arzularınızı bildirməyi unutmayın."</string>
     <string name="birthday_notification_title_days_later">"%1$s üçün %2$s yaxınlaşır."</string>
@@ -317,7 +316,6 @@
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_today">" (bu gün)"</string>
     <string name="date_view">Tarix</string>
@@ -1007,9 +1005,6 @@
     <string name="pm">GS</string>
     <string name="points_table">Xal cədvəli</string>
     <string name="predict_menstruation">Gözlənilən period</string>
-    <string name="prefDefault_alerts_vibrateWhen">heç vaxt</string>
-    <string name="prefDefault_alerts_vibrate_false">heç vaxt</string>
-    <string name="prefDefault_alerts_vibrate_true">həmişə</string>
     <string name="prefDialogTitle_vibrateWhen">Titrəmə</string>
     <string name="pref_reminder_time">Xatırlatma vaxtı</string>
     <string name="pref_title_alarm_remind">Zəngli saat xatırladıcıları</string>
