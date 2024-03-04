@@ -226,7 +226,7 @@
     <string name="ppt_video_install_videoplayer_tip">Bir video pleyer quraşdırın</string>
     <string name="ppt_volume_is_too_low_tip">Qulaqlığı taxın və ya səsi artırın</string>
     <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
-    <string name="privacy_protecte">https://privacy.wps.cn/policies/privacy/wps-file-viewer</string>
+    <string name="privacy_protecte">https://www.wps.com/privacy-policy/</string>
     <string name="projection_fail">"Yaymlana bilmədi. Xarici ekranı yoxlayıb yenidən sınayın."</string>
     <string name="public_2pic">Təsvirə köçür</string>
     <string name="public_ack">知道了</string>
