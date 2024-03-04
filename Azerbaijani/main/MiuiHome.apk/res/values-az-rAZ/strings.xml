@@ -164,7 +164,11 @@
     <string name="branch_deepview_button">Tətbiqi əldə et</string>
     <string name="branch_deepview_button_description">Quraşdırdıqdan sonra bu məzmuna baxın</string>
     <string name="branch_feature_description">Tətbiqlərdən başqa, Quick Finder, tətbiq daxili məzmunu və elementləri onlayn tapa bilir.</string>
-    <string name="branch_guide_attention">Təkmil axtarışı istifadə etmək, axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağı tələb edir. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
+    <string name="branch_guide_attention">Təkmil axtarışı istifadə etmək, axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağı tələb edir. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000">
+  <a href="http://url1">Son İstifadəçi Discovery Şərtləri və Qaydalarını</a>
+</font> və <font color="#B3000000">
+  <a href="http://url2">Branch Discovery Gizlilik Siyasətini</a>
+</font> oxuyun və razılaşın.</string>
     <string name="branch_guide_description_one">"Bütün tətbiqlərinizi Tətbiq siyirməsində yerləşdirəcəyik. Əsas ekranınız səliqəli və mütəşəkkil görünəcək."</string>
     <string name="branch_guide_description_three">"Daxili axtarışla, ehtiyacınız olan hər şeyi bir anda tapa biləcəksiniz!"</string>
     <string name="branch_guide_description_two">Tətbiq siyirməsi, tətbiqləri avtomatik olaraq kateqoriyalara ayırır.</string>
@@ -182,7 +186,11 @@
     <string name="branch_new_feature">Yeni özəllik</string>
     <string name="branch_privacy_policy">Gizlilik Siyasəti</string>
     <string name="branch_search_guide_description">Axtarış nəticələrimiz artıq daha əhatəlidir</string>
-    <string name="branch_search_guide_privacy">\"Bu xidmət Branch Metrics Inc. tərəfindən dəstəklənir. Yerləşmə məlumatlarınız, axtarış sorğularınız və Google Ads Kimliyiniz Branch ilə paylaşılacaq. Bu xidməti istifadə etməzdən əvvəl \"Branch\"ın \"<font color="#B3000000"><a href="http://url1">Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
+    <string name="branch_search_guide_privacy">\"Bu xidmət Branch Metrics Inc. tərəfindən dəstəklənir. Yerləşmə məlumatlarınız, axtarış sorğularınız və Google Ads Kimliyiniz Branch ilə paylaşılacaq. Bu xidməti istifadə etməzdən əvvəl \"Branch\"ın \"<font color="#B3000000">
+  <a href="http://url1">Şərtləri və Qaydalarını</a>
+</font> və <font color="#B3000000">
+  <a href="http://url2">Gizlilik Siyasətini</a>
+</font> oxuyun və razılaşın.</string>
     <string name="branch_search_guide_title">"Axtardığınızı sevimli tətbiqlərdə tapın"</string>
     <string name="branch_terms_condition">Şərtlər və qaydalar</string>
     <string name="branch_tip_title">Quick Finder ilə ehtiyacınız olan hər şeyi bir anda tapa bilərsiniz.</string>
@@ -212,74 +220,6 @@
     <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
     <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="chinese_day_1">初一</string>
-    <string name="chinese_day_10">初十</string>
-    <string name="chinese_day_11">十一</string>
-    <string name="chinese_day_12">十二</string>
-    <string name="chinese_day_13">十三</string>
-    <string name="chinese_day_14">十四</string>
-    <string name="chinese_day_15">十五</string>
-    <string name="chinese_day_16">十六</string>
-    <string name="chinese_day_17">十七</string>
-    <string name="chinese_day_18">十八</string>
-    <string name="chinese_day_19">十九</string>
-    <string name="chinese_day_2">初二</string>
-    <string name="chinese_day_20">二十</string>
-    <string name="chinese_day_21">廿一</string>
-    <string name="chinese_day_22">廿二</string>
-    <string name="chinese_day_23">廿三</string>
-    <string name="chinese_day_24">廿四</string>
-    <string name="chinese_day_25">廿五</string>
-    <string name="chinese_day_26">廿六</string>
-    <string name="chinese_day_27">廿七</string>
-    <string name="chinese_day_28">廿八</string>
-    <string name="chinese_day_29">廿九</string>
-    <string name="chinese_day_3">初三</string>
-    <string name="chinese_day_30">三十</string>
-    <string name="chinese_day_4">初四</string>
-    <string name="chinese_day_5">初五</string>
-    <string name="chinese_day_6">初六</string>
-    <string name="chinese_day_7">初七</string>
-    <string name="chinese_day_8">初八</string>
-    <string name="chinese_day_9">初九</string>
-    <string name="chinese_day_elementary">初</string>
-    <string name="chinese_digit_eight">八</string>
-    <string name="chinese_digit_five">五</string>
-    <string name="chinese_digit_four">四</string>
-    <string name="chinese_digit_nine">九</string>
-    <string name="chinese_digit_one">一</string>
-    <string name="chinese_digit_seven">七</string>
-    <string name="chinese_digit_six">六</string>
-    <string name="chinese_digit_ten">十</string>
-    <string name="chinese_digit_three">三</string>
-    <string name="chinese_digit_two">二</string>
-    <string name="chinese_digit_zero">〇</string>
-    <string name="chinese_leap">闰</string>
-    <string name="chinese_month">月</string>
-    <string name="chinese_month_april">四</string>
-    <string name="chinese_month_august">八</string>
-    <string name="chinese_month_december">腊</string>
-    <string name="chinese_month_february">二</string>
-    <string name="chinese_month_january">正</string>
-    <string name="chinese_month_july">七</string>
-    <string name="chinese_month_june">六</string>
-    <string name="chinese_month_march">三</string>
-    <string name="chinese_month_may">五</string>
-    <string name="chinese_month_november">冬</string>
-    <string name="chinese_month_october">十</string>
-    <string name="chinese_month_september">九</string>
-    <string name="chinese_symbol_animals_chicken">鸡</string>
-    <string name="chinese_symbol_animals_cow">牛</string>
-    <string name="chinese_symbol_animals_dog">狗</string>
-    <string name="chinese_symbol_animals_dragon">龙</string>
-    <string name="chinese_symbol_animals_horse">马</string>
-    <string name="chinese_symbol_animals_monkey">猴</string>
-    <string name="chinese_symbol_animals_mouse">鼠</string>
-    <string name="chinese_symbol_animals_pig">猪</string>
-    <string name="chinese_symbol_animals_rabbit">兔</string>
-    <string name="chinese_symbol_animals_sheep">羊</string>
-    <string name="chinese_symbol_animals_snake">蛇</string>
-    <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="chip_text">Çip mətni</string>
     <string name="chooser_wallpaper">Yeni divar kağızı seçin</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
@@ -288,7 +228,7 @@
     <string name="cloud_app_restore_title">Gözləyir</string>
     <string name="color_group">Nişanları rəngə görə qruplaşdır</string>
     <string name="color_group_anim">Rəng kateqoriyalarında animasiyalar</string>
-    <string name="com.crashlytics.android.build_id">0281dab426f74530a91b8261a306ec3b</string>
+    <string name="com.crashlytics.android.build_id">43afe296d1d342c3b01084fd139dc57a</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_home_search_delete">Axtarış çubuğu silmə</string>
     <string name="common_home_search_delete_cancle">İmtina</string>
@@ -305,7 +245,7 @@
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
-    <string name="date_picker_lunar">Chinese Traditional Calendar</string>
+    <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="defalut_launcher_title">İlkin başladıcı</string>
     <string name="default_folder_name_path">com.miui.home:string/folder_name</string>
@@ -348,18 +288,6 @@
     <string name="drawer_settings">Tətbiq siyirməsi</string>
     <string name="dual_app">İkili tətbiqlər</string>
     <string name="early_morning">Səhər</string>
-    <string name="earthly_branches_chen">辰</string>
-    <string name="earthly_branches_chou">丑</string>
-    <string name="earthly_branches_hai">亥</string>
-    <string name="earthly_branches_mao">卯</string>
-    <string name="earthly_branches_shen">申</string>
-    <string name="earthly_branches_si">巳</string>
-    <string name="earthly_branches_wei">未</string>
-    <string name="earthly_branches_wu">午</string>
-    <string name="earthly_branches_xu">戌</string>
-    <string name="earthly_branches_yin">寅</string>
-    <string name="earthly_branches_you">酉</string>
-    <string name="earthly_branches_zi">子</string>
     <string name="edit">Düzəliş et</string>
     <string name="edit_folder">Qovluğa düzəliş et</string>
     <string name="edit_mode_group">Qrup</string>
@@ -381,7 +309,6 @@
     <string name="failed_to_drop_widget_invalid">Bu vicet yararsızdır</string>
     <string name="find_app_by_color">Tətbiqləri daha tez tapmaq üçün nişanları rəngə görə qruplaşdır</string>
     <string name="firebase_database_url">https://miui-home-8d9f8.firebaseio.com</string>
-    <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -474,16 +401,6 @@
     <string name="guide_install_app_title">Tətbiq tapılıb quraşdırılsın?</string>
     <string name="guide_permission_title">İcazələr tələb olunur</string>
     <string name="guide_privacy_dialog_title">Xidmət Şərtləri</string>
-    <string name="heavenly_stems_bing">丙</string>
-    <string name="heavenly_stems_ding">丁</string>
-    <string name="heavenly_stems_geng">庚</string>
-    <string name="heavenly_stems_gui">癸</string>
-    <string name="heavenly_stems_ji">己</string>
-    <string name="heavenly_stems_jia">甲</string>
-    <string name="heavenly_stems_ren">壬</string>
-    <string name="heavenly_stems_wu">戊</string>
-    <string name="heavenly_stems_xin">辛</string>
-    <string name="heavenly_stems_yi">乙</string>
     <string name="hide_apps_title">Tətbiq nişanlarını gizlət</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_gesture_content_center">Məzmun Mərkəzi</string>
@@ -500,7 +417,6 @@
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="icon_customize_summary">Stili seçin və ölçüsünü ayarlayın</string>
     <string name="icon_form">Nişanlar</string>
-    <string name="icon_message_max_digit">999+</string>
     <string name="icon_reorganize_channel">Nişanları nizamla</string>
     <string name="icon_size">Nişan ölçüsü</string>
     <string name="icon_style">Stil</string>
@@ -752,10 +668,10 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="navigation_set_miui_home_as_default_dialog_title">Diqqət</string>
     <string name="navigation_type_full_screen">Jestlər</string>
     <string name="navigation_type_title">Sistem naviqasiyası</string>
-    <string name="navigation_type_title_synonyms_1">全面屏</string>
+    <string name="navigation_type_title_synonyms_1">Tam ekran</string>
     <string name="navigation_type_title_synonyms_2">小白条</string>
-    <string name="navigation_type_title_synonyms_3">全面屏手势</string>
-    <string name="navigation_type_title_synonyms_4">导航键</string>
+    <string name="navigation_type_title_synonyms_3">Tam ekran jestləri</string>
+    <string name="navigation_type_title_synonyms_4">Naviqasiya düyməsi</string>
     <string name="navigation_type_virtual_key">Düymələr</string>
     <string name="network_error">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="new_default_folder_title_tools">Sistem tətbiqləri</string>
@@ -896,7 +812,11 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="select_all">Hamısını seç</string>
     <string name="send">Göndər</string>
     <string name="server_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="service_double_attention">Təkmil axtarışı funksionallığı Branch Metrics Inc. tərəfindən təmi edilir. Bu özəlliyin işləməsi üçün axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağımız lazımdır. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
+    <string name="service_double_attention">Təkmil axtarışı funksionallığı Branch Metrics Inc. tərəfindən təmin edilir. Bu özəlliyin işləməsi üçün axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağımız lazımdır. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000">
+  <a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a>
+</font> və <font color="#B3000000">
+  <a href="http://url2">Branch Discovery Gizlilik Siyasətini</a>
+</font> oxuyun və razılaşın.</string>
     <string name="setting_close">Bağlı</string>
     <string name="setting_no_word">İstənilən yer</string>
     <string name="setting_only_widget_no_word">Vicetlərdə</string>
@@ -970,49 +890,29 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="system_text">Avto</string>
     <string name="task_access_locked_app_msg">Tətbiq kilidi işə salındı</string>
     <string name="term_of_service">Şərtlər və qaydalar</string>
-    <string name="terms_of_services_one">\"Tətbiq siyirməsi və \"Quick Finder\"ə xoş gəlmisiniz. Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəllikləri istifadə etməzdən əvvəl Xiaomi-nin <font color="#B3000000"><a href="http://url1">Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
+    <string name="terms_of_services_one">\"Tətbiq siyirməsi və \"Quick Finder\"ə xoş gəlmisiniz. Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəllikləri istifadə etməzdən əvvəl Xiaomi-nin <font color="#B3000000">
+  <a href="http://url1">Gizlilik Siyasətini</a>
+</font> oxuyun və razılaşın.</string>
     <string name="terms_of_services_three">Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
-    <string name="terms_of_services_two">Təkmil axtarışı istifadə etmək, axtarış sorğularınız, Google Advertising Kimliyiniz və IP ünvanınız daxil olmaqla lazımi şəxsi məlumatlarınızın Branch Metrics Inc. ilə paylaşılmasını tələb edir. Branch, şəxsi məlumatlarınızı <font color="#B3000000"><a href="http://url1">Branch Discovery Gizlilik Siyasətinə</a></font> uyğun olaraq emal edəcək. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url2">End User Discovery Şərtləri və Qaydaları</a></font> və <font color="#B3000000"><a href="http://url3">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
-    <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
-    <string name="the_anti_aggression_day">Anti-Aggression Day</string>
-    <string name="the_arbor_day">Arbor Day</string>
+    <string name="terms_of_services_two">Təkmil axtarışı istifadə etmək, axtarış sorğularınız, Google Advertising Kimliyiniz və IP ünvanınız daxil olmaqla lazımi şəxsi məlumatlarınızın Branch Metrics Inc. ilə paylaşılmasını tələb edir. Branch, şəxsi məlumatlarınızı <font color="#B3000000">
+  <a href="http://url1">Branch Discovery Gizlilik Siyasətinə</a>
+</font> uyğun olaraq emal edəcək. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000">
+  <a href="http://url2">End User Discovery Şərtləri və Qaydaları</a>
+</font> və <font color="#B3000000">
+  <a href="http://url3">Branch Discovery Gizlilik Siyasətini</a>
+</font> oxuyun və razılaşın.</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
-    <string name="the_armys_day">PLA Day</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
-    <string name="the_double_ninth_festival">Double Ninth Festival</string>
-    <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
     <string name="the_easter_day">Pasxa</string>
-    <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
-    <string name="the_fifth_day">Fifth day of Chinese New Year</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
-    <string name="the_forth_day">Fourth day of Chinese New Year</string>
-    <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
-    <string name="the_laba_festival">Laba Festival</string>
-    <string name="the_labour_day">Labor Day</string>
-    <string name="the_lantern_festival">Lantern Festival</string>
-    <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
-    <string name="the_national_day">National Day</string>
-    <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
     <string name="the_new_years_day">Yeni İl</string>
-    <string name="the_night_of_sevens">Qixi Festival</string>
-    <string name="the_partys_day">CPC Day</string>
-    <string name="the_peace_day">Remembrance Day</string>
-    <string name="the_retrocession_day">Retrocession Day</string>
-    <string name="the_second_day">Second day of Chinese New Year</string>
-    <string name="the_seventh_day">Seventh day of Chinese New Year</string>
-    <string name="the_sixth_day">Sixth day of Chinese New Year</string>
-    <string name="the_spirit_festival">Ghost Festival</string>
-    <string name="the_spring_festival">Chinese New Year</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
-    <string name="the_third_day">Third day of Chinese New Year</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
-    <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
