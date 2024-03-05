@@ -67,7 +67,6 @@
     <string name="copies_increase">Üstəgəl bir kopya</string>
     <string name="copy">Kopyala</string>
     <string name="could_not_create_file">Fayl yaradıla bilmədi</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
@@ -154,7 +153,6 @@
     <string name="label_paper_size">Kağız</string>
     <string name="label_paper_size_summary">Kağız ölçüsü:</string>
     <string name="mediasize_default">ISO_A4</string>
-    <string name="mediasize_standard">@string/mediasize_standard_iso</string>
     <string name="mediasize_standard_china">3</string>
     <string name="mediasize_standard_iso">0</string>
     <string name="mediasize_standard_japan">2</string>
@@ -281,7 +279,6 @@
     <string name="printer_busy">Printer məşğuldur</string>
     <string name="printer_error">Printer xətası</string>
     <string name="printer_error_msg">Printer xətası: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Bu printer haqqında daha ətraflı məlumat</string>
     <string name="printer_notification_error_title">"%1$s çap edilə bilmədi"</string>
     <string name="printer_unavailable">"Printer əlçatmazdır"</string>
