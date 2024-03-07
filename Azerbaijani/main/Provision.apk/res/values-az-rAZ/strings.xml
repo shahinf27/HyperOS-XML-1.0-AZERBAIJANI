@@ -728,7 +728,6 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="solar_term_winter_begins">Qış başlayır</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="start_up_slogan">Hər şeyin birləşdiyi yer</string>
-    <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_not_set">Ayarlanmadı</string>
     <string name="sunday">Bazar</string>
@@ -866,7 +865,6 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="wednesday_shortest">Çər</string>
     <string name="welcome">Xoş gəldiniz</string>
     <string name="withdraw_consent">Razılığı geri götürsəniz, Divar kağızı Karuseli xidmətləri deaktiv ediləcək.</string>
-    <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
     <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
     <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">Dünən</string>
