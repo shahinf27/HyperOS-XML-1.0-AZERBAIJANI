@@ -4870,6 +4870,10 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="interesting_title">Həqiqi toxunma</string>
     <string name="internal_auto_rotate_title">Daxili ekran üçün istiqaməti kilidlə</string>
     <string name="internal_storage">Daxili anbar</string>
+    <string name="international_lyra_account_ap_summary">"Hesabınıza daxil olmuş yaxınlıqdakı planşetlərin və cihazların bu cihazın hotspot-unu açmasına və avtomatik olaraq ona bağlanmasına icazə verin"</string>
+    <string name="international_lyra_account_ap_title">Şəbəkə sinxr</string>
+    <string name="international_lyra_auto_connect_summary">"Yaxınlıqdakı cihaz hesabınıza daxil olduqda və internetə bağlanmağına ehtiyac yarandıqda, işə salın və bu cihazın hotspot-una avtomatik bağlanın"</string>
+    <string name="international_lyra_auto_connect_title">Hotspot-a avtomatik bağlan</string>
     <string name="internet_connectivity_panel_title">İnternet bağlantısı</string>
     <string name="invalid_location">Quraşdırma yeri yararlı deyil.</string>
     <string name="invalid_size_value">Paket ölçüsü hesablana bilmədi.</string>
