@@ -29,7 +29,6 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="alipay_package">com.eg.android.AlipayGphone</string>
     <string name="am">GƏ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Cəld top</string>
@@ -330,7 +329,6 @@
     <string name="vector_large_crossA">M160,160 L240,240</string>
     <string name="vector_large_crossB">M240,160 L160,240</string>
     <string name="view_privacy">Gizlilik Siyasətinə bax</string>
-    <string name="wechat_package">com.tencent.mm</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
