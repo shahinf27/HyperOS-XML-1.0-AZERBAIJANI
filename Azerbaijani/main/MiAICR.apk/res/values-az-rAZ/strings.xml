@@ -116,12 +116,12 @@
     <string name="cognition_permission_content_connect">Cihaz bağlantı statusunu oxu：NFC ağıllı kartı kimi xidmətləri istifadə etdikdə, bağlantılı cihazın status məlumatını almaq üçün Cihaz bağlantısını oxu icazəsini fəallaşdıra bilərsiniz.</string>
     <string name="cognition_permission_content_know">Aydındır</string>
     <string name="cognition_permission_content_location">定位：当您使用常驻地识别、NFC智能切卡等服务时，您可以通过开启定位权限以便获取地理位置。</string>
-    <string name="cognition_permission_content_no">Xeyr</string>
+    <string name="cognition_permission_content_no">İndi yox</string>
     <string name="cognition_permission_content_phone_state">Mobil telefon statusunu oxu：NFC ağıllı kartı kimi xidmətləri istifadə etdikdə, mobil telefonun status məlumatını almaq üçün Mobil telefon statusunu oxu icazəsini fəallaşdıra bilərsiniz.</string>
-    <string name="cognition_permission_content_set">Aç</string>
+    <string name="cognition_permission_content_set">Ayarlar</string>
     <string name="cognition_permission_content_top">Bu xidmət MiAI mühərriki tərəfindən təmin edilir və sizdən aşağıdakı icazələri tələb edəcək. Şəxsi məlumatlarınızı qorumaq üçün müvafiq qanunlara ciddi şəkildə əməl edəcəyik：</string>
     <string name="cognition_permission_declaration">İcazə detalları</string>
-    <string name="cognition_permission_guidance_message">HyperMind, yalnız aşağıdakı icazələr verildikdə və \"Həmişə icazə ver\" olaraq ayarlandıqda işləyə biləcək: %s</string>
+    <string name="cognition_permission_guidance_message">Xiaomi HyperMind, yalnız aşağıdakı icazələr verildikdə və \"Həmişə icazə ver\" olaraq ayarlandıqda işləyə biləcək: %s</string>
     <string name="cognition_permission_guidance_title">İcazələr tələb olunur</string>
     <string name="cognition_permission_location">Yer məlumatları</string>
     <string name="cognition_permission_location_msg">Hazırkı yerləşmənizə müraciət etmək üçün</string>
@@ -133,7 +133,7 @@
     <string name="cognition_permission_storage">Cihazda saxlanılan fayllara müraciət</string>
     <string name="cognition_permission_storage_msg">Cihazınızda saxlanılan keçmiş yer məlumatlarına müraciət etmək üçün</string>
     <string name="cognition_permission_tips">İpucu</string>
-    <string name="cognition_privacy_cta_all_purpose">"Xiaomi HyperMind, Mi AI Engine tərəfindən dəstəklənir. Mi AI Engine ssenariləri tanıya, modellərinizi öyrənə və sizə dəqiq, fərdiləşdirilmiş xidmətlər təklif edə bilər."</string>
+    <string name="cognition_privacy_cta_all_purpose">"Xiaomi HyperMind, Mi AI Engine tərəfindən dəstəklənir. Mi AI Engine ssenariləri tanıya, modellərinizi öyrənə və sizə dəqiq, fərdiləşdirilmiş xidmətlər təklif edə bilər. "</string>
     <string name="cognition_privacy_dialog_get_background_loc_permission_message">Modelləri istifadə edə bilməsi üçün Xiaomi HyperMind-in arxaplanda işləyərkən yerləşmənizə müraciət etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="cognition_privacy_dialog_get_background_loc_permission_title">İcazələr tələb olunur</string>
     <string name="cognition_privacy_dialog_get_mijia_cta_message">Mi AI Engine-nin modellərinizi öyrənə bilməsi üçün ağıllı ev cihazlarınız haqqında məlumat yığması lazımdır. Başlamaq üçün Mi Home/Xiaomi Home-a daxil olun. Tətbiq indi açılsın?</string>
