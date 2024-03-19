@@ -5234,6 +5234,10 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="load_esim_info">eSIM məlumatı alınır…</string>
     <string name="load_esim_info_error">"eSIM məlumatı yüklənə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="loading">Bir saniyə…</string>
+    <string name="loading_eid_error_message">"EID məlumatları alına bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="loading_eid_error_ok">Anladım</string>
+    <string name="loading_eid_error_title">"Yüklənə bilmədi"</string>
+    <string name="loading_eid_tip">EID məlumatları alınır…</string>
     <string name="loading_injected_setting_summary">Bir saniyə…</string>
     <string name="local_auto_backup_off">Bağlı</string>
     <string name="local_auto_backup_on">Açıq</string>
