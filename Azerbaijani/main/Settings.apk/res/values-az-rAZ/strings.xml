@@ -9977,6 +9977,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="tip_remove_data">Fabrik sıfırlaması ilə bu elementlər cihazınızdan silinəcək</string>
     <string name="title_change_system_locale">%s, sistem dili seçilsin?</string>
     <string name="title_color_calibration">Rəng düzəltmə ön ayarı</string>
+    <string name="title_device_control">Cihaz kontrolları</string>
     <string name="title_font">Şrift</string>
     <string name="title_font2">Şrift və düzüm</string>
     <string name="title_font_current">Sistem şrifti</string>
@@ -9997,6 +9998,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="title_special_features_health_global">Ürək döyüntüsü</string>
     <string name="title_unavailable_locale">%s əlçatan deyil</string>
     <string name="title_wordless_mode">"Nişan etiketlərini göstərmə"</string>
+    <string name="title_xiaomi_smart_hub">Xiaomi Smart Hub</string>
     <string name="to_close">Söndür</string>
     <string name="to_switch_networks_disconnect_ethernet">Şəbəkələri dəyişdirmək üçün ethernet bağlantısını kəsin</string>
     <string name="toast_allows_restricted_settings_successfully">%s üçün məhdud ayarlara icazə verildi</string>
