@@ -33,6 +33,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_app_name">Temalar haqqında</string>
+    <string name="about_securitycenter_icp">Qeyd nömrəsi：Peking ICP Nö. 10046444号-51A ></string>
     <string name="about_version_update">"Yeniliklər"</string>
     <string name="accessibiliy_ad">Reklam ver</string>
     <string name="accessibiliy_description_content_account">Profil</string>
@@ -529,6 +530,8 @@
     <string name="gallery_wallpaper">Divar kağızı Karuseli</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
+    <string name="gallery_wallpaper_history">"Divar kağızı Karuseli"ndə önə çıxan əvvəlki təsviləri görmək üçün toxunun</string>
+    <string name="gallery_wallpaper_history_go">Bax</string>
     <string name="gallery_wallpaper_theme">Lazımlı divar kağızları</string>
     <string name="gift_share">Paylaş</string>
     <string name="goto_purchased_list">Satın alma tarixçəsinə bax</string>
@@ -1797,6 +1800,7 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="wallpaper_download_incall_show">Video endir</string>
     <string name="wallpaper_dynamic">Dinamik</string>
     <string name="wallpaper_group_set_loop">Oxşar şəkillərlə Kilid ekranı slayd şousu</string>
+    <string name="wallpaper_history">Divar kağızı tarixçəsi</string>
     <string name="wallpaper_light_mode_image_preview_tip">İşıqlı rejim önizləməsi</string>
     <string name="wallpaper_loop_add_success">Uğurla əlavə edildi</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Əsas ekran slayd şousuna əlavə et</string>
