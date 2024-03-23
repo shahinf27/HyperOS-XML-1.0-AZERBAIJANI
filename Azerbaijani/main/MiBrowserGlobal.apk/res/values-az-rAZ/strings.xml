@@ -29,6 +29,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="abcdef">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoA6UHJ2rwJLYQwv7lF0I5jWMbA1rFYC7MkZ/t9Cll+P5eC6FXi0vNZtOLRKEToQeIx0kY180qd8uShem+bnI74ogq+JvPOpQ+O663nr7ZiSTqEKxXFXYO0m1Y8C6hLKH0QkfmQC0HDi60R7xz3vIOholMw5GGbEi9ocmI5q94/sB5ry9VZACKEOPwsKQg/rjE5VIwUkSHJJDGShcvqwwQqGZXV+rBJKB3yJ5zHqKEqK94j/7aY20cGt1hwRGuUXTWoeREwqAhSMnVJFEXcFJvtX07hb4L86WONsLUHSUuoQ4p0IKOvOcfQwVctXRs1iwNLomG8M0P0Nyc3v8lFpK7QIDAQAB</string>
+    <string name="accelerate_play">Sürət: %sX</string>
     <string name="accept_cookies_confirm_message">Bu özəlliyin söndürülməsi bəzi veb saytların xətalı davranmasına səbəb ola bilər.</string>
     <string name="accessibility_button_clear">Girişi təmizlə</string>
     <string name="account_bind_secure_email_title">Geri qaytarma e-poçtu əlavə et</string>
@@ -312,6 +313,9 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="browser_wallpaper_toast">Divar kağızlarını dəyişdirə bilmək üçün Tanıtımlar keçidini söndürün</string>
     <string name="btn_agree">Razıyam</string>
     <string name="btn_cancel">İmtina</string>
+    <string name="btn_copied">Kopyalandı</string>
+    <string name="btn_copy">Kopyala</string>
+    <string name="btn_open">Aç</string>
     <string name="camera_permission_name">Kameranı istifadə et</string>
     <string name="can_not_send_with_too_many">"Bir dəfəyə bu qədər çox element göndərilə bilmir"</string>
     <string name="cancel">İmtina</string>
@@ -416,8 +420,8 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.crashlytics.android.build_id">6f8fe2599c514280a5ea62e88bfbd650</string>
-    <string name="com.miapm.build_id">227a51c2d6a04d55868c825fc7eb6cce</string>
+    <string name="com.crashlytics.android.build_id">158fe09c2d494b808ff46a48af5fabab</string>
+    <string name="com.miapm.build_id">45500e79536741b78c3a39adc066ca92</string>
     <string name="com_facebook_device_auth_instructions">&lt;b&gt;facebook.com/device&lt;/b&gt; ünvanını ziyarət edin və yuxarıdakı kodu daxil edin.</string>
     <string name="com_facebook_image_download_unknown_error">Şəkli endirərkən gözlənilməz xəta baş verdi.</string>
     <string name="com_facebook_internet_permission_error_message">WebView girişi, İNTERNET icazəsi tələb edir</string>
@@ -1152,6 +1156,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="just_a_second">Bir saniyə…</string>
     <string name="just_now">İndicə</string>
     <string name="keep_intrercept">Dayandır</string>
+    <string name="kindred_coupons_terms">Şərtlərə və qaydalara bax</string>
+    <string name="kindred_coupons_title">Kuponlar</string>
     <string name="le_download_failed_server_error">"Server xətasına görə endirilə bilmədi."</string>
     <string name="le_network_chagne_to_none">Şəbəkə bağlantısı kəsildi. Bütün endirmələrə fasilə verildi.</string>
     <string name="list_item_click">Siyahı elementinə toxun</string>
@@ -1283,7 +1289,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="mggc_game_play">Oynat</string>
     <string name="mggc_game_played">Sonuncu</string>
     <string name="mggc_game_recommend_guide_title">Ödənişsiz oyna</string>
-    <string name="mggc_home_page_title">Oyun Mərkəzi</string>
+    <string name="mggc_home_page_title">OYUN MƏRKƏZİ</string>
     <string name="mggc_home_recommend_tip">Təsadüfi</string>
     <string name="mggc_hot_games">Məşhur</string>
     <string name="mggc_ins_back_continue_game">Davam</string>
@@ -2261,6 +2267,8 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="record_permission_name">Səs yaz</string>
     <string name="recovery_page_popup">Qaldığınız yerdən davam edin</string>
     <string name="refresh">Təzələ</string>
+    <string name="refresh_button_update_item">%d güncəlləmə mövcuddur</string>
+    <string name="refresh_button_update_latest">"Son elementlərə baxırsınız"</string>
     <string name="refresh_fail">"Məlumat yüklənə bilmədi"</string>
     <string name="refresh_guide">Başa qayıt</string>
     <string name="refreshing">Təzələnir…</string>
@@ -2462,8 +2470,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="setting_privacy_password">Kilid açma naxışını ayarla</string>
     <string name="setting_searchable_content">Axtarıla bilən elementlər</string>
     <string name="setting_sms_content">SMS məzmunu</string>
-    <string name="setting_swipe_up">Əsas ekranda yuxarı sürüşdürün</string>
-    <string name="settings_search_online_apps">Tətbiq marketləri</string>
+    <string name="settings_search_online_apps">Tətbiq mağazaları</string>
     <string name="settings_search_online_apps_desc">Tətbiq marketlərindən məzmunlar</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
     <string name="share_dialog_title">Paylaş</string>
@@ -2612,6 +2619,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="tab_forward_description">Tarixçənin növbəti səhifəsi</string>
     <string name="tab_game">Oyunlar</string>
     <string name="tab_home">Əsas səhifə</string>
+    <string name="tab_mall">Mağaza</string>
     <string name="tab_mine">Profil</string>
     <string name="tab_novel">Kitablar</string>
     <string name="tab_quicklinks">Başlat səhifəsi</string>
