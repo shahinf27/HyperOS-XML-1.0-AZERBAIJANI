@@ -33,7 +33,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_app_name">Temalar haqqında</string>
-    <string name="about_securitycenter_icp">Qeyd nömrəsi：Peking ICP Nö. 10046444号-51A ></string>
+    <string name="about_securitycenter_icp">Qeyd nömrəsi：Pekin ICP Nö. 10046444号-51A ></string>
     <string name="about_version_update">"Yeniliklər"</string>
     <string name="accessibiliy_ad">Reklam ver</string>
     <string name="accessibiliy_description_content_account">Profil</string>
@@ -530,7 +530,7 @@
     <string name="gallery_wallpaper">Divar kağızı Karuseli</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
-    <string name="gallery_wallpaper_history">"Divar kağızı Karuseli"ndə önə çıxan əvvəlki təsviləri görmək üçün toxunun</string>
+    <string name="gallery_wallpaper_history">"Divar kağızı Karuseli"ndə önə çıxan əvvəlki təsvirləri görmək üçün toxunun</string>
     <string name="gallery_wallpaper_history_go">Bax</string>
     <string name="gallery_wallpaper_theme">Lazımlı divar kağızları</string>
     <string name="gift_share">Paylaş</string>
