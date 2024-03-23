@@ -81,7 +81,7 @@
     <string name="agreement_desc">İstifadəçi Razılaşması (məcburi)</string>
     <string name="alaka_required">Bu mahnını dinləmək üçün ödəniş etməlisiniz</string>
     <string name="alarm_clock_recommend_desc">Hər gün yeni bir mahnı ilə oyan</string>
-    <string name="alarm_clock_recommend_switch">Tövsiyə edilən zəng saatı səsi</string>
+    <string name="alarm_clock_recommend_switch">Tövsiyə edilən zəngli saat səsi</string>
     <string name="alarm_clock_ringtones_successful">Zəngli saat uğurla quruldu</string>
     <string name="album_cover">Albom üzü</string>
     <string name="album_is_empty">Albom adı boş ola bilməz.</string>
