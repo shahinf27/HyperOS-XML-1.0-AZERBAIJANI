@@ -2557,6 +2557,12 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>1</item>
         <item>3</item>
     </string-array>
+    <array name="slice_allowlist_package_names" />
+    <string-array name="smart_device_control_entries">
+        <item>Xiaomi Smart Hub</item>
+        <item>Ağıllı ev</item>
+        <item>Yoxdur</item>
+    </string-array>
     <string-array name="smart_device_control_values">
         <item>1</item>
         <item>2</item>
