@@ -80,6 +80,8 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agreement_desc">İstifadəçi Razılaşması (məcburi)</string>
     <string name="alaka_required">Bu mahnını dinləmək üçün ödəniş etməlisiniz</string>
+    <string name="alarm_clock_recommend_desc">Hər gün yeni bir mahnı ilə oyan</string>
+    <string name="alarm_clock_recommend_switch">Tövsiyə edilən zəng saatı səsi</string>
     <string name="alarm_clock_ringtones_successful">Zəngli saat uğurla quruldu</string>
     <string name="album_cover">Albom üzü</string>
     <string name="album_is_empty">Albom adı boş ola bilməz.</string>
@@ -173,6 +175,7 @@
     <string name="asm_no_network">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="asm_not_action_is_local_music">"Bu əməliyyat daxili fayllarda icra edilə bilmir"</string>
     <string name="asm_notify_use_mobile_download">Mobil internetlə endirilir</string>
+    <string name="asm_online_service_switch">Tətbiq ayarlarında onlayn xidmətləri işə sal</string>
     <string name="asm_page_empty_search">"Nəticələr tapıla bilmədi"</string>
     <string name="asm_page_error_airplane">Bağlantı qura bilmək üçün Təyyarə rejimini söndürün</string>
     <string name="asm_page_error_data">Xəta baş verdi</string>
@@ -219,7 +222,7 @@
     <string name="audio_equalizer">Ekvalayzer:</string>
     <string name="audio_handle">Səsi idarə et</string>
     <string name="audio_mix">Musiqi qarışdırma</string>
-    <string name="audio_opensl">OpenSL播放</string>
+    <string name="audio_opensl">OpenSL oxutma</string>
     <string name="audio_picker_title">Bir mahnı seçin</string>
     <string name="audio_play">Səs oxut</string>
     <string name="audio_reverb">Əks-səda:</string>
@@ -227,10 +230,10 @@
     <string name="audio_speed">Sürət</string>
     <string name="audio_style">Tərz:</string>
     <string name="audio_transform">Səs kodlaşdırma</string>
-    <string name="audio_tremolo">惊悚效果</string>
+    <string name="audio_tremolo">Triller effekti</string>
     <string name="audio_voice_enhancer">Səs təkmilləşdirmə:</string>
     <string name="audio_volume">Səsi dəyişdir</string>
-    <string name="audio_waveform">波形图</string>
+    <string name="audio_waveform">Dalğa forması qrafiki</string>
     <string name="auto_play_switch">Videoları avto-oxutma</string>
     <string name="auto_play_toast">Avto-oxutma açıqdır. Bunu Ayarlarda söndürə bilərsiniz.</string>
     <string name="auto_recommend">Avto (tövsiyə edilən)</string>
@@ -251,10 +254,10 @@
     <string name="bluetooth_device">Bluetooth səs cihazı</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
-    <string name="brvah_load_complete">点击加载更多</string>
-    <string name="brvah_load_end">没有更多数据</string>
-    <string name="brvah_load_failed">加载失败，点击重试</string>
-    <string name="brvah_loading">加载中...</string>
+    <string name="brvah_load_complete">Daha çox yükləmək üçün toxunun</string>
+    <string name="brvah_load_end">Daha çox məlumat yoxdur</string>
+    <string name="brvah_load_failed">Yüklənmədi, yenidən sınamaq üçün toxunun</string>
+    <string name="brvah_loading">Yüklənir...</string>
     <string name="btn_text_edit">Düzəliş et</string>
     <string name="btn_text_view_all">Hamısına bax</string>
     <string name="buffering">Buferə yazılır…</string>
@@ -312,8 +315,8 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">6bd2a25900b04629999851bf47717a74</string>
-    <string name="com.miapm.build_id">e54d085ab6364592814c930ee69af058</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">edfae882c251485a84ed000a6def50ff</string>
+    <string name="com.miapm.build_id">7d326eb49dcb4804ac1e016ca3dbaf29</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -630,10 +633,23 @@
     <string name="favorites">Sevimlilər</string>
     <string name="fcm_fallback_notification_channel_label">Müxtəlif</string>
     <string name="feed_back">Əks-əlaqə</string>
+    <string name="feed_back_ad_desc">Mi Musiqi, əsas gəlir mənbəyi olaraq reklamlara əsaslanan ödənişsiz bir xidmətdir. Özəlliklərimizi və xidmətlərimizi təkmilləşdirməyə davam etmək və güncəlləmə buraxılışı üçün reklam gəlirini istifadə edirik. Mümkün olduqda, sizə daha axıcı təcrübə təqdim etmək üçün reklamların sayını azaldırıq.</string>
+    <string name="feed_back_ad_problem">Həddən artıq reklam var</string>
+    <string name="feed_back_button_text">Əks-əlaqə göndər</string>
+    <string name="feed_back_button_toast">Əks-əlaqə uğurla göndərildi</string>
+    <string name="feed_back_icon_problem">"Mi Musiqi nişanını tapa bilmirəm"</string>
+    <string name="feed_back_iconp_desc">"Ayarlar &gt; Tətbiqlər &gt; \"Əsas ekran qısayollarını idarə et\"də Mi Musiqi Əsas ekran qısayolunun görünməsinə icazə verdiyinizə əmin olun."</string>
+    <string name="feed_back_iconp_generate">Mi Musiqi üçün Əsas ekran qısayolunu yaratmaq üçün aşağıya da toxuna bilərsiniz.</string>
+    <string name="feed_back_iconp_text">Qısayol yarat</string>
+    <string name="feed_back_iconp_toast">Əsas ekran qısayolu uğurla yaradıldı</string>
+    <string name="feed_back_other">Əks-əlaqə göndər</string>
+    <string name="feed_back_tab_disappear">\"Baxılanlar\" vərəqi görünmür</string>
+    <string name="feed_back_tabd_desc">\"Baxılanlar\" vərəqi daha əvvəl görünüb daha sonra yoxa çıxıbsa, şəbəkəyə bağlanıb tətbiqi yenidən başladın.</string>
+    <string name="feed_back_title">TVS və əks-əlaqə</string>
     <string name="feedback_send_email_body_extra_info">Aşağıdakı məlumatı silməyin. Bu bizə problemi tapmağımıza kömək edəcək.</string>
     <string name="file_and_media_permissions_for_display">Fayllara müraciət: yerli faylları skan etmək, göstərmək və oxutmaq üçün</string>
     <string name="file_not_found">"Fayl mövcud deyil"</string>
-    <string name="filter_blur">模糊</string>
+    <string name="filter_blur">Bulanıq</string>
     <string name="filter_by_MP4">Qovluqları MP4 faylları ilə göstər</string>
     <string name="filter_by_duration">Uzunluğa görə</string>
     <string name="filter_by_duration_max">%d dəq</string>
@@ -647,22 +663,21 @@
     <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Bu ölçüdən kiçik olan faylları gizlət "</string>
     <string name="filter_by_size_summary">Kiçik səs fayllarını gizlət</string>
-    <string name="filter_distinct">鲜明</string>
-    <string name="filter_division">九宫格</string>
-    <string name="filter_edge">边缘</string>
-    <string name="filter_equalize">均衡</string>
-    <string name="filter_flip">镜像</string>
-    <string name="filter_rectangle">矩形</string>
-    <string name="filter_rotate">旋转</string>
-    <string name="filter_sharpening">锐化</string>
+    <string name="filter_distinct">Fərqli</string>
+    <string name="filter_division">Bölünmə</string>
+    <string name="filter_edge">Kənar</string>
+    <string name="filter_equalize">Tarazlı</string>
+    <string name="filter_flip">Çevirmə</string>
+    <string name="filter_rectangle">Düzbucaqlı</string>
+    <string name="filter_rotate">Döndərmə</string>
+    <string name="filter_sharpening">Kəskin</string>
     <string name="filter_size_unit">%d KB</string>
-    <string name="filter_sketch">素描</string>
+    <string name="filter_sketch">Eskiz</string>
     <string name="find_you_tunes">Mahnılarınızı tapın</string>
     <string name="floating_view_dialog_desc">Səhifəni indi tərk etsəniz musiqi dayandırılacaq. Yenə də tərk edirsiniz?</string>
     <string name="floating_view_dialog_leave">Tərk et</string>
     <string name="floating_view_dialog_stay">Qal</string>
     <string name="floating_view_dialog_title">Bu səhifə tərk edilsin?</string>
-    <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -1253,7 +1268,6 @@
     <string name="online_list_delete_message">Bu pleylistdəki bütün endirilən mahnılar daxili anbardan silinəcək.</string>
     <string name="online_music_joox">JOOX</string>
     <string name="online_music_yandex">Yandex</string>
-    <string name="online_playlist_category">Pleylistlər</string>
     <string name="online_recommend">Pleylist</string>
     <string name="online_service_open_tip">Onlayn musiqi xidmətləri açıqdır</string>
     <string name="online_service_title">Onlayn xidmətlər</string>
@@ -1474,6 +1488,21 @@
     <string name="play_setting">Oxutma</string>
     <string name="play_video_with_traffic">DAVAM ET</string>
     <string name="play_video_with_traffic_toast">"İndi mobil internet istifadə edirsiniz."</string>
+    <string name="playerui_lyric_dialog_cancel">Xeyr</string>
+    <string name="playerui_lyric_dialog_hint">\"Mi Musiqi\"nin optimallaşdırma məqsədləri üçün səs fayllarına müraciət etməsinə icazə verirəm</string>
+    <string name="playerui_lyric_dialog_ok">Bəli</string>
+    <string name="playerui_lyric_dialog_title">Bu mahnı sözləri doğrudur?</string>
+    <string name="playerui_lyric_edit_hint">Mahnı sözlərinə düzəliş etmək üçün bura toxunun</string>
+    <string name="playerui_lyric_fun_edit">Sözlərə düzəliş et</string>
+    <string name="playerui_lyric_fun_font">Mətn ölçüsü</string>
+    <string name="playerui_lyric_fun_history">Mahnı sözü tarixçəsi</string>
+    <string name="playerui_lyric_fun_research">Yenidən axtar</string>
+    <string name="playerui_lyric_searching">Axtarılır…</string>
+    <string name="playerui_lyric_selected">Mahnı sözlərini istifadə et</string>
+    <string name="playerui_song_dialog_cancel">"İcazə vermə"</string>
+    <string name="playerui_song_dialog_hint">"Daha doğru mahnı sözləri hazırda mövcud deyil. \"Mi Musiqi\"nin optimallaşdırma məqsədləri üçün bu səs faylına müraciət etməsinə icazə verərək bizə kömək edə bilərsiniz. İndi icazə verilsin?"</string>
+    <string name="playerui_song_dialog_ok">İcazə ver</string>
+    <string name="playerui_song_dialog_title">Səs faylına müraciətə icazə ver</string>
     <string name="playlist_empty">Heç bir pleylist tapılmadı.</string>
     <string name="playlist_recommend_title">Tövsiyə edilən</string>
     <string name="playlist_title">Pleylist adı</string>
@@ -1485,7 +1514,7 @@
     <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">Pleylistlərim</string>
     <string name="playlist_type_recommend">Seçilmiş pleylistlər</string>
-    <string name="please_click_select">请点击右上角菜单选择文件</string>
+    <string name="please_click_select">Faylı seçmək üçün lütfən sağ üst küncdəki menyuya toxunun</string>
     <string name="please_download_first">Bu mahnını zəng səsi kimi istifadə etməzdən əvvəl onu endirməlisiniz</string>
     <string name="please_select">Lütfən faylı seçin</string>
     <string name="please_select_song">Əvvəlcə bir mahnı seçin</string>
@@ -1519,7 +1548,7 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">Oxutma növbəsi boşdur.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Read and agree to the &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Wansheng Privacy Policy&lt;/a&gt;&lt;/font&gt; to be able to use online music services.&lt;/Data&gt;</string>
+    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Onlayn musiqi xidmətlərini istifadə edə bilmək üçün &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Wansheng Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.&lt;/Data&gt;</string>
     <string name="read_and_agree_hungama_protocol">"&lt;Data&gt;Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_joox_protocol">"&lt;Data&gt;Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_mi_protocol">"&lt;Data&gt;Bunları oxudum və razılaşıram: Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
@@ -2090,7 +2119,7 @@ Xoşbəxt ol"</string>
     <string name="video_loading_fail">"Video yüklənə bilmədi"</string>
     <string name="video_lut">lut</string>
     <string name="video_moov">MOOV davam edir</string>
-    <string name="video_multi">画面拼接</string>
+    <string name="video_multi">Şəkil əlavə et</string>
     <string name="video_part_zoom">Bir hissəsini yaxınlaşdır</string>
     <string name="video_pip">Şəkil içində şəkil</string>
     <string name="video_play">Video oxutma</string>
