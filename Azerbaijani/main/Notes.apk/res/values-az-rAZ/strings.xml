@@ -38,7 +38,7 @@
     <string name="access_photos_and_videos">Foto və videolara müraciət</string>
     <string name="action_collapse">Gizlət</string>
     <string name="action_expand">Daha çox göstər</string>
-    <string name="action_mode_switcher_grid_description">Dama görünüşü</string>
+    <string name="action_mode_switcher_grid_description">Xana görünüşü</string>
     <string name="action_mode_switcher_list_description">Siyahı görünüşü</string>
     <string name="action_settings_description">Ayarlar</string>
     <string name="action_to_link">URL-ni aç</string>
@@ -106,6 +106,7 @@
     <string name="cloud_trash_bin_title">Buludda silinən notlar</string>
     <string name="confirm_cancel">"Razı deyiləm"</string>
     <string name="confirm_ok">Razıyam</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="continuous_default_hint">Mətni kopyalayın, təsvirləri və ekran şəkillərini çıxarış kimi saxlayın</string>
     <string name="continuous_new_excerpt_title">Yeni çıxarış</string>
     <string name="copy">Kopyala</string>
@@ -172,6 +173,7 @@
     <string name="doodle_background_white">Ağ</string>
     <string name="doodle_brush_config_alpha">Ştrix şəffaflığı</string>
     <string name="doodle_brush_config_width_level">Ştrix eni</string>
+    <string name="doodle_brush_markpen">Marker</string>
     <string name="doodle_brush_pen">Qələm</string>
     <string name="doodle_brush_pencil">Karandaş</string>
     <string name="doodle_brush_watercolor">Suluboya qələm</string>
@@ -221,7 +223,6 @@
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="float_note_empty">Burada qeyd yoxdur</string>
     <string name="float_note_title">Notlar</string>
-    <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -649,9 +650,7 @@
     <string name="permission_read_contact_desc">Zəng zamanı yaradılmış notları kontaktlarla əlaqələndirmə</string>
     <string name="permission_storage_desc_new_v12">Notlara şəkillər əlavə etmək və notları şəkill olaraq saxlamaq üçün</string>
     <string name="permission_storage_desc_pad_new_v12">Notlara şəkillər əlavə etmək və notları şəkill olaraq saxlamaq üçün</string>
-    <string name="permission_xiaoai_desc"><Data>Mi AI, səsi mətnə çevirmək və səsli qeydlər yaratmaq üçün səsyazmalarınızı və cihaz kimliyinizi yığacaq. Mi AI &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətindən&lt;/a&gt; ətraflı öyrənin.</Data></string>
-    <string name="permission_xiaoai_desc_m"><Data>Nitqdən mətnə transkripsiya xidmətlərini təmin etmək üçün Mi AI, səs girişini və cihazınızın IMEI-sini yığmalıdır. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Notes Üçüncü Tərəf Data Paylaşım Bəyanatını&lt;/a&gt; oxuyun və razılaşın. Həmçinin Mi AI &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyaraq daha çox öyrənə bilərsiniz.</Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Nitqdən mətnə transkripsiya xidmətlərini təmin etmək üçün Mi AI, təsadüfi yaradılmış səs girişi və cihaz kimliyinizi yığmalıdır. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Notes Üçüncü Tərəf Data Paylaşım Bəyanatımızı&lt;/a&gt; oxuyun və razılaşın. Həmçinin Mi AI &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyaraq daha çox öyrənə bilərsiniz.</Data></string>
+    <string name="permission_xiaoai_desc_n"><Data>Nitqdən mətnə xidmətlərini təmin etmək üçün Notlar tətbiqi, danışılan səs məzmununu və cihazınızın IMEI-sini yığmalıdır. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Notes Üçüncü Tərəf Data Paylaşım Bəyanatını&lt;/a&gt; oxuyun və razılaşın. Həmçinin Mi AI &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyaraq əlaqəli özəlliklər haqqında daha çox öyrənə bilərsiniz.</Data></string>
     <string name="permission_xiaoai_title">Nitqdən mətnə</string>
     <string name="permlab_accessNote">Notlara müraciət</string>
     <string name="pm">GS</string>
@@ -680,7 +679,7 @@
     <string name="progressbar_title">Güvənlik problemləri yoxlanılır…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">Cəld notlar, not və çıxarış yaratmağa imkan verir</string>
-    <string name="recognition_failure">识别失败</string>
+    <string name="recognition_failure">Tanıma uğursuz oldu</string>
     <string name="redo">Təkrar et</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Qeyd yüklənənə qədər gözləyib yenidən sınayın.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Bu qeyd paylaşmaq üçün çox böyükdür.</string>
@@ -795,7 +794,6 @@
     <string name="solar_term_winter_begins">Qış başlayır</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="splash_note">Qələm</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stealth_mode_tip">"Gizli rejimdəsiniz. Mikrofon indi istifadə edilə bilmir."</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Bazar</string>
@@ -815,15 +813,11 @@
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
-    <string name="the_eve_of_the_spring_festival">Çin Yeni ilinin axşamı</string>
-    <string name="the_fifth_day">Çin Yeni İlinin beşinci günü</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
-    <string name="the_forth_day">Çin Yeni İlinin dördüncü günü</string>
     <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
     <string name="the_laba_festival">Laba Festivalı</string>
@@ -837,13 +831,8 @@
     <string name="the_partys_day">CPC Günü</string>
     <string name="the_peace_day">Anma Günü</string>
     <string name="the_retrocession_day">Restrosessiya Günü</string>
-    <string name="the_second_day">Çin Yeni İlinin İkinci Günü</string>
-    <string name="the_seventh_day">Çin Yeni ilinin yeddinci günü</string>
-    <string name="the_sixth_day">Çin Yeni İlinin Altıncı Günü</string>
     <string name="the_spirit_festival">Ruh Festivalı</string>
-    <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
-    <string name="the_third_day">Çin Yeni İlinin Üçüncü Günü</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
@@ -989,7 +978,7 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="web_sso_login_message">Daxil olunur…</string>
     <string name="webview_reload">Yenidən sına</string>
     <string name="wednesday">Çərşənbə</string>
-    <string name="wednesday_short">Ç.</string>
+    <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
     <string name="widget_all_notes_name">Bütün notlar</string>
     <string name="widget_all_todo_name">Bütün tapşırıqlar</string>
