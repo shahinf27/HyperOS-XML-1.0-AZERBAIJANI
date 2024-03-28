@@ -272,6 +272,22 @@
         <item quantity="other">%1$d fayl</item>
         <item quantity="one">%1$d fayl</item>
     </plurals>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">"Bulud anbarındakı yetərsiz sahəyə görə %d element nüsxələnə bilmədi"</item>
+        <item quantity="one">"Bulud anbarındakı yetərsiz sahəyə görə %d element nüsxələnə bilmədi"</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">"%d element nüsxələnmədi"</item>
+        <item quantity="one">"%d element nüsxələnmədi"</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">%d element mobil internet istifadə edilərək nüsxələnir…</item>
+        <item quantity="one">%d element mobil internet istifadə edilərək nüsxələnir…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">%d element nüsxələnir…</item>
+        <item quantity="one">%d element nüsxələnir…</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
@@ -351,10 +367,6 @@
     <plurals name="photo_count_format">
         <item quantity="other">Cəmi %1$d element</item>
         <item quantity="one">Cəmi %1$d element</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">%d dərəcə döndər</item>
-        <item quantity="one">%d dərəcə döndər</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d gün</item>
@@ -727,6 +739,18 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d fayl</item>
         <item quantity="one">%1$d fayl</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">%d video seqmenti seç</item>
+        <item quantity="one">%d video seqmenti seç</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">Video yuvası %1$d, videonun əlavə edilməsi üçün %2$s və ya daha çox saniyə gözləyin</item>
+        <item quantity="one">Video yuvası %1$d, videonun əlavə edilməsi üçün %2$s və ya daha çox saniyə gözləyin</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">Davam edə bilmək üçün daha %d video əlavə edin</item>
+        <item quantity="one">Davam edə bilmək üçün daha %d video əlavə edin</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d video</item>
