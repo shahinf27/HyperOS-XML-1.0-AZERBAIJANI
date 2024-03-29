@@ -132,6 +132,7 @@
     <string name="confignet_cancel">İmtina</string>
     <string name="confignet_download_title">Davam etmək üçün \"Mi Fitness\"i quraşdırın</string>
     <string name="confirm">Təsdiqlə</string>
+    <string name="cooler_reset">Cütləşdirmək üçün %d dəfə basın</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
