@@ -41,7 +41,6 @@
     <string name="altitude_uncalibrate_tip">Kalibrlənməmiş məlumat</string>
     <string name="altitude_unit">m</string>
     <string name="am">GƏ</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="angle">%.0f</string>
     <string name="app_description_content">"Kompas bir sistem tətbiqidir. Silindikdən sonra istiqamətləri, koordinatları, atmosfer təzyiqi və mövcud yüksəkliyi yoxlamaq üçün kompası istifadə edə bilməyəcəksiniz."</string>
     <string name="app_description_title">Kompas silinsin?</string>
