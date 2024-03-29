@@ -1037,7 +1037,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Anları</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
-    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə bağlı çətinlik yaşayır. Lütfən yenidən sınayın.</string>
     <string name="confirm">Oldu</string>
     <string name="confirm_cancel_task_files">Bura fayl göndərilməsi ləğv edilsin: %1$s?</string>
     <string name="confirm_cancel_task_images">Bura şəkil göndərilməsi ləğv edilsin: %1$s?</string>
