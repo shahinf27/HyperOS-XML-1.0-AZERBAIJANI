@@ -110,7 +110,6 @@
     <string name="developer_title">Telecom Tərtibatçı Menyusu</string>
     <string name="dial_conference_fail_prompt">"Hazırkı şəbəkə VoLTE özəlliyini dəstəkləmədiyi üçün birbaşa konfrans zəngi edilə bilmir."</string>
     <string name="dial_vt_fail_prompt">"Hazırkı şəbəkə VoLTE özəlliyini dəstəkləmir. Normal səsli zəngə keçilsin?"</string>
-    <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
     <string name="do_not_show_again">"Təkrar göstərmə"</string>
     <string name="duplicate_video_call_not_allowed">Hal-hazırda zəng əlavə edilə bilmir.</string>
     <string name="early_morning">Səhər</string>
@@ -175,7 +174,6 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="handle_restricted">MƏHDUD</string>
-    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
     <string name="incall_error_call_failed">"Zəng edilə bilmədi."</string>
     <string name="incall_error_power_off">Zəng etmək üçün Təyyarə rejimini söndürün.</string>
     <string name="incall_error_supp_service_unknown">"Bu xidmət dəstəklənmir."</string>
@@ -284,7 +282,6 @@
     <string name="notification_missedCallsMsg">%s buraxılmış zəng</string>
     <string name="notification_missedCallsTitle">Buraxılmış zənglər</string>
     <string name="notification_missedWorkCallTitle">Buraxılmış iş zəngi</string>
-    <string name="number_tag_divider">" ｜ "</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Zəng etmək üçün, yararlı bir nömrə daxil edin.</string>
     <string name="outgoing_call_not_allowed_no_permission">Bu tətbiq, \"Telefon\" icazəsi olmadan zəng edə bilməz.</string>
     <string name="outgoing_call_not_allowed_user_restriction">Yalnız fövqəladə zənglərə icazə verilir.</string>
@@ -386,8 +383,6 @@
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="ui_default_package">com.android.incallui</string>
-    <string name="ui_default_package_dialer">com.android.contacts</string>
     <string name="unblock_button">Əngəldən çıxart</string>
     <string name="unblock_dialog_body">%1$s nömrəsi əngəldən çıxarılsın?</string>
     <string name="unknown">Bilinmir</string>
