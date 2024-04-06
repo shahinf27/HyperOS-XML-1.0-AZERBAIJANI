@@ -202,6 +202,7 @@
     <string name="aqi_quality_index_pure">Əla</string>
     <string name="aqi_quality_index_unhealthy">Nasaz</string>
     <string name="articles_collection_empty">Burada məqalə yoxdur</string>
+    <string name="at_miui_browser">@string/mi_browser</string>
     <string name="auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="autoSwithcingSearchEngineTips">Çox istifadə edilən axtarış mühərrikinə keçildi</string>
     <string name="auto_play_permission_name">Avto-oxutma</string>
@@ -419,8 +420,13 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="columbus_player_speed_title">Video ötürülsün?</string>
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
+    <string name="columbus_reward_style_access">Ətraflı öyrən</string>
+    <string name="columbus_reward_style_close_cancel">Çıxış et</string>
+    <string name="columbus_reward_style_close_desc">Mükafatı almaq üçün videonu izləməyi bitirin. İzləməyə davam edilsin?</string>
+    <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.crashlytics.android.build_id">158fe09c2d494b808ff46a48af5fabab</string>
+    <string name="columbus_skip_ad_time">Ötür (%d)</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">d4f3ae5dcecc4da4894254e7fab9bdee</string>
     <string name="com.miapm.build_id">45500e79536741b78c3a39adc066ca92</string>
     <string name="com_facebook_device_auth_instructions">&lt;b&gt;facebook.com/device&lt;/b&gt; ünvanını ziyarət edin və yuxarıdakı kodu daxil edin.</string>
     <string name="com_facebook_image_download_unknown_error">Şəkli endirərkən gözlənilməz xəta baş verdi.</string>
@@ -813,7 +819,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativ</string>
-    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Rəy</string>
     <string name="exo_track_role_supplementary">Tamamlayıcı</string>
     <string name="exo_track_selection_auto">Avtomatik</string>
@@ -924,7 +930,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="fling_on_border_gesture_hint">Ayarlarda bu jest funksiyasını seçə bilərsiniz</string>
     <string name="fm_guide_btn">Anladım</string>
     <string name="fm_guide_msg">İndi Mi Brauzer istifadə edərək yerli videoları, mahnıları və şəkilləri idarə edə bilərsiniz!</string>
-    <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -1262,9 +1267,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="menu_title_open_file_management">Fayl Menecerini aç</string>
     <string name="menu_title_pause_all">Hamısına fasilə ver</string>
     <string name="menu_title_resume_all">Hamısını başlat</string>
-    <string name="mggc_aab">f4bb9b1cdc1a0f4b</string>
     <string name="mggc_app_name">Oyun Mərkəzi</string>
-    <string name="mggc_bba">e6135d289c1ff651b514fd4559850c19</string>
     <string name="mggc_bottom_bar_category">Kateqoriyalar</string>
     <string name="mggc_bottom_bar_home">Əsas səhifə</string>
     <string name="mggc_bottom_bar_ranking">Siyahılar</string>
@@ -1305,6 +1308,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="mggc_no_more_games">Oyun yoxdur</string>
     <string name="mggc_ranking_page_title">Siyahılar</string>
     <string name="mggc_request_error">"Tələb tamamlana bilmədi"</string>
+    <string name="mi_browser">@string/application_name</string>
     <string name="mi_browser_clean_up_garbage">Mi Brauzer tullantıları təmizləyir…</string>
     <string name="mi_browser_is_scanning">Mi Brauzer skan edilir</string>
     <string name="midi_permission_name">MIDI cihazları idarə et</string>
@@ -1420,6 +1424,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Oldu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
@@ -1645,7 +1650,6 @@ Bu səhifə tərk edilsin?"</string>
     <string name="mw_save_password_remember">Xatırla</string>
     <string name="mw_search_menu_title">Axtar</string>
     <string name="mw_speech_recognition_service_not_found">"Google nitq mühərriki tapıla bilmədi"</string>
-    <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">GƏ</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
@@ -2004,6 +2008,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_content_night_read_mode">Gecə rejimi</string>
     <string name="pref_content_search_engine">Ünvan çubuğunda axtarış mühərriki</string>
     <string name="pref_content_search_engine_summary">Axtarış mühərrikini seçin</string>
+    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_value_always">ALWAYS</string>
     <string name="pref_data_preload_value_never">NEVER</string>
     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -2029,10 +2034,12 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_force_userscalable">Yaxınlaşdırmağa məcbur et</string>
     <string name="pref_force_userscalable_summary">"Yaxınlaşdırma davranışına nəzarət etmək üçün veb saytın tələbini yararsız et"</string>
     <string name="pref_general_title">Ümumi</string>
+    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_key_gesture_title">Düymələr &amp; jestlər</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">ALWAYS</string>
     <string name="pref_link_prefetch_value_never">NEVER</string>
     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -2144,6 +2151,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="pref_title_dns_prefetch">DNS ön götürmə</string>
     <string name="pref_ua_string">İstifadəçi agent sətri</string>
     <string name="pref_version_info">Versiya məlumatı</string>
+    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_value_always">ALWAYS</string>
     <string name="pref_video_preload_value_never">NEVER</string>
     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
@@ -2343,7 +2351,6 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="rlv_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="rlv_refreshing">Təzələnir…</string>
     <string name="rlv_release_to_refresh">Təzələmək üçün burax</string>
-    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">Yoxdur</string>
     <string name="router_download_exist">Bu fayl artıq mövcuddur</string>
     <string name="router_download_failed">"Endirilə bilmədi"</string>
@@ -2571,7 +2578,6 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="ssl_untrusted">"Bu sertifikat etibarlı mənbədən deyil."</string>
     <string name="ssl_warnings_header">Bu saytın güvənlik sertifikatları ilə bağlı problemlər var.</string>
     <string name="start_save_page_capture">Ekran şəkli saxlanılır…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_info_detail">Əlçatan: %1$s Cəmi: %2$s</string>
     <string name="storage_internal">Daxili anbar</string>
     <string name="storage_permission_request_toast">"Endirmələr, cihazınızın anbarına müraciət tələb edir"</string>
@@ -2642,15 +2648,11 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
-    <string name="the_eve_of_the_spring_festival">Çin Yeni ilinin axşamı</string>
-    <string name="the_fifth_day">Çin Yeni İlinin beşinci günü</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
-    <string name="the_forth_day">Çin Yeni İlinin dördüncü günü</string>
     <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
     <string name="the_laba_festival">Laba Festivalı</string>
@@ -2664,13 +2666,9 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="the_partys_day">CPC Günü</string>
     <string name="the_peace_day">Anma Günü</string>
     <string name="the_retrocession_day">Restrosessiya Günü</string>
-    <string name="the_second_day">Çin Yeni İlinin İkinci Günü</string>
-    <string name="the_seventh_day">Çin Yeni ilinin yeddinci günü</string>
-    <string name="the_sixth_day">Çin Yeni İlinin Altıncı Günü</string>
     <string name="the_spirit_festival">Ruh Festivalı</string>
     <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
-    <string name="the_third_day">Çin Yeni İlinin Üçüncü Günü</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
@@ -2752,6 +2750,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="tt_count_down_view">Ötür</string>
     <string name="tt_dislike_header_tv_back">Geri</string>
     <string name="tt_dislike_header_tv_title">Seç</string>
+    <string name="tt_display_error">Ekran xətası</string>
     <string name="tt_error_access_method_pass">Qeyri-qanuni müraciət üsulu</string>
     <string name="tt_error_ad_able_false_msg">Uyğunluğa görə tələb reklamlarını qadağan edin, lütfən COPPA/CCPA/GDPR ayarlarını yoxlayın</string>
     <string name="tt_error_ad_sec_false_msg">Güvənlik yoxlanışı uğursuz oldu</string>
@@ -2843,8 +2842,10 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="tt_splash_wriggle_text">Detallar səhifəsinə və ya üçüncü tərəf tətbiqə gedin</string>
     <string name="tt_splash_wriggle_top_text">Telefonu çevir</string>
     <string name="tt_splash_wriggle_top_text_style_17">Telefonu çevir və ya nişana toxun</string>
+    <string name="tt_suggestion_commit">Göndər</string>
+    <string name="tt_suggestion_description">Ekran xətası üzrə açıqlama daxil edin və Göndər düyməsinə basın. Problemin həllinə kömək üçün reklam elementi də \"Pangle\"a göndəriləcək.</string>
     <string name="tt_sys_error">Sistem xətası</string>
-    <string name="tt_template_load_fail">main template load fail !</string>
+    <string name="tt_template_load_fail">əsas şablon yükləmə uğursuz oldu !</string>
     <string name="tt_text_privacy_app_version">Versiya：V</string>
     <string name="tt_text_privacy_development">Tərtibatçı：</string>
     <string name="tt_tip">İpucu</string>
@@ -3190,14 +3191,14 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Quraşdır</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Google Play-də quraşdır</string>
-    <string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
+    <string name="yandex_ads_internal_tools_body_text">Çoxlu avtomobil seçimi. Rahat axtarış. Yeni və işlənmiş avtomobillər. Gündəlik yeniləmələr. Çoxlu avtomobil seçimi. Çoxlu avtomobil seçimi. Rahat axtarış. Yeni və işlənmiş avtomobillər. Gündəlik yeniləmələr. Çoxlu avtomobil seçimi</string>
     <string name="yandex_ads_internal_tools_call_to_action_text">Sayta get</string>
     <string name="yandex_ads_internal_tools_domain_text">domen</string>
     <string name="yandex_ads_internal_tools_price_text">qiymət</string>
     <string name="yandex_ads_internal_tools_rating_text">qiymətləndirmə</string>
     <string name="yandex_ads_internal_tools_review_count_text">incələmə sayı</string>
     <string name="yandex_ads_internal_tools_sponsored_text">sponsorlu</string>
-    <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
+    <string name="yandex_ads_internal_tools_title_text">Avto.ru saytında lüks və ucuz avtomobillərin alış-verişi</string>
     <string name="yandex_ads_internal_tools_warning_text">Əks göstərişlər var. Bir mütəxəssislə əlaqə saxlayın Əks göstərişlər var. Bir mütəxəssislə əlaqə saxlayın</string>
     <string name="yandex_mobileads_age_restricted_user">com.yandex.mobile.ads.AGE_RESTRICTED_USER</string>
     <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>

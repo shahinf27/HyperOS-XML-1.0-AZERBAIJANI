@@ -186,9 +186,9 @@
     <string name="asm_pay_order_generate">Sifariş yaradılır…</string>
     <string name="asm_pay_order_generate_failed">"Sifariş yaradıla bilmədi"</string>
     <string name="asm_pay_query_overtime">Ödəniş statusu tələbi üçün vaxt bitdi</string>
-    <string name="asm_privacy_desc">Wansheng Gizlilik Siyasəti</string>
-    <string name="asm_privacy_tips_content">Onlayn musiqi xidmətlərini istifadə edə bilmək üçün <a href="/link/click">Wansheng Gizlilik Siyasəti</a> ilə razılaşın.</string>
-    <string name="asm_privacy_tips_title">Wansheng Gizlilik Siyasəti</string>
+    <string name="asm_privacy_desc">ASM Gizlilik Siyasəti</string>
+    <string name="asm_privacy_tips_content">Onlayn musiqi xidmətlərini istifadə edə bilmək üçün <a href="/link/click">ASM Gizlilik Siyasəti</a> ilə razılaşın.</string>
+    <string name="asm_privacy_tips_title">ASM Gizlilik Siyasəti</string>
     <string name="asm_pro_center">Üzvlük</string>
     <string name="asm_search_result_contain_music">Daxildir: \"%1$s\"</string>
     <string name="asm_song_err_connect">"Serverə bağlana bilmədi"</string>
@@ -315,8 +315,8 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">583776ea272c4919ae6983769adbc3f4</string>
-    <string name="com.miapm.build_id">23376226ab7b447eb6d96757a8577510</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">386f5b00a01c4fabb12e632952a68872</string>
+    <string name="com.miapm.build_id">983d1f33ce314fd8af6c3826a5c9087d</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -517,6 +517,7 @@
     <string name="downloading_empty">Boşdur</string>
     <string name="downloading_pause_apk">Fasilə verildi. Endirməni Bildiriş panelində davam etdirin.</string>
     <string name="due_date">Son tarix: %s</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_playlist_info">Pleylist məlumatına düzəliş et</string>
@@ -821,6 +822,7 @@
     <string name="impunity_declaration_summary">Musiqi tətbiqi hər dəfə başladılanda Xidmət Şərtlərini göstər</string>
     <string name="impunity_declaration_title">Xidmət Şərtləri</string>
     <string name="in_searching_please_wait">Axtarılır…</string>
+    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">Daxil ol</string>
     <string name="individuation_card_login_message">"Sevəcəyiniz daha çox mahnını tapmaq üçün daxil olun"</string>
     <string name="individuation_card_title">Sizin üçün</string>
@@ -898,7 +900,7 @@
     <string name="joox_vip_expired_hint">VIP üzvlüyünüz başa çatdı. JOOX-dan endirilən mahnılar yalnız endirilənlərinizdə göstərilir.</string>
     <string name="jooxdebugvip">JooxVip切换测试</string>
     <string name="jooxtestlogin">Joox登录测试</string>
-    <string name="jump_ad">跳过</string>
+    <string name="jump_ad">Ötür</string>
     <string name="jump_to_ytb_dialog_cancel">İmtina</string>
     <string name="jump_to_ytb_dialog_desc">"\"Mi Musiqi\"ni tərk edib \"YouTube\"u açmaq üzrəsiniz. YouTube indi açılsın?"</string>
     <string name="jump_to_ytb_dialog_ok">Təsdiqlə</string>
@@ -947,6 +949,21 @@
     <string name="lrc_search_failed">"Mahnı sözləri tapıla bilmədi"</string>
     <string name="lrc_searching">Axtarılır…</string>
     <string name="ludo_tab_guide">Yeni Musiqi otaqlarımıza nəzər salın</string>
+    <string name="lyric_ai_apply_fail">"İstifadə edilə bilmədi. Yenidən sınayın."</string>
+    <string name="lyric_ai_button_text">Süni Zəka mahnı sözləri</string>
+    <string name="lyric_ai_dialog_one">"•Mahnı sözlərini tanımaq üçün toxuna bilərsiniz, biz süni zəka səs tanıma texnologiyasını istifadə edərək sizin üçün mahnı sözlərini dolduracağıq."</string>
+    <string name="lyric_ai_dialog_three">•İrəliləyişi mahnı sözləri alət çubuğunda yoxlaya bilərsiniz.</string>
+    <string name="lyric_ai_dialog_two">"•Tanıma bir neçə dəqiqə çəkəcək. Tamamlandıqdan sonra, mahnı sözləri avtomatik doldurulacaq."</string>
+    <string name="lyric_ai_identify_success">Mahnı sözləri uğurla tanındı</string>
+    <string name="lyric_ai_song">Hazırkı mahnı</string>
+    <string name="lyric_ai_song_list">Mahnılar</string>
+    <string name="lyric_ai_state_apply">Mahnı sözləri istifadə edilir</string>
+    <string name="lyric_ai_state_default">Mahnı tanınmadı</string>
+    <string name="lyric_ai_state_fail">"Mahnı sözləri tanına bilmədi"</string>
+    <string name="lyric_ai_state_identify">Tanı</string>
+    <string name="lyric_ai_state_identifying">Bir saniyə…</string>
+    <string name="lyric_ai_state_use">İstifadə et</string>
+    <string name="lyric_ai_title">Süni Zəka mahnı sözlərini tanıma</string>
     <string name="lyric_is_empty">Mahnı sözləri yoxdur</string>
     <string name="lyric_label">Mahnı sözləri</string>
     <string name="lyric_open_other_connect">Mahnı sözlərini mobil şəbəkə istifadə edərək endir</string>
@@ -1126,6 +1143,7 @@
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Oldu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
@@ -1280,6 +1298,7 @@
     <string name="open_service">İşə sal</string>
     <string name="operation_done_close">Bağla</string>
     <string name="other_song_in_album">Bu albomdakı digər mahnılar</string>
+    <string name="partner_id">3041</string>
     <string name="party">Party</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu kəs</string>
@@ -1548,7 +1567,7 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">Oxutma növbəsi boşdur.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Onlayn musiqi xidmətlərini istifadə edə bilmək üçün &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Wansheng Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.&lt;/Data&gt;</string>
+    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Onlayn musiqi xidmətlərini istifadə edə bilmək üçün &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;ASM Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.&lt;/Data&gt;</string>
     <string name="read_and_agree_hungama_protocol">"&lt;Data&gt;Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_joox_protocol">"&lt;Data&gt;Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_mi_protocol">"&lt;Data&gt;Bunları oxudum və razılaşıram: Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
@@ -1817,15 +1836,11 @@ Xoşbəxt ol"</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
-    <string name="the_eve_of_the_spring_festival">Çin Yeni İl axşamı</string>
-    <string name="the_fifth_day">Çin Yeni İlinin beşinci günü</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
-    <string name="the_forth_day">Çin Yeni İlinin dördüncü günü</string>
     <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
     <string name="the_laba_festival">Laba Festivalı</string>
@@ -1839,13 +1854,9 @@ Xoşbəxt ol"</string>
     <string name="the_partys_day">CPC Günü</string>
     <string name="the_peace_day">Anma Günü</string>
     <string name="the_retrocession_day">Restrosessiya Günü</string>
-    <string name="the_second_day">Çin Yeni İlinin ikinci günü</string>
-    <string name="the_seventh_day">Çin Yeni İlinin yeddinci günü</string>
-    <string name="the_sixth_day">Çin Yeni İlinin altıncı günü</string>
     <string name="the_spirit_festival">Ruh Festivalı</string>
     <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
-    <string name="the_third_day">Çin Yeni İlinin üçüncü günü</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
@@ -2081,6 +2092,7 @@ Xoşbəxt ol"</string>
     <string name="upload_playlist_to_hungama_title">Xiaomi Hesabınızı istifadə etdiyiniz digər cihazlarda əldə edə bilmək üçün onlayn mahnıları Hungama-ya sinxronlaşdırın.</string>
     <string name="upload_playlist_to_hungama_toast">Onlayn mahnılar Hungama-ya sinxronlaşdırılacaq</string>
     <string name="user_agreement">İstifadəçi Razılaşması</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="user_experience_program_open">Müəllif hüququ məhdudiyyətlərinə görə, endirilmiş mahnıları oxuda bilmək üçün İstifadəçi Təcrübə Proqramına yazılmaq lazımdır. Bunu Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadəçi Təcrübə Proqramına yazıl\"da edə bilərsiniz.</string>
     <string name="user_playlist_plaza">Pleylistlər</string>
     <string name="user_privacy_dialog_negative_text">İmtina</string>

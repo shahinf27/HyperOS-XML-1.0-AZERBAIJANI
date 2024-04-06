@@ -212,4 +212,12 @@
         <item quantity="other">Vicetdə %1$d şirkət</item>
         <item quantity="one">Vicetdə %1$d şirkət</item>
     </plurals>
+    <plurals name="pa_travel_train_tip_delay_hour_min">
+        <item quantity="one">Qatar %1$d saat %2$d dəqiqə gecikir</item>
+        <item quantity="other">Qatar %1$d saat %2$d dəqiqə gecikir</item>
+    </plurals>
+    <plurals name="pa_travel_train_tip_delay_min">
+        <item quantity="one">Qatar %d dəqiqə gecikir</item>
+        <item quantity="other">Qatar %d dəqiqə gecikir</item>
+    </plurals>
 </resources>
