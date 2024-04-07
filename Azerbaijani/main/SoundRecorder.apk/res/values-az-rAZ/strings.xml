@@ -301,8 +301,6 @@
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilmiş tarix</string>
@@ -440,7 +438,6 @@
     <string name="record_downloading_notification_complete">Endirmə tamamlandı</string>
     <string name="record_downloading_notification_count">%d endirilir</string>
     <string name="record_format_preference_title">Səsyazma formatı</string>
-    <string name="record_item_title_delete">@string/delete</string>
     <string name="record_item_title_multi_choice">Seç</string>
     <string name="record_item_title_send">Paylaş</string>
     <string name="record_list">Səsyazmalar</string>
@@ -553,7 +550,6 @@
     <string name="tab_apps">Tətbiqlər</string>
     <string name="tab_call">Zənglər</string>
     <string name="tab_fm">FM</string>
-    <string name="tab_record">@string/app_name</string>
     <string name="text_btn_backward_3_seconds">%d saniyə geri</string>
     <string name="text_btn_complete">Dayandır</string>
     <string name="text_btn_copy">Kopyala</string>
@@ -644,7 +640,6 @@
     <string name="wednesday_shortest">Çər</string>
     <string name="wifi_recommended_body" formatted="false">Bu faylı (%s) endirmək üçün mobil internet bağlantınızı istifadə etmək internet istifadənizi artıracaq. Tarif planı limitini aşsanız, operatorunuz əlavə ödəniş ala bilər. Bu faylı endirmək üzrə Wi-Fi bağlantısını gözləmək üçün %s seçiminə toxunun.</string>
     <string name="wifi_recommended_title">İnternet istifadə xəbərdarlığı</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə mövcuddur</string>
