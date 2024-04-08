@@ -517,7 +517,6 @@
     <string name="downloading_empty">Boşdur</string>
     <string name="downloading_pause_apk">Fasilə verildi. Endirməni Bildiriş panelində davam etdirin.</string>
     <string name="due_date">Son tarix: %s</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_playlist_info">Pleylist məlumatına düzəliş et</string>
@@ -822,7 +821,6 @@
     <string name="impunity_declaration_summary">Musiqi tətbiqi hər dəfə başladılanda Xidmət Şərtlərini göstər</string>
     <string name="impunity_declaration_title">Xidmət Şərtləri</string>
     <string name="in_searching_please_wait">Axtarılır…</string>
-    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">Daxil ol</string>
     <string name="individuation_card_login_message">"Sevəcəyiniz daha çox mahnını tapmaq üçün daxil olun"</string>
     <string name="individuation_card_title">Sizin üçün</string>
@@ -1143,7 +1141,6 @@
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Oldu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
@@ -1298,7 +1295,6 @@
     <string name="open_service">İşə sal</string>
     <string name="operation_done_close">Bağla</string>
     <string name="other_song_in_album">Bu albomdakı digər mahnılar</string>
-    <string name="partner_id">3041</string>
     <string name="party">Party</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu kəs</string>
@@ -2092,7 +2088,6 @@ Xoşbəxt ol"</string>
     <string name="upload_playlist_to_hungama_title">Xiaomi Hesabınızı istifadə etdiyiniz digər cihazlarda əldə edə bilmək üçün onlayn mahnıları Hungama-ya sinxronlaşdırın.</string>
     <string name="upload_playlist_to_hungama_toast">Onlayn mahnılar Hungama-ya sinxronlaşdırılacaq</string>
     <string name="user_agreement">İstifadəçi Razılaşması</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="user_experience_program_open">Müəllif hüququ məhdudiyyətlərinə görə, endirilmiş mahnıları oxuda bilmək üçün İstifadəçi Təcrübə Proqramına yazılmaq lazımdır. Bunu Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadəçi Təcrübə Proqramına yazıl\"da edə bilərsiniz.</string>
     <string name="user_playlist_plaza">Pleylistlər</string>
     <string name="user_privacy_dialog_negative_text">İmtina</string>

@@ -1009,7 +1009,6 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_train_tip_cancel">Qatar ləğv edilib, lütfən, yeni səyahət planı qurun</string>
     <string name="pa_travel_train_unauthorized_tip">Qatar dinamik məlumatlarını vaxtında əldə etmək üçün xidmət hesabına səlahiyyət verin</string>
     <string name="pa_travel_unbind_dialog_message">Ayırmadan sonra uçuş və ya qatarlar haqqında güncəl məlumatlar sinxronlaşdırılmaya bilər.</string>
-    <string name="pa_travel_unbind_dialog_negative">@string/pa_travel_delete_dialog_negative</string>
     <string name="pa_travel_unbind_dialog_positive">Ayır</string>
     <string name="pa_travel_unbind_dialog_title">Xidməti ayırırsınız?</string>
     <string name="pa_travel_week_friday">Cümə</string>
