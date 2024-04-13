@@ -4414,10 +4414,10 @@ Ekran kilidinizi təsdiq edə biləcəyiniz sahə sağa keçəcək."</string>
     <string name="gxzw_anim_title">Barmaq izi animasiyası</string>
     <string name="gxzw_aod_show_summary">Barmaq izi nişanının görünməsi üçün cihazı qaldırın və ya ekrana toxunun. Bu özəllik sistemin enerji sərfiyyatını artırır, ancaq cihazın kilidini daha sürətli açmağınıza imkan verir.</string>
     <string name="gxzw_aod_show_tittle">Ekran bağlı olduqda barmaq izi nişanını göstər</string>
-    <string name="gxzw_dialog_message">"Ekran içi barmaq izi sensorunu normal istifadə edə bilmək üçün ekran qoruyucu istifadə etməyin. Hələ də ekran qoruyucunun lazım olduğunu düşünürsünüzsə, səlahiyyətli uyumlu variantlar arasından seçim edin."</string>
+    <string name="gxzw_dialog_message">Ekran qoruyucuları ekrandakı barmaq izi tanıyıcıya mane ola bilər. Ekranın qorunmasına ehtiyacınız varsa, rəsmi Xiaomi ekran qoruyucusunu istifadə etməyi məsləhət görürük.</string>
     <string name="gxzw_dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="gxzw_dialog_ok">Anladım</string>
-    <string name="gxzw_dialog_title">Ekrandakı barmaq izi sensoru haqqında</string>
+    <string name="gxzw_dialog_title">Ekran qoruyucu məsləhəti</string>
     <string name="gxzw_enroll_again">Barmağınızı qaldırın və barmaq izi skanerinə yenidən basın</string>
     <string name="gxzw_lowlight_open_summary">Zəif işıq şəraitində barmaq izi nişanının parlaqlığını zəiflədin. Bu özəllik açıq olduqda cihazınızın kilidi daha yavaş açıla bilər.</string>
     <string name="gxzw_lowlight_open_title">Zəif işıqda barmaq izi ilə kilid açma</string>
@@ -5666,9 +5666,13 @@ Bu icazəyə rədd cavabı verilsə, sistem, tətbiqin bu cür tapşırıqları 
     <string name="low_label">Zəif</string>
     <string name="low_storage_summary">Anbar sahəsi azdır. %1$s istifadə edilib - %2$s boşdur</string>
     <string name="lyra_account_ap_summary">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı planşetlərin və kompüterlərin bu cihazdakı hotspot-u işə salmağına və ona bağlanmağına icazə ver</string>
+    <string name="lyra_account_ap_summary_v2">"Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı planşetlərin və kompüterlərin bu cihazın mobil internetini istifadə etməsinə icazə verin, bu cihazda hotspot-u açın və ona bağlanın."</string>
     <string name="lyra_account_ap_title">Şəbəkə köməyi</string>
+    <string name="lyra_account_ap_title_v2">Paylaşılan bağlantı</string>
     <string name="lyra_auto_connect_summary">"Hotspot-u avtomatik olaraq işə salın və Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı cihazları şəbəkəyə bağlı deyilsə, bağlayın"</string>
+    <string name="lyra_auto_connect_summary_v2">"Hotspot-u avtomatik olaraq işə salın və Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı cihazları şəbəkəyə bağlı deyilsə, bağlayın və bu cihazın mobil internetini istifadə etmələrinə icazə verin"</string>
     <string name="lyra_auto_connect_title">Hotspot-u avtomatik işə sal</string>
+    <string name="lyra_auto_connect_title_v2">Avtomatik paylaş</string>
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
     <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
     <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
