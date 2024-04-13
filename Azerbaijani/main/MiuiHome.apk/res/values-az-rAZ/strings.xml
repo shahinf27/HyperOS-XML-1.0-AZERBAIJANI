@@ -228,7 +228,7 @@
     <string name="cloud_app_restore_title">Gözləyir</string>
     <string name="color_group">Nişanları rəngə görə qruplaşdır</string>
     <string name="color_group_anim">Rəng kateqoriyalarında animasiyalar</string>
-    <string name="com.crashlytics.android.build_id">74b9a846d2e44c78b28312b32ebd2b27</string>
+    <string name="com.crashlytics.android.build_id">c8c99e0508e949faba63901b8f0df016</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_home_search_delete">Axtarış çubuğu silmə</string>
     <string name="common_home_search_delete_cancle">İmtina</string>
@@ -522,6 +522,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="mi_wallpaper">MIUI Temalar</string>
     <string name="midnight">Gecə</string>
     <string name="minus_one_screen">Tətbiq kassası</string>
+    <string name="mishow_layout_path">demo_phone_layout</string>
     <string name="miui_screen_config_title">Əsas ekran düzümü</string>
     <string name="miui_setting_config_title">Əsas ekran ayarları</string>
     <string name="miui_widget_menu_replace_text">Dəyişdir</string>
