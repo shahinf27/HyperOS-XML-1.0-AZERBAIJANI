@@ -335,7 +335,7 @@ and reverse plug in the charger"</string>
     <string name="cit_digital_hall_sensor_cali_summary">Please keep the device closed for calibration</string>
     <string name="cit_digital_hall_sensor_cali_title">Digital Hall Calibration Test</string>
     <string name="cit_digital_hall_sensor_check_summary">Bucaq dəyəri aşağıda görünür</string>
-    <string name="cit_digital_hall_sensor_check_title">Digital Hall test</string>
+    <string name="cit_digital_hall_sensor_check_title">Açılış və bağlanış aşkarlaması</string>
     <string name="cit_display_check_summary">Rənglərin bütün ekranda davamlı göstərildiyini təsdiqləyin. Nizamsız parlaq nöqtələrin və qara nöqtələrin olmadığına əmin olun.</string>
     <string name="cit_display_check_title">Ekran</string>
     <string name="cit_display_check_title_N8">Ekran</string>
@@ -369,8 +369,8 @@ Lütfən eşitdiyiniz rəqəmə uyğun düyməyə basın"</string>
     <string name="cit_flicker_sensor_check_title">Flicker Sensor</string>
     <string name="cit_flip_board_bottom_speaker_test_title">Bottom speaker test on Flip Board</string>
     <string name="cit_flip_board_top_speaker_test_title">Top speaker test on Flip Board</string>
-    <string name="cit_fm_check_summary">"This will test the device's FM function
-Before test you have to insert the headset"</string>
+    <string name="cit_fm_check_summary">"Bu, cihazın FM funksiyasını test edəcək
+Testdən əvvəl qulaqlığı daxil etməlisiniz"</string>
     <string name="cit_fm_check_title">FM Radio</string>
     <string name="cit_fold_hall_test_summary">Cihazı qatlayıb açın. Əgər PASS düyməsinə toxunmaq mümkündürsə, test uğurludur</string>
     <string name="cit_fp_fod_cali_title">Fod barmaq izi kalibrləmə</string>
@@ -390,16 +390,16 @@ Before test you have to insert the headset"</string>
     <string name="cit_gps_satellite_count">Peyk sayı: %d</string>
     <string name="cit_gps_satellite_prn">Prn: %s</string>
     <string name="cit_gps_satellite_snr">Snr: %s</string>
-    <string name="cit_gyrodata_second_sensor_check_title">Second Gyroscope</string>
+    <string name="cit_gyrodata_second_sensor_check_title">İkinci Giroskop</string>
     <string name="cit_gyrodata_sensor_check_summary">X，Y，Z koordinatları üçün dəyərlər aşağıda görünməlidir</string>
-    <string name="cit_gyrodata_sensor_check_title">Gyroscope</string>
-    <string name="cit_gyrodata_sensor_second_screen_check_title">Second Screen Gyroscope</string>
-    <string name="cit_gyroscope_second_cali_title">Second Gyroscope sensor calibration test</string>
-    <string name="cit_gyroscope_sensor_cali_title">Gyroscope sensor calibration test</string>
+    <string name="cit_gyrodata_sensor_check_title">Giroskop</string>
+    <string name="cit_gyrodata_sensor_second_screen_check_title">İkinci Ekran Giroskopu</string>
+    <string name="cit_gyroscope_second_cali_title">İkinci Giroskop sensoru kalibrləmə testi</string>
+    <string name="cit_gyroscope_sensor_cali_title">Giroskop sensoru kalibrasiya testi</string>
     <string name="cit_gyroscope_sensor_check_summary">X，Y，Z koordinatları üçün dəyərlər aşağıda görünməlidir</string>
-    <string name="cit_hall_far">far</string>
-    <string name="cit_hall_miui_test_summary">When a magnet is close to the green area, the black screen, otherwise the screen is bright screen.</string>
-    <string name="cit_hall_near">near</string>
+    <string name="cit_hall_far">uzaq</string>
+    <string name="cit_hall_miui_test_summary">Maqnit yaşıl sahəyə yaxın olduqda qara ekran, əks halda ekran parlaq ekran olur.</string>
+    <string name="cit_hall_near">yaxın</string>
     <string name="cit_hall_test_summary">Lütfən maqniti yaşıl sahəyə yaxın qoyun və 1 saniyə sonra uzaqlaşın</string>
     <string name="cit_hall_test_text">Hazırkı status: %s</string>
     <string name="cit_hall_test_title">Hall</string>
@@ -414,6 +414,9 @@ Before test you have to insert the headset"</string>
     <string name="cit_headset_pull_finish">Qulaqlıq ayrıldı</string>
     <string name="cit_headset_pull_finish_test">Qulaqlıq ayrıldı, test bitdi</string>
     <string name="cit_headset_right_hph_val">Sağ kanal Impedance dəyəri：</string>
+    <string name="cit_high_accdata_sensor_check_summary">X, Y, Z koordinantlarına aid dəyərlər aşağıda görünməlidir. Lütfən testi icra etməzdən əvvəl telefonu masanın üstünə düz qalacaq şəkildə qoyun</string>
+    <string name="cit_high_accdata_sensor_check_title">Yüksək Akselerometr</string>
+    <string name="cit_high_accdata_sensor_graph_title">Yüksək Akselerometr Qrafiki</string>
     <string name="cit_horn_motor_test">Siqnal mühərrik testi</string>
     <string name="cit_hvdcp_charger_in">Charging via (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Init Fingerprint Test Environment</string>
@@ -429,7 +432,7 @@ Before test you have to insert the headset"</string>
     <string name="cit_keyboard_right_shoulder_switch_on">right_shoulder_switch_on</string>
     <string name="cit_keyboard_test_power_down">power_down</string>
     <string name="cit_keyboard_test_power_up">power_up</string>
-    <string name="cit_keyboard_test_summary">The key events to be tested are shown below, and green indicates that the corresponding key events are normal</string>
+    <string name="cit_keyboard_test_summary">Test ediləcək düymələr aşağıda görünür və yaşıl, müvafiq düymə olaylarının normal olduğunu göstərir</string>
     <string name="cit_keyboard_test_volume_down_down">voluemDown_down</string>
     <string name="cit_keyboard_test_volume_down_up">voluemDown_up</string>
     <string name="cit_keyboard_test_volume_up_down">voluemUp_down</string>
@@ -464,9 +467,9 @@ Do not turn off the screen during the test"</string>
     <string name="cit_otg_not_supported">"Bu cihaz OTG testini dəstəkləmir"</string>
     <string name="cit_pass">Pass</string>
     <string name="cit_pencil_reverse_wireless_charger_summary">Please place the pencil on the right sensing area of the table to start the test</string>
-    <string name="cit_pencil_reverse_wireless_charger_title">Pencil Charge Test</string>
+    <string name="cit_pencil_reverse_wireless_charger_title">Qələm Doldurma Testi</string>
     <string name="cit_pixeworks_chip_check_title">Pixeworks Iris 7 çip yoxlanışı</string>
-    <string name="cit_pointer_location_title">Touch sensor</string>
+    <string name="cit_pointer_location_title">Toxunma sensoru</string>
     <string name="cit_power_check_summary">Batareyanın dolma miqdarı aşağıda faiz olaraq qeyd edilməlidir.</string>
     <string name="cit_power_check_title">Batareya göstəricisi</string>
     <string name="cit_pressure_sensor_check_summary">Təzyiq dəyəri aşağıda görünməlidir</string>

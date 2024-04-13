@@ -444,6 +444,8 @@
         <item>Tequsiqalpa</item>
         <item>Paramaribo</item>
         <item>Kito</item>
+        <item>Tashkent</item>
+        <item>Bishkek</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Kotd’ivuar"</item>
@@ -555,7 +557,6 @@
         <item>Vyetnam</item>
         <item>Çin</item>
         <item>İndoneziya</item>
-        <item></item>
         <item>Əfqanıstan</item>
         <item>Pakistan</item>
         <item>Nepal</item>
@@ -567,7 +568,7 @@
         <item>Kamboca</item>
         <item>Şimali Koreya</item>
         <item>Qətər</item>
-        <item>Myanmar</item>
+        <item>Myanma</item>
         <item>Səudiyyə Ərəbistanı</item>
         <item>Cənubi Koreya</item>
         <item>Çin</item>
@@ -617,7 +618,7 @@
         <item>Lüksemburq</item>
         <item>İspaniya</item>
         <item>Malta</item>
-        <item>Belarus</item>
+        <item>Belarusiya</item>
         <item>Monako</item>
         <item>Rusiya</item>
         <item>Norveç</item>
@@ -625,14 +626,11 @@
         <item>Çexiya</item>
         <item>Latviya</item>
         <item>İtaliya</item>
-        <item></item>
         <item>Bosniya və Herseqovina</item>
-        <item></item>
         <item>Şimali Makedoniya</item>
         <item>Bolqarıstan</item>
         <item>İsveç</item>
         <item>Estoniya</item>
-        <item></item>
         <item>Avstriya</item>
         <item>Litva</item>
         <item>Polşa</item>
@@ -732,20 +730,8 @@
         <item>Honduras</item>
         <item>Surinam</item>
         <item>Ekvador</item>
-    </string-array>
-    <string-array name="minute_spinner">
-        <item>00</item>
-        <item>05</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-        <item>35</item>
-        <item>40</item>
-        <item>45</item>
-        <item>50</item>
-        <item>55</item>
+        <item>Özbəkistan</item>
+        <item>Qırğızıstan</item>
     </string-array>
     <string-array name="multi_floating_package_allow_list">
         <item>com.miui.securitycenter</item>

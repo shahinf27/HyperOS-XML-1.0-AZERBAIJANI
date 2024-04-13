@@ -238,67 +238,68 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="interconnection_communication_introduction">Xiaomi İnternet Rabitə Xidmətləri, digər cihazları kəşf etməyinizə, onlara bağlanmağınıza və onlarla ünsiyyət qurmağınıza imkan verir.</string>
     <string name="interconnection_service_global_item_title">Xiaomi Ara bağlantı</string>
     <string name="interconnection_service_global_label">"&lt;Data&gt;Xiaomi Ara bağlantısı, cihazların bir-biri ilə naqilsiz əlaqə qurmasına imkan verir. Bunu açaraq \"Xiaomi Ara bağlantısı\"nın &lt;a href=%1$s&gt;Gizlilik Siyasəti&lt;/a &gt; ilə razılaşırsınız.&lt;/Data&gt;"</string>
-    <string name="interconnection_service_summary_china">"Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. Bu xidmətlərə Mi Smart Play, yayım, tətbiq köçürmə, Əsas ekran+, paylaşılan lövhə, cihazlar arasında təsvir yaxalama, şəbəkə köməkçisi, paylaşılan klaviatura və maus, paylaşılan kamera və Mi Smart Hub daxildir. Normal işləyə bilməsi üçün \"Xiaomi Ara bağlantı Xidmətləri\"nin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:
-\u0009\u0009Mi Smart Play və yayım:
-\u0009\u0009Bluetooth-u aç və ya bağla
-\u0009\u0009Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün
-\u0009\u0009Wi-Fi-ı aç və ya bağla
-\u0009\u0009Wi-Fi vasitəsilə yaxınlıqdakı cihazları kəşf etmək və element köçürmək üçün
-\u0009\u0009Elementləri digər cihazlara köçürmə
-\u0009\u0009Cihazlar arasında Bluetooth bağlantısı qurmaq və elementləri köçürmək üçün
-\u0009\u0009Yerləşmə məlumatlarına müraciət
-\u0009\u0009Yaxınlıqdakı cihazların məlumatlarına müraciət etmək üçün
-\u0009\u0009Daxili cihaz səsini yazma
-\u0009\u0009Yayım və əks etdirmə zamanı cihazlar arasında səs ötürmək və oxutmaq üçün
-\u0009\u0009Cihazda saxlanılan foto, video və səslərə müraciət
-\u0009\u0009Ötürülən məzmunu göndərmək və almaq üçün
-\u0009\u0009Cihazın MAC ünvanına müraciət
-\u0009\u0009Bağlantılı cihazları tanımaq üçün
-\u0009\u0009Ekran məzmununa müraciət
-\u0009\u0009Yazı və yayım zamanı, səs, parol, ödəniş parolu, foto, mesajlar və s. kimi həssas məlumatlar daxil olmaqla ekran məzmununa müraciət etmək üçün
-\u0009\u0009Tətbiq köçürmə və Əsas ekran+:
-\u0009\u0009Bluetooth-u aç və ya bağla
-\u0009\u0009Bluetooth vasitəsilə yaxınlıqdakı cihazları kəşf etmək üçün
-\u0009\u0009Wi-Fi-ı aç və ya bağla
-\u0009\u0009Wi-Fi vasitəsilə yaxınlıqdakı cihazları kəşf etmək və element köçürmək üçün
-\u0009\u0009Cihazın MAC ünvanına müraciət
-\u0009\u0009Bağlantılı cihazları tanımaq üçün
-\u0009\u0009Cihazda saxlanılan foto, video və səslərə müraciət
-\u0009\u0009Ötürülən məzmunu göndərmək və almaq üçün
-\u0009\u0009Elementləri digər cihazlara köçürmə
-\u0009\u0009Cihazlar arasında Bluetooth bağlantısı qurmaq və elementləri köçürmək üçün
-\u0009\u0009Daxili cihaz səsini yazma
-\u0009\u0009Yayım və əks etdirmə zamanı cihazlar arasında səs ötürmək və oxutmaq üçün
-\u0009\u0009Ekran məzmununa müraciət
-\u0009\u0009Yazı və yayım zamanı, səs, parol, ödəniş parolu, foto, mesajlar və s. kimi həssas məlumatlar daxil olmaqla ekran məzmununa müraciət etmək üçün
-\u0009\u0009Paylaşılan lövhə və cihazlar arasında təsvir yaxalama:
-\u0009\u0009Bluetooth-u aç və ya bağla
-\u0009\u0009Bluetooth vasitəsilə yaxınlıqdakı cihazları kəşf etmək üçün
-\u0009\u0009Wi-Fi-ı aç və ya bağla
-\u0009\u0009Wi-Fi vasitəsilə yaxınlıqdakı cihazları kəşf etmək və element köçürmək üçün
-\u0009\u0009Cihazda saxlanılan foto, video və səslərə müraciət
-\u0009\u0009Ötürülən məzmunu göndərmək və almaq üçün
-\u0009\u0009Lövhəyə müraciət
-\u0009\u0009Tətbiqlərin kopyalanmış məzmuna müraciət etməsinə icazə vermək üçün
-\u0009\u0009Şəbəkə köməyi, paylaşılan klaviatura və maus və paylaşılan kamera:
-\u0009\u0009Bluetooth-u aç və ya bağla
-\u0009\u0009Bluetooth vasitəsilə yaxınlıqdakı cihazları kəşf etmək üçün
-\u0009\u0009Wi-Fi-ı aç və ya bağla
-\u0009\u0009Wi-Fi vasitəsilə yaxınlıqdakı cihazları kəşf etmək və element köçürmək üçün
-\u0009\u0009Cihazda saxlanılan foto, video və səslərə müraciət
-\u0009\u0009Ötürülən məzmunu göndərmək və almaq üçün
-\u0009\u0009Kameraya müraciət
-\u0009\u0009Foto çəkmək və video yazmaq üçün
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Bluetooth-u aç və ya bağla
-\u0009\u0009Bluetooth vasitəsilə yaxınlıqdakı cihazları kəşf etmək üçün
-\u0009\u0009Wi-Fi-ı aç və ya bağla
-\u0009\u0009Wi-Fi vasitəsilə yaxınlıqdakı cihazları kəşf etmək və element köçürmək üçün
-\u0009\u0009Daxili cihaz səsini yazma
-\u0009\u0009Yayım və əks etdirmə zamanı cihazlar arasında səs ötürmək və oxutmaq üçün
-\u0009\u0009Cihazda saxlanılan foto, video və səslərə müraciət
-\u0009\u0009Ötürülən məzmunu göndərmək və almaq üçün.
-Bu icazələrin verilməsi ilə razılaşmasanız, bu xidmətləri istifadə edə bilməyəcəksiniz. Mövcud ara bağlantı xidmətləri cihazınızın sistem versiyasına və cihaz modelinə görə fərqlənə bilər. Daha çox məlumatı burada tapa bilərsiniz: %s."</string>
+    <string name="interconnection_service_summary_china">Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. %1$s Mövcud ara bağlantı xidmətləri sistem versiyanıza və cihaz modelinizə görə fərqlənə bilər. Ətraflı məlumatı %2$s ünvanında tapın.</string>
+    <string name="interconnection_service_summary_china_fragment1">Bu xidmətlərə Mi Smart Play, yayım, tətbiq köçürmə, Əsas ekran+, paylaşılan lövhə, naqilsiz internet paylaşımı (şəbəkə sinxronlaşdırma daxil olmaqla) cihazlar arasında kontrollar, cihazlar arasında kamera və Mi Smart Hub daxildir. Normal işləyə bilməsi üçün \"Xiaomi Ara bağlantı Xidmətləri\"nin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:</string>
+    <string name="interconnection_service_summary_china_fragment10">Yaxınlıqdakı cihazların məlumatlarına müraciət etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment11">Daxili cihaz səsinin yazılması</string>
+    <string name="interconnection_service_summary_china_fragment12">Yayım və əks etdirmə zamanı cihazlar arasında səs transferi və oxutma üçün</string>
+    <string name="interconnection_service_summary_china_fragment13">Cihazda saxlanılan foto, video və səslərə müraciət</string>
+    <string name="interconnection_service_summary_china_fragment14">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment15">Cihazın MAC ünvanına müraciət</string>
+    <string name="interconnection_service_summary_china_fragment16">Bağlantılı cihazları tanımaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment17">Ekran məzmununa müraciət</string>
+    <string name="interconnection_service_summary_china_fragment18">Ekran yazılması və ya yayımı zamanı səs, parollar, ödəniş parolları, fotolar, mesajlar və s. kimi həssas məlumatlar daxil olmaqla ekran məzmununa müraciət etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment19">Tətbiq köçürmə və Əsas ekran+:</string>
+    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play və yayım:</string>
+    <string name="interconnection_service_summary_china_fragment20">Bluetooth-u açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment21">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment22">Wi-Fi-ı açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment23">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment24">Cihazın MAC ünvanına müraciət</string>
+    <string name="interconnection_service_summary_china_fragment25">Bağlantılı cihazları tanımaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment26">Cihazda saxlanılan foto, video və səslərə müraciət</string>
+    <string name="interconnection_service_summary_china_fragment27">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment28">Elementlərin digər cihazlara köçürülməsi</string>
+    <string name="interconnection_service_summary_china_fragment29">Cihazlar arasında Bluetooth bağlantısını qurmaq və elementləri köçürmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment3">Bluetooth-u açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment30">Daxili cihaz səsinin yazılması</string>
+    <string name="interconnection_service_summary_china_fragment31">Yayım və əks etdirmə zamanı cihazlar arasında səs transferi və oxutma üçün</string>
+    <string name="interconnection_service_summary_china_fragment32">Ekran məzmununa müraciət</string>
+    <string name="interconnection_service_summary_china_fragment33">Ekran yazılması və ya yayımı zamanı səs, parollar, ödəniş parolları, fotolar, mesajlar və s. kimi həssas məlumatlar daxil olmaqla ekran məzmununa müraciət etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment34">Paylaşılan lövhə:</string>
+    <string name="interconnection_service_summary_china_fragment35">Bluetooth-u açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment36">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment37">Wi-Fi-ı açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment38">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment39">Cihazda saxlanılan foto, video və səslərə müraciət</string>
+    <string name="interconnection_service_summary_china_fragment4">&gt;Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment40">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment41">Lövhəyə müraciət</string>
+    <string name="interconnection_service_summary_china_fragment42">Tətbiqlərin kopyalanmış məzmuna müraciətinə icazə vermək üçün</string>
+    <string name="interconnection_service_summary_china_fragment43">Naqilsiz internet paylaşımı (şəbəkə sinxronlaşdırma daxil olmaqla), cihazlar arası kontrollar və cihazlar arası kamera:</string>
+    <string name="interconnection_service_summary_china_fragment44">Bluetooth-u açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment45">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment46">Wi-Fi-ı açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment47">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment48">Cihazda saxlanılan foto, video və səslərə müraciət</string>
+    <string name="interconnection_service_summary_china_fragment49">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment5">Wi-Fi-ı açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment50">Kameraya müraciət</string>
+    <string name="interconnection_service_summary_china_fragment51">Foto çəkmək və video yazmaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment52">Mi Smart Hub:</string>
+    <string name="interconnection_service_summary_china_fragment53">Bluetooth-u açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment54">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment55">Wi-Fi-ı açır və ya bağlayır</string>
+    <string name="interconnection_service_summary_china_fragment56">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment57">Daxili cihaz səsinin yazılması</string>
+    <string name="interconnection_service_summary_china_fragment58">Yayım və əks etdirmə zamanı cihazlar arasında səs transferi və oxutma üçün</string>
+    <string name="interconnection_service_summary_china_fragment59">Cihazda saxlanılan foto, video və səslərə müraciət</string>
+    <string name="interconnection_service_summary_china_fragment6">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment60">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
+    <string name="interconnection_service_summary_china_fragment61">"Bu icazələrin verilməsi ilə razılaşmasanız, bu xidmətləri istifadə edə bilməyəcəksiniz."</string>
+    <string name="interconnection_service_summary_china_fragment7">Elementlərin digər cihazlara köçürülməsi</string>
+    <string name="interconnection_service_summary_china_fragment8">Cihazlar arasında Bluetooth bağlantısını qurmaq və elementləri köçürmək üçün</string>
+    <string name="interconnection_service_summary_china_fragment9">Yerləşmə məlumatlarına müraciət</string>
     <string name="interconnection_service_summary_global">"Xiaomi Ara bağlantısı özəllikləri cihaz modelinə və sistem versiyasına görə dəyişə bilər. Daha ətraflı məlumat üçün sistemin rəsmi veb saytını ziyarət edin."</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">"Cihazınız itsə, ekran kilidi təyin etmədiyiniz etmədiyiniz halda başqalarının cihazı istifadə etməsini və datanıza müraciət etməsini önləyə bilməyəcəksiniz. Yenə də ötürülsün?"</string>
@@ -799,37 +800,17 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="terms_of_use_lable_xmsf">Xiaomi xidmət çərçivəsi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Siyasəti</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Siyasəti</string>
-    <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
-    <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
-    <string name="the_arbor_day">Ağacəkmə Günü</string>
-    <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
-    <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_christmas_day">Milad</string>
-    <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
-    <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
-    <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
-    <string name="the_laba_festival">Laba Festivalı</string>
-    <string name="the_labour_day">Əmək Günü</string>
-    <string name="the_lantern_festival">Fənər Festivalı</string>
-    <string name="the_mid_autumn_festival">Orta Payız Festivalı</string>
-    <string name="the_national_day">Mlli Gün</string>
-    <string name="the_national_father_day">"\"Sun Yat-sen\"in Doğum Günü"</string>
     <string name="the_new_years_day">Yeni İl</string>
-    <string name="the_night_of_sevens">Qixi Festivalı</string>
-    <string name="the_partys_day">CPC Günü</string>
-    <string name="the_peace_day">Anma Günü</string>
-    <string name="the_retrocession_day">Restrosessiya Günü</string>
-    <string name="the_spirit_festival">Ruh Festivalı</string>
+    <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
-    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
-    <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
@@ -863,7 +844,7 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="welcome">Xoş gəldiniz</string>
+    <string name="welcome">Xoş gəlmisiniz</string>
     <string name="withdraw_consent">Razılığı geri götürsəniz, Divar kağızı Karuseli xidmətləri deaktiv ediləcək.</string>
     <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
     <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>

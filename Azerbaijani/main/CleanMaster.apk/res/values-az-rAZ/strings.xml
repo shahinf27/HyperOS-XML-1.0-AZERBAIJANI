@@ -173,7 +173,7 @@
     <string name="cache_title_empty_folder2">Boş qovluq</string>
     <string name="cache_title_system_cache">Data keşi</string>
     <string name="cached_garbage">Keş</string>
-    <string name="call_log">Call Logs</string>
+    <string name="call_log">Zəng Jurnalı</string>
     <string name="cancel">İmtina</string>
     <string name="cd_back">geri</string>
     <string name="cd_check_box_checked">yoxlanıldı</string>
@@ -212,7 +212,12 @@
     <string name="columbus_player_speed_title">Video ötürülsün?</string>
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
+    <string name="columbus_reward_style_access">Ətraflı öyrən</string>
+    <string name="columbus_reward_style_close_cancel">Çıxış et</string>
+    <string name="columbus_reward_style_close_desc">Mükafatı almaq üçün videonu izləməyi bitirin. İzləməyə davam edilsin?</string>
+    <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
+    <string name="columbus_skip_ad_time">Ötür (%d)</string>
     <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -909,6 +914,9 @@
     <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
     <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
     <string name="preference_key_scan_engine">key_scan_engine</string>
+    <string name="preference_key_wechat_garbage_clean_alert12">key_wechat_clean_switch_state_drop</string>
+    <string name="preference_key_wechat_garbage_cleanup_auto_check_size12">key_wechat_timed_auto_scan_notify_size_drop</string>
+    <string name="preference_key_wechat_garbage_cleanup_auto_check_time12">key_wechat_timed_auto_scan_interval_drop</string>
     <string name="preference_key_whatsapp_setting_alert_size">key_whatsapp_setting_alert_size</string>
     <string name="preference_key_whatsapp_setting_alert_size12">key_whatsapp_setting_alert_size_drop</string>
     <string name="preference_key_whatsapp_setting_alert_switch">key_whatsapp_setting_alert_switch</string>
@@ -1015,6 +1023,7 @@
     <string name="sponsored">Sponsorlu</string>
     <string name="start_downloading_app">Endirmə başlayır: %1$s</string>
     <string name="start_install">İndi quraşdır</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">Seçilmiş APK-lər həmişəlik silinsin?</string>
     <string name="summary_delete_cache">Seçilmiş tətbiqlərin keşi təmizlənsin?</string>
@@ -1035,7 +1044,6 @@
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
-    <string name="the_eve_of_the_spring_festival">Çin Yeni ilinin axşamı</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
     <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
@@ -1151,6 +1159,7 @@
     <string name="tt_count_down_view">Ötür</string>
     <string name="tt_dislike_header_tv_back">Geri</string>
     <string name="tt_dislike_header_tv_title">Seç</string>
+    <string name="tt_display_error">Ekran xətası</string>
     <string name="tt_error_access_method_pass">Qeyri-qanuni müraciət üsulu</string>
     <string name="tt_error_ad_able_false_msg">Uyğunluğa görə tələb reklamlarını qadağan edin, lütfən COPPA/CCPA/GDPR ayarlarını yoxlayın</string>
     <string name="tt_error_ad_sec_false_msg">Güvənlik yoxlanışı uğursuz oldu</string>
@@ -1242,6 +1251,8 @@
     <string name="tt_splash_wriggle_text">Detallar səhifəsinə və ya üçüncü tərəf tətbiqə gedin</string>
     <string name="tt_splash_wriggle_top_text">Telefonu çevir</string>
     <string name="tt_splash_wriggle_top_text_style_17">Telefonu çevir və ya nişana toxun</string>
+    <string name="tt_suggestion_commit">Göndər</string>
+    <string name="tt_suggestion_description">Ekran xətası üzrə açıqlama daxil edin və Göndər düyməsinə basın. Problemin həllinə kömək üçün reklam elementi də \"Pangle\"a göndəriləcək.</string>
     <string name="tt_sys_error">Sistem xətası</string>
     <string name="tt_template_load_fail">əsas şablon yükləmə uğursuz oldu !</string>
     <string name="tt_text_privacy_app_version">Versiya：V</string>
