@@ -661,6 +661,7 @@ Söndürmək üçün toxunun."</string>
     <string name="local_photos">Yerli fotolar</string>
     <string name="local_resouce_creator_name">Tərtibatçı: %1$s</string>
     <string name="lock_screen_apply">Kilid ekranı olaraq ayarla</string>
+    <string name="lock_screen_card_title">Artistik Kilid ekranı</string>
     <string name="lock_screen_keyguard_guide_popup">Bütün yeni, fərdiləşdirilmiş Kilid ekranı özəllikləri və dizaynına nəzər sal</string>
     <string name="lock_screen_keyguard_tip_title">Tam yeni fərdiləşdirilmiş Kilid ekranı</string>
     <string name="lockscreen_apply_failured">"Kilid ekranı divar kağızı tətbiq edilə bilmir"</string>
