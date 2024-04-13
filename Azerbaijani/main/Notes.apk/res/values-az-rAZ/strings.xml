@@ -872,7 +872,9 @@
     <string name="toast_message_add_image_fail">"Təsvir əlavə edilə bilmədi"</string>
     <string name="toast_notes_delete_success">Uğurla silindi</string>
     <string name="toast_notes_hidden_edit">Bu not uğurla gizlədildi. Gizli notlara baxmaq üçün aşağı çəkin.</string>
+    <string name="toast_notes_hidden_edit_new">Not gizlidir. Gizli notlara baxmaq üçün aşağı çəkin.</string>
     <string name="toast_notes_hidden_home">Bu not uğurla gizlədildi. Gizli notlara baxmaq üçün aşağı çəkin.</string>
+    <string name="toast_notes_hidden_home_new">Not gizlidir. Gizli notlara baxmaq üçün aşağı çəkin.</string>
     <string name="toast_notes_hidden_pad">Bu not indi gizlidir. Gizli notlara baxmaq üçün yan paneli aşağı çəkin.</string>
     <string name="toast_notes_unhidden">Uğurla göstərildi</string>
     <string name="toast_pic_is_not_really">Təsvir saxlanılır…</string>
