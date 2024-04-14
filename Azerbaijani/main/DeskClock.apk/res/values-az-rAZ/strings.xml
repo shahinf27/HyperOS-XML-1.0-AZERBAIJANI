@@ -519,7 +519,6 @@
     <string name="shutdown_alarm_alert_title">Sönülü zəngli saat</string>
     <string name="shutdown_alarm_disable_summary">"Cihaz söndürüldükdən sonra zəngli saat çalmayacaq"</string>
     <string name="silent_alarm_summary">Səssiz</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s tarixində bir dəfə söndür</string>
     <string name="sleep_analysis">Statistikalar</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
