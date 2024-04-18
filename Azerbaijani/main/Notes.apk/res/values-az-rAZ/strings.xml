@@ -674,6 +674,7 @@
     <string name="pref_title_quick_note">Cəld notlar</string>
     <string name="pref_title_todo_float_mode">Tapşırıq alət qutusu istifadə et</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
+    <string name="privacy_preference">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444-74A</string>
     <string name="private_entry_available">Şəxsi qovluğu açmaq üçün buraxın</string>
     <string name="private_entry_default">Şəxsi qovluğu açmaq üçün aşağı sürüşdürün</string>
     <string name="progressbar_title">Güvənlik problemləri yoxlanılır…</string>
