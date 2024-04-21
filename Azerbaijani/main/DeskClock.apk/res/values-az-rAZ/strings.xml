@@ -17,7 +17,7 @@
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">boşluq</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_prepend_shortcut_label">Menyu+</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
     <string name="abc_searchview_description_query">Axtarış sorğusu</string>
@@ -116,6 +116,7 @@
     <string name="click_to_cancel_alarm">Söndürmək üçün toxunun</string>
     <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
+    <string name="clock_information_ipc">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444-57A</string>
     <string name="close">Bağla</string>
     <string name="close_alarm">Söndür</string>
     <string name="close_alarm_new">Dayandır</string>
@@ -581,9 +582,9 @@
     <string name="star_wy_alarm_speech">Roy Wang ilə tanış olun</string>
     <string name="start">Başlat</string>
     <string name="stat_repeat_everyday">Hər gün</string>
-    <string name="stat_repeat_legal_off_day">法定节假日</string>
-    <string name="stat_repeat_legal_workday">法定工作日</string>
-    <string name="stat_repeat_none">一次性</string>
+    <string name="stat_repeat_legal_off_day">Qanuni tətillər</string>
+    <string name="stat_repeat_legal_workday">Qanuni iş günləri</string>
+    <string name="stat_repeat_none">Təkistifadəlik</string>
     <string name="stat_repeat_self_define">Özəlləşdir</string>
     <string name="stat_repeat_weekdays">Həftəiçi</string>
     <string name="stat_repeat_weekends">Həftəsonu</string>
@@ -620,6 +621,7 @@
     <string name="the_peace_day">Anma Günü</string>
     <string name="the_retrocession_day">Restrosessiya Günü</string>
     <string name="the_spirit_festival">Ruh Festivalı</string>
+    <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>

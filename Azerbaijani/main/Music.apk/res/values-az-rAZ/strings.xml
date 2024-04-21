@@ -167,6 +167,7 @@
     <string name="asm_google_query_failed">"Məhsul məlumatı əldə edilə bilmədi"</string>
     <string name="asm_google_service_failed">"Google xidmətləri başladıla bilmədi. Yenidən sınayın."</string>
     <string name="asm_gooleplay_notice">"Google Play xidmətləri quraşdırılmayıb"</string>
+    <string name="asm_item_not_available">element əlçatmazdır</string>
     <string name="asm_loadstate_error_retry">İnternetə bağlanın və yenidən sınamaq üçün toxunun</string>
     <string name="asm_loadstate_not_more">"İndilik bu qədər"</string>
     <string name="asm_network_error">Şəbəkə bağlantınızı yoxlayın</string>
@@ -187,6 +188,7 @@
     <string name="asm_pay_order_generate_failed">"Sifariş yaradıla bilmədi"</string>
     <string name="asm_pay_query_overtime">Ödəniş statusu tələbi üçün vaxt bitdi</string>
     <string name="asm_privacy_desc">ASM Gizlilik Siyasəti</string>
+    <string name="asm_privacy_policy_url">https://fra-mi-h5.allsaints.tv/#/privacy-policy.html</string>
     <string name="asm_privacy_tips_content">Onlayn musiqi xidmətlərini istifadə edə bilmək üçün <a href="/link/click">ASM Gizlilik Siyasəti</a> ilə razılaşın.</string>
     <string name="asm_privacy_tips_title">ASM Gizlilik Siyasəti</string>
     <string name="asm_pro_center">Üzvlük</string>
@@ -252,6 +254,7 @@
     <string name="best_experience">Ən yaxşı təcrübə</string>
     <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Bluetooth səs cihazı</string>
+    <string name="boldFont">sans-serif-medium</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="brvah_load_complete">Daha çox yükləmək üçün toxunun</string>
@@ -315,8 +318,8 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">386f5b00a01c4fabb12e632952a68872</string>
-    <string name="com.miapm.build_id">983d1f33ce314fd8af6c3826a5c9087d</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">8a1b87921fa449ae9a06a0b191f54260</string>
+    <string name="com.miapm.build_id">038e6202ece14a57b2f3a134434f308d</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -921,6 +924,7 @@
     <string name="loading_reached_the_bottom">"İndilik bu qədər."</string>
     <string name="loading_text">Bir saniyə…</string>
     <string name="local_ad_title">Promosyon</string>
+    <string name="local_count_and_path">%1$d %2$s</string>
     <string name="local_download_download">Endir</string>
     <string name="local_download_hint">Endirməzdən əvvəl Wi-Fi-ı aç</string>
     <string name="local_download_item">Ödənişsiz endir</string>
@@ -938,6 +942,10 @@
     <string name="local_page_artist_more">%s - daha çox mahnı</string>
     <string name="local_page_playlist">Pleylistlər</string>
     <string name="local_page_song_download_history">Endirilənlər</string>
+    <string name="lock_screen_music_settings">Musiqi kilid ekranı ayarları</string>
+    <string name="lock_screen_settings">Kilid ekranı ayarları</string>
+    <string name="lock_screen_slide_up">Kilidi açmaq üçün yuxarı sürüşdür</string>
+    <string name="lock_screen_switch">使用音乐锁屏</string>
     <string name="login_instantly">Daxil ol</string>
     <string name="login_mi_account_and_gain_more_rights">Daha çox özəlliyə müraciət etmək üçün Xiaomi Hesabınızla daxil olun.</string>
     <string name="login_out_tip">"Hələlik çıxış edilə bilmir. Bunun əvəzinə bütün tətbiq məlumatlarını təmizləyə bilərsiniz."</string>
@@ -952,6 +960,7 @@
     <string name="lyric_ai_dialog_one">"•Mahnı sözlərini tanımaq üçün toxuna bilərsiniz, biz süni zəka səs tanıma texnologiyasını istifadə edərək sizin üçün mahnı sözlərini dolduracağıq."</string>
     <string name="lyric_ai_dialog_three">•İrəliləyişi mahnı sözləri alət çubuğunda yoxlaya bilərsiniz.</string>
     <string name="lyric_ai_dialog_two">"•Tanıma bir neçə dəqiqə çəkəcək. Tamamlandıqdan sonra, mahnı sözləri avtomatik doldurulacaq."</string>
+    <string name="lyric_ai_fail_toast">Fayl, tanınmayacaq qədər böyükdür</string>
     <string name="lyric_ai_identify_success">Mahnı sözləri uğurla tanındı</string>
     <string name="lyric_ai_song">Hazırkı mahnı</string>
     <string name="lyric_ai_song_list">Mahnılar</string>
@@ -962,6 +971,15 @@
     <string name="lyric_ai_state_identifying">Bir saniyə…</string>
     <string name="lyric_ai_state_use">İstifadə et</string>
     <string name="lyric_ai_title">Süni Zəka mahnı sözlərini tanıma</string>
+    <string name="lyric_feedback_inaccurate_timing">Mahnı sözlərinin vaxtı doğru deyil</string>
+    <string name="lyric_feedback_lyrics_error">Mahnı sözlərinin hamısı yanlışdır</string>
+    <string name="lyric_feedback_misspelling">Yazı xətaları var</string>
+    <string name="lyric_feedback_other">Digər</string>
+    <string name="lyric_feedback_pure_music">Mahnı sözləri olmadan musiqi</string>
+    <string name="lyric_feedback_report_optimization">Mahnı sözləri yanlışdır? Hesabat göndər</string>
+    <string name="lyric_feedback_submit">Göndər</string>
+    <string name="lyric_feedback_submit_success">Uğurla göndərildi</string>
+    <string name="lyric_feedback_title">Mövcud mahnı sözləri yanlışdır, lütfən səbəbini bildirin</string>
     <string name="lyric_is_empty">Mahnı sözləri yoxdur</string>
     <string name="lyric_label">Mahnı sözləri</string>
     <string name="lyric_open_other_connect">Mahnı sözlərini mobil şəbəkə istifadə edərək endir</string>
@@ -1222,6 +1240,7 @@
     <string name="no_system_cropper_find">"Sistemdə şəkil üçün kəsici yoxdur"</string>
     <string name="no_url">Ünvan yararsızdır</string>
     <string name="noon">Günorta</string>
+    <string name="normalFont">sans-serif</string>
     <string name="normal_quality">Yaxşı</string>
     <string name="not_login">Daxil olunmadı</string>
     <string name="not_now">İndi yox</string>
@@ -1291,6 +1310,7 @@
     <string name="online_switch_message">Onlayn xidmətləri söndürmək VIP xidmətlərə və tövsiyələrə təsir edəcək. Yenə də söndürülsün?</string>
     <string name="online_switch_setting">Onlayn məzmun ayarları</string>
     <string name="only_pro_can_choose_hd_sound_quality">HD səsi yalnız Gold üzvləri üçün əlçatandır</string>
+    <string name="open_alarm_clock_recommend_switch">Erkən zəngli saatı aç və mahnı təklif et</string>
     <string name="open_online_service">Bu özəlliyi istifadə etmək üçün onlayn xidmətləri işə salmaq lazımdır. İndi işə salınsın?</string>
     <string name="open_service">İşə sal</string>
     <string name="operation_done_close">Bağla</string>
@@ -1765,6 +1785,10 @@ Xoşbəxt ol"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Oxutma əsnasında mahnıları çarpazlaşdırmağa çalışın</string>
     <string name="sound_off">Səsi bağla</string>
     <string name="sound_on">Səsi aç</string>
+    <string name="srl_component_falsify" formatted="false">"%s, sahəni təhrif edir,
+ İşləmə vaxtı sürükləmənin hhündürlüyünü[%.1fdp] təmsil eedir,
+ Heç nə göstərmir."</string>
+    <string name="srl_content_empty">\"SmartRefreshLayout\"dakı məzmun görünüşü boşdur. Xml düzüm faylına əlavə etməyi unutmusunuz?</string>
     <string name="start">Başlanğıc</string>
     <string name="start_to_check_new_version">Güncəlləmələr yoxlanılır…</string>
     <string name="start_to_download">Endirilir…</string>
@@ -1911,6 +1935,7 @@ Xoşbəxt ol"</string>
     <string name="today">Bu gün</string>
     <string name="today_hot_playlist">"Bugünün başlıca pleylisti"</string>
     <string name="tomorrow">Sabah</string>
+    <string name="tools_settings">Alət ayarları</string>
     <string name="top_chart_title">Siyahılar</string>
     <string name="track_play_history_after_login">Oxutma tarixçəsinə baxmaq üçün daxil olun</string>
     <string name="tt_00_00">00:00</string>
