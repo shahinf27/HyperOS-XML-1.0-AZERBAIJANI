@@ -44,6 +44,8 @@
     <string name="aleady_understand_the_app_is_hight_risk">bu tətbiqin güvənlik riskləri yarada biləcəyini anlayın.</string>
     <string name="allow_current_install">Bir dəfə icazə ver</string>
     <string name="allowed_this_time">Bir dəfə icazə ver</string>
+    <string name="already_know_high_risk">Bu tətbiqin yüksək riskli olduğu bilinir</string>
+    <string name="already_know_not_scanned">Bu tətbiq paketi güvənlik tərəfindən test edilməyib və riskli olarak bilinir</string>
     <string name="already_open_enhance">Təkmil qoruma açıqdır</string>
     <string name="already_understand_the_risks_market_unknown">"Bu quraşdırma paketinin güvənlik problemlərinə qarşı test edilmədiyini anlayıram"</string>
     <string name="already_understood_bundle_app">Paketlənmiş tətbiqlərin risklərini anlayıram</string>
@@ -211,17 +213,17 @@
     <string name="enhance_safe_mode_open_description">"\"Təkmil qoruma\"nın işə salınması ilə cihazınızı viruslardan və zərərli yazılımlardan qorumaq məqsədilə yalnız GetApps testlərindən keçmiş tətbiqləri quraşdıra biləcəksiniz"</string>
     <string name="enhance_safe_mode_title">Təkmil qoruma</string>
     <string name="enhanced_protection_des_1">Təkmil qoruma, \"Mi Protect\"in qabaqcıl bir özəlliyidir. Viruslara və zərərli yazılımlara qarşı əlavə tədbirlər görməklə cihazınızı qoruyur.</string>
-    <string name="enhanced_protection_des_2">"启用增强防护后，手机仅支持安装经过小米应用商店安全检测的应用。
-可有效防范以下场景中存在的安全风险："</string>
-    <string name="enhanced_protection_des_end_1">被诈骗团伙盯上、接到奇怪的骚扰电话、手机莫名死机.......</string>
-    <string name="enhanced_protection_des_end_2">这些都是不良应用危害用户安全的典型表现，现在，即便是手机小白，也可以&lt;font color=#259cff&gt;开启增强防护模式&lt;/font&gt;，一眼识别不良应用</string>
+    <string name="enhanced_protection_des_2">"Təkmil qorumanı fəallaşdırdıqdan sonra, telefon yalnız Xiaomi App Store güvənlik yoxlanışından keçən tətbiqlərin quraşdırılmasını dəstəkləyir.
+Aşağıdakı ssenarilərdə güvənlik risklərinin qarşısını effektiv şəkildə ala bilər:"</string>
+    <string name="enhanced_protection_des_end_1">Fırıldaqçı dəstələrin hədəfində olmaq, təcavüzkarların zənglərini almaq və heç bir səbəb olmadan telefonda donmaların baş verməsi.......</string>
+    <string name="enhanced_protection_des_end_2">Bunlar istifadəçi təhlükəsizliyinə təhlükə yaradan pis proqramların tipik təzahürləridir. Artıq hətta mobil telefon istifadəsi üzrə anlayışı az olanlar da &lt;font color=#259cff&gt;təkmil qoruma rejimini işə sala&lt;/font&gt; və zərərli tətbiqləri bir baxışda müəyyən edə bilərlər.</string>
     <string name="enhanced_protection_f_1_demo">1 fevral 2023-cü ildə Mr. Chen, fırıldaqçıların hazırladığı və dəfələrlə pul köçürməsini həyata keçirən tətbiq quraşdırdı. Mr. Chen ümumilikdə 78,238 CNY itirdi.</string>
     <string name="enhanced_protection_f_1_des">Təkmil qoruma olmadan, zərərli tətbiqləri sizi aldada bilər.</string>
     <string name="enhanced_protection_f_1_title">Fırıldaqçılığa qarşı qoruma</string>
     <string name="enhanced_protection_f_2_demo">2020年6月至9月，李某制作了一款可以窃取用户照片的软件，又将该软件伪装成“颜值检测”软件，以此方式窃取用户手机相册照片1751张。其中，含有人脸信息、姓名、身份证号码、联系方式、家庭住址等100余条公民个人信息。</string>
     <string name="enhanced_protection_f_2_des">Təkmil qoruma bağlı olarkən, zərərli tətbiqlər şəxsi məlumatlarınıza müraciət edə bilər.</string>
     <string name="enhanced_protection_f_2_title">Gizlilik qoruması</string>
-    <string name="enhanced_protection_f_3_des">在未开启增强防护模式的情况下，恶意应用容易攻击您的手机系统，使得手机出现卡顿、死机的情况。</string>
+    <string name="enhanced_protection_f_3_des">Təkmil qoruma rejimi açıq olmasa zərərli tətbiqlər telefonuza hücum edə və telefonun donmasına səbəb ola bilər.</string>
     <string name="enhanced_protection_f_3_title">Sistem stabilliyi</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
@@ -313,6 +315,23 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
+    <string name="full_safe_about_protect_mode">Tətbiq quraşdırması qoruması haqqında daha ətraflı</string>
+    <string name="full_safe_auth_dialog_title">Quraşdırmanı təsdiqləmək üçün lütfən kimliyinizi doğrulayın</string>
+    <string name="full_safe_bundle_app_confirm_install">Quraşdırmanı təsdiqlə</string>
+    <string name="full_safe_enhance_mode_summary">Yalnız Xiaomi App Store-dan quraşdırmanı dəstəkləyir</string>
+    <string name="full_safe_install_risk_source_dialog_safe_title_des">该安装来源存在高风险：破坏系统运行。建议您通过其他安全渠道安装应用！</string>
+    <string name="full_safe_install_source_dialog_safe_title_des">允许安装来自该来源的应用，设备和个人隐私安全易受到未知风险攻击。</string>
+    <string name="full_safe_protect_guide_message">当通过浏览器等非小米应用商店来源安装应用时，将收到安全提醒，防止误安装风险应用，建议开启。</string>
+    <string name="full_safe_protect_title">Tətbiq quraşdırma qoruması</string>
+    <string name="full_safe_version_update_known_button_text">Aydındır</string>
+    <string name="full_safe_version_update_tip_bottom">*Gəlin və sınayın~</string>
+    <string name="full_safe_version_update_tip_sub_title_not_renamed">*Güvənli qoruma* yeni yüksəltmə</string>
+    <string name="full_safe_version_update_tip_sub_title_rename">*Güvənlik qoruması*, *Tətbiq quraşdırma qoruması*na rəsmi olaraq yüksəldildi</string>
+    <string name="full_safe_version_update_tip_text1">Tətbiqin quraşdırılması daha sürətlidir</string>
+    <string name="full_safe_version_update_tip_text2">Risk xəbərdarlıqları daha aydındır</string>
+    <string name="full_safe_version_update_tip_text3">Səhifə dizaynı daha sadədir</string>
+    <string name="full_safe_version_update_tip_text4">Kimlik doğrulama daha sadədir</string>
+    <string name="full_safe_version_update_tip_title">Versiya güncəlləmələri üçün ipucuları</string>
     <string name="general_mode_setting">Ümumi qoruma ayarları</string>
     <string name="general_mode_setting_subtitle">Riskli tətbiqlərə və gizlilik pozuntularına qarşı qoruyun</string>
     <string name="general_mode_subtitle">Riskli tətbiqlərə və gizlilik pozuntularına qarşı qoruyun</string>
@@ -331,10 +350,21 @@
     <string name="install_app_loading">Quraşdırma paketi yoxlanılır…</string>
     <string name="install_apps_user_restriction_dlg_text">Bu istifadəçinin tətbiqləri quraşdırmasına icazə verilmir</string>
     <string name="install_completed_pure_open_tip_title">Riskli tətbiqləri əngəlləmək və güvənliyinizi təmin etmək üçün Mi Protect-i işə salın.</string>
+    <string name="install_hint_enhanced_mode_hint">Təkmil qoruma üçün ipucuları</string>
+    <string name="install_hint_enhanced_mode_hint_desc">Təkmil qoruma altında, güvənlik yoxlanışından keçən tətbiqlər avtomatik seçilib. Bu tətbiqi quraşdırmağa davam etmək üçün lütfən səhifənin sağ üst küncündəki \"︙ &gt; Tək quraşdırma səlahiyyəti\" seçiminə gedin.</string>
+    <string name="install_hint_enhanced_mode_hint_desc_clickable">Təkmil qorunma haqqında məlumat əldə edin</string>
+    <string name="install_hint_high_risk_install_prohibited_description">Yüksək riskli tətbiq aşkarlandı, quraşdırılmasına qadağa qoyuldu!</string>
+    <string name="install_hint_not_checked_hint">Bu tətbiq, güvənlik yoxlanışı üçün Xiaomi tərəfindən incələnməyib. Əvvəlcə tətbiq mağazasından endirmək tövsiyə olunur.</string>
+    <string name="install_hint_risk_detail">Risk detalları</string>
+    <string name="install_hint_risk_found">Riskləri kəşf et</string>
+    <string name="install_hint_risk_found_description">Bu tətbiqi quraşdırmaqda yüksək risk var, ehtiyatla quraşdırın!</string>
+    <string name="install_hint_risk_unregistered">Bu tətbiq milli siyasətlərə uyğun olaraq qeydiyyatdan keçməyib, onlayn fırıldaqçılıq, viruslar və istifadəçinin şəxsi məlumatlarını əldə etmək kimi zərərli davranışları ehtiva edə bilər! Müraciət qeydiyyatını tamamlayan tərtibatçılar etiraz edə bilərlər</string>
+    <string name="install_hint_risk_unregistered_clickable">Etiraz et</string>
     <string name="install_package_error">"Bu tətbiq, sisteminizlə uyumlu deyil"</string>
     <string name="install_package_error_des">Tərtibatçı ilə əlaqə saxlayın və ya güvənli bir mənbədən uyumlu bir versiyanı quraşdırın.</string>
     <string name="install_package_error_four">Bu tətbiqin quraşdırılması güvənlik risklərinə səbəb ola bilər</string>
     <string name="install_package_error_four_des">Bu tətbiqi silin və ya bilinməyən mənbələrdən tətbiqlərin quraşdırmaq üçün verilmiş icazələri söndürün</string>
+    <string name="install_safety_hint">Güvənlik xatırlatması</string>
     <string name="install_source">Mənbə</string>
     <string name="install_source_dialog_safe_title">%1$s quraşdırılsın?</string>
     <string name="install_source_dialog_safe_title_des">Cihazınız və şəxsi məlumatlarınız bilinməyən tətbiqlərdən gələn hücumlara qarşı daha həssasdır. Bu tətbiqi quraşdırmaqla, bütün əlaqəli riskləri və nəticələri anlayır və bunların məsuliyyətini öz üzərinizə götürürsünüz.</string>
@@ -343,10 +373,13 @@
     <string name="install_unknow_source">Bilinməyən tətbiqləri quraşdır</string>
     <string name="install_version">Versiya: %1$s</string>
     <string name="install_version_replace">Versiya: %1$s &gt; %2$s</string>
+    <string name="install_warning_dialog_unregistered3_desc">Bu tətbiq siyasət tələblərinə uyğun olaraq qeydiyyatdan keçməyib. Əgər maraqlarınız pozulubsa, bu tətbiqin tərtibatçısı ilə əlaqə saxlaya bilməyəcəksiniz. Fayl siyasətini anlayın və diqqətlə quraşdırın!</string>
+    <string name="install_warning_dialog_unregistered3_desc_clickable">Sənədləşdirmə siyasətini anlayın</string>
     <string name="isntall_failed_verification">"Bu quraşdırma paketi yoxlanıla bilmədi. Bu tətbiq, Android-in hazırkı versiyası ilə uyumlu olmaya bilər."</string>
     <string name="isntall_failed_verification_resolve_uggestion">Bu tətbiqin əvəzləyicisini güvənli bir mənbədən tapmağa çalışın</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="learn_bundle_app_install">Ətraflı öyrən</string>
+    <string name="learn_bundle_install">Paketləmə quraşdırmasını anlayın</string>
     <string name="learn_enhance_safe_guard">Daha ətraflı</string>
     <string name="learn_more">Daha ətraflı</string>
     <string name="let_me_think_again">Açıq saxla</string>
@@ -922,6 +955,7 @@
     <string name="safe_space_tip_dialog_description">"%1$s, Xiaomi tərəfindən güvənlik problemlərinə görə test edilməyib. Sizi mümkün risklərdən qorumaq üçün aşağıdakı tədbirlər görülmüşdür:"</string>
     <string name="safe_space_tip_dialog_title">Aktiv qoruma tədbirləri</string>
     <string name="safe_version_install">Güvənli versiya</string>
+    <string name="safety_hint_bundled_download_content">\"%1$s\" paket halındakı endirmənin bir hissəsidir, quraşdırılmalı olan faktiki tətbiq təmin edilir. Hələ də %1$s quraşdırmaq istəyirsinizsə, bura toxunun.</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -1091,9 +1125,11 @@ gəldiyini bilin"</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_easter_day">Pasxa</string>
+    <string name="the_eve_of_the_spring_festival">Çin Yeni İl axşamı</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
     <string name="the_new_years_day">Yeni İl</string>
+    <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
@@ -1109,6 +1145,7 @@ gəldiyini bilin"</string>
     <string name="toast_network_eror">"Şəbəkəyə bağlana bilmir"</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
+    <string name="too_many_attempts_need_verify_account">Həddən artıq cəhd edildi, lütfən parolu doğrulayın</string>
     <string name="trust_this_apps_to_authorize">Güvənirsinizsə, bu tətbiqin bir dəfə quraşdırılmasına icazə verə bilərsiniz.</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>

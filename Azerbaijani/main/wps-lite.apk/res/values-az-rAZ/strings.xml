@@ -225,17 +225,20 @@
     <string name="ppt_video_extracting_video_file">Video fayl arxivdən çıxarılır…</string>
     <string name="ppt_video_install_videoplayer_tip">Bir video pleyer quraşdırın</string>
     <string name="ppt_volume_is_too_low_tip">Qulaqlığı taxın və ya səsi artırın</string>
+    <string name="print_error_open_wps_exception">Server istisnası, daha sonra yenidən sınayın</string>
+    <string name="print_error_wps_print_activity_not_found">WPS Office, yeni versiyaya güncəllənməlidir</string>
     <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
     <string name="privacy_protecte">https://www.wps.com/privacy-policy/</string>
     <string name="projection_fail">"Yaymlana bilmədi. Xarici ekranı yoxlayıb yenidən sınayın."</string>
     <string name="public_2pic">Təsvirə köçür</string>
-    <string name="public_ack">知道了</string>
+    <string name="public_about_us">about</string>
+    <string name="public_ack">Bilirəm</string>
     <string name="public_amazon_autosave_finished">Sənəd avtomatik saxlanıb</string>
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">"Yararsız sənəd, əməliyyat tamamlana bilmir"</string>
-    <string name="public_banner_action_button">立即使用</string>
+    <string name="public_banner_action_button">İstifadə et</string>
     <string name="public_bookmark">Əlfəcin</string>
-    <string name="public_bottombar_mark">标记</string>
+    <string name="public_bottombar_mark">İşarə</string>
     <string name="public_cancel">İmtina</string>
     <string name="public_chart_category">Kateqoriyalar</string>
     <string name="public_chart_series">Seriyalar</string>
@@ -261,6 +264,7 @@
     <string name="public_default_ppt_lable_name">WPS demo görüntüləyici</string>
     <string name="public_default_sheet_lable_name">WPS cədvəl görüntüləyici</string>
     <string name="public_default_writer_lable_name">WPS mətn görüntüləyici</string>
+    <string name="public_dialog_update">Güncəllə</string>
     <string name="public_displayPasswd">Parolu göstər</string>
     <string name="public_display_privacy_policy">Gizlilik Siyasətinə bax</string>
     <string name="public_doc_end_preview_tip">WPS Office tərəfindən dəstəklənir</string>
@@ -289,6 +293,7 @@
     <string name="public_iat_audiocomment_reply_longpress">Danışmaq üçün uzun basın</string>
     <string name="public_iat_audiocomment_reply_stop">Dayandır</string>
     <string name="public_iat_convert_to_text">Mətnə çevir</string>
+    <string name="public_icp_code">Pekin ICP Nö. 14035597号-9A</string>
     <string name="public_inputEditPasswdText">Dəyişdirmək üçün parolu daxil edin və ya yalnız oxunan rejimində açın.</string>
     <string name="public_inputEditPasswdTextReadOnly">Müəllif, sənəd üçün dəyişdirmə parolu ayarladı. Davam etmək üçün parolu daxil edin.</string>
     <string name="public_inputPasswd">Faylı açmaq üçün parolu daxil edin</string>
@@ -319,6 +324,7 @@
     <string name="public_mi_privacy_purpose">Mi Doc Viewer-ə xoş gəldiniz (WPS tərəfindən təmin edilir)! Bu, Kingsoft tərəfindən Xiaomi üçün yaradılmış tətbiqin özəl versiyasıdır. Cihazınızdakı sənədlərə baxmaq üçün bu tətbiqi istifadə edə bilərsiniz.</string>
     <string name="public_more_operate">Daha çox əməliyyat</string>
     <string name="public_more_operate_fail">Əməliyyat uğursuz oldu</string>
+    <string name="public_more_wps">WPS-də daha çox funksiya əlçatandır</string>
     <string name="public_no_format">Format yoxdur</string>
     <string name="public_not_support_in_multiwindow">"Bölünmüş ekranı istifadə edərkən bu özəllik dəstəklənmir"</string>
     <string name="public_ok">Oldu</string>
@@ -457,9 +463,8 @@
     <string name="ss_card_view_mode">Kart görünüşü</string>
     <string name="ss_grid_view_mode">Xana görünüşü</string>
     <string name="ss_toolbar_sheets_unhided">Bütün iş vərəqləri</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">3.6.4</string>
+    <string name="wps_lite_app_version">3.7.0</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Doc Viewer (WPS tərəfindən təmin edilir)</string>
     <string name="writer_characters">Simvollar (boşluqsuz)</string>
     <string name="writer_characters_with_spaces">Simvollar (boşluqla)</string>
@@ -470,7 +475,7 @@
     <string name="writer_end_note">Son qeyd</string>
     <string name="writer_file_loading_unedit_tips">Sənəd yüklənir, yüklənmə tamamlandıqdan sonra düzəliş edə bilərsiniz.</string>
     <string name="writer_find_replace_content_null">Əvəzlənəcək məzmun boşdur.</string>
-    <string name="writer_find_replace_specialstr">%s不是可用于替换框的有效字符。</string>
+    <string name="writer_find_replace_specialstr">%s əvəzetmə qutusunda istifadə üçün yararlı simvol deyil.</string>
     <string name="writer_foot_note">Haşiyə</string>
     <string name="writer_footend_note_forbidden_object">"Bu obyekt, hazırkı səhifənin haşiyəsində və ya son qeydində istifadə edilə bilməz"</string>
     <string name="writer_headerfooter_to_footer">Alt başlığa</string>
