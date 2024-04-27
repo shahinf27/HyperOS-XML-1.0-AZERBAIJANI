@@ -509,6 +509,7 @@ SIM kartınızı yoxlayın."</string>
     <string name="mms_block_hint">"Bu göndərən kontaktlarınızda deyil.
 Bu, istənilməyən mesaj ola bilər."</string>
     <string name="mms_block_hint_highlight">MMS-i əngəllə</string>
+    <string name="mms_icp">ICP备案号：京ICP备10046444号-33A</string>
     <string name="mms_main_purpose_new">Sizi təməl xidmətlərlə təmin etmək üçün bu tətbiqin internetə bağlanmasına ehtiyacı var. Mi Mesaj və Ağıllı Mesajlaşma xidmətlərini işə salmağınızı tövsiyə edirik.</string>
     <string name="mms_mi_message_main_purpose">\"Mi Mesaj\"a xoş gəldiniz! \"Mi Mesaj\"ı aktivləşdirmək üçün bir SMS mesajın göndərilməsi tələb olunur. Operatorunuz bu mesaj üçün ödəniş ala bilər.</string>
     <string name="mms_mi_message_request_notice">\"Mi Mesaj\"dan maksimum yararlanmağınızı istəyirik.</string>
