@@ -88,6 +88,10 @@
         <item quantity="other">%s tətbiq üçün məhdud bağlantı</item>
         <item quantity="one">%s tətbiq üçün məhdud bağlantı</item>
     </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
+        <item quantity="one">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
+    </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d şəxs bağlantılıdır</item>
         <item quantity="one">%1$d şəxs bağlantılıdır</item>
@@ -147,6 +151,10 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d saniyə gözləyib yenidən sınayın.</item>
         <item quantity="one">%d saniyə gözləyib yenidən sınayın.</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Ən çox %d proses</item>
@@ -215,6 +223,10 @@
     <plurals name="string_bits_per_sample">
         <item quantity="other">%d bit/nümunə</item>
         <item quantity="one">%d bit/nümunə</item>
+    </plurals>
+    <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
     </plurals>
     <plurals name="string_int_hour">
         <item quantity="other">%d saat</item>
