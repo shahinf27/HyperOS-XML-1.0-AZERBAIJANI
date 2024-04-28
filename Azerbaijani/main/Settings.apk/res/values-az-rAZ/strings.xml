@@ -4001,6 +4001,10 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="fiveg_sa_vice_switch_title">İkinci SIM-də SA</string>
     <string name="fiveg_vonr_switch_summary">5G şəbəkə mühitində zəng təcrübəsini artırmaq üçün VoNR istifadə edin. Bu özəllik yalnız test məqsədləri üçün təqdim olunur.</string>
     <string name="fiveg_vonr_switch_title">VoNR ayarları</string>
+    <string name="fivega_enhanced_network_summary">Yalnız test məqsədilə yeni 5G-A şəbəkə texnologiyasını təcrübədən keçirin</string>
+    <string name="fivega_enhanced_network_title">5G-A Təkmil Şəbəkə</string>
+    <string name="fivega_switch_summary">"5G-nin ən yüksək sürətini təcrübədən keçirin. Faktiki status, yerli operatorun şəbəkəsindən və xidmət yerləşdirməsindən asılıdır"</string>
+    <string name="fivega_switch_title">5G-A</string>
     <string name="fix_connectivity">Bağlantını düzəlt</string>
     <string name="flash_drive_backup_disable">Əvvəlcə USB sürücüsünü qoşun</string>
     <string name="flash_drive_backup_enable">Elementləri nüsxələmək və ya bərpa etmək üçün bir USB sürücüsü istifadə edin</string>
