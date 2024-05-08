@@ -33,7 +33,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_app_name">Temalar haqqında</string>
-    <string name="about_securitycenter_icp">Qeyd nömrəsi：Pekin ICP Nö. 10046444号-51A ></string>
+    <string name="about_securitycenter_icp">Qeyd nömrəsi：Pekin ICP Nö. 10046444号-51A &gt;</string>
     <string name="about_version_update">"Yeniliklər"</string>
     <string name="accessibiliy_ad">Reklam ver</string>
     <string name="accessibiliy_description_content_account">Profil</string>
@@ -382,7 +382,7 @@
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternativ</string>
-    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Rəy</string>
     <string name="exo_track_role_supplementary">Tamamlayıcı</string>
     <string name="exo_track_selection_auto">Avtomatik</string>
@@ -495,10 +495,10 @@
     <string name="font_trial_end_purchase">Şrift al</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Əvvəlcə Birinci sahədə şəffaf divar kağızı tətbiq edin.</string>
     <string name="forbid_video_wallpaper_by_second_space">Əvvəlcə Birinci sahədə dinamik divar kağızı tətbiq edin.</string>
-    <string name="format_chs_day">%s日</string>
-    <string name="format_chs_hour">%s时</string>
-    <string name="format_chs_minute">%s分</string>
-    <string name="format_chs_month_day">%1$d月%2$d日</string>
+    <string name="format_chs_day">%s gün</string>
+    <string name="format_chs_hour">%s saat</string>
+    <string name="format_chs_minute">%s dəq</string>
+    <string name="format_chs_month_day">%1$d ay %2$d gün</string>
     <string name="format_chs_solar">t</string>
     <string name="format_count_denominator">/ %s</string>
     <string name="format_count_denominator_2">/%s</string>
@@ -530,7 +530,7 @@
     <string name="gallery_wallpaper">Divar kağızı Karuseli</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
-    <string name="gallery_wallpaper_history">"Divar kağızı Karuseli"ndə önə çıxan əvvəlki təsvirləri görmək üçün toxunun</string>
+    <string name="gallery_wallpaper_history">\"Divar kağızı Karuseli\"ndə önə çıxan əvvəlki təsvirləri görmək üçün toxunun</string>
     <string name="gallery_wallpaper_history_go">Bax</string>
     <string name="gallery_wallpaper_theme">Lazımlı divar kağızları</string>
     <string name="gift_share">Paylaş</string>
@@ -978,11 +978,13 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
     <string name="pad_fold_no_permission">Anbar icazələri tələb olunur</string>
     <string name="pad_fold_no_permission_detail">Fərdiləşdirmə tərcihlərini dəyişdirə və endirilmiş elementləri saxlaya bilmək üçün, əvvəlcə bu özəlliyin anbara müraciətinə icazə verin.</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="paying">Satın alınır…</string>
     <string name="percent_sign">%</string>
     <string name="personalize">Fərdiləşdirmə</string>
     <string name="personalize_alarm_ringtone_title">Zəngli saatlar</string>
     <string name="personalize_aod_title">AOD</string>
+    <string name="personalize_aod_title_alternative">Ekranı söndür</string>
     <string name="personalize_call_ringtone_title">Zəng səsləri</string>
     <string name="personalize_charge_style_title">Dolur</string>
     <string name="personalize_default_font">İlkin şrift</string>
@@ -1502,6 +1504,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="somatosensory_temperature_format">%s kimi hiss edilir°</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Tətbiq et</string>
     <string name="storage_migration_exit_msg">\"Temalar\"ı Android-in növbəti versiyaları ilə uyumlu etmək üçün endirdiyiniz elementləri yeni bir yerə daşıdıq. Dəyişikliklərin tətbiq edilməsi və endirilən məzmuna baxmaq üçün tətbiqi yenidən başladın.</string>
     <string name="storage_permission_denied_desc">Elementlərə baxa bilmək üçün \"Temalar\"ın anbara müraciətinə icazə verin</string>
@@ -1555,7 +1558,6 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
@@ -1569,6 +1571,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="the_picture_is_not_support">"Təsvir dəstəklənmir"</string>
     <string name="the_picture_is_too_small">Təsvir çox kiçikdir</string>
     <string name="the_retrocession_day">Restrosessiya Günü</string>
+    <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>

@@ -48,10 +48,6 @@
         <item quantity="other">İndiyə qədər %d reklam əngəlləndi</item>
         <item quantity="one">İndiyə qədər %d reklam əngəlləndi</item>
     </plurals>
-    <plurals name="antivirus_desc_not_scanned_virus_in_days">
-        <item quantity="other">"%d gündür skan edilmədi"</item>
-        <item quantity="one">"%d gündür skan edilmədi"</item>
-    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">%1$d yeni məqaləyə göz gəzdir</item>
         <item quantity="one">%1$d yeni məqaləyə göz gəzdir</item>
@@ -59,18 +55,6 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Növbəti video %d saniyəyə oxudulur</item>
         <item quantity="one">Növbəti video %d saniyəyə oxudulur</item>
-    </plurals>
-    <plurals name="back_dialog_antivirus_content_des">
-        <item quantity="other">"Cihazınızı %d gündür skan etməmisiniz. İndi skan edilsin?"</item>
-        <item quantity="one">"Cihazınızı %d gündür skan etməmisiniz. İndi skan edilsin?"</item>
-    </plurals>
-    <plurals name="back_dialog_day">
-        <item quantity="other">gün</item>
-        <item quantity="one">gün</item>
-    </plurals>
-    <plurals name="back_dialog_health_check_content_des">
-        <item quantity="other">"Cihazınızı %d gündür optimallaşdırmamısınız. İndi optimallaşdırılsın?"</item>
-        <item quantity="one">"Cihazınızı %d gündür optimallaşdırmamısınız. İndi optimallaşdırılsın?"</item>
     </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s bəyənmə</item>
@@ -116,10 +100,6 @@
         <item quantity="other">%d izləyici</item>
         <item quantity="one">%d izləyici</item>
     </plurals>
-    <plurals name="hour">
-        <item quantity="other">%d sa</item>
-        <item quantity="one">%d sa</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d saat əvvəl</item>
         <item quantity="one">%1$d saat əvvəl</item>
@@ -139,6 +119,10 @@
     <plurals name="in_num_minutes">
         <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
     </plurals>
     <plurals name="intercept_panel_protection_total">
         <item quantity="other">%d dəfə qorundu</item>
@@ -163,10 +147,6 @@
     <plurals name="mins_ago">
         <item quantity="other">%1$d dəqiqə əvvəl</item>
         <item quantity="one">%1$d dəqiqə əvvəl</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d dəq</item>
-        <item quantity="one">%d dəq</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>

@@ -52,22 +52,6 @@
         <item quantity="other">%d tətbiq</item>
         <item quantity="one">%d tətbiq</item>
     </plurals>
-    <plurals name="app_behavior_desc_allow">
-        <item quantity="other">%1$s - %2$s arası %3$d dəfə icazə verildi</item>
-        <item quantity="one">%1$s - %2$s arası %3$d dəfə icazə verildi</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow_minute">
-        <item quantity="other">%1$s saatında %2$d dəfə icazə verildi</item>
-        <item quantity="one">%1$s saatında %2$d dəfə icazə verildi</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-        <item quantity="other">%1$s - %2$s arası %3$d dəfə məhdudlaşdırıldı</item>
-        <item quantity="one">%1$s - %2$s arası %3$d dəfə məhdudlaşdırıldı</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny_minute">
-        <item quantity="other">%1$s saatında %2$d dəfə rədd edildi</item>
-        <item quantity="one">%1$s saatında %2$d dəfə rədd edildi</item>
-    </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">%1$s - %2$s arası %3$d dəfə icazə veildi</item>
         <item quantity="one">%1$s - %2$s arası %3$d dəfə icazə veildi</item>
@@ -80,45 +64,9 @@
         <item quantity="other">%2$s saatına qədər %1$d dəqiqə istifadə edildi</item>
         <item quantity="one">%2$s saatına qədər %1$d dəqiqə istifadə edildi</item>
     </plurals>
-    <plurals name="app_behavior_desc_virtual">
-        <item quantity="other">%1$s - %2$s arası %3$d boş mesaj qaytarıldı</item>
-        <item quantity="one">%1$s - %2$s arası %3$d boş mesaj qaytarıldı</item>
-    </plurals>
-    <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">%1$s saatında %2$d boş mesaj qaytarıldı</item>
-        <item quantity="one">%1$s saatında %2$d boş mesaj qaytarıldı</item>
-    </plurals>
-    <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">%1$1s daxil olmaqla %2$d tətbiq səs yazır</item>
-        <item quantity="one">%1$1s daxil olmaqla %2$d tətbiq səs yazır</item>
-    </plurals>
-    <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">%1$1s daxil olmaqla %2$d tətbiq foto çəkir</item>
-        <item quantity="one">%1$1s daxil olmaqla %2$d tətbiq foto çəkir</item>
-    </plurals>
-    <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">%1$1s daxil olmaqla %2$d yerləşmənizə müraciət edir</item>
-        <item quantity="one">%1$1s daxil olmaqla %2$d yerləşmənizə müraciət edir</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">"%1$d tətbiq tərəfindən həyata keçirilən həssas əməliyyatlar haqqında bildiriş almayacaqsınız"</item>
-        <item quantity="one">"%1$d tətbiq tərəfindən həyata keçirilən həssas əməliyyatlar haqqında bildiriş almayacaqsınız"</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">"%1$d tətbiq tərəfindən həyata keçirilən həssas əməliyyatlar haqqında bildiriş alacaqsınız"</item>
-        <item quantity="one">"%1$d tətbiq tərəfindən həyata keçirilən həssas əməliyyatlar haqqında bildiriş alacaqsınız"</item>
-    </plurals>
     <plurals name="app_behavior_record_close_content_text">
         <item quantity="other">"Tətbiq davranış qeydləri %d gün ərzində bu cihazda saxlanılacaq. Bu özəlliyin söndürülməsi, bütün tətbiq davranış qeydlərini silir və tövsiyə edilmir."</item>
         <item quantity="one">"Tətbiq davranış qeydləri %d gün ərzində bu cihazda saxlanılacaq. Bu özəlliyin söndürülməsi, bütün tətbiq davranış qeydlərini silir və tövsiyə edilmir."</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple">
-        <item quantity="other">%1$1s, %2$d tətbiqi başlatdı</item>
-        <item quantity="one">%1$1s, %2$d tətbiqi başlatdı</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple_single">
-        <item quantity="other">Bu tətbiq digər %1$d tətbiqi başlatdı</item>
-        <item quantity="one">Bu tətbiq digər %1$d tətbiqi başlatdı</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d icazəyə icazə verildi</item>
@@ -263,6 +211,14 @@
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d mesaj</item>
         <item quantity="one">%d mesaj</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">Game Turbo üzvlüyünüz %d günə bitəcək.</item>
@@ -565,8 +521,8 @@
         <item quantity="one">Qalan %d APK-nı sil</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d batareya istifadəsi problemi</item>
-        <item quantity="one">%d batareya istifadəsi problemi</item>
+        <item quantity="other">Yüksək enerji sərfiyyatına sahib %d element</item>
+        <item quantity="one">Yüksək enerji sərfiyyatına sahib %d element</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">Batareyaya qənaət etmək üçün %d elementi optimallaşdırın</item>
@@ -615,6 +571,10 @@
     <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
         <item quantity="other">%1$s daxil olmaqla %2$d tətbiq zərərli ola bilər</item>
         <item quantity="one">%1$s daxil olmaqla %2$d tətbiq zərərli ola bilər</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d tətbiq batareya tükədir</item>
@@ -737,8 +697,8 @@
         <item quantity="one">%1$s | Bu tətbiq bu cihazda quraşdırılmış tətbiqlərin siyahısına %2$d dəfə müraciət etdi</item>
     </plurals>
     <plurals name="permission_usage_allow_get_number">
-        <item quantity="other">"%1$s | Bu tətbiq bu cihazın telefon nömrəsinə %2$d dəfə müraciət etdi"</item>
-        <item quantity="one">"%1$s | Bu tətbiq bu cihazın telefon nömrəsinə %2$d dəfə müraciət etdi"</item>
+        <item quantity="other">%1$s | Telefon məlumatlarına %2$d dəfə müraciət etdi</item>
+        <item quantity="one">%1$s | Telefon məlumatlarına %2$d dəfə müraciət etdi</item>
     </plurals>
     <plurals name="permission_usage_allow_get_sms">
         <item quantity="other">%1$s | Bu tətbiq, %2$d dəfə SMS oxudu</item>
@@ -865,8 +825,8 @@
         <item quantity="one">%1$s | Bu tətbiqin bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciətinə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_get_number">
-        <item quantity="other">"%1$s | Bu tətbiqin bu cihazın telefon nömrəsinə müraciət etməsinə %2$d dəfə rədd cavabı verildi"</item>
-        <item quantity="one">"%1$s | Bu tətbiqin bu cihazın telefon nömrəsinə müraciət etməsinə %2$d dəfə rədd cavabı verildi"</item>
+        <item quantity="other">%1$s | Telefon məlumatlarına müraciətə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Telefon məlumatlarına müraciətə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_get_sms">
         <item quantity="other">%1$s | Bu tətbiqin SMS oxumasına %2$d dəfə rədd cavabı verildi</item>
@@ -1001,8 +961,8 @@
         <item quantity="one">dəfə</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d batareya istifadəsi problemi</item>
-        <item quantity="one">%d batareya istifadəsi problemi</item>
+        <item quantity="other">Yüksək enerji sərfiyyatına sahib %d element</item>
+        <item quantity="one">Yüksək enerji sərfiyyatına sahib %d element</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d gün "</item>
@@ -1033,8 +993,8 @@
         <item quantity="one">%d batareya istifadəsi problemini düzəldin</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">%d batareya istifadəsi problemini düzəldə bilərsiniz</item>
-        <item quantity="one">%d batareya istifadəsi problemini düzəldə bilərsiniz</item>
+        <item quantity="other">%d element üçün batareya sərfiyyatını optimallaşdıra bilərsiniz</item>
+        <item quantity="one">%d element üçün batareya sərfiyyatını optimallaşdıra bilərsiniz</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d element optimallaşdırıla bilər"</item>
@@ -1047,6 +1007,14 @@
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Batareyaya qənaət etmək üçün %d elementi optimallaşdıra bilərsiniz</item>
         <item quantity="one">Batareyaya qənaət etmək üçün %d elementi optimallaşdıra bilərsiniz</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d dəqiqə əlavə et</item>
@@ -1079,6 +1047,10 @@
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">%s dəqiqə ekran vaxtı əlavə etmək üçün işə sal</item>
         <item quantity="one">%s dəqiqə ekran vaxtı əlavə etmək üçün işə sal</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Anladım (%d)</item>
+        <item quantity="one">Anladım (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Anladım (%dsan)</item>
@@ -1181,8 +1153,8 @@
         <item quantity="one">%d batareya problemi tapıldı, düzəldin</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">%d batareya problemi həll edildi</item>
-        <item quantity="one">%d batareya problemi həll edildi</item>
+        <item quantity="other">Yüksək enerji sərfiyyatına sahib %d element optimallaşdırıldı</item>
+        <item quantity="one">Yüksək enerji sərfiyyatına sahib %d element optimallaşdırıldı</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Fabrik sıfırlaması (%ds)</item>
@@ -1244,9 +1216,17 @@
         <item quantity="other">%d nömrə</item>
         <item quantity="one">%d nömrə</item>
     </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d icazəyə düzəliş edilir</item>
+        <item quantity="one">%1$d icazəyə düzəliş edilir</item>
+    </plurals>
     <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fraqment</item>
         <item quantity="one">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fraqment</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt; GB</item>
+        <item quantity="one">&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt; GB</item>
     </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Fokus rejimini %d dəqiqəlik işə sal</item>
@@ -1272,6 +1252,10 @@
         <item quantity="other">Ekranı %d dəq sonra kilidlə</item>
         <item quantity="one">Ekranı %d dəq sonra kilidlə</item>
     </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d element güvənlidir</item>
         <item quantity="one">%1$d element güvənlidir</item>
@@ -1283,6 +1267,10 @@
     <plurals name="title_virus_clean">
         <item quantity="other">%d virus təmizləndi</item>
         <item quantity="one">%d virus təmizləndi</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d virus və ya riskli tətbiq</item>
+        <item quantity="one">%d virus və ya riskli tətbiq</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d tətbiq</item>

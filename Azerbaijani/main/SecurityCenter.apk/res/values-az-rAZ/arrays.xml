@@ -166,6 +166,9 @@
         <item>Limitsiz</item>
         <item>Günlük plan</item>
     </string-array>
+    <string-array name="config_skip_reset_apps_package_name">
+        <item>android</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>Özəl</item>
         <item>Xiaomi Fan kartı</item>
@@ -253,6 +256,11 @@
         <item>0</item>
         <item>2</item>
     </string-array>
+    <string-array name="luckymoney_sound">
+        <item>Səsi kəs</item>
+        <item>金币</item>
+        <item>红包来了</item>
+    </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobil internet istifadəsi "</item>
         <item>"Wi-Fi istifadəsi "</item>
@@ -271,6 +279,17 @@
         <item>com.android.settings</item>
         <item>com.miui.gallery</item>
         <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Xəbərdarlıq göstər</item>
@@ -344,6 +363,20 @@
         <item>Təzəlikcə istifadə edilən</item>
         <item>İstifadə edilən anbar</item>
         <item>Quraşdırma vaxtı</item>
+    </string-array>
+    <string-array name="st_antispam_handle_methods_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="st_antispam_handle_methods_value_intl">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="st_antispam_notification_show_types_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
         <item>Söndür və bildir</item>

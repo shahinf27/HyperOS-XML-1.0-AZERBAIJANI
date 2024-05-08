@@ -139,19 +139,19 @@
         <item>Gizlilik və ara bağlantı, Gizlilik</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Ara bağlantı xidmətləri</item>
-        <item>Ara bağlantı/Ara bağlantı xidmətləri</item>
-        <item>Ara bağlantı xidmətləri</item>
+        <item>Xiaomi Ara bağlantı</item>
+        <item>Ara bağlantı/Xiaomi Ara bağlantı</item>
+        <item>Xiaomi Ara bağlantı xidmətləri, Xiaomi Ara bağlantı</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Tətbiq köçürmə</item>
-        <item>Ara bağlantı/Tətbiq köçürmə</item>
+        <item>Ara bağlantı/Tətbiqlər</item>
         <item>Tətbiqləri köçür, ötür, transfer et</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Zənglər</item>
-        <item>Ara bağlantı/Zənglər</item>
-        <item>Zənglər</item>
+        <item>Zəng sinxrn</item>
+        <item>Ara bağlantı/Zəng sinxrn</item>
+        <item>Zəng sinxrn, cihazlar arası zənglər, zəng ötürmə, zənglər</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Şəbəkə köməyi</item>
@@ -176,4 +176,8 @@
     <string-array name="trusted_certificates">
         <item>27196e386b875e76adf700e7ea84e4c6eee33dfa</item>
     </string-array>
+        <array name="window_background_blend_colors">
+        <item>#52808080</item>
+        <item>28</item>
+    </array>
 </resources>

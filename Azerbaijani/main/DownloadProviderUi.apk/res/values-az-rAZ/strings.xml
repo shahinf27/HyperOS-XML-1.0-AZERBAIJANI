@@ -101,6 +101,7 @@
     <string name="download_error_insufficient_space">Yetərli anbar sahəsi yoxdur</string>
     <string name="download_filesize_unknown">Bilinmir</string>
     <string name="download_from">Mənbə</string>
+    <string name="download_icp">ICP qeydiyyat nömrəsi: 粤B2-20050219-23A</string>
     <string name="download_in_process">Endirilir</string>
     <string name="download_info_start_deleted_tasks">Endirilənləri sil</string>
     <string name="download_list_intoAuthAlert">Bir saniyə…</string>
