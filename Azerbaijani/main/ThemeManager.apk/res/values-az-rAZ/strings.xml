@@ -978,7 +978,6 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
     <string name="pad_fold_no_permission">Anbar icazələri tələb olunur</string>
     <string name="pad_fold_no_permission_detail">Fərdiləşdirmə tərcihlərini dəyişdirə və endirilmiş elementləri saxlaya bilmək üçün, əvvəlcə bu özəlliyin anbara müraciətinə icazə verin.</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="paying">Satın alınır…</string>
     <string name="percent_sign">%</string>
     <string name="personalize">Fərdiləşdirmə</string>
@@ -1504,7 +1503,6 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="somatosensory_temperature_format">%s kimi hiss edilir°</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Tətbiq et</string>
     <string name="storage_migration_exit_msg">\"Temalar\"ı Android-in növbəti versiyaları ilə uyumlu etmək üçün endirdiyiniz elementləri yeni bir yerə daşıdıq. Dəyişikliklərin tətbiq edilməsi və endirilən məzmuna baxmaq üçün tətbiqi yenidən başladın.</string>
     <string name="storage_permission_denied_desc">Elementlərə baxa bilmək üçün \"Temalar\"ın anbara müraciətinə icazə verin</string>
