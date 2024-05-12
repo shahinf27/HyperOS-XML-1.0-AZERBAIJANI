@@ -37,6 +37,9 @@
     <string name="HIPS_Perm_tencentControl_Desc">WeChat və QQ-dən saxlanılan təsvirlərə və fayllara müraciət</string>
     <string name="HIPS_Perm_use_sip_Desc">Video axını üçün Seans Başlatma Protokolu (SIP) istifadə edir</string>
     <string name="Phonepass">Zənglərə icazə ver</string>
+    <string name="SC_HIPS_Perm_process_outgoing_calls">Zəngləri cavablandır və bitir</string>
+    <string name="SC_HIPS_Perm_read_clipboard">Lövhəyə müraciət</string>
+    <string name="SC_HIPS_Perm_write_clipboard">Elementləri lövhəyə əlavə et</string>
     <string name="SMS_and_MMS">SMS və MMS</string>
     <string name="SMSpass">SMS-ə icazə ver</string>
     <string name="Setting_lock">Ayarlar</string>
@@ -108,6 +111,13 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Tətbiq kilidi parolunu daxil edin</string>
     <string name="accessibility_gameboosterservice_description">"Oyun oynayarkən gələn WeChat zənglərinin səsini kəsmək üçün işə salın"</string>
+    <string name="accessibility_keyboard_delete_button">Sil</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Nömrələr</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Simvollar</string>
+    <string name="accessibility_keyboard_ok_button">Enter</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Hərflər</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Simvol kilidi</string>
     <string name="accessibility_service_description"></string>
     <string name="action_button_text_100">Optimallaşdır</string>
     <string name="action_button_text_60">Düzəlt</string>
@@ -350,6 +360,13 @@
     <string name="app_install_intercept">Quraşdırmanı əngəllə</string>
     <string name="app_install_tips_go_to">Aç</string>
     <string name="app_install_tips_install_success">%1$s uğurla quraşdırıldı</string>
+    <string name="app_isolate_func_close_tip">Bu özəlliyi söndürsəniz, bəzi tətbiq datası itə bilər. Əvvəlcə vacib datanı nüsxələyin. İndi söndürülsün?</string>
+    <string name="app_isolate_func_closing">Söndürülür…</string>
+    <string name="app_isolate_func_opening">İşə salınır…</string>
+    <string name="app_lock_face_error_to_try">Üzlə kilid açmanı istifadə etmək üçün üz ikonuna toxunun</string>
+    <string name="app_lock_pwd">Kilidi açmaq üçün parolu daxil edin</string>
+    <string name="app_lock_pwd_forget">Parolu unutdum</string>
+    <string name="app_lock_pwd_or_finger">Parol və ya barmaq izi ilə kilidi aç</string>
     <string name="app_manage_frequency">İstifadə tezliyi</string>
     <string name="app_manage_install_time">Quraşdırma vaxtı</string>
     <string name="app_manage_installed">Quraşdırıldı</string>
@@ -363,8 +380,8 @@
     <string name="app_management_for_chain_start_desc">Bu tətbiqin digər tətbiqlərə bağlanmasını və ya onları açmasını önlə</string>
     <string name="app_management_for_device_id">İdentifikatorları gizlət və ya izləməni önlə</string>
     <string name="app_management_for_device_id_desc">Bu tətbiqin telefon nömrənizə və ya şəxsiyyəti müəyyənləşdirən məlumatlara müraciət etməsini önlə</string>
-    <string name="app_management_for_independent_storage">Keşlənmiş datanı təcrid et</string>
-    <string name="app_management_for_independent_storage_desc">Tətbiqin yalnız öz fayllarına və datalarına müraciət etməsinə icazə ver</string>
+    <string name="app_management_for_independent_storage">Müstəqil anbar sahəsi</string>
+    <string name="app_management_for_independent_storage_desc">Tətbiqin datasını müstəqil olaraq anbarda saxlayın və tətbiqin bəzi xarici datalara müraciəti etməsini önləyin</string>
     <string name="app_management_for_install">Tətbiq endirmələrini əngəllə</string>
     <string name="app_management_for_install_desc">Bu tətbiqin digər tətbiqləri endirməsini və ya quraşdırmasını önlə</string>
     <string name="app_management_measures">Tətbiq idarəetməsi</string>
@@ -402,7 +419,7 @@
     <string name="app_manager_data_size">İstifadəçi datası</string>
     <string name="app_manager_default_cleared">Təmizləndi</string>
     <string name="app_manager_default_close_summary">Heç bir ilkin dəyər ayarlanmadı.</string>
-    <string name="app_manager_default_open_summary">Bəzi hərəkətlər üçün bu tətbiqi ilkin təyin olunan olaraq başlatmaq üçün seçdiniz.</string>
+    <string name="app_manager_default_open_summary">"Bəzi fəaliyyətlər üçün bu tətbiqi ilkin olaraq başlatmağı seçmisiniz."</string>
     <string name="app_manager_default_open_title">İlkin dəyərləri təmizlə</string>
     <string name="app_manager_defaults_setting">İlkin tətbiqlər</string>
     <string name="app_manager_details_electric_title">Batareya</string>
@@ -1252,6 +1269,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="commonly_used_func_card_title">Ortaq özəlliklər</string>
     <string name="commonly_used_func_edit_too_many_func">"Daha çox element əlavə edilə bilmir"</string>
+    <string name="compact_safebox_dialog_tip">Sizi daha yaxşı istifadəçi təcrübəsi ilə təmin etmək üçün İkinci sahə artıq gizli qovluqları dəstəkləmir. Məlumatlarınızın itməməsi üçün bu elementləri mümkün qədər tez köçürün.</string>
     <string name="compatible_dialog_content">"Bu tətbiq, 64 bitlik arxitektura ilə tam uyumlu deyil. İstifadə edərkən performans problemləri və artan enerji sərfiyyatı yaşaya bilərsiniz."</string>
     <string name="compatible_dialog_more_info">Daha ətraflı</string>
     <string name="compatible_dialog_title">Diqqət</string>
@@ -1336,10 +1354,16 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cs_pickup_single_title">Tək iştirakçı</string>
     <string name="cs_pickup_surround_desc">Dəqiq, aydın səs məqsədilə səs-küyü azaltmaq üçün AI istifadə edir</string>
     <string name="cs_pickup_surround_title">Mikrofon səs-küyü azaltma</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_desc">Zəngi bitirin və başlatmaq üçün təlimatları izləyin.</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_title">Yalnız bir şəxsdən səs almaq üçün əvvəlcə onun səs izini qeyd edin.</string>
+    <string name="cs_pickup_vioce_print_unsupport_tips">\"Tək iştirakçı\"nı seçməzdən əvvəl səs izini qeyd edin</string>
+    <string name="cs_pickup_vioce_print_unsupport_toast">Xarici cihazları ayırıb yenidən sınayın</string>
+    <string name="cs_pickup_voice_print_desc">Yalnız bir nəfərdən səs alın</string>
     <string name="cs_screen_translation_title">Ekran tərcüməsi</string>
     <string name="cs_title_pickup">Səs-küy azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyası</string>
     <string name="cs_title_ultraclear">Ultra HD rejimi</string>
+    <string name="cs_voice_print">Səs izini yaz</string>
     <string name="cta_HIPS_Perm_Location_Desc">Xəbərdarlıq Mərkəzində, Fövqəladə hal SOS, Tətbiq batareyasına qənaət, ödəniş güvənliyi skaneri və təxmini yerləşmə xidmətində yerləşmənizlə əlaqəli özəllikləri təmin etmək üçün</string>
     <string name="cta_agree_desc">Xidmətlərimizi istifadə edə bilmək üçün bu tətbiqin internetə bağlanmasına icazə verin və yuxarıda sadalanan icazələri verin.</string>
     <string name="cta_close_dialog_cancel">İmtina</string>
@@ -1355,6 +1379,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normaldır.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Zəlzələ xəbərdarlığı verildikdə əngəlli siyahısını istifadə etmək və fövqəladə hallar zamanı əlaqə saxlanılacaq şəxslərə zəng etmək üçün</string>
     <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Cihazlar arası kimliyin doğrulanması, USB sazlama, Gizlilik qoruma parolunu və Tətbiq kilidini bərpa etmə zamanı səlahiyyətin idarə edilməsi üçün</string>
+    <string name="custom_define_permission_desc_android.permission.NEARBY_DEVICES">Avtomatlaşdırılmış tapşırıqlar üzrə Bluetooth cihazlarının bağlantısını qurmaq və kəsmək üçün</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Zəng tarixçənizdə əngəlli zəngləri göstərmək üçün</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Əngəlli siyahısını istifadə etmək üçün</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Yüksək temperatur və ya aşağı batareya hallarında zəng statusunu tanımaq üçün</string>
@@ -1643,6 +1668,10 @@ Bu, istisnalara əlavə ediləcək, ancaq əvvəlcədən əngəllənmiş element
     <string name="error_icon_content_description">Xəta</string>
     <string name="evening">Günortadan sonra</string>
     <string name="every_day">Hər gün</string>
+    <string name="ew_action_subscribe">Abunə ol</string>
+    <string name="ew_action_subscribed">Abunə olundu</string>
+    <string name="ew_action_subscribed_area">Abunə olunmuş bölgələr</string>
+    <string name="ew_action_unsubscribe">Abunəlikdən çıx</string>
     <string name="ew_alert_arrive_location">Seysmik dalğa %s çatdı</string>
     <string name="ew_alert_dial_text">"Fövqəladə hal əlaqəsinə
 zəng et"</string>
@@ -1683,6 +1712,7 @@ göstər"</string>
     <string name="ew_contact_dialog_tips">Ən azı fövqəladə hal əlaqəsi əlavə edin.</string>
     <string name="ew_contact_dialog_title">Diqqət</string>
     <string name="ew_current_location">Hazırkı yerləşmə</string>
+    <string name="ew_current_location_with_bracket">" (Hazırkı yer)"</string>
     <string name="ew_emergency_allergy">Allergiyalar</string>
     <string name="ew_emergency_basic_info">Təməl məlumatlar</string>
     <string name="ew_emergency_birthday">Doğum tarixi</string>
@@ -1765,8 +1795,8 @@ Bu özəlliyin yalnız istinad üçün təqdim edildiyini anlamalısınız. Ald�
     <string name="ew_main_detail_title">Ayarlar</string>
     <string name="ew_main_emergency_tips">Həmişə əlinizin altında olması üçün təməl tibbi məlumatlarını qeyd edin</string>
     <string name="ew_main_emergency_title">Tibbi kart</string>
-    <string name="ew_main_open_tips">"Bu özəllik sizi yaxınlaşan zəlzələlər haqqında məlumatlandırır və xəbərdarlıq səsi çalır. Həmçinin, fövqəladə hal geri sayımı dayandıqdan sonra fövqəladə xidmətlər haqqında məlumatlar da sizə təqdim ediləcək."</string>
-    <string name="ew_main_open_title">Xəbərdarlıq və kömək al</string>
+    <string name="ew_main_open_tips">Bu özəllik sizi yaxınlaşan zəlzələlər haqqında məlumatlandırır və xəbərdarlıq səsi çalır</string>
+    <string name="ew_main_open_title">Zəlzələ xəbərdarlığı</string>
     <string name="ew_main_place_tips">Ehtiyacınız olduqda sizə ən yaxın fövqəladə hal sığınacağının harada olduğunu öyrənin</string>
     <string name="ew_main_place_title">Yaxınlıqdakı fövqəladə hal sığınacaqları</string>
     <string name="ew_main_setting_show_desc">Demo</string>
@@ -1826,8 +1856,8 @@ könüllüsü"</string>
     <string name="ew_settings_set_level_summary">İntensivlik %s və ya daha yüksək olduqda zəlzələ haqqında xəbərdarlıqlar al</string>
     <string name="ew_settings_set_level_title">Zəlzələ xəbərdarlıq həddini ayarla</string>
     <string name="ew_signature_default">Chengdu Yüksək Texnologiyalı Fəlakətlərin Azaldılması İnstitutu Materik Zəlzələnin Erkən Xəbərdarlıq Mərkəzi</string>
-    <string name="ew_sleep_mode_alert_content">"Zəlzələ erkən xəbərdarlıqlarını ala bildiyinizə əmin olmaq üçün Yuxu rejimini söndürüləcək. Arxaplan tətbiqləri, NFC, Bluetooth, GPS, mobil internet və Wi-Fi siz yuxulayarkən belə normal işləyəcək. Zəlzələ xəbərdarlığı indi işə salınsın?"</string>
-    <string name="ew_sleep_mode_alert_title">Zəlzələ xəbərdarlığı</string>
+    <string name="ew_sleep_mode_alert_content">"Zəlzələ erkən xəbərdarlıqlarını ala bilməyiniz üçün Yuxu rejimini söndürüləcək. Arxaplan tətbiqləri, NFC, Bluetooth, GPS, mobil internet və Wi-Fi siz yuxulayarkən belə normal işləyəcək."</string>
+    <string name="ew_sleep_mode_alert_title">Vacib bildiriş</string>
     <string name="ew_subscribe_area_title">Əlavə edilən əraziləri idarə et</string>
     <string name="ew_subscribe_city">Əlavə edilən ərazilər</string>
     <string name="ew_subscribe_city_count">%s şəhərə qədər abunə ola bilərsiniz</string>
@@ -1956,7 +1986,7 @@ könüllüsü"</string>
     <string name="fingerprint_verify_failed">"Barmaq izi doğrulana bilmədi"</string>
     <string name="fingerprint_verify_succeed">Barmaq izi doğrulandı</string>
     <string name="fingerprint_verify_try_agin">"Barmaq izi skan edilə bilmədi, yenidən sınayın"</string>
-    <string name="firewall_activity_lable">İnternet istifadəsini tətbiqlərə görə məhdudlaşdır</string>
+    <string name="firewall_activity_lable">Şəbəkəyə müraciət</string>
     <string name="firewall_allow_all">Bütün tətbiqlərin aşağıdakı üsulu istifadə edərək bağlanmasına icazə ver</string>
     <string name="firewall_allow_data">Mobil internet istifadəsinə icazə ver</string>
     <string name="firewall_allow_network">İcazə ver</string>
@@ -1981,7 +2011,7 @@ könüllüsü"</string>
     <string name="firewall_statement_no_more">"Bir daha xatırlatma"</string>
     <string name="firewall_statement_ok">Anladım</string>
     <string name="firewall_statement_title">Diqqət</string>
-    <string name="firewall_system_title">Sistem tətbiqi bağlantıları</string>
+    <string name="firewall_system_title">Sistem tətbiqləri üçün şəbəkəyə müraciət</string>
     <string name="firewall_temp_rule_reason">%2$s, %1$s üçün internet bağlantısını məhdudlaşdırdı</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"Bu açar sönülü olduqda, quraşdırılmış tətbiq Wi-Fi ilə internetə bağlana bilməyəcək."</string>
@@ -2185,8 +2215,13 @@ könüllüsü"</string>
     <string name="game_video_net_data">Mobil internet</string>
     <string name="game_video_network_eror">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="game_wid_viewpoint_buttom">Qısa fasilə verin.</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">"Razı deyiləm"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Razıyam</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Oyun Sürətləndirici &lt;br&gt;&lt;a href=\"%1$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;</Data></string>
+    <string name="gamebooster_confirm_dialog_title">Gizlilik Siyasətimizlə razılaşın</string>
     <string name="gamebooster_dialog_recover">Yenilə</string>
     <string name="gamebooster_dialog_start_booster">Başla</string>
+    <string name="gamebooster_dialog_start_booster_new">Sürətləndir</string>
     <string name="gamebooster_lowbattery_notification_summary">Cihazınız sönmədən əvvəl doldurun.</string>
     <string name="gamebooster_main_activity_back">Geri</string>
     <string name="gamebooster_network_dialog_cn_message">"Güvənlik tətbiqinin internetə bağlanmasına və yerləşmənizə müraciət etməsinə icazə verilmədiyi halda Game Turbo-nu istifadə edə bilməzsiniz. İndi icazə verilsin?"</string>
@@ -2204,6 +2239,7 @@ könüllüsü"</string>
     <string name="gamebox_display_2">Doymuş</string>
     <string name="gamebox_display_3">Parlaq</string>
     <string name="gamebox_display_4">Parlaq və doymuş</string>
+    <string name="gamebox_display_5">HDR</string>
     <string name="gamebox_display_set">"Vizual təkmilləşdirmə: "</string>
     <string name="gamebox_dnd">Narahat etməyin</string>
     <string name="gamebox_filter_alpha_tip">Şəffaflıq</string>
@@ -2283,12 +2319,14 @@ könüllüsü"</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Orta</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Güclü</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Ekstremal</string>
+    <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
+    <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">Oyunlar üçün kontrastı artırın və detalları təkmilləşdirin</string>
     <string name="gb_advance_settings_touch">Toxunuş kontrolları</string>
     <string name="gb_advance_settings_vibration_4d">4D titrəmə</string>
     <string name="gb_advance_settings_vibration_4d_summary">Oyundakı atışlar zamanı titrət</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Oyundakı öldürmələr zamanı titrət</string>
-    <string name="gb_all_hight_display">High refresh rate</string>
+    <string name="gb_all_hight_display">Yüksək yeniləmə sürəti</string>
     <string name="gb_all_hight_display_sub_title">Bütün ssenarilər üçün 120 Hz</string>
     <string name="gb_already_in_game_list_tips">"Bu element artıq əlavə edilmiş oyunların arasındadır. Bura əlavə edilə bilmir."</string>
     <string name="gb_already_in_video_list_tips">"Bu element artıq əlavə edilmiş video tətbiqlərin arasındadır. Bura əlavə edilə bilmir."</string>
@@ -2315,6 +2353,7 @@ könüllüsü"</string>
     <string name="gb_beauty_light">Doldurma işığı</string>
     <string name="gb_beauty_nature_light">Təbii</string>
     <string name="gb_beauty_warm_light">İsti</string>
+    <string name="gb_casual_game_application_range_prefix">NO.</string>
     <string name="gb_collimator_color">Rəng</string>
     <string name="gb_collimator_size">Ölçü</string>
     <string name="gb_collimator_style">Növ</string>
@@ -2714,6 +2753,7 @@ məqamlarını yazın"</string>
     <string name="gtb_dialog_hint_smart_5g">Bu özəlliyi Game Turbo &gt; Ayarlarda işə sala və ya söndürə bilərsiniz.</string>
     <string name="gtb_dialog_privacy_speed_message">"Xunyou Game Booster istifadə etmək üzrəsiniz. Bu xidmət, üzvlük müddətinizi qeyd etmək üçün Xiaomi Hesab Kimliyinizi yığacaq."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>\"Xunyou Game Booster &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxudum və razıyam.\"</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>\"Xunyou Oyun Sürətləndirici &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxudum və razıyam.\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Oyun Sürətləndirici</string>
     <string name="gtb_dialog_privacy_voice_message">"Xunyou Game Səs Dəyişdirici istifadə etmək üzrəsiniz. Bu xidmət, üzvlük müddətinizi qeyd etmək üçün Xiaomi Hesab Kimliyinizi yığacaq."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>\"Xunyou Game Xunyou Game Səs Dəyişdirici &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxudum və razıyam.\"</Data></string>
@@ -2824,7 +2864,7 @@ mənzərə rejiminə keçin!"</string>
     <string name="hot_today">Bu gün məşhur</string>
     <string name="i_know">Anladım</string>
     <string name="i_know_time">Anladım (%d)</string>
-    <string name="icon_content_description">Dialoq nişanı</string>
+    <string name="icon_content_description">Dialoq ikonu</string>
     <string name="icon_created_settings_preference">Əlavə edildi</string>
     <string name="icon_text_size_giga_byte">%.1fG</string>
     <string name="icon_text_size_max">9.9G</string>
@@ -2919,6 +2959,9 @@ mənzərə rejiminə keçin!"</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="item_virus_lib">Virus təriflərini avto-güncəllə</string>
     <string name="item_zero">%d CNY</string>
+    <string name="keyboard_key">\"</string>
+    <string name="keyboard_key_back">Geri</string>
+    <string name="keyboard_key_space">Boşluq</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/s</string>
@@ -2945,6 +2988,7 @@ Mobil internet bağlantısını yenidən istifadə etsəniz, operatorunuz sizdə
     <string name="local_ip_exception_summary">"Yerli IP ünvanı alına bilmədi. Bu problemi bildirmək üçün Əks-əlaqə tətbiqinə gedib cihazınızdan bir jurnal göndərin."</string>
     <string name="location">Yerləşmə</string>
     <string name="lock_all_title">Bütün tətbiqləri kilidlə</string>
+    <string name="lock_app_input_invalid_car">"Bəzi simvollar dəstəklənmir"</string>
     <string name="lock_mode_title">Kilid ayarları</string>
     <string name="lock_screen_business_hongbao_message">Buradan: %1$s</string>
     <string name="lock_screen_hongbao_message">Buradan: \"%1$s”</string>
@@ -3082,17 +3126,21 @@ gözlənilir"</string>
     <string name="malicious_access_pay">Ödəniş məlumatlarına müraciət</string>
     <string name="malicious_access_wakelock">\"WakeLock\"a müraciət</string>
     <string name="malicious_activity_too_many">Tez-tez alış</string>
+    <string name="malicious_add_account">Sinxrn hesabı əlavə et</string>
     <string name="malicious_auto_start">Avto-başlama</string>
     <string name="malicious_bg_start">Arxaplanda başlama</string>
     <string name="malicious_chain">Zəncir sazlama</string>
     <string name="malicious_cold_start">Soyuq başlama</string>
     <string name="malicious_hot_start">İsti başlama</string>
     <string name="malicious_keyguard_show">Kilid ekranı görüntüsü</string>
+    <string name="malicious_media_projection">Ekranı yaz</string>
+    <string name="malicious_no_launcher">Masaüstü ikonu yoxdur</string>
     <string name="malicious_push_notification">Ani bildiriş</string>
     <string name="malicious_read_calendar">Təqvimi oxu</string>
     <string name="malicious_read_contacts">Kontaktları oxu</string>
     <string name="malicious_read_phone_info">Telefon məlumatlarını oxu</string>
     <string name="malicious_read_sms">SMS oxu</string>
+    <string name="malicious_record_audio">Səs yazılır</string>
     <string name="malicious_run_long">Uzun işləmə</string>
     <string name="malicious_set_android_widget">Yüksək riskli ssenarilər-Android daxili vicetləri</string>
     <string name="malicious_system_grant_third_uri">Sistem tərəfindən səlahiyyət verilən üçüncü tərəf Uri</string>
@@ -3212,6 +3260,7 @@ Cihazınız indi %s daha sürətlidir."</string>
     <string name="menu_show_work_profile_text">İş sahəsi tətbiqlərini göstər</string>
     <string name="menu_sms">Mesaj göndər</string>
     <string name="menu_summary_antispam">Zəngləri və mesajları əngəllə</string>
+    <string name="menu_summary_antispam_calls">Spam zəngləri əngəllə</string>
     <string name="menu_summary_antivirus">Cihazınızda virus axtarışı edin</string>
     <string name="menu_summary_app_manager">Tətbiq ayarlarını idarə et</string>
     <string name="menu_summary_garbage_cleanup">Heç bir tullantı tapılmadı</string>
@@ -3421,6 +3470,8 @@ Balans sorğusu mesajları \"Mesajlaşma\"da saxlanılmır və görünmür.
     <string name="net_boostering">Şəbəkə sürəti artırılır…</string>
     <string name="net_boosting">Sürət artırılır…</string>
     <string name="net_delay_title">Gecikmə</string>
+    <string name="net_free_booster_new_user_tip">Ödənişsiz oyun sürətləndirici əldə edin və Xiaomi telefonu qazanmaq üçün daxil olun!</string>
+    <string name="net_free_booster_new_user_title">Yeni istifadəçi hədiyyəsi</string>
     <string name="net_overdue">Seans bitdi</string>
     <string name="network_assistant_privacy">Tətbiqə görə internet istifadəsini izləmək üçün paket adları, Wi-Fi və mobil internet istifadəsi, pik və qeyri-pik internet istifadəsi, Wi-Fi və mobil internetin nə vaxt açıq olduğu kimi məlumatları yığırıq. Bu məlumatlar, cihazınızda yerli olaraq saxlanılır.</string>
     <string name="network_assistant_privacy_title">Tətbiq və şəbəkə istifadəsi və diaqnostika datalarını göndər</string>
@@ -3799,6 +3850,14 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_berserk_mode_noti_summary">Ultimate rejimi enerji sərfiyyatını artıra və aşırı isinmə problemlərinə səbəb ola bilər</string>
     <string name="pc_berserk_mode_performance_title">Ultimate rejimi</string>
     <string name="pc_button_go_to_setting">Ayarlar</string>
+    <string name="pc_camera_printer_dialog_battery_full">Tam dolub</string>
+    <string name="pc_camera_printer_dialog_battery_low">Zəif batareya</string>
+    <string name="pc_camera_printer_dialog_negative_button">Anladım</string>
+    <string name="pc_camera_printer_dialog_positive_button">Kameranı aç</string>
+    <string name="pc_camera_printer_dialog_should_charge">Doldurma cihazını qoş</string>
+    <string name="pc_camera_printer_notify_button">Kameranı aç</string>
+    <string name="pc_camera_printer_notify_subtitle">Bağlantılı</string>
+    <string name="pc_camera_printer_title">Foto Printer Dəsti</string>
     <string name="pc_category_charge_settings">Doldurma ayarları</string>
     <string name="pc_charged_auto_close_summary">Batareya %1$s olduqda və ya tam dolduqda söndür</string>
     <string name="pc_charged_auto_close_title">Doldurarkən söndür</string>
@@ -3857,6 +3916,8 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_install_manager">USB vasitəsilə quraşdır</string>
     <string name="pc_intellect_charge_protect_summary">İstifadə ssenarilərinə görə doldurmanı ayarla</string>
     <string name="pc_intellect_charge_protect_title">Optimallaşdırılmış doldurma</string>
+    <string name="pc_is_exiting_super_power">"Ultra batareya qənaəti
+söndürülür"</string>
     <string name="pc_keywords_fast_charge">Sürətli doldurma</string>
     <string name="pc_keywords_low_power_consumption_save">Batareya qənaəti</string>
     <string name="pc_keywords_low_power_mode">Zəif enerji rejimi</string>
@@ -3907,6 +3968,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_remind_close_cover_to_charge_summary">Daha sürətli və daha stabil doldurma təcrübəsi üçün doldurmazdan əvvəl cihazı qatlayın.</string>
     <string name="pc_remind_close_cover_to_charge_title">Doldurmaq üçün qatlayın</string>
     <string name="pc_reminder_always_protect_summary">Batareyanın köhnəlməsini yavaşlandırmaq üçün məhdud doldurmaya keçin</string>
+    <string name="pc_satellite_auto_enter_super_power">Peyk bağlantısını təmin etmək üçün Ultra batareya qənaəti işə salındı</string>
     <string name="pc_save_charge">Dolur</string>
     <string name="pc_save_other_setting">Digər ayarlar</string>
     <string name="pc_save_power">Batareya qənaəti</string>
@@ -4210,7 +4272,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pm_root_success_notification_title">Root müraciətinə icazə verildi</string>
     <string name="popular_action_anti_spam_summary">SMS və telefon zəngləri</string>
     <string name="popular_action_anti_spam_title">Spamı əngəlləmə</string>
-    <string name="popular_action_anti_spam_title_global">Zəngləri və mesajları əngəllə</string>
+    <string name="popular_action_anti_spam_title_global">Spam zəngləri əngəllə</string>
     <string name="popular_action_app_lock_summary">Gizlilik daha güvənlidir</string>
     <string name="popular_action_app_lock_title">Tətbiqləri şifrələmə</string>
     <string name="popular_action_app_lock_title_global">Tətbiqləri Tətbiq kilidi ilə qoruyun</string>
@@ -4475,7 +4537,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="power_save_ps_close_setting_6">Yüksək enerji sərf edən xidmətləri və özəllikləri söndür (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
     <string name="power_save_ps_close_setting_7">Yüksək enerji sərf edən xidmətləri və özəllikləri söndür (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
     <string name="power_save_ps_close_setting_dclickwakeup">\"Oyandırmaq və ya ekranı söndürmək üçün iki dəfə toxunun\"</string>
-    <string name="power_save_ps_close_setting_fingeraod">\"Ekran sönülü olduqda barmaq izi nişanını göstər\"</string>
+    <string name="power_save_ps_close_setting_fingeraod">\"Ekran sönülü olduqda barmaq izi ikonunu göstər\"</string>
     <string name="power_save_ps_close_setting_gps">GPS</string>
     <string name="power_save_ps_close_setting_haptic">toxunuş əks-əlaqəsi</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Oyandırmaq üçün qaldır\"</string>
@@ -4556,7 +4618,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pp_grant_permission_only_during_app_use">"Tətbiqlərə, yalnız tətbiqləri istifadə edərkən icazələri istifadə etməsinə icazə verin"</string>
     <string name="pp_grant_permission_only_during_app_use_detail">"Bir tətbiqin arxaplanda icazələri istifadə etməsini önləmək üçün yerləşmə, səs yazma və kontaktlarla bağlı icazələrin yalnız siz tətbiqi istifadə edərkən istifadə edilməsinə icazə verə bilərsiniz"</string>
     <string name="pp_hide_app">Tətbiqləri gizlət</string>
-    <string name="pp_hide_app_form_desktop">Əsas ekrandan tətbiq nişanlarını sil</string>
+    <string name="pp_hide_app_form_desktop">Tətbiq ikonlarını Əsas ekrandan sil</string>
     <string name="pp_icon_layout_status_bg_content_enable">Qorunur</string>
     <string name="pp_icon_layout_status_bg_content_unable">Bağlı</string>
     <string name="pp_identifier_protection">Şəxsi identifikatorları qoruyun</string>
@@ -4764,7 +4826,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="privacy_apps_close">Bağla</string>
     <string name="privacy_apps_enable_summary">Tətbiqləri gizli qovluğa daşıyın və onların Əsas ekran qısayollarını silin</string>
     <string name="privacy_apps_go_to_use">Başlat</string>
-    <string name="privacy_apps_manager_dialog_message">"Bu tətbiqi gizlətdikdən sonra nişanı Əsas ekranda görünməyəcək. Bu tətbiq indi gizlədilsin?"</string>
+    <string name="privacy_apps_manager_dialog_message">"Bu tətbiqi gizlətdikdən sonra onun ikonu Əsas ekranda görünməyəcək. Bu tətbiq indi gizlədilsin?"</string>
     <string name="privacy_apps_next_stup">Növbəti</string>
     <string name="privacy_apps_password_enable_summay">Şəxsi fayllar Tətbiq kilidi ilə qoruyun</string>
     <string name="privacy_apps_password_enable_title">Tətbiq kilidi</string>
@@ -4774,7 +4836,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="privacy_apps_tutorial_dlg_message_1">Gizli tətbiqlərə baxmaq üçün Əsas ekranda iki barmağınızı bir-birindən ayırın</string>
     <string name="privacy_apps_tutorial_dlg_message_2">Qeyd: Bir tətbiqi gizlətdiyiniz zaman, onun yalnız Əsas ekrandakı qısayolu gizlədilir.</string>
     <string name="privacy_apps_tutorial_dlg_title">Gizli tətbiqlər necə tapılır</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">Bu özəllik, tətbiq nişanlarını gizlətməyinizə imkan verir, beləcə nişanlar artıq Əsas ekranınızda görünmür.</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">Bu özəllik, tətbiq ikonlarını gizlətməyinizə imkan verir, beləcə ikonlar artıq Əsas ekranınızda görünmür.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Parolunuzu daxil etdikdən sonra, gizli tətbiqlərin olduğu qovluq görünəcək.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Ekranda iki barmağınızı ayırın. Tətbiq kilidi parolunuzu daxil etməyinizi istəyən bir mesaj görəcəksiniz."</string>
     <string name="privacy_danger_permission_status_summary">Həssas icazələr tələb edən tətbiqləri idarə edin</string>
@@ -4989,7 +5051,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="privacy_search_key_9">Virtual kimlik</string>
     <string name="privacy_search_keyword_1">Gizlilik</string>
     <string name="privacy_search_keyword_2">Tətbiqləri gizlət</string>
-    <string name="privacy_search_keyword_3">Nişanları gizlət</string>
+    <string name="privacy_search_keyword_3">İkonları gizlət</string>
     <string name="privacy_search_keyword_4">Əsas ekran qısayollarını gizlət</string>
     <string name="privacy_search_keyword_5">Şəxsi tətbiqlər</string>
     <string name="privacy_search_keyword_6">Gizlət</string>
@@ -5113,6 +5175,8 @@ Razılıq indi geri götürülsün?"</string>
     <string name="result_sms_title_auth">Maliyyə SMS sızması riski mövcuddur</string>
     <string name="result_wifi_header">Wi-Fi riskləri aşkarlandı</string>
     <string name="resume">Bərpa et</string>
+    <string name="revoke_not_allow_net_summary">Güvənlik tətbiqinin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilmək üçün internetə bağlanmasına icazə verin.</string>
+    <string name="revoke_not_allow_net_title">Diqqət</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Bu tətbiqə güvən</string>
     <string name="risk_app_install_agree_checkbox">"Bütün mümkün riskləri götürməyə hazıram."</string>
@@ -5457,6 +5521,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="sp_abnormal_scan_title">Problemləri həll et</string>
     <string name="sp_antispam_scan_summary">Özünüzü fırıldaqçılıqdan qoruyun</string>
     <string name="sp_antispam_scan_title">Əngəlli siyahısı</string>
+    <string name="sp_app_install_protect_title">Tətbiq quraşdırma qoruması</string>
     <string name="sp_background_risk_dialog_summary">, ödəniş problemlərini yoxlayın və düzəldin.</string>
     <string name="sp_background_risk_dialog_summary_new">Hazırkı ödəniş mühiti güvənlik riskləri yarada bilər. Daha çoxunu öyrənmək üçün bir dəqiqənizi ayırın.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Bağlandığınız hər kəsə açıq Wi-Fi şəbəkəsi güvənli olmaya bilər. Tamamlanmazdan əvvəl ödənişinizin qorunduğuna əmin olun.</string>
@@ -6584,7 +6649,7 @@ Birini işə salmaq digərini söndürür."</string>
     <string name="vb_video_effects_spatial_summary_new">Qulaqlıq istifadə edərkən dəstəklənən səs üçün təkmilləşdirilmiş məkan və istiqamət hissini yaşayın</string>
     <string name="vb_video_effects_srs_premium_sound">Səs</string>
     <string name="vb_video_super_division">Yüksəlt</string>
-    <string name="vb_video_super_division_desc">"≤720p olduqda dəqiqliyi avtomatik yüksəldin.
+    <string name="vb_video_super_division_desc">"≤720P olduqda dəqiqliyi avtomatik yüksəldin.
 
 Bu özəlliyin istifadəsi enerji sərfiyyatını artırır.
 

@@ -141,7 +141,7 @@
     <string name="app_drawer_guide_description">"Axtardığınızı sevimli tətbiqlərdə tapın"</string>
     <string name="app_drawer_guide_title">Tətbiq siyirməsi</string>
     <string name="app_drawer_tip_title">"Məzmun lentini Tətbiq siyirməsi ilə əvəz etdik."</string>
-    <string name="app_edit_icon">Nişana düzəliş et</string>
+    <string name="app_edit_icon">İkona düzəliş et</string>
     <string name="app_install_state">Quraşdırıldı</string>
     <string name="app_name">smallWindow</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
@@ -226,9 +226,9 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="cloud_app_restore_title">Gözləyir</string>
-    <string name="color_group">Nişanları rəngə görə qruplaşdır</string>
+    <string name="color_group">İkonları rəngə görə qruplaşdır</string>
     <string name="color_group_anim">Rəng kateqoriyalarında animasiyalar</string>
-    <string name="com.crashlytics.android.build_id">170ceaf3daeb43bd87f6ecd8d78f4582</string>
+    <string name="com.crashlytics.android.build_id">38886842aa08447092b228de83839e7c</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_home_search_delete">Axtarış çubuğu silmə</string>
     <string name="common_home_search_delete_cancle">İmtina</string>
@@ -278,7 +278,7 @@
     <string name="dock_and_folder_not_edit_icon_tip">Düzəliş etmək üçün əvvəlcə tətbiqi yuvadan və qovluqdan çıxarın</string>
     <string name="dock_not_edit_icon_tip">Düzəliş etmək üçün əvvəlcə tətbiqi yuvadan çıxarın</string>
     <string name="double_tap_to_lock_title">Ekranı kilidləmək üçün cüt toxunun</string>
-    <string name="drag_icon_to_homescreen_guide">Bir tətbiq nişanını basılı tutun, daha sonra Əsas ekran qısayolu əlavə etmək üçün sürükləyin</string>
+    <string name="drag_icon_to_homescreen_guide">Bir tətbiq ikonuna basılı tutun, daha sonra Əsas ekran qısayolu əlavə etmək üçün sürükləyin</string>
     <string name="drag_multiple_item_name"></string>
     <string name="drag_single_item_name"></string>
     <string name="drawer_background">Arxaplanlar</string>
@@ -307,7 +307,7 @@
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="failed_to_delete_temporary">"Silinə bilmir"</string>
     <string name="failed_to_drop_widget_invalid">Bu vicet yararsızdır</string>
-    <string name="find_app_by_color">Tətbiqləri daha tez tapmaq üçün nişanları rəngə görə qruplaşdır</string>
+    <string name="find_app_by_color">Tətbiqləri daha tez tapmaq üçün ikonları rəngə görə qruplaşdır</string>
     <string name="firebase_database_url">https://miui-home-8d9f8.firebaseio.com</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -319,7 +319,7 @@
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -401,7 +401,7 @@
     <string name="guide_install_app_title">Tətbiq tapılıb quraşdırılsın?</string>
     <string name="guide_permission_title">İcazələr tələb olunur</string>
     <string name="guide_privacy_dialog_title">Xidmət Şərtləri</string>
-    <string name="hide_apps_title">Tətbiq nişanlarını gizlət</string>
+    <string name="hide_apps_title">Tətbiq ikonlarını gizlət</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_gesture_content_center">Məzmun Mərkəzi</string>
     <string name="home_gesture_global_search">Axtar</string>
@@ -414,11 +414,12 @@
     <string name="home_screen">Əsas ekran</string>
     <string name="home_slide_up_action">Əsas ekranda yuxarı sürüşdürün</string>
     <string name="home_switch_personal_assistant">-1 ekran</string>
-    <string name="icon_content_description">Dialoq nişanı</string>
+    <string name="icon_content_description">Dialoq ikonu</string>
     <string name="icon_customize_summary">Stili seçin və ölçüsünü ayarlayın</string>
-    <string name="icon_form">Nişanlar</string>
-    <string name="icon_reorganize_channel">Nişanları nizamla</string>
-    <string name="icon_size">Nişan ölçüsü</string>
+    <string name="icon_form">İkonlar</string>
+    <string name="icon_message_max_digit">999+</string>
+    <string name="icon_reorganize_channel">İkonları nizamla</string>
+    <string name="icon_size">İkon ölçüsü</string>
     <string name="icon_style">Stil</string>
     <string name="in_app_result_by">Tətbiq içi nəticələr</string>
     <string name="install">Quraşdır</string>
@@ -556,7 +557,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
-    <string name="monochrome_summary">Uyumlu nişanlar üçün arxaplan rəngini dəyişdir</string>
+    <string name="monochrome_summary">Uyumlu ikonlar üçün arxaplan rəngini dəyişdir</string>
     <string name="monochrome_title">Arxaplan rəngi</string>
     <string name="month_april">Aprel</string>
     <string name="month_april_short">Apr</string>
@@ -632,6 +633,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="mtzgadget_missing_text">"Vidjet istifadəyə yararlı deyil"</string>
+    <string name="name_aireco_name">Mi AI təklifləri</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Ekranın aşağısından yuxarı sürüşdürün, daha sonra sola və ya sağa sürüşdürün</string>
     <string name="navigation_guide_app_quick_switch_summary">Tam ekran göstəricisindən və ya ekranın aşağısından sola və ya sağa sürüşdürün</string>
     <string name="navigation_guide_app_quick_switch_title">Tətbiqlər arasında dəyişdir</string>
@@ -689,7 +691,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_adding">"Bu elementin əlavə edilməsi hələ dəstəklənmir"</string>
     <string name="notification_open_button">Aç</string>
-    <string name="notification_reset_title">Nişanlar uğurla düzüldü</string>
+    <string name="notification_reset_title">İkonlar uğurla düzüldü</string>
     <string name="one_key_call_title">Yığmaq üçün toxunun</string>
     <string name="open_pad_personal_assistant_settings">Əsas ekran vicetləri</string>
     <string name="open_personal_assistant_dialog_btn_cancel">İmtina</string>
@@ -824,7 +826,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="setting_wallpaper_tip">Ayarlamaq üçün çimdiklə və ya sürüşdür</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_shortcut">Ayarlar</string>
-    <string name="shake_to_align_icons">Boş xanaları nişanlarla doldurmaq üçün cihazı silkələyin</string>
+    <string name="shake_to_align_icons">Boş xanaları ikonlarla doldurmaq üçün cihazı silkələyin</string>
     <string name="share">Paylaş</string>
     <string name="sharedUserId"></string>
     <string name="shortcut_share_dialog_content">"Telefonunuzdan göndərdiyiniz fayllar, həmçinin onların alıcıları sizin tərəfinizdən seçilir və müəyyənləşdirilir. Paylaşılacaq faylları və alıcıları seçərkən diqqətli olun. Telefonunuzu hər hansısa bir virus, zərərli proqram təminatı, Troyan, saatlı bombalar və digər zərərli obyektləri digər insanlara ötürmək üçün istifadə edə bilməzsiniz. Telefonunuzu, alıcının cihazında müntəzəm istifadəyə təsir edə biləcək hər hansısa bir proqram təminatını və ya mobil terminal cihazlarındakı hər hansısa bir sistem datasına və ya şəxsi məlumatlara zərər verə, müdaxilə edə, araya girə və ya aradan qaldıra biləcək hər hansısa elementləri göndərmək üçün istifadə etməyin. Digər istifadəçilərə və ya mobil terminal cihazlarına dəyən hər hansısa bir zərərə görə siz məsuliyyət daşıyacaqsınız. Xiaomi, paylaşım funksionallığının, eləcə də texnologiya və məlumatların güvənli, effektiv, dəqiq və etibarlı olmasını təmin etmək üçün əlindən gələnin ən yaxşısını edəcək. Bununla belə, mövcud texnologiya məhdudiyyətlərinə görə, Xiaomi, paylaşım funksionallığının qüsursuz olduğuna və bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir."</string>
@@ -885,6 +887,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="switch_screen_button_order">Düymələrin yerini dəyişdir</string>
     <string name="switch_screen_button_order_desc">Geri və Menyu düymələrinin yerini dəyişdir</string>
     <string name="system_sdk_disabled_toast">Sistem SDK-sı sıradan çıxarıldı. Əvvəlcə onu fəallaşdırın.</string>
+    <string name="system_shortcuts_dislike">"Bunu bəyənmədim"</string>
     <string name="system_shortcuts_edit">Düzəliş et</string>
     <string name="system_shortcuts_icon_remove">Çıxart</string>
     <string name="system_shortcuts_more_operation">Tətbiq məlumatı</string>
@@ -903,17 +906,16 @@ Təkmilləşdirilmiş güvənlik."</string>
 </font> və <font color="#B3000000">
   <a href="http://url3">Branch Discovery Gizlilik Siyasətini</a>
 </font> oxuyun və razılaşın.</string>
-    <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_easter_day">Pasxa</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
     <string name="the_new_years_day">Yeni İl</string>
+    <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
-    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
@@ -923,7 +925,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="time_picker_label_minute">M</string>
     <string name="title_jeejen">Jeejen Əsas ekran</string>
     <string name="toast_drag_to_assistant_reject">Tətbiq kasası quraşdırılır…</string>
-    <string name="toast_screen_icons_misplaced">Digər mənbədən geri yükləndi, bəzi nişanlar səhv yerləşdirilmiş ola bilər.</string>
+    <string name="toast_screen_icons_misplaced">Digər mənbədən geri yükləndi, bəzi ikonlar səhv yerləşdirilə bilər.</string>
     <string name="toast_split_app_unsupported">Tətbiq ekran bölünməsini dəstəkləmir</string>
     <string name="toast_split_select_app">Ekran bölünməsini istifadə etmək üçün başqa bir tətbiqə toxunun</string>
     <string name="today">Bu gün</string>

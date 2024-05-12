@@ -270,7 +270,7 @@ Aşağıdakı ssenarilərdə güvənlik risklərinin qarşısını effektiv şə
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -319,14 +319,13 @@ Aşağıdakı ssenarilərdə güvənlik risklərinin qarşısını effektiv şə
     <string name="full_safe_auth_dialog_title">Quraşdırmanı təsdiqləmək üçün lütfən kimliyinizi doğrulayın</string>
     <string name="full_safe_bundle_app_confirm_install">Quraşdırmanı təsdiqlə</string>
     <string name="full_safe_enhance_mode_summary">Yalnız Xiaomi App Store-dan quraşdırmanı dəstəkləyir</string>
-    <string name="full_safe_install_risk_source_dialog_safe_title_des">该安装来源存在高风险：破坏系统运行。建议您通过其他安全渠道安装应用！</string>
+    <string name="full_safe_install_risk_source_dialog_safe_title_des">Bu quraşdırma mənbəyinin sistemin işləməsinə zərər vurma riski yüksəkdir. Tətbiqi digər təhlükəsiz kanallar vasitəsilə quraşdırmağınız tövsiyə olunur.</string>
     <string name="full_safe_install_source_dialog_safe_title_des">允许安装来自该来源的应用，设备和个人隐私安全易受到未知风险攻击。</string>
     <string name="full_safe_protect_guide_message">当通过浏览器等非小米应用商店来源安装应用时，将收到安全提醒，防止误安装风险应用，建议开启。</string>
     <string name="full_safe_protect_title">Tətbiq quraşdırma qoruması</string>
     <string name="full_safe_version_update_known_button_text">Aydındır</string>
-    <string name="full_safe_version_update_tip_bottom">*Gəlin və sınayın~</string>
-    <string name="full_safe_version_update_tip_sub_title_not_renamed">*Güvənli qoruma* yeni yüksəltmə</string>
-    <string name="full_safe_version_update_tip_sub_title_rename">*Güvənlik qoruması*, *Tətbiq quraşdırma qoruması*na rəsmi olaraq yüksəldildi</string>
+    <string name="full_safe_version_update_tip_sub_title_not_renamed">\"Güvənlik qoruması\" üçün yeni güncəlləmə, ən son dəyişikliklər bunlardır:</string>
+    <string name="full_safe_version_update_tip_sub_title_rename">\"Güvənlik Qoruması\" rəsmi olaraq \"Tətbiq Quraşdırma Mühafizəsi\"nə yüksəldilib. Bu versiyada aşağıdakı yeni dəyişikliklər var:</string>
     <string name="full_safe_version_update_tip_text1">Tətbiqin quraşdırılması daha sürətlidir</string>
     <string name="full_safe_version_update_tip_text2">Risk xəbərdarlıqları daha aydındır</string>
     <string name="full_safe_version_update_tip_text3">Səhifə dizaynı daha sadədir</string>
@@ -1081,6 +1080,7 @@ gəldiyini bilin"</string>
     <string name="side_sheet_accessibility_pane_title">Yan vərəq</string>
     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
     <string name="single_authorize">Bir dəfə icazə ver</string>
+    <string name="single_authorize_for_installation">Tək quraşdırma lisenziyası</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
