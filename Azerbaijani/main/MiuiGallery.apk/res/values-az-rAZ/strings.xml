@@ -543,7 +543,6 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="card_description_annual_peoples">Üzlər, hekayələr, məkanlar</string>
     <string name="card_description_annual_pets">Quyruqlar, pəncələr və bığlar</string>
     <string name="card_description_annual_travel">Yolda olarkən gördükləriniz</string>
-    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Tədbirlər</string>
     <string name="card_title_annual_babys">%1$s - şirinlik</string>
     <string name="card_title_annual_events">%1$s daxilindəki partilərim</string>
