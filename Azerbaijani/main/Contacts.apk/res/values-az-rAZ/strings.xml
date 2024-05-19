@@ -633,7 +633,7 @@ Səbəb: \"%s\""</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -700,9 +700,9 @@ Səbəb: \"%s\""</string>
     <string name="hide_app_description_content">"Kontaktlar sistem tətbiqidir. Əsas ekran qısayolunu çıxardıqdan sonra onu hələ də Telefon tətbiqi vasitəsi ilə istifadə edə biləcəksiniz."</string>
     <string name="hide_app_description_title">\"Kontaktlar\" Əsas ekrandan silinsin?</string>
     <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="hint_distance"></string>
+    <string name="hint_distance">Bağlantılı qaldıqlarına əmin olmaq üçün daxilə köçürmə prosesi zamanı iki cihazı bir-birinə yaxın saxlayın.</string>
     <string name="hint_findContacts">Kontaktları axtar</string>
-    <string name="hint_more_contact">Dublikat kontaktları birləşdir</string>
+    <string name="hint_more_contact">Əgər daxilə köçürmə prosesi dublikat kontaktlar yaratsa, \"Dublikat kontaktları birləşdir\" özəlliyini istifadə edin.</string>
     <string name="hybrid_check_network">Şəbəkə ayarları</string>
     <string name="hybrid_data_error">Xəta baş verdi</string>
     <string name="hybrid_locating_fail">"Yerləşməniz tapıla bilmədi"</string>
@@ -774,7 +774,7 @@ Səbəb: \"%s\""</string>
     <string name="locale_change_in_progress">Kontakt siyahısı dil dəyişikliyini əks etdirmək üçün güncəllənir.</string>
     <string name="low_memory_toast">"Yaddaş az olduğuna görə bu özəllik istifadə edilə bilmir."</string>
     <string name="lunarBirthdayLabelsGroup">Ay təqvimi doğum günü</string>
-    <string name="lunar_calendar">农历</string>
+    <string name="lunar_calendar">Ay təqvimi</string>
     <string name="lunar_leap">闰</string>
     <string name="make_primary">Bu seçimi xatırla</string>
     <string name="manage_external_storage_dialog_message">Zəng səsyazmalarını idarə etmək üçün bu tətbiqin bütün fayllara müraciətinə icazə verin.</string>

@@ -164,7 +164,7 @@
         <item quantity="other">%d alıcı</item>
         <item quantity="one">%d alıcı</item>
     </plurals>
-        <plurals name="vital_signs_data_bpm">
+    <plurals name="vital_signs_data_bpm">
         <item quantity="other">Ürək döyüntüsü: %1$d döyüntü/dəq (%2$s)</item>
         <item quantity="one">Ürək döyüntüsü: %1$d döyüntü/dəq (%2$s)</item>
     </plurals>

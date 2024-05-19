@@ -50,6 +50,7 @@
     <string name="calibrate_failed_timeout">"Kalibrlənə bilmədi. Server xətası baş verdi."</string>
     <string name="calibrate_new_tip">Topu dairə ətrafında yuvarlamaq üçün cihazınızı kəskin şəkildə əyin</string>
     <string name="calibrate_rotate_again">Yenidən sına</string>
+    <string name="calibrate_rotate_more_again">Maqnit müdaxiləsi aşkarlandı. Kalibrləmədən əvvəl açıq bir sahəyə gedin.</string>
     <string name="calibrate_success">Kalibrləndi</string>
     <string name="calibrate_tip">Topu dairə ətrafında yuvarlamaq üçün cihazınızı əyin</string>
     <string name="calibrate_title">Kompası kalibrlə</string>

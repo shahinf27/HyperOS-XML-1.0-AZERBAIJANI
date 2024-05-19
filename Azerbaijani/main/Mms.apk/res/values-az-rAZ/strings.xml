@@ -297,6 +297,7 @@ Yenidən sınayın."</string>
     <string name="favorite_at_time">Sevimlilərə əlavə edildi: %1s</string>
     <string name="fdn_check_failure">Yalnız sabit yığım nömrələrinə mesaj göndərə bilərsiniz.</string>
     <string name="file_expired">Bu faylın müddəti bitib</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -307,7 +308,7 @@ Yenidən sınayın."</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -509,7 +510,7 @@ SIM kartınızı yoxlayın."</string>
     <string name="mms_block_hint">"Bu göndərən kontaktlarınızda deyil.
 Bu, istənilməyən mesaj ola bilər."</string>
     <string name="mms_block_hint_highlight">MMS-i əngəllə</string>
-    <string name="mms_icp">ICP备案号：京ICP备10046444号-33A</string>
+    <string name="mms_icp">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444-33A</string>
     <string name="mms_main_purpose_new">Sizi təməl xidmətlərlə təmin etmək üçün bu tətbiqin internetə bağlanmasına ehtiyacı var. Mi Mesaj və Ağıllı Mesajlaşma xidmətlərini işə salmağınızı tövsiyə edirik.</string>
     <string name="mms_mi_message_main_purpose">\"Mi Mesaj\"a xoş gəldiniz! \"Mi Mesaj\"ı aktivləşdirmək üçün bir SMS mesajın göndərilməsi tələb olunur. Operatorunuz bu mesaj üçün ödəniş ala bilər.</string>
     <string name="mms_mi_message_request_notice">\"Mi Mesaj\"dan maksimum yararlanmağınızı istəyirik.</string>
@@ -1099,6 +1100,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="send_sms">Mesaj göndər</string>
     <string name="send_sms_with_location">Olduğunuz yeri ehtiva edən mesajlar göndərə bilmək üçün bu tətbiqin yerləşmənizə müraciətinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="send_to">Kimə:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_label">"Göndərildi: "</string>
     <string name="service_message_not_found">Mesajın vaxtı bitdi və ya mesaj əlçatmazdır</string>
     <string name="service_network_problem">"Şəbəkə probleminə görə göndərilə bilmədi"</string>
@@ -1239,29 +1241,18 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="system_permission_user_privacy">Davam etməzdən əvvəl, aşağıdakı şərtləri və qaydaları oxuyun və razılaşın.</string>
     <string name="text_in_popup_saved_to_clipboard">Lövhəyə kopyalandı</string>
     <string name="text_message">Mətn mesajı</string>
-    <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
-    <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
-    <string name="the_arbor_day">Ağacəkmə Günü</string>
-    <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
-    <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_christmas_day">Milad</string>
-    <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
-    <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
+    <string name="the_eve_of_the_spring_festival">Çin Yeni İl axşamı</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
-    <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
-    <string name="the_laba_festival">Laba Festivalı</string>
-    <string name="the_labour_day">Əmək Günü</string>
-    <string name="the_lantern_festival">Fənər Festivalı</string>
-    <string name="the_mid_autumn_festival">Orta Payız Festivalı</string>
     <string name="the_national_day">Mlli Gün</string>
     <string name="the_new_years_day">Yeni İl</string>
+    <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
-    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>

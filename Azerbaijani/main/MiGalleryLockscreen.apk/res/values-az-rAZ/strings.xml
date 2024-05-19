@@ -79,6 +79,15 @@
     <string name="add_wallpaper">Divar kağızları əlavə et</string>
     <string name="addcw_apply_btn_txt">Divar kağızı əlavə et</string>
     <string name="afternoon">Günortadan sonra</string>
+    <string name="ai_back">Geri</string>
+    <string name="ai_begin">Başlat</string>
+    <string name="ai_disable_limit_message">Bu gün üçün başqa cəhd qalmadı. Sabah daha çox süni zəka divar kağızı yaradın!</string>
+    <string name="ai_edit_hint">Gözlənilən nəticəni açıqlayın. Yaxşı bir açıqlama, süni zəkamızın \"Qızıl\", \"Əjdaha\", \"Yüksələn\", \"Bulud\" kimi sözlərlə daha yaxşı yaradıcılıq etməsinə kömək edə bilər.</string>
+    <string name="ai_network_error_message">"Şəbəkə bağlantısı yoxdur. Süni zəka divar kağızı istifadə edilə bilmir."</string>
+    <string name="ai_next">Qalareyada saxla</string>
+    <string name="ai_participation">Süni zəka iştirakı</string>
+    <string name="ai_recommend_keyword">Üslublar</string>
+    <string name="ai_text_limit">"Daha çox mətn daxil edilə bilmir"</string>
     <string name="ai_wallpaper_declare_double_link"><Data>Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="allowed">İcazə verildi</string>
     <string name="am">GƏ</string>
@@ -144,6 +153,13 @@
     <string name="create_shortcut">Əsas ekran qısayolu yarat</string>
     <string name="create_shortcut_btn">Yarat</string>
     <string name="create_shortcut_title">Əsas ekran qısayolu yarat</string>
+    <string name="creation_ai_disable_limit_message">Bu gün üçün başqa cəhd qalmadı. Sabah daha çox süni zəka divar kağızı yaradın!</string>
+    <string name="creation_ai_disable_message">Bu özəllik yalnız Beta testerlər üçün əlçatandır. Xiaomi Community-də müraciət edə bilərsiniz.</string>
+    <string name="creation_ai_disable_title">Beta tester icazələri tələb olunur</string>
+    <string name="creation_ai_err">Kimlik doğrulayıcı istisnası</string>
+    <string name="creation_ai_load">Bir saniyə…</string>
+    <string name="creation_ai_ok">Anladım</string>
+    <string name="creation_ai_recreate">Başdan başlat</string>
     <string name="current_connection_invalid">Cihaz şəbəkəyə bağlanana qədər gözləyin</string>
     <string name="current_data_invalid">Xəta baş verdi</string>
     <string name="current_network_invalid">Əvvəlcə şəbəkəyə bağlanın</string>
@@ -275,7 +291,7 @@
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -327,7 +343,7 @@
     <string name="history_list_no_data">Burada element yoxdur</string>
     <string name="hour_1">Hər saat</string>
     <string name="hour_3">Hər 3 saatda bir</string>
-    <string name="icon_content_description">Dialoq nişanı</string>
+    <string name="icon_content_description">Dialoq ikonu</string>
     <string name="idbct_desc">Şəbəkə növlərinə görə \"Divar kağızı Karuseli\"ni özəlləşdirin</string>
     <string name="idbct_opt_auto_select_desc_text">Standart şəkilləri mobil internetlə, HD şəkilləri Wi-Fi ilə endirin</string>
     <string name="idbct_opt_auto_select_main_text">Avtomatik</string>
@@ -486,6 +502,9 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Buludla sinxronlaşdırma bağlıdır</string>
+    <string name="miuix_appcompat_cloud_state_finished">Buludla sinxronlaşdırma uğurludur</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Cloud ilə sinxronlaşdırılır…</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
@@ -506,6 +525,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Eementlər yüklənə bilmədi"</string>
+    <string name="miuix_search_action_mode_cancel">İmtina</string>
+    <string name="miuix_search_history_clear">Axtarış tarixçəsini təmizlə</string>
+    <string name="miuix_search_history_default_title">Axtarış tarixçəsi</string>
+    <string name="miuix_search_recommendation_default_title">Bunlarla maraqlana bilərsiniz</string>
+    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="mode_auto_desc">Yeni şəkilləri avtomatik almaq üçün \"Divar kağızı Karuseli\"ni açın</string>
     <string name="mode_auto_desc_open">Yeni şəkilləri avtomatik alın</string>
     <string name="mode_auto_desc_selected">Yeni şəkillər avtomatik alınır</string>
@@ -822,6 +846,8 @@ mm"</string>
     <string name="privacy_update_summary3">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə \"Divar kağızı Karuseli\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə indi razılaşırsınız?"</string>
     <string name="privacy_update_title1">Güncəllənmiş gizlilik siyasəti</string>
     <string name="privacy_update_title2">Diqqət</string>
+    <string name="prompt_add_origin_pic">Bir şəkil əlavə et</string>
+    <string name="prompt_add_tip">Bir açıqlama əlavə et</string>
     <string name="prv_end"><CDATA>\"İndilik bu qədər.\"</CDATA></string>
     <string name="prv_loading"><CDATA>Bir saniyə…</CDATA></string>
     <string name="prv_nodata"><CDATA>Məlumat yoxdur</CDATA></string>
@@ -882,6 +908,8 @@ mm"</string>
     <string name="select_picture">Şəkilləri seç</string>
     <string name="select_picture_des">Slayd şouda avtomatik olaraq görünməsi üçün fotolarınızı və onlayn şəkilləri qarışığa əlavə edin.</string>
     <string name="send">Göndər</string>
+    <string name="sensitive_preview">"Həssas və ya uyğunsuz məzmun üçün süni zəka divar kağızı emal edilə bilmir"</string>
+    <string name="sensitive_prompt">"Həssas və ya uyğunsuz məzmun üçün süni zəka divar kağızı emal edilə bilmir"</string>
     <string name="setting_about_item_des">Versiya</string>
     <string name="setting_about_item_title">Divar kağızı Karuseli haqqında</string>
     <string name="setting_des">Slayd şou xidmətləri, Divar kağızı Karuseli tərəfindən təqdim edilir. Bütün mövcud seçimlərə baxmaq üçün Ayarlarda \"Divar kağızı Karuseli\"ni axtarın.</string>
@@ -941,6 +969,9 @@ mm"</string>
     <string name="solar_term_white_dews">Şeh</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
+    <string name="sst_ai_wallpaper_Activity_title">Süni zəka divar kağızlarını yarat</string>
+    <string name="sst_ai_wallpaper_desc">Əllə çəkilmiş rəsmlər, süni zəka istifadə edilərək müxtəlif üslublarda yüksək dəqiqlikli divar kağızları yaratmaq üçün istifadə edilə bilər</string>
+    <string name="sst_ai_wallpaper_title">Süni zəka divar kağızı yaradıcı</string>
     <string name="sst_auto_recommand_desc">Kilid ekranınıza gündəlik olaraq göndərilən yeni şəkilləri və hekayələri almaq üçün sevimli kateqoriyalarınıza abunə olun.</string>
     <string name="sst_auto_recommand_title">Divar kağızları tövsiyə et</string>
     <string name="sst_change_wallpaper_desc">"Divar kağızını tətbiq etmək istədiyini yeri seçin"</string>
@@ -1105,6 +1136,7 @@ mm"</string>
     <string name="view_privacy_policy">Gizlilik Siyasəti</string>
     <string name="wallpaper">Divar kağızı</string>
     <string name="wallpaper_added_success_toast">Divar kağızı uğurla əlavə edildi</string>
+    <string name="wallpaper_creator_empty_dlg_content">Sadə addımlar, ani formalaşma. Əllə çəkilmiş rəsmi və ya başqa bir şəkli əlavə edin, bir neçə əmri daxil edin və süni zəkanın böyük modelləri vasitəsilə dörd üslubda divar kağızı şəkli yaradın. Zövqünüzə uyğun olanı seçib qalereyada saxlayın.</string>
     <string name="wallpaper_feed_title">Bunları da bəyənə bilərsiniz</string>
     <string name="wallpaper_relations_title">Tövsiyə edilən</string>
     <string name="wechat_application_id"></string>

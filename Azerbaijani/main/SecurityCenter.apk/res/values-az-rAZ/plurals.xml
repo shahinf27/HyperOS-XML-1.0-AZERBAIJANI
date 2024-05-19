@@ -960,6 +960,10 @@
         <item quantity="other">dəfə</item>
         <item quantity="one">dəfə</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d dəfə</item>
+        <item quantity="one">%d dəfə</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">Yüksək enerji sərfiyyatına sahib %d element</item>
         <item quantity="one">Yüksək enerji sərfiyyatına sahib %d element</item>

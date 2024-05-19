@@ -89,6 +89,8 @@
     <string name="caller_info_name_delimiter">" və ya "</string>
     <string name="cancel_action">İmtina</string>
     <string name="candy">Şəkər</string>
+    <string name="car_share_return_status">"Göndərilə bilmədi"</string>
+    <string name="car_share_view_content">Göndər: %s</string>
     <string name="carousel">Karusel</string>
     <string name="celesta">Çelesta</string>
     <string name="change_brightness">Parlaqlığı ayarla</string>
@@ -355,7 +357,7 @@
     <string name="countryside">Kənd yeri</string>
     <string name="cowboy">Kovboy</string>
     <string name="crystal">Kristal</string>
-    <string name="cta_send_message">发送短信</string>
+    <string name="cta_send_message">Qısa mesaj göndər</string>
     <string name="customer_location_judgment">Çin</string>
     <string name="cut">Kəs</string>
     <string name="dance">Rəqs</string>

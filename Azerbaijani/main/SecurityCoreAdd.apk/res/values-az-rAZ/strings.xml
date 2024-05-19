@@ -162,14 +162,14 @@ onları İkinci sahədə göstərin"</string>
     <string name="copy">Kopyala</string>
     <string name="createANewSpace">Telefonunuzda ayrı sahə yaradın.</string>
     <string name="createUserFail">"Yaradıla bilmədi"</string>
-    <string name="create_app_icon_failed">"Nişan yaradıla bilmədi"</string>
-    <string name="create_app_icon_success">Nişan uğurla yaradıldı</string>
+    <string name="create_app_icon_failed">"İkon yaradıla bilmədi"</string>
+    <string name="create_app_icon_success">İkon uğurla yaradıldı</string>
     <string name="create_fail">Təmir rejimini yaradılmadı, daha sonra yenidən sınayın</string>
     <string name="create_fail_because_max_user">Sistemdəki maksimum istifadəçi sayına çatıldı. Lütfən, avatar, ikili oyunçu və ya uşaq rejimi datasını silin və yenidən sınayın</string>
     <string name="create_second_space">Uğurla yaradıldı</string>
     <string name="create_space_loading">İkinci sahə yaradılır…</string>
     <string name="create_work_space">İş sahəsi yarat</string>
-    <string name="creating_app_icon">Nişan yaradılır…</string>
+    <string name="creating_app_icon">İkon yaradılır…</string>
     <string name="cta_declaration_agree_and_continue">Razıyam</string>
     <string name="cta_declaration_message_format" formatted="false">Müəssisə rejimini istifadə etməzdən əvvəl bunları oxumalı və razılaşmalısınız: &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt;. Müəssisə rejimini aktivləşdirmək üçün cihazınız internetə bağlanmalıdır. Razılaşırsınız?</string>
     <string name="cta_declaration_title">Şərtlər və Qaydalar</string>
@@ -293,7 +293,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -362,6 +362,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="gms_open_button">İşə sal</string>
     <string name="gms_title">Google xidmətləri üçün ikili tətbiqlər</string>
     <string name="goToSecondSpacce">İkinci sahəyə get</string>
+    <string name="go_deleted_fingerprint">Barmaq izini silməyə get</string>
     <string name="go_on_import">Daxilə köçürməni davam etdir</string>
     <string name="go_to_sleep">Ekranı söndür</string>
     <string name="google_assistant_guide_cancel">İmtina</string>
@@ -413,8 +414,9 @@ məlumatlarınızı qoruyun"</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_app">Başladıcı</string>
     <string name="home_key">Ev</string>
-    <string name="icon_content_description">Dialoq nişanı</string>
+    <string name="icon_content_description">Dialoq ikonu</string>
     <string name="imageData">Fotolar</string>
+    <string name="immediately_go">立即前往</string>
     <string name="import_application">Tətbiqləri daxilə köçür</string>
     <string name="import_application_desc">"Tətbiqləri İkinci sahəyə köçürün.
 Onları ayrı-ayrı endirə bilərsiniz."</string>
@@ -596,6 +598,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="maintenance_mode">Təmir rejimi</string>
     <string name="maintenance_mode_close_title">Təmir rejimində</string>
+    <string name="maintenance_mode_fingerprint_msg">Təmirdən sonra barmaq izinin kalibrlənməsi tələb olunduğu üçün, ilk növbədə hazırkı barmaq iziniz silinməlidir. Təmirdən sonra onu yenidən daxil edə bilərsiniz.</string>
     <string name="maintenance_mode_loading">Təmir rejimi başladılır, cihaz yenidən başladılır…</string>
     <string name="maintenance_mode_reboot">Təmir rejimi yenidən başlatma</string>
     <string name="maintenance_mode_title">Cihaz datasının hərtərəfli qorunması</string>
@@ -894,7 +897,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="search_screen_shot">Ekran şəkli</string>
     <string name="secondSpace">İkinci sahə</string>
     <string name="second_owner_finger_print">İkinci sahə barmaq izi</string>
-    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, məlumatların daşınması və İkinci sahənin idarə olunması nişanları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Ayarlarda müraciət edə biləcəksiniz.</string>
+    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, məlumatların daşınması və İkinci sahənin idarə olunması ikonları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Ayarlarda müraciət edə biləcəksiniz.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Anladım</string>
     <string name="second_space_desktop_tips_dialog_title">Vacib güncəlləmə</string>
     <string name="second_space_finger_printf_desc">İkinci sahəyə daxil olmaq üçün özəl olaraq istifadə edilən barmaq izi əlavə edin</string>
@@ -944,8 +947,8 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="settings_set_password_for_sec_space">İkinci sahəyə ekran kilidi təyin et</string>
     <string name="settings_set_password_for_sec_space_desc">Qısayolu Ayarlardan silmək üçün İkinci sahəyə ekran kilidi ayarlayın.</string>
     <string name="settings_space_data">Data</string>
-    <string name="settings_status_icon_summary">İkinci sahə nişanını status çubuğunda göstər</string>
-    <string name="settings_status_icon_title">İkinci sahə nişanı</string>
+    <string name="settings_status_icon_summary">İkinci sahə ikonunu status çubuğunda göstər</string>
+    <string name="settings_status_icon_title">İkinci sahə ikonu</string>
     <string name="settings_switch_shortcut_summary">Birinci sahədə Əsas ekran qısayolunu göstər</string>
     <string name="settings_switch_shortcut_title">Əsas ekran qısayolu</string>
     <string name="settings_switch_space">Sahələr arasında dəyişdirilir</string>
@@ -1016,7 +1019,6 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="start_new_fingerprint_tips">"Kilid ekranından İkinci sahəyə daxil olmaq üçün
 İkinci sahə barmaq izini istifadə edin"</string>
     <string name="start_setting_guide_desc_title">Qurulacaq bir neçə şey var</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings_all_app_display_loading">Bir saniyə…</string>
     <string name="stop_xspace_alert_content">Bütün ikili tətbiqlər, hesabları və tətbiq datası ilə birgə silinsin? Bu dəyişikliyi tətbiq etmək üçün cihazınız yenidən başladılacaq.</string>
     <string name="stop_xspace_alert_title">"İkili tətbiq hesablarını silin"</string>
@@ -1119,9 +1121,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="switching_files">Fayllar daşınır…</string>
     <string name="switching_photos">Fotolar daşınır…</string>
     <string name="temporary_no_set">İndi yox</string>
-    <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_easter_day">Pasxa</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
@@ -1130,7 +1130,6 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
-    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Səsli köməkçini tam ekran rejimində oyandırın (virtual düymələr yoxdur)</string>
     <string name="this_function_can_not_use_in_second_space">Bu özəllik yalnız Birinci sahədə istifadə edilə bilər</string>
@@ -1157,12 +1156,12 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="tof_learn_exit">Çıx</string>
     <string name="tof_learn_gesture_error_try_again">"Jest tanına bilmədi. Əl mövqeyinizi ayarlayın və yenidən sınayın"</string>
     <string name="tof_learn_gesture_operation_success">Hazırdır!</string>
-    <string name="tof_learn_gesture_position_tip">Əlinizi kameradan %1$d - %2$d sm məsafədə tutun və əl nişanı göründükdən sonra jesti icra edin</string>
+    <string name="tof_learn_gesture_position_tip">Əlinizi kameradan %1$d - %2$d sm məsafədə tutun və əl ikonu göründükdən sonra jesti icra edin</string>
     <string name="tof_learn_incall_company">Mi Mobile</string>
     <string name="tof_learn_incall_date">Cümə</string>
     <string name="tof_learn_incall_from">Xiaomi 13-ünüzdən</string>
     <string name="tof_learn_incall_location">Changsha, China Telecom</string>
-    <string name="tof_learn_up_gesture_position_tip">Əlinizi kameradan %1$d - %2$d sm məsafədə ovucunuzu aşağı çevirərək tutun və əl nişanı göründükdən sonra jesti icra edin</string>
+    <string name="tof_learn_up_gesture_position_tip">Əlinizi kameradan %1$d - %2$d sm məsafədə ovucunuzu aşağı çevirərək tutun və əl ikonu göründükdən sonra jesti icra edin</string>
     <string name="tof_learn_wave_down">\"Aşağı yellə\" jestini öyrən</string>
     <string name="tof_learn_wave_down_tip">Əvvəlki səhifəyə qayıtmaq üçün əlinizi aşağı yelləyin</string>
     <string name="tof_learn_wave_left">\"Sola yellə\" jestini öyrən</string>
@@ -1259,8 +1258,8 @@ Bəzi ikili tətbiqlər Google Xidmət Çərçivəsi dəstəyini tələb edir. B
     <string name="xspace_header">İkili tətbiqlər</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font&gt;İkili tətbiq uğurla yaradıldı. &lt;/font&gt;&lt;font color=#0D84FF&gt;İndi aç&lt;/font&gt;.</string>
-    <string name="xspace_install_completed">Nişan Əsas ekrana əlavə edildi</string>
-    <string name="xspace_install_completed_global">Nişan siyirməyə əlavə edildi</string>
+    <string name="xspace_install_completed">İkon Əsas ekrana əlavə edildi</string>
+    <string name="xspace_install_completed_global">İkon siyirməyə əlavə edildi</string>
     <string name="xspace_install_failed">"Yaradıla bilmədi"</string>
     <string name="xspace_installing">Quraşdırılır…</string>
     <string name="xspace_introduce">Tövsiyə edilən</string>

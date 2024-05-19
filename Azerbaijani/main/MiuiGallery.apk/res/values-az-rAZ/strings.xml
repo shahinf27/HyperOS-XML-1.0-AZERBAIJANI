@@ -85,8 +85,12 @@
     <string name="ai_confirm_delete_image_title">AI şəkli silinsin?</string>
     <string name="ai_continue_create_btn">Davam</string>
     <string name="ai_continue_update_image_btn">Davam</string>
+    <string name="ai_continue_upload_photo">Davam</string>
     <string name="ai_create_ai_image">AI şəklini yarat</string>
     <string name="ai_create_image_fail">"Server xətasına görə AI şəkli yaradıla bilmədi. Yenidən sınayın."</string>
+    <string name="ai_create_image_fail_by_illegal_photo">"Deyəsən, yüklədiyiniz fotolar icma standartlarımızı pozur.
+AI şəklini fərqli fotolarla yaratmağa çalışın."</string>
+    <string name="ai_create_image_fail_by_net">"AI şəkli yaradıla bilmədi. Serverlərimiz indi çox məşğuldur. Yenidən sınayın."</string>
     <string name="ai_create_image_photo_tip">AI şəkli yaradıldıqdan sonra fotolar serverlərimizdən silinəcək</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
     <string name="ai_create_image_tip">AI şəkli yaradıldıqdan sonra fotolar serverlərimizdən silinəcək</string>
@@ -99,10 +103,15 @@
     <string name="ai_creation_count_limit_msg">"Bu gün bundan artıq portret yaradıla bilmir. Sabah yenidən görüşərik!"</string>
     <string name="ai_creation_delete_msg">Bu tarixçə qeydi indi silinsin?</string>
     <string name="ai_creation_delete_title">Diqqət</string>
+    <string name="ai_creation_record_footer_tips">Yalnız bu cihazda yaradılmış elementlərə baxa bilərsiniz. Xiaomi Hesabınızdan çıxış etdikdən sonra onlar silinəcək.</string>
     <string name="ai_creation_recreate_button">Başdan başlat</string>
     <string name="ai_creation_save_failed_msg">"Saxlanıla bilmədi. Yenidən sınayın."</string>
     <string name="ai_creation_save_success_msg">Uğurla saxlanıldı</string>
     <string name="ai_creation_wait_message">Yaradılır… | %1$s | %2$s</string>
+    <string name="ai_cta_agree_btn">İcazə ver</string>
+    <string name="ai_cta_dialog_message">AI portretləri yarada bilmək üçün \"Qalereya\"nın internetə bağlanmasına icazə verin.</string>
+    <string name="ai_cta_dialog_title">İcazələr tələb olunur</string>
+    <string name="ai_cta_refuse_btn">Xeyr, təşəkkürlər</string>
     <string name="ai_deal_file_tip">"Bu səhifəni tərk etməyin"</string>
     <string name="ai_deal_file_title">Fotolar emal olunur…</string>
     <string name="ai_deal_tile_text">Tələb olunan vaxt hesablanır…</string>
@@ -110,6 +119,10 @@
     <string name="ai_delete_image_progress_message">Silinir…</string>
     <string name="ai_delete_image_success">AI şəkli uğurla silindi</string>
     <string name="ai_download_filter_photo_so_confirm_btn">Endir</string>
+    <string name="ai_download_filter_photo_so_downloading">Qoşma endirilir…</string>
+    <string name="ai_download_filter_photo_so_message">Bütün AI portret özəlliklərini istifadə edə bilmək üçün əvvəlcə qoşmanı endirin.</string>
+    <string name="ai_download_filter_photo_so_title">Qoşmanı endir</string>
+    <string name="ai_download_filter_so_fail_toast">"Qoşma endirilə bilmədi. Yenidən sınayın."</string>
     <string name="ai_enhance_bar_default">HD şəkil yarat</string>
     <string name="ai_enhance_bar_failed">"HD şəkil yaradıla bilmədi"</string>
     <string name="ai_ensure_exit_select_message">"Növbəti dəfə fotoları yenidən seçməli olacaqsınız."</string>
@@ -121,6 +134,7 @@
     <string name="ai_free_creation_button">Yarat</string>
     <string name="ai_free_creation_container_msg">Məsələn: Sahildə gəzinti</string>
     <string name="ai_free_creation_container_title">Açıqlama daxil edin</string>
+    <string name="ai_free_creation_illegal_text_toast">Bu mətn, icma standartlarımızı pozur. Mesajınızı yenidən yazın.</string>
     <string name="ai_free_creation_random_button">Təsadüfi</string>
     <string name="ai_free_creation_text_container_tips">"Süni zəka şəkil generatorumuz davamlı inkişaf edir. Nəticələr sizi qane etmirsə, bir müddət sonra yenidən sınaya bilərsiniz!"</string>
     <string name="ai_free_creation_text_count_exceed_limit">Daxil etdiyiniz mətn çox uzundur</string>
@@ -136,12 +150,18 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_image_count_limit_msg">"Bu gün bundan artıq süni zəka şəkli yaradıla bilmir. Sabah yenidən görüşərik!"</string>
     <string name="ai_image_creating_failed_msg">"%s üçün şəkil yaradıla bilmədi"</string>
     <string name="ai_image_creating_msg">%s üçün şəkil yaradılır</string>
+    <string name="ai_image_creation_over_limit_title">"Daha çox portret yaradıla bilmir"</string>
+    <string name="ai_image_invalid">"%s - süni zəka şəkli uğurla silindi"</string>
+    <string name="ai_image_invalid_in_update">"%s - süni zəka şəkli indi güncəllənir. Güncəllənənə qədər gözləyin və yenidən sınayın."</string>
+    <string name="ai_image_manager_empty_msg">"Bu xidmətin köhnə versiyalarında süni zəka şəkli yaratmaq üçün istifadə olunan fotolara başqa cihazda baxıla bilmir"</string>
+    <string name="ai_image_manager_empty_msg_net">Burada foto yoxdur</string>
     <string name="ai_image_manager_re_create_tip">AI şəklinizi güncəlləmək üçün fotolar əlavə edin və ya silin</string>
     <string name="ai_image_manager_title">AI şəklini idarə et</string>
     <string name="ai_image_not_creatable">"AI şəkli indi güncəllənir. Bitdikdən sonra yenidən sınayın."</string>
     <string name="ai_image_over_limit_button_cancel">Anladım</string>
     <string name="ai_image_over_limit_button_create">Davam</string>
     <string name="ai_image_over_limit_title">"AI şəkli yaradıla bilmir"</string>
+    <string name="ai_image_over_limit_title_update">"Süni zəka şəkilləri indi güncəllənə bilmir"</string>
     <string name="ai_image_privacy_message"><Data>\"\"Süni zəka portretləri\"nə xoş gəlmisiniz!&lt;br/&gt;Sizə xidmətləri təqdim edə bilmək üçün lazımi şəxsi məlumatları yığmalıyıq:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;. Süni zəka portretlərini yaratmaq üçün, &lt;b&gt;insanların fotolarını&lt;/b&gt; serverlərimizə yükləməlisiniz. Bir süni zəka modeli yaratmaq üçün onların &lt;b&gt;üzləri&lt;/b&gt; haqqındakı məlumatları yığıb emal edəcəyik.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;. Siz &lt;b&gt;insanların fotolarını&lt;/b&gt; yüklədikcə, biz müvafiq albomlardan &lt;b&gt;onların adlarını və fotolarını&lt;/b&gt; sinxronlaşdıracağıq və bu məlumatları süni zəka təsvirləri ilə əlaqələndirəcəyik.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;. Mətn əsaslı süni zəka şəkilləri yaratdıqda, şəkilləri yaratmaq üçün verdiyiniz &lt;b&gt;açıqlamanı&lt;/b&gt; yığırıq.&lt;br/&gt;Yalnız istifadə etdiyiniz məhsul və xidmətlərin xüsusi özəllikləri üçün zəruri olan şəxsi məlumatları yığırıq. Şəxsi məlumatları necə yığdığımızı və emal etdiyimizi &lt;a href=\"%4$s\"&gt;Süni Zəka Portretləri Gizlilik Siyasətində&lt;/a&gt; öyrənə bilərsiniz.&lt;br/&gt;Davam etməzdən əvvəl &lt;a href=\"%5$s\"&gt;Süni Zəka Portretləri İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%6$s\"&gt;Süni Zəka Portretləri Gizlilik Siyasətini&lt;/a&gt; oxuyun və bunlarla razılaşın.\"</Data></string>
     <string name="ai_input_name_hint">Adı daxil edin</string>
     <string name="ai_loading">Bir saniyə…</string>
@@ -153,6 +173,7 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_no_net_toast">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="ai_normal_theme_button">Yarat</string>
     <string name="ai_photo_upload_fail">"Yüklənə bilmədi. Yenidən sınayın."</string>
+    <string name="ai_photos_upload_fail_tip">"%s - fotoları hələ yüklənməyib. İndi foto yükləməyə davam edə bilərsiniz."</string>
     <string name="ai_plugin_install_msg">Süni Zəka portretlərini yarada bilmək üçün qoşmanı endir.</string>
     <string name="ai_plugin_install_title">Qoşmanı endir</string>
     <string name="ai_plugin_installing_tip">Qoşma endirilir…</string>
@@ -163,6 +184,10 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_privacy_title">Gizlilik bəyanatı</string>
     <string name="ai_re_create_image">Yenidən sına</string>
     <string name="ai_ready_to_have_try">Başla</string>
+    <string name="ai_recreate_image_cancel_text_btn">Davam</string>
+    <string name="ai_recreate_image_confirm_text_btn">Seç</string>
+    <string name="ai_recreate_image_dialog_msg">Foto yükləməyə davam edə və ya yenilərini seçə bilərsiniz.</string>
+    <string name="ai_recreate_image_dialog_title">"%s - fotoları yüklənməyib"</string>
     <string name="ai_refuse_update_toast">Bu AI şəklini güncəlləyə bilmək üçün yeni fotolar seçin</string>
     <string name="ai_select_people_sub_title" formatted="false">%1d–%2d ən yaxşı fotolar avtomatik olaraq seçiləcək</string>
     <string name="ai_select_people_title">Süni zəka şəklini yaratmaq üçün bir şəxs seçin</string>
@@ -180,6 +205,7 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_select_photo_manual">Əllə seçin</string>
     <string name="ai_select_photo_need_select_manual">Yetərsiz foto. Daha çox əlavə edin.</string>
     <string name="ai_select_photo_next_step">Növbəti</string>
+    <string name="ai_select_photo_no_result_toast">"Bu fotolar əsasında AI şəkli yaradıla bilmir. Əvəzində başqa fotoları seçin."</string>
     <string name="ai_select_photo_over_time_toast">Ən yaxşı çəkilişlər avtomatik seçildi. Daha çox fotonu əllə əlavə edin.</string>
     <string name="ai_select_photo_right_guide_face">Önə baxan</string>
     <string name="ai_select_photo_right_guide_multi_bg">Fərqli arxaplanlar</string>
@@ -517,6 +543,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="card_description_annual_peoples">Üzlər, hekayələr, məkanlar</string>
     <string name="card_description_annual_pets">Quyruqlar, pəncələr və bığlar</string>
     <string name="card_description_annual_travel">Yolda olarkən gördükləriniz</string>
+    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Tədbirlər</string>
     <string name="card_title_annual_babys">%1$s - şirinlik</string>
     <string name="card_title_annual_events">%1$s daxilindəki partilərim</string>
@@ -968,6 +995,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="clear_dup_medias">Dublikat fotoları təmizlə</string>
     <string name="clear_dup_success">Uğurla təmizləndi</string>
     <string name="clear_dup_tip">Dublikat fotoları təmizlənir</string>
+    <string name="clear_gallery_disk_cache_img">Qalereya diski keş görüntüsünü təmizlə</string>
     <string name="clear_thumbnails_ending_dialog_cancer">İmtina</string>
     <string name="clear_thumbnails_ending_dialog_content">"Buludla sinxronlaşdırma artıq \"Qalereya\"nın bu versiyasında əlçatan deyil. Artıq bu cihaza endirilməmiş elementlərə baxa bilməyəcəksiniz. Onları hələ də i.mi.com üzərində görə və endirə bilərsiniz."</string>
     <string name="clear_thumbnails_ending_dialog_title">Buludla sinxronlaşdırma artıq əlçatmazdır</string>
@@ -978,7 +1006,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="clear_thumbnails_text_show_no_again">"Təkrar göstərmə"</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="click_download_gif">GIF-i endirmək üçün toxun</string>
-    <string name="click_top_right">Bu nişana toxun</string>
+    <string name="click_top_right">Bu ikona toxun</string>
     <string name="close">Bağla</string>
     <string name="close_dialog_desc">Dialoq qutusunu bağla</string>
     <string name="cloud_action_open">İşə sal</string>
@@ -1159,7 +1187,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="document_provider_guide_step_3">%d. Yan menyu düyməsinə toxunun</string>
     <string name="document_provider_guide_step_4">%d. \"SD kart\"ı seçin.</string>
     <string name="document_provider_guide_step_5">%d. \"Seç\"ə toxunun.</string>
-    <string name="dolby_vision_icon">Dolby Vision nişanı</string>
+    <string name="dolby_vision_icon">Dolby Vision ikonu</string>
     <string name="double_tap_for_hr_preview_108m">108MP önizləməsinə keçmək üçün yenidən cüt toxunun</string>
     <string name="double_tap_for_hr_preview_200m">200MP önizləməsinə keçmək üçün yenidən cüt toxunun</string>
     <string name="double_tap_to_higher_definition">HD önizləməsini açmaq üçün yenidən cüt toxunun</string>
@@ -1351,6 +1379,7 @@ Dostlarınızın daha çox fotosunu çəkin!"</string>
     <string name="fancy_color_desc">Rənglər</string>
     <string name="fast_share_auto_render">Gözəlləşdir</string>
     <string name="fast_share_auto_render_finish">Gözəlləşdirildi</string>
+    <string name="father_day">"Mother's Day"</string>
     <string name="feature_guidance_photo_effects">"Yeni foto effektləri
 mövcuddur"</string>
     <string name="feature_guidance_video_editor_smart_effects">Yeni effektlər mövcuddur</string>
@@ -1494,6 +1523,7 @@ mövcuddur"</string>
     <string name="group_header_title_media_group">Media növləri</string>
     <string name="group_header_title_third_album">Daha çox albom</string>
     <string name="group_header_title_user_create_album">Albomlarım</string>
+    <string name="halloween">Halloween</string>
     <string name="has_invalid_recipient">Yararsız alıcılar: %1$s</string>
     <string name="have_known">Anladım</string>
     <string name="hdr_show_hint">Yüksək dinamik aralıqlı elementlərdə kölgələr və vurğularda daha çox detal göstərmək üçün ekranı nizamlayın</string>
@@ -1709,6 +1739,7 @@ mövcuddur"</string>
     <string name="mark_operation_succeeded">Uğurla əlavə edildi</string>
     <string name="mark_people_ignore_info_message">İnsanları qruplara əlavə etmək üçün fotolarını basılı tutun</string>
     <string name="marketSdkVersion">3.2.22</string>
+    <string name="mather_day">"Atalar günü"</string>
     <string name="media_type_burst_photo">Ardıcıl</string>
     <string name="media_type_cinematic">Film rejimi</string>
     <string name="media_type_clone_photo">Klonlar</string>
@@ -1897,6 +1928,7 @@ mövcuddur"</string>
     <string name="new_relation_invalid_char">"Qrup adlarına “%s” daxil ola bilməz. Hərflər, rəqəmlər və ya simvollar istifadə edin."</string>
     <string name="new_relation_invalid_name">“%s” adlı qrup artıq mövcuddur, bu qrupun adını dəyişin.</string>
     <string name="new_relation_invalid_prefix">"Qrup adları “.” və ya “_” simvolları ilə başlaya bilməz"</string>
+    <string name="new_year_eve">"Yeni İl ərəfəsi"</string>
     <string name="next">Növbəti</string>
     <string name="night">Axşam</string>
     <string name="no">Xeyr</string>
@@ -2506,7 +2538,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
-    <string name="scan_barcode_guide">"Albomun QR kodunu əldə etmək üçün Paylaş nişanına toxunun."</string>
+    <string name="scan_barcode_guide">"Albomun QR kodunu əldə etmək üçün Paylaş ikonuna toxunun."</string>
     <string name="scan_barcode_to_join">Albom əlavə etmək üçün QR kodunu skan edin</string>
     <string name="scan_qr_code">QR kodu skan et</string>
     <string name="scan_qr_code_buttom_text">Bu alboma baxmaq üçün QR kodunu skan edin</string>
@@ -2849,7 +2881,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="solar_term_great_heat">Möhtəşəm isti</string>
     <string name="solar_term_heavy_snow">Şiddətli qar</string>
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
-    <string name="solar_term_insects_awaken">Həşəratların oyanır</string>
+    <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
     <string name="solar_term_slight_cold">Orta soyuq</string>
     <string name="solar_term_slight_heat">Orta isti</string>
@@ -2858,10 +2890,10 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="solar_term_summer_begins">Yay başlayır</string>
     <string name="solar_term_summer_solstice">Yay gündönümü</string>
     <string name="solar_term_the_rains">Bahar leysanları</string>
-    <string name="solar_term_vernal_equinox">İlkbahar gündönümü</string>
+    <string name="solar_term_vernal_equinox">Bahar gündönümü</string>
     <string name="solar_term_white_dews">Şeh</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
-    <string name="solar_term_winter_solstice">Qış göndönümü</string>
+    <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="solar_valentines_day_title">"Sevgililər Günü"</string>
     <string name="sort">Sırala</string>
     <string name="sort_and_showmode">Sırala və bax</string>
@@ -2973,13 +3005,15 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="terabyteShort">TB</string>
     <string name="text_recognition">Mətni tanı</string>
     <string name="text_segment">Foto kəsimi</string>
+    <string name="thanksgiving_day">Şükran günü</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_christmas_day">Milad</string>
+    <string name="the_christmas_day">Milad Günü</string>
+    <string name="the_christmas_eve">Milad ərəfəsi</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
@@ -2992,7 +3026,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="the_mid_autumn_festival">Orta Payız Festivalı</string>
     <string name="the_national_day">Mlli Gün</string>
     <string name="the_national_father_day">"\"Sun Yat-sen\"in Doğum Günü"</string>
-    <string name="the_new_years_day">Yeni İl</string>
+    <string name="the_new_years_day">"Yeni İl"</string>
     <string name="the_night_of_sevens">Qixi Festivalı</string>
     <string name="the_partys_day">CPC Günü</string>
     <string name="the_peace_day">Anma Günü</string>
@@ -3200,7 +3234,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="user_notice_title">Şərtlər və Qaydalar</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="video_cinematic_icon">Film rejimi nişanı</string>
+    <string name="video_cinematic_icon">Film rejimi ikonu</string>
     <string name="video_compress_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="video_compress_encode_video">Video sıxışdırılır…</string>
     <string name="video_compress_lib_download">Video sıxışdırma qoşmasını endir</string>
