@@ -395,12 +395,12 @@
         <item>kor</item>
     </string-array>
     <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
+        <item>Bu, ingiliscə bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, fransızca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, almanca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, italyanca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, ispanca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, koreyaca bir nitq sintezi nümunəsidir.</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>60%</item>
