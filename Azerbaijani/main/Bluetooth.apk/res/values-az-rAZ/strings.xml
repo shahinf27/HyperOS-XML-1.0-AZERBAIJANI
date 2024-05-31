@@ -76,6 +76,9 @@
     <string name="bluetooth_sap_notif_title">Bluetooth SIM müraciəti</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="broadcast_notification_name">Yayım statusu</string>
+    <string name="bt_Auracast_audio_share_notification_content">Detallara baxmaq üçün toxunun</string>
+    <string name="bt_Auracast_audio_share_notification_title">Bu cihazdan səs yayımlanır…</string>
+    <string name="bt_audio_share_assistant_notification_title">Yaxınlıqdakı bir cihazdan yayım alınır…</string>
     <string name="bt_audio_share_notification_content">Seçimlərə baxmaq üçün toxunun</string>
     <string name="bt_audio_share_notification_title">Səs paylaşılır</string>
     <string name="bt_enable_cancel">İmtina</string>
@@ -104,6 +107,7 @@
     <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
+    <string name="close_broadcast_audio">Dayandır</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
@@ -208,6 +212,7 @@
     <string name="insert_record">Qeyd daxil et</string>
     <string name="localPhoneName">Adım</string>
     <string name="midnight">Gecə</string>
+    <string name="miheadset_close_broadcast_audio">Yayımı bağla</string>
     <string name="miui_transfer_history_title">Bluetooth köçürmələri</string>
     <string name="miui_transfer_inbound_title">Qəbul edilən</string>
     <string name="miui_transfer_outbound_title">Göndərilən</string>
@@ -285,6 +290,7 @@
     <string name="not_exist_file">Fayl yoxdur</string>
     <string name="not_exist_file_desc">"Fayl mövcud deyil.
 "</string>
+    <string name="notice_Auracast_audio_share_disconnected">Bağlantı kəsildiyi üçün artıq səs paylaşılmır</string>
     <string name="notice_audio_share_disconnected">Bağlantı kəsildiyi üçün artıq səs paylaşılmır</string>
     <string name="notification_received">Bluetooth paylaşımı: %1$s alındı</string>
     <string name="notification_received_fail">Bluetooth paylaşımı: %1$s faylı alınmadı</string>

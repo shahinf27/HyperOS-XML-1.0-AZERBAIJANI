@@ -167,7 +167,7 @@
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -454,8 +454,8 @@ Avto-güncəlləmələri GetApps &gt; Ayarlar &gt; \"Avto-güncəlləmələr\"d�
     <string name="other_settings_upload_debug_log_detail">"Diaqnostika, cihaz və tətbiq istifadə məlumatlarını Xiaomi-yə avtomatik göndərərək cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, sistemi və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.
 Göndərəcəyiniz məlumatlar cihazınızla və onu necə istifadə etdiyinizlə bağlı ümumi məlumatlar ehtiva edəcək (məs. batareya səviyyəsi, sistem və tətbiq fəaliyyəti və xətalar). Datalar, Xiaomi cihazlarını təkmilləşdirmək üçün istifadə olunacaq.
 Bu özəlliyin söndürülməsi, cihazınızın sistem güncəlləmələri və güvənlik kimi təməl xidmətlər üçün lazım olan məlumatları göndərmə qabiliyyətinə təsir etmir.
-Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadə və diaqnostika\"da idarə edə bilərsiniz."</string>
-    <string name="other_settings_upload_debug_log_summary">Diaqnostika, cihaz və tətbiq istifadə datalarını avtomatik olaraq Xiaomi-yə göndərərək cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, sistem və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.</string>
+Bu özəlliyi Ayarlar &gt; Barmaq izləri, üz data və ekran kilidi &gt; Gizlilik &gt; \"İstifadə və diaqnostika\"da idarə edə bilərsiniz."</string>
+    <string name="other_settings_upload_debug_log_summary">"Diaqnostika, cihaz və tətbiq istifadə datalarını avtomatik olaraq Xiaomi-yə göndərərək cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, sistem və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək."</string>
     <string name="other_settings_upload_debug_log_title">İstifadə və diaqnostika datalarını göndər</string>
     <string name="other_settings_user_experience">İstifadəçi Təcrübə Proqramı</string>
     <string name="other_settings_user_experience_summary">"İstifadə statistikalarını və təhlilləri bizimlə paylaşaraq, məhsul və xidmətlərimizi yaxşılaşdırmağa kömək edin. "</string>
@@ -722,8 +722,8 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>

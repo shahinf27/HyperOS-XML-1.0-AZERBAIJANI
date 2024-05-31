@@ -69,7 +69,7 @@
     <string name="app_widget_name_fast_entry">Qısayollar</string>
     <string name="app_widget_name_new">Notlar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="application_icon">Tətbiq nişanı</string>
+    <string name="application_icon">Tətbiq ikonu</string>
     <string name="asp_client1">2882</string>
     <string name="asp_debug1">9ssA</string>
     <string name="asp_release1">svIm</string>
@@ -233,7 +233,7 @@
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -307,7 +307,7 @@
     <string name="hover_underline">MD: ~Text~ space</string>
     <string name="hover_unorderlist">MD: - space</string>
     <string name="hybrid_provider">%1$s tərəfindən təmin edilir</string>
-    <string name="icon_content_description">Dialoq nişanı</string>
+    <string name="icon_content_description">Dialoq ikonu</string>
     <string name="image_action_annotate">Təsvir açıqlaması əlavə et</string>
     <string name="image_action_browse">Təsvirə bax</string>
     <string name="image_action_delete">Təsviri sil</string>
@@ -449,6 +449,7 @@
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_cloud_state_disabled">Buludla sinxronlaşdırma bağlıdır</string>
+    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Elementləri sinxronlaşdırmaq üçün ucdan-uca qorumanı işə salın</string>
     <string name="miuix_appcompat_cloud_state_finished">Uğurla buludda sinxronlaşdırıldı</string>
     <string name="miuix_appcompat_cloud_state_syncing">Buludda sinxronlaşdırılır…</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
@@ -461,6 +462,17 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+    <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+    <string name="miuix_font_style_misans_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Vərəq</string>
@@ -785,8 +797,8 @@
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>

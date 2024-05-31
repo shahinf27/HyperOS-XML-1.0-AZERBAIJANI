@@ -95,12 +95,11 @@
     <string name="camera_associate_success">Kameraya bağlandı</string>
     <string name="camera_choose_device">Cihaz seçin</string>
     <string name="camera_connecting">"%s bu cihazın kamerasını istifadə etmək istəyir"</string>
-    <string name="camera_connecting_device">%s ilə bağlantı qurulur</string>
     <string name="camera_disassociate">Kamera ilə bağlantısı kəsildi</string>
-    <string name="camera_disconnecting_device">%s ilə bağlantı kəsilir</string>
     <string name="camera_notify_string">Kamera bildirişi</string>
     <string name="camera_title">Mövcud cihazlar axtarılır…</string>
     <string name="can_not_associate">Əlaqələndirilə bilmir</string>
+    <string name="cancel">İmtina</string>
     <string name="cancel_button">İmtina</string>
     <string name="car_air_con_back_switch_close">Arxa oturacaq kondisionerini söndür</string>
     <string name="car_air_con_back_switch_open">Arxa oturacaq kondisionerini işə sal</string>
@@ -121,6 +120,7 @@
     <string name="car_card_seat_back_left_seat">Sol (arxa)</string>
     <string name="car_card_seat_back_middle_seat">Mərkəz (arxa)</string>
     <string name="car_card_seat_control_text">Oturacaqlar</string>
+    <string name="car_card_seat_heat_disabled">Müvəqqəti olaraq əlçatmazdır</string>
     <string name="car_card_seat_level_auto">Avto</string>
     <string name="car_card_seat_level_off">Bağlı</string>
     <string name="car_card_seat_level_one">Səviyyə %d</string>
@@ -152,7 +152,7 @@
     <string name="circulate_card_mirror_device_button">Dayandır</string>
     <string name="circulate_card_mirror_device_pad_subtitle">"Planşetin ekranı göstərilir…"</string>
     <string name="circulate_card_mirror_device_subtitle">"Telefonun ekranı göstərilir…"</string>
-    <string name="circulate_card_mirror_device_title_car">车机</string>
+    <string name="circulate_card_mirror_device_title_car">Avtomobil</string>
     <string name="circulate_card_mirror_device_title_laptop">Kompüter</string>
     <string name="circulate_card_mirror_device_title_pad">Planşet</string>
     <string name="circulate_card_mirror_device_title_television">TV</string>
@@ -287,6 +287,7 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_headset_error_headset_not_support">"Qulaqlarınız bu kompüterə bağlana bilmir"</string>
     <string name="circulate_headset_error_headset_not_worn">Hər iki qulaqlığı taxıb yenidən sınayın</string>
     <string name="circulate_headset_error_headset_not_worn_both">Hər iki qulaqlığı taxıb yenidən sınayın</string>
+    <string name="circulate_headset_error_headset_not_worn_single">Bu özəlliyi istifadə etmək üçün qulaqlıqları taxın</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"TV-nizdə Bluetooh-u açın
 və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_headset_error_self_upgrade">"Bu əməliyyat tamamlana bilmədi. Əvvəlcə tətbiqi güncəlləyin."</string>
@@ -408,6 +409,8 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_nfc_share">Elementləri NFC vasitəsilə ötür</string>
     <string name="connect_settings_not_opened">Bağlı</string>
     <string name="connect_settings_opened">Açıq</string>
+    <string name="connect_settings_presentation_password_error">Yanlış parol</string>
+    <string name="connect_settings_presentation_password_title">Lütfən admin parolunu daxil edin</string>
     <string name="connect_settings_privacy_policy">Gizlilik Siyasəti</string>
     <string name="connect_settings_relay_app">Tətbiqlər</string>
     <string name="connect_settings_share_clipboard">Lövhə</string>
@@ -580,7 +583,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"hh"</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -588,7 +591,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH"</string>
+    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -749,6 +752,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="help_page_text_end">"Cihazınızın markası bu siyahıda yoxdursa, yayım funksionallığı haqqında daha ətraflı öyrənmək üçün istehsalçı ilə əlaqə saxlayın."</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hm_always">Xatırla</string>
+    <string name="hm_always_execute">Həmişə</string>
     <string name="hm_conflict_title">Modelə fasilə verildi: %1$s</string>
     <string name="hm_conflict_toast">Ziddiyətli ağıllı ev səhnəsi və ya avtomatlaşdırmanız var. Əvvəlcə tətbiqdə düzəliş edin.</string>
     <string name="hm_go_to_help">Köməyə bax</string>
@@ -759,13 +763,19 @@ ehtiyaclarınıza uyğunlaşmasına icazə verin"</string>
     <string name="hm_habit_info_empty_describe">"Xiaomi HyperMind-in modelləri öyrənə və dəqiqləşdirə
 bilməsi üçün cihazlarınızı istifadə etməyə davam edin"</string>
     <string name="hm_habit_info_list_empty">Modellər öyrənilir…</string>
+    <string name="hm_has_ignored">Bu naxış uğurla yox sayıldı</string>
+    <string name="hm_has_remembered">Bu naxış uğurla xatırlandı</string>
     <string name="hm_help">Kömək</string>
     <string name="hm_knew">Anladım</string>
     <string name="hm_more">Daha çox</string>
+    <string name="hm_new_habit">Yeni naxışlar</string>
+    <string name="hm_new_habit_empty_title">Burada naxış yoxdur</string>
+    <string name="hm_not_notify">"Təkrar göstərmə"</string>
     <string name="hm_pause_habit">Fasilə ver</string>
     <string name="hm_please_login_mi_account">Başlamaq üçün Xiaomi Hesabınıza daxil olun</string>
     <string name="hm_remember">Xatırla</string>
     <string name="hm_resume_habit">Davam etdir</string>
+    <string name="hm_setstate_error">"Bu əməliyyat tamamlana bilmədi"</string>
     <string name="hm_setting_mode">Sürətli rejim</string>
     <string name="hm_setting_mode_subtitle">İşə salınsa, vərdişlər daha sürətli yaradıla bilər, ancaq enerji sərfiyyatını artırır.</string>
     <string name="hm_setting_mode_title">Aşırı sürət təcrübəsi rejimi</string>
@@ -780,7 +790,11 @@ bilməsi üçün cihazlarınızı istifadə etməyə davam edin"</string>
     <string name="hm_time_not_executed">Hələ istifadə olunmayıb</string>
     <string name="hm_time_recent_week">Bu həftə</string>
     <string name="hm_time_today">Bu gün</string>
+    <string name="hm_time_today_executed">Bu gün %s istifadə edildi</string>
+    <string name="hm_time_today_remembered">Bu gün %s xatırlandı</string>
     <string name="hm_time_yesterday">Dünən</string>
+    <string name="hm_time_yesterday_executed">Dünən %s istifadə edildi</string>
+    <string name="hm_time_yesterday_remembered">Dünən %s xatırlandı</string>
     <string name="hm_toast_log_in">Əvvəlcə Xiaomi Hesabınıza daxil olun</string>
     <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
     <string name="hyper_mind">HyperMind</string>
@@ -789,7 +803,10 @@ bilməsi üçün cihazlarınızı istifadə etməyə davam edin"</string>
     <string name="hyper_mind_close_warning_content">Bu özəlliyi söndürsəniz, HyperMind artıq modellərinizi öyrənə və ya istifadə edə bilməyəcək. Datanızı yığmamız üçün verdiyiniz razılığı geri götürmək istəyirsinizsə &lt;a href=%1$s&gt;bura&lt;/a&gt; toxunun.</string>
     <string name="hyper_mind_close_warning_ok">Anladım</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
-    <string name="icon_content_description">Dialoq nişanı</string>
+    <string name="i_see">Anladım</string>
+    <string name="icon_content_description">Dialoq ikonu</string>
+    <string name="image_transfer_failed">"Təsvir köçürülə bilmədi"</string>
+    <string name="install">Quraşdır</string>
     <string name="invisible_mode_dialog_content">"Gizli rejimdə yayımlaya bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_content_audio_relay">"Gizli rejimdə ikən oxutmanı ötürə bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_pos">Söndür</string>
@@ -838,6 +855,9 @@ bilməsi üçün cihazlarınızı istifadə etməyə davam edin"</string>
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
     <string name="menu_new_display_open">Yeni pəncərədə aç</string>
     <string name="menu_pc_open">Kompüter proqramında aç</string>
+    <string name="message_connection_interrupted">Kompüterinizlə planşetinizin bağlantı aralığında olduğuna və Bluetooth və Wi-Fi-ın açıq olduğuna əmin olun. Davam etmək üçün tapşırığı yenidən kompüterinizdə başladın.</string>
+    <string name="message_install">Cihazlar arasında eskiz çəkə bilmək üçün Mi Canvas-ı quraşdırın.</string>
+    <string name="message_update">Cihazlar arasında eskiz çəkə bilmək üçün Mi Canvas-ı güncəlləyin.</string>
     <string name="midnight">Gecə</string>
     <string name="milink_required_permissions">android.permission.BLUETOOTH_SCAN;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.NEARBY_WIFI_DEVICES;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;android.permission.READ_MEDIA_IMAGES;android.permission.READ_MEDIA_VIDEO;android.permission.READ_MEDIA_AUDIO;android.permission.SYSTEM_ALERT_WINDOW;android.permission.CAMERA</string>
     <string name="mipaly_server_exit_touping">Lütfən, əvvəlcə hazırkı ekran yazısından çıxın</string>
@@ -965,9 +985,9 @@ bilməsi üçün cihazlarınızı istifadə etməyə davam edin"</string>
     <string name="msg_send_fail">"Data köçürülə bilmədi"</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
-    <string name="mtrl_checkbox_button_icon_path_group_name">ikon</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
     <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
-    <string name="mtrl_checkbox_button_icon_path_name">ikon yolu</string>
+    <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
     <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
     <string name="mtrl_checkbox_button_path_group_name">düymə</string>
     <string name="mtrl_checkbox_button_path_name">düymə yolu</string>
@@ -1204,12 +1224,12 @@ Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Raz�
     <string name="screen_projection_entrance_list">Mövcud cihazlara bax</string>
     <string name="screen_projection_entrance_list_new">Yayım üçün mövcud olan cihazların siyahısına bax</string>
     <string name="screen_projection_example_document_hint_miui15">*Elementlər yaxınlıqdakı bir TV-də görünəcək</string>
-    <string name="screen_projection_example_document_hint_new"><Data>*Bu özəlliyi istifadə etmək üçün Fayllar &gt; Sənədlər bölməsinə gedin və &lt;img src=../drawable/ic_cast_icon_photo.png/&gt; nişanına toxunun.</Data></string>
+    <string name="screen_projection_example_document_hint_new"><Data>*Bu özəlliyi istifadə etmək üçün Fayllar &gt; Sənədlər bölməsinə gedin və &lt;img src=../drawable/ic_cast_icon_photo.png/&gt; ikonuna toxunun.</Data></string>
     <string name="screen_projection_example_document_summary">Slaydlar arasında keçid etmək və notlara baxmaq üçün telefonunuzu istifadə edərkən, təqdimatları xarici ekranda göstərin. Bu özəlliyi sınamaq üçün Fayl Meneceri &gt; \"Sənədlər\"ə gedin.</string>
     <string name="screen_projection_example_document_summary_miui15">Bu cihazı pult kimi istifadə edərkən təqdimat slaydlarını TV-də göstər</string>
     <string name="screen_projection_example_document_title">Sənədlər</string>
     <string name="screen_projection_example_gallery_hint_miui15">*Fotoları və videoları yayımlaya bilmək üçün Qalereyada bir elementi seçin, \"Paylaş\"a toxunun, daha sonra \"Yayım\" nişanına toxunun.</string>
-    <string name="screen_projection_example_gallery_hint_new"><Data>*Bu özəlliyi istifadə etmək üçün Qalereyaya gedin, bir foto seçin, alt çubuqdakı \"Göndər\"ə toxunun və &lt;img src=../drawable/ic_cast_icon_photo.png/&gt; nişanına toxunun.</Data></string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>*Bu özəlliyi istifadə etmək üçün Qalereyaya gedin, bir foto seçin, alt çubuqdakı \"Göndər\"ə toxunun və &lt;img src=../drawable/ic_cast_icon_photo.png/&gt; ikonuna toxunun.</Data></string>
     <string name="screen_projection_example_gallery_summary">Xarici monitorda göstərmək üçün Qalereya tətbiqindəki bir elementin altındakı \"Paylaş\"a toxunun.</string>
     <string name="screen_projection_example_gallery_summary_miui15">Fotolarınıza və videolarınıza TV ekranında baxın</string>
     <string name="screen_projection_example_gallery_title">Fotolar və videolar</string>
@@ -1273,8 +1293,8 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>
@@ -1283,7 +1303,7 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="solar_term_vernal_equinox">İlkbahar gündönümü</string>
     <string name="solar_term_white_dews">Şeh</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
-    <string name="solar_term_winter_solstice">Qış göndönümü</string>
+    <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="start_associate">Əlaqələndirməyə başla</string>
     <string name="start_association">Əlaqələndirmə başladılır</string>
     <string name="status_bar_fail">"Bağlantı qurula bilmədi"</string>
@@ -1302,38 +1322,17 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="synergy_text">Ara bağlantı</string>
     <string name="talk_back_device_battery_quantity">Batareya %s</string>
     <string name="test_file">Fayl köçürmə testi</string>
-    <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
-    <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
-    <string name="the_arbor_day">Ağacəkmə Günü</string>
-    <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
-    <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_christmas_day">Milad</string>
-    <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
-    <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
-    <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
-    <string name="the_laba_festival">Laba Festivalı</string>
-    <string name="the_labour_day">Əmək Günü</string>
-    <string name="the_lantern_festival">Fənər Festivalı</string>
-    <string name="the_mid_autumn_festival">Orta Payız Festivalı</string>
-    <string name="the_national_day">Mlli Gün</string>
-    <string name="the_national_father_day">"\"Sun Yat-sen\"in Doğum Günü"</string>
     <string name="the_new_years_day">Yeni İl</string>
-    <string name="the_night_of_sevens">Qixi Festivalı</string>
-    <string name="the_partys_day">CPC Günü</string>
-    <string name="the_peace_day">Anma Günü</string>
-    <string name="the_retrocession_day">Restrosessiya Günü</string>
-    <string name="the_spirit_festival">Ruh Festivalı</string>
     <string name="the_spring_festival">Çin Yeni İli</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
-    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
-    <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
@@ -1343,6 +1342,9 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="title_activity_permission">PermissionActivity</string>
+    <string name="title_connection_interrupted">Bağlantı kəsildi</string>
+    <string name="title_install">Mi Canvas-ı quraşdır</string>
+    <string name="title_update">Mi Canvas-ı güncəllə</string>
     <string name="toast_guide_show_more">Daha ətraflı</string>
     <string name="toast_guide_title">Yeni özəlliklərimizi burada kəşf edin</string>
     <string name="toast_invisible_mode">"Gizli rejimdəsiniz. Yayım indi istifadə edilə bilmir."</string>
@@ -1368,6 +1370,7 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="universal_clipboard_notification_persistent">UniversalClipboardService</string>
     <string name="unlock_screen_to_authorize_camera">"%s bu cihazın kamerasını istifadə etmək istəyir"</string>
+    <string name="update">Güncəllə</string>
     <string name="upgrade_app_name_version">%1$s | %2$s</string>
     <string name="upgrade_cancel">İmtina</string>
     <string name="upgrade_cancel_all">Güncəlləməni ləğv et</string>
