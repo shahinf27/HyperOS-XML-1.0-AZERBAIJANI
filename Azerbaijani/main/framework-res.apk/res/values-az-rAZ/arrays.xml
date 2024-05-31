@@ -148,8 +148,6 @@
     <item>in</item>
   </string-array>
   <array name="config_enabledCredentialProviderService"></array>
-  <array name="config_ephemeralResolverPackage"></array>
-  <array name="config_ethernet_interfaces"></array>
   <array name="config_face_acquire_biometricprompt_ignorelist"></array>
   <array name="config_face_acquire_enroll_ignorelist"></array>
   <array name="config_face_acquire_keyguard_ignorelist"></array>
