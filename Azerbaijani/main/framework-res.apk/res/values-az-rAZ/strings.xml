@@ -915,7 +915,7 @@ nömrəni yığın"</string>
     <string name="face_error_unable_to_process">Üz doğrulana bilmir. Yenidən sınayın.</string>
     <string name="face_error_user_canceled">Üzlə kilid açma, istifadəçi tərəfindən ləğv edildi</string>
     <string name="face_error_vendor_unknown">Nəsə səhv getdi. Yenidən sınayın.</string>
-    <string name="face_icon_content_description">Üz nişanı</string>
+    <string name="face_icon_content_description">Üz ikonu</string>
     <string name="face_name_template">Üz %d</string>
     <string name="face_or_screen_lock_app_setting_name">Üz və ya ekran kilidini istifadə et</string>
     <string name="face_or_screen_lock_dialog_default_subtitle">Davam etmək üçün üz və ya ekran kilidi istifadə edin</string>
@@ -973,7 +973,7 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fingerprint_error_unable_to_process">Barmaq izi emal edilə bilmir. Yenidən sınayın.</string>
     <string name="fingerprint_error_user_canceled">Barmaq izi əməliyyatı istifadəçi tərəfindən ləğv edildi.</string>
     <string name="fingerprint_error_vendor_unknown">Nəsə səhv getdi. Yenidən sınayın.</string>
-    <string name="fingerprint_icon_content_description">Barmaq izi nişanı</string>
+    <string name="fingerprint_icon_content_description">Barmaq izi ikonu</string>
     <string name="fingerprint_name_template">%d. barmaq</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">Barmaq izi və ya ekran kilidi istifadə et</string>
     <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Davam etmək üçün barmaq izinizi və ya ekran kilidini istifadə edin</string>
@@ -1630,10 +1630,10 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="peerTtyModeOff">Qarşı tərəf, TTY Rejimini BAĞLI tələb etdi</string>
     <string name="peerTtyModeVco">Qarşı tərəf, TTY Rejimini VCO tələb etdi</string>
     <string name="perm_costs_money">bu, sizi xərcə sala bilər</string>
-    <string name="permdesc_acceptHandovers">Tətbiqə, başqa bir tətbiqdə başladılan bir zəngi davam etdirmə icazəsi verir.</string>
+    <string name="permdesc_acceptHandovers">Tətbiqin başqa bir tətbiqdə başladılan bir zəngi davam etdirməsinə imkan verir.</string>
     <string name="permdesc_accessBackgroundLocation">Bu tətbiq, tətbiq istifadədə olmasa belə, istənilən vaxt yerləşməyə müraciət edə bilər.</string>
     <string name="permdesc_accessCoarseLocation">Bu tətbiq, tətbiq istifadədə ikən, təxmini yerləşmənizi yerləşmə xidmətlərindən ala bilər. Tətbiqin yerləşməni əldə etməsi üçün cihazınız üçün yerləşmə xidmətləri açıq olmalıdır.</string>
-    <string name="permdesc_accessDrmCertificates">Tətbiqə, DRM sertifikatlarını təmin etmə və istifadə etmə icazəsi verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
+    <string name="permdesc_accessDrmCertificates">Tətbiqin DRM sertifikatlarını təmin və istifadə etməsinə imkan verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_accessFineLocation">Bu tətbiq, tətbiq istifadədə ikən, dəqiq yerləşmənizi yerləşmə xidmətlərindən ala bilər. Tətbiqin yerləşməni əldə etməsi üçün cihazınız üçün yerləşmə xidmətləri açıq olmalıdır. Bu, batareya istifadəsini artıra bilər.</string>
     <string name="permdesc_accessImsCallService">Tətbiqin, müdaxiləniz olmadan zəng etmək üçün IMS xidmətini istifadə etməsinə icazə verir.</string>
     <string name="permdesc_accessLocationExtraCommands">Tətbiqin, ekstra yerləşmə provayder əmrlərinə müraciət etməsinə icazə verir. Bu, tətbiqin GPS və ya digər yerləşmə mənbələrinin işinə müdaxilə etməsinə imkan verə bilər.</string>
@@ -1655,7 +1655,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_bindDreamService">Sahibinin, bir \"dream\" xidmətinin üst səviyyəli interfeysinə bağlanmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_bindNotificationListenerService">Sahibinin, bildiriş dinləyici xidmətinin üst səviyyəli interfeysinə bağlanmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_bind_connection_service">Tətbiqin, zəng etmək/almaq üçün telefoniya xidmətləri ilə qarşılıqlı əlaqədə olmasına icazə verir.</string>
-    <string name="permdesc_bind_incall_service">Tətbiqə, istifadəçinin zəng ekranını necə və nə vaxt görəcəyinə nəzarət etməsinə icazə verir.</string>
+    <string name="permdesc_bind_incall_service">Tətbiqin istifadəçinin zəng ekranını necə və nə vaxt görəcəyinə nəzarət etməsinə icazə verir.</string>
     <string name="permdesc_bluetooth">Tətbiqin, telefondakı Bluetooth konfiqurasiyasına baxmasına və cütləşmiş cihazlarla bağlantı qurmasına və bu bağlantıları qəbul etməsinə icazə verir.</string>
     <string name="permdesc_bluetoothAdmin">Tətbiqin, yerli Bluetooth telefonunu konfiqurasiya etməsinə və uzaq cihazları kəşf edib onlarla cütləşməsinə icazə verir.</string>
     <string name="permdesc_bluetooth_advertise">Tətbiqin, yaxınlıqdakı Bluetooth cihazlarına reklam verməsinə icazə verir</string>
@@ -1679,10 +1679,10 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_createNetworkSockets">Tətbiqin, şəbəkə yuvalarını yaratmasına və özəl şəbəkə protokollarını istifadə etməsinə icazə verir. Brauzer və digər tətbiqlər, internetə data göndərmək üçün alətlər təmin edir, buna görə də, internetə data göndərmək üçün bu icazə tələb olunmur.</string>
     <string name="permdesc_deliverCompanionMessages">Tamamlayıcı bir tətbiqin digər cihazlara tamamlayıcı mesajlar çatdırmasına imkan verir.</string>
     <string name="permdesc_detectScreenCapture">Bu tətbiq, tətbiq istifadə edilərkən ekran şəkli çəkildikdə bildiriş alacaq.</string>
-    <string name="permdesc_disableKeyguard">Tətbiqə, düymə kilidini və əlaqələndirilmiş parol güvənliyini sıradan çıxartmasına verir. Nümunə üçün, telefon, bir zəng alanda düymə kilidini sıradan çıxardır, zəng bitədnə düymə kilidini yenidən fəallaşdırır.</string>
+    <string name="permdesc_disableKeyguard">Tətbiqin düymə kilidini və əlaqələndirilmiş parol güvənliyini sıradan çıxartmasına imkan verir. Nümunə üçün, telefon, bir zəng alanda düymə kilidini sıradan çıxardır, zəng bitədnə düymə kilidini yenidən fəallaşdırır.</string>
     <string name="permdesc_enableCarMode">Tətbiqin, avtomobil rejimini fəallaşdırmasına icazə verir.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Tətbiqi, səs yazmaq üçün məhdudiyyətlərdən azad edin.</string>
-    <string name="permdesc_expandStatusBar">Tətbiqə status çubuğunu genişləndirmə və ya yığcamlaşdırma icazəsi verir.</string>
+    <string name="permdesc_expandStatusBar">Tətbiqin status çubuğunu genişləndirməsinə və ya yığcamlaşdırmasına imkan verir.</string>
     <string name="permdesc_foregroundService">Tətbiqin, önplan xidmətlərini istifadə etməsinə icazə verir.</string>
     <string name="permdesc_foregroundServiceCamera">Tətbiqin \"camera\" növündəki önplan xidmətlərini istifadə etməsinə imkan verir</string>
     <string name="permdesc_foregroundServiceConnectedDevice">Tətbiqin \"connectedDevice\" növündəki önplan xidmətlərini istifadə etməsinə imkan verir</string>
@@ -1770,7 +1770,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_startReviewPermissionDecisions">Sahibin, icazə qərarlarını incələməsi üçün ekran başlatmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_startViewAppFeatures">Sahibin, bir tətbiq üçün özəllik məlumatlarına baxmağa başlamasına icazə verir.</string>
     <string name="permdesc_startViewPermissionUsage">Sahibin, bir tətbiq üçün icazə istifadəsini başlatmasına imkan verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
-    <string name="permdesc_statusBar">Tətbiqə status çubuğunu sıradan çıxartma və ya sistem nişanlarını əlavə etmə və silmə icazəsi verir.</string>
+    <string name="permdesc_statusBar">Tətbiqin status çubuğunu sıradan çıxartmasına və ya sistem ikonlarını əlavə etməsinə və silməsinə imkan verir.</string>
     <string name="permdesc_statusBarService">Tətbiqə status çubuğu olma icazəsi verir.</string>
     <string name="permdesc_subscribedFeedsRead">Tətbiqə, hazırkı sinxronlaşdırılan axınlar haqqında məlumat alma icazəsi verir.</string>
     <string name="permdesc_systemAlertWindow">Bu tətbiq, digər tətbiqlərin üzərində və ya ekranın digər hissələrində görünə bilər. Bu, normal tətbiq istifadəsinə təsir edə və digər tətbiqlərin görünmə tərzini dəyişdirə bilər.</string>
@@ -1783,12 +1783,12 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_useDataInBackground">Bu tətbiq, arxaplanda interneti istifadə edə bilər. Bu, internet istifadəsini artıra bilər.</string>
     <string name="permdesc_useFingerprint">Tətbiqə, kimlik doğrulama üçün barmaq izi avadanlığı istifadə etməyə icazə verir</string>
     <string name="permdesc_use_exact_alarm">Bu tətbiq, gələcəkdə istədiyiniz bir vaxtda sizi məlumatlandırmaq üçün zəngli saatlar və xatırladıcılar kimi əməliyyatları planlaşdıra bilər.</string>
-    <string name="permdesc_use_sip">Tətbiqə, SIP zənglərini etmə və alma icazəsi verir.</string>
-    <string name="permdesc_uwb_ranging">Tətbiqə, yaxınlıqdakı Ultra Genişzolaqlı cihazlar arasında nisbi mövqeyi aşkarlama icazəsi verir</string>
-    <string name="permdesc_vibrate">Tətbiqə titrəməyə nəzarət etmə icazəsi verir.</string>
+    <string name="permdesc_use_sip">Tətbiqin SIP zəngləri etməsinə və almasına imkan verir.</string>
+    <string name="permdesc_uwb_ranging">Tətbiqin yaxınlıqdakı Ultra Genişzolaqlı cihazlar arasında nisbi mövqeyi aşkarlamasına imkan verir</string>
+    <string name="permdesc_vibrate">Tətbiqin titrəməni idarə etməsinə imkan verir.</string>
     <string name="permdesc_vibrator_state">Tətbiqin titrəmə statusuna müraciət etməsinə icazə verir.</string>
-    <string name="permdesc_videoWrite">Tətbiqə, video kolleksiyanızı dəyişdirmə icazəsi verir.</string>
-    <string name="permdesc_wakeLock">Tətbiqə telefonun yuxu rejiminə keçməsini önləmə icazəsi verir.</string>
+    <string name="permdesc_videoWrite">Tətbiqin video kolleksiyanızı dəyişdirməsinə imkan verir.</string>
+    <string name="permdesc_wakeLock">Tətbiqin telefonun yuxu rejiminə keçməsini önləməsinə imkan verir.</string>
     <string name="permdesc_writeCalendar">Bu tətbiq, təqvim tədbirlərini telefonunuzda əlavə edə, silə və ya dəyişdirə bilər. Bu tətbiq, təqvim sahiblərindən gəlmiş kimi görünən mesajlar göndərə və ya sahiblərinin məlumatı olmadan tədbirləi dəyişdirə bilər.</string>
     <string name="permdesc_writeCallLog">"Tətbiqin, gələn və gedən zənglər haqqında datanı ehtiva edən telefonun zəng jurnalını dəyişdirməsinə imkan verir. Zərərli tətbiqlər, bu icazəni zəng jurnalınızı silmək və ya dəyişdirmək üçün istifadə edə bilər."</string>
     <string name="permdesc_writeContacts">Tətbiqin, telefonunuzda saxlanılan kontaktlarınız haqqında olan datanı dəyişdirməsinə imkan veir. Bu icazə, tətbiqin kontakt datasını silməsinə imkan verir.</string>
@@ -2262,7 +2262,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="smv_application">%1$s tətbiqi (%2$s prosesi) özünün tətbiq etdiyi StrictMode siyasətini pozdu.</string>
     <string name="smv_process">%1$s prosesi özünün tətbiq etdiyi StrictMode siyasətini pozdu.</string>
     <string name="splash_screen_view_branding_description">Tətbiq marka şəkli</string>
-    <string name="splash_screen_view_icon_description">Tətbiq nişanı</string>
+    <string name="splash_screen_view_icon_description">Tətbiq ikonu</string>
     <string name="ssl_ca_cert_noti_by_administrator">İş profili admininiz tərəfindən</string>
     <string name="ssl_ca_cert_noti_by_unknown">Bilinməyən üçüncü tərəflər</string>
     <string name="ssl_ca_cert_noti_managed">%s tərəfindən</string>
@@ -2276,7 +2276,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="status_bar_microphone">microphone</string>
     <string name="status_bar_mobile">mobile</string>
     <string name="status_bar_no_calling">no_calling</string>
-    <string name="status_bar_screen_record">ekran_yazısı</string>
+    <string name="status_bar_screen_record">screen_record</string>
     <string name="status_bar_sensors_off">sensors_off</string>
     <string name="status_bar_vpn">vpn</string>
     <string name="status_communication_speaker_summary">Dinamik açıqdır. Qulaqlıq taxılanda səs hələ də dinamikdən çıxacaq.</string>
