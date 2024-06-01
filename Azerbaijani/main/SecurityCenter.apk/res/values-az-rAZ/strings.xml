@@ -1321,6 +1321,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="continue_set">Davam</string>
     <string name="convenient_mode">Bir dəfəyə bütün tətbiqlərin kilidini aç</string>
     <string name="convenient_summary">Bir dəfəyə bütün tətbiqlərin kilidini açmaq üçün parolu daxil edin</string>
+    <string name="conversation_phone_title">Zəng alət qutusu</string>
     <string name="conversation_settings_top">"·Özəlliklərə müraciət etmək üçün tam ekranlı səsli və görüntülü zənglər əsnasında Konfrans alətlər çubuğunu çölə sürüşdürün.
 ·Özəlliklərin növü və sayı cihazın modelindən asılıdır."</string>
     <string name="conversation_sider_tips">Ən yaxşı zəng təcrübəsi üçün yeni Konfrans alətlərini istifadə edin</string>
@@ -1353,6 +1354,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cs_pickup_vioce_print_unsupport_toast">Xarici cihazları ayırıb yenidən sınayın</string>
     <string name="cs_pickup_voice_print_desc">Yalnız bir nəfərdən səs alın</string>
     <string name="cs_screen_translation_title">Ekran tərcüməsi</string>
+    <string name="cs_simultaneous_interpretation_title">Interpret</string>
     <string name="cs_title_pickup">Səs-küy azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyası</string>
     <string name="cs_title_ultraclear">Ultra HD rejimi</string>
@@ -1683,7 +1685,7 @@ göstər"</string>
     <string name="ew_alert_help_place_navigation">Get</string>
     <string name="ew_alert_help_safe_title">Təhlükədən qaçın</string>
     <string name="ew_alert_help_tips">"Sakit və ayıq olun. Asılmış əşyalardan uzaq durun, liftə minməyin. Güvənli bir yer tapın, uzanın, üzərinizi örtün və gözləyin."</string>
-    <string name="ew_alert_no_contact">Əvvəlcə Güvənlik &gt; \"Zəlzələ xəbərdarlığı\"nda fövqəladə hal əlaqəsini təyin edin</string>
+    <string name="ew_alert_no_contact">Əvvəlcə Ayarlar &gt; Gizlilik və güvənlik &gt; \"Fövqəladə hal SOS-u\"nda fövqəladə hal kontaktınızı təyin edin</string>
     <string name="ew_alert_no_emergency">Tibbi məlumatlarınızı Güvənlik &gt; \"Zəlzələ xəbərdarlığı\"nda əlavə edin</string>
     <string name="ew_alert_text_from">Məlumatlar %s tərəfindən təmin edilir</string>
     <string name="ew_app_name">Zəlzələ xəbərdarlığı</string>
@@ -1794,10 +1796,14 @@ Bu özəlliyin yalnız istinad üçün təqdim edildiyini anlamalısınız. Ald�
     <string name="ew_main_setting_show_desc">Demo</string>
     <string name="ew_main_setting_warning_desc">Daha ətraflı</string>
     <string name="ew_main_settings">Ayarlar</string>
+    <string name="ew_main_subscribe_city">Şəhərlərə abunə ol</string>
     <string name="ew_main_warning_all_title">Daha əvvəl bildirilmiş xəbərdarlıqlara bax</string>
     <string name="ew_main_warning_list">Xəbərdarlıqlara bax</string>
     <string name="ew_main_warning_list_tips">Bax</string>
     <string name="ew_main_warning_list_title">Xəbərdarlıq tarixçəsinə bax</string>
+    <string name="ew_merge_contact_button">Anladım</string>
+    <string name="ew_merge_contact_message">Fövqəladə hal SOS və Zəlzələ xəbərdarlığı üzrə təyin etdiyiniz fövqəladə hal kontaktları birləşdirildi.</string>
+    <string name="ew_merge_contact_title">Fövqəladə hal kontaktlarını birləşdir</string>
     <string name="ew_monitor_bad_request_tips">"Güvənlik, cihaz məlumatlarına müraciət edə bilmir"</string>
     <string name="ew_monitor_content">Mobil cihazınız zəlzələ erkən xəbərdarlıq şəbəkəsinin bir hissəsinə çevrilə bilər. Onun sensorları seysmik dalğaları aşkarladıqdan sonra məlumatlar AI alqoritmi tərəfindən təhlil ediləcək və təsirlənən ərazilərdəki insanlara erkən xəbərdarlıqlar veriləcək.</string>
     <string name="ew_monitor_exit">Yazılmanı sil</string>
@@ -2310,6 +2316,8 @@ könüllüsü"</string>
     <string name="gb_advance_settings_reset_dialog_content">İlkin ayarlar indi bərpa edilsin?</string>
     <string name="gb_advance_settings_reset_dialog_title">İlkin ayarlar</string>
     <string name="gb_advance_settings_screen_display">Ekran</string>
+    <string name="gb_advance_settings_screen_display_style_summary">Daha çox detal göstərmək üçün kontrastı artırın və vizualları optimallaşdırın</string>
+    <string name="gb_advance_settings_screen_display_summary">Daha çox detal göstərmək üçün kontrastı təkmilləşdirin və vizualları optimallaşdırın</string>
     <string name="gb_advance_settings_screen_hdr">Təkmilləşdirilmiş vizuallar</string>
     <string name="gb_advance_settings_screen_hdr_gear1">Orijinal</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Orta</string>
@@ -2318,6 +2326,10 @@ könüllüsü"</string>
     <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
     <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">Oyunlar üçün kontrastı artırın və detalları təkmilləşdirin</string>
+    <string name="gb_advance_settings_screen_show_enhancement">Vizualları təkmilləşdir</string>
+    <string name="gb_advance_settings_screen_show_enhancement_summary">Artırılmış hamarlıq və axıcılıqla hərəkəti göstər</string>
+    <string name="gb_advance_settings_screen_super_picture_quality">Super şəkil keyfiyyəti</string>
+    <string name="gb_advance_settings_screen_super_picture_quality_summary">Daha hamar vizuallar üçün dəqiqliyi və kadr sürətini artırın</string>
     <string name="gb_advance_settings_touch">Toxunuş kontrolları</string>
     <string name="gb_advance_settings_vibration_4d">4D titrəmə</string>
     <string name="gb_advance_settings_vibration_4d_summary">Oyundakı atışlar zamanı titrət</string>
@@ -2331,9 +2343,9 @@ könüllüsü"</string>
     <string name="gb_audition_play_instruction">Ən yaxşı effekt üçün qulaqlıqları istifadə edin</string>
     <string name="gb_award_noti_message">Mükafatları əldə etmək üçün Game Turbo-da Game for Peace arxaplan güncəlləmələrini işə sal</string>
     <string name="gb_award_noti_title">Game for Peace mükafatları buradadır!</string>
-    <string name="gb_bar_high">High</string>
-    <string name="gb_bar_low">Low</string>
-    <string name="gb_bar_mid">Medium</string>
+    <string name="gb_bar_high">Yüksək</string>
+    <string name="gb_bar_low">Aşağı</string>
+    <string name="gb_bar_mid">Orta</string>
     <string name="gb_barrage_app_manger">Tətbiqləri idarə et</string>
     <string name="gb_barrage_chat_desc">Həmişə gözəl bir şeyin baş verəcəyinə inanın</string>
     <string name="gb_barrage_chat_pre_desc">Önizləmə</string>
@@ -2561,6 +2573,7 @@ ancaq enerji sərfiyyatını artırır və cihazın aşırı isinməsinə səbə
     <string name="gb_vision_enhance_desc">Şəkil keyfiyyətini və performansını yaxşılaşdır</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Ağıllı kadr sürəti
 %dFPS"</string>
+    <string name="gb_vision_enhance_smart_frame_enhance">Enhance frame rate</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Ağıllı kadr sürəti</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Hərəkəti daha hamar etmək üçün kadr sürətini avtomatik ayarla</string>
     <string name="gb_vision_enhance_super_resolution">Super dəqiqlik</string>
@@ -3830,6 +3843,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_battery_history_total_consumption_title">Cəmi enerji sərfiyyatı</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_battery_low_health_reminder">"Batareyanızı dəyişdirməyin vaxtıdır"</string>
+    <string name="pc_battery_replacement_service_title">Bizim batareya dəyişdirmə xidmətimizi sınayın. %2$s zəmanət daxil olmaqla %1$s orijinal avadanlığı.</string>
     <string name="pc_berserk_mode_dialog_title">Ultimate rejimini işə sal</string>
     <string name="pc_berserk_mode_noti_summary">Ultimate rejimi enerji sərfiyyatını artıra və aşırı isinmə problemlərinə səbəb ola bilər</string>
     <string name="pc_berserk_mode_performance_title">Ultimate rejimi</string>
@@ -5079,7 +5093,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto və video</string>
     <string name="privacy_thumbnail_blur_category_tip">Tövsiyə edilən</string>
     <string name="privacy_thumbnail_blur_search_empty">"Nəticələr tapıla bilmədi"</string>
-    <string name="privacy_thumbnail_blur_title">Önizləmələri bulanıqlaşdır</string>
+    <string name="privacy_thumbnail_blur_title">Tətbiq önizləmələrini bulanıqlaşdır</string>
     <string name="privacy_thumbnail_blur_top_tip">Sonuncularda önizləmələri bulanıqlaşdırılacaq tətbiqləri seçin</string>
     <string name="privacy_thumbnail_shield_title">Önizləmə maskalama</string>
     <string name="privacy_thumbnail_shield_top_tip">Sonuncularda göstərilən tətbiqlər üçün maska önizləmələri</string>
@@ -5513,8 +5527,8 @@ Razılıq indi geri götürülsün?"</string>
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>
@@ -6670,7 +6684,9 @@ Dəqiqliyi artırmağa çalışın!"</string>
     <string name="video_repeat">Yenidən oxut</string>
     <string name="videobox_double_core_visual">İki nüvəli vizual</string>
     <string name="videobox_double_core_visual_description1">Xüsusi çip vasitəsilə video dəqiqliyini yaxşılaşdırın, kadr sürətini artırın və HDR-ni optimallaşdırın</string>
-    <string name="videobox_double_core_visual_description2">Video aydınlığını və hamarlığını artırın. Bu özəlliyi işə salmaq, enerji sərfiyyatını bir qədər artıracaq.</string>
+    <string name="videobox_double_core_visual_description2">"Dəqiqliyi, hamarlığı və ümumi ekran effektini təkmilləşdirin.
+Bu özəlik yüksək enerji sərfiyyatı tələb edir.
+Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda işləmir."</string>
     <string name="videobox_hangup_tips_content">Bu özəllik açıq olduqda ekranınız kilidlənəcək, ancaq tətbiq arxaplanda işləməyə davam edəcək. Ekranı yenidən açmaq üçün Güc düyməsinə basın. Bu özəllik indi işə salınsın?</string>
     <string name="videobox_hangup_tips_title">Diqqət</string>
     <string name="videobox_settings_line_location">Qısayol yerləşməsi</string>
