@@ -46,8 +46,12 @@
     <string name="actionbar_close_description">Bağla</string>
     <string name="actionbar_home_description">Geri</string>
     <string name="add_account_desc">Notlarınız Xiaomi Hesabınızla sinxronlaşdırılsın?</string>
+    <string name="add_excerpt_summary">İcmal siyahısı əlavə et</string>
     <string name="added_to_clipboard">Uğurla kopyalandı</string>
     <string name="afternoon">Günortadan sonra</string>
+    <string name="ai_chat_declare_double_link"><Data>Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
+    <string name="ai_chat_dlg_content">Fərqli ssenarilərdə müxtəlif məlumat mənbələri üçün (brazuerlər, WeChat və Feishu kimi tətbiqlərdə görünən keçidlər və ya mətnlər kimi) məlumatların cəld yığılması və ümumiləşdirilməsindən əlavə bu məlumatların arxivlənməsi üçün vahid bir girişdə avtomatik olaraq yaradılması və təqdim edilməsi funksiyası əldə edilə bilər.</string>
+    <string name="ai_watermark">Süni Zəka tərəfindən yaradılıb:</string>
     <string name="alarm_bar_title">Xatırladıcı</string>
     <string name="alert_action_edit_anyway">Düzəlişə davam et</string>
     <string name="alert_message_delete">%1$s silinsin?</string>
@@ -213,8 +217,13 @@
     <string name="evening">Günortadan sonra</string>
     <string name="exceed_todo_text_limitation">Tapşırıq açıqlaması çox uzundur.</string>
     <string name="excerpt">Çıxarışlar</string>
+    <string name="excerpt_ares_limit">Həvəsinizi yüksək qiymətləndiririk, lakin hazırda yüksək trafiklə üzləşmişik. Lütfən baxmaq üçün orijinal keçidə toxunun və ya daha sonra yenidən sınayın.</string>
     <string name="excerpt_bubble_tips">Kopyalanmış mətn və saxlanılmış təsvirlər Notlarda saxlanılacaq</string>
     <string name="excerpt_link_bubble_tips">Notlarda saxlamaq üçün toxunun</string>
+    <string name="excerpt_original_text">Orijinal mətn：</string>
+    <string name="excerpt_summary_fail">Məzmun təhlili uğursuz oldu. Lütfən baxmaq üçün orijinal keçidə toxunun və ya daha sonra yenidən sınayın.</string>
+    <string name="excerpt_summary_huangfan">Məzmun həssasdır. Lütfən baxmaq üçün orijinal keçidə toxunun.</string>
+    <string name="excerpt_summary_link_bubble_tips">İcmalı \"Notlar\"da saxlamaq üçün toxunun.</string>
     <string name="excerpted_to_note">Çıxarışlar \"Notlar\"da saxlanıldı</string>
     <string name="excerpting">Çıxarış yaradılır…</string>
     <string name="expand_button_title">Qabaqcıl</string>
@@ -670,6 +679,7 @@
     <string name="pm">GS</string>
     <string name="pref_category_title_quick_func">Cəld özəlliklər</string>
     <string name="pref_excerpt_link_float">Bir URL kopyalandıqda bir çıxarış yaratmaq üçün xatırlatma alın</string>
+    <string name="pref_excerpt_summary_link_float">Keçid hər kopyalandıqda, qısayol çubuğu gözləyən icmal xatırladıcı təqdim edəcək, icmalı köçürmək üçün toxunun.</string>
     <string name="pref_permission_allowed">İcazə verildi</string>
     <string name="pref_permission_manage">İcazə detalları</string>
     <string name="pref_permission_manage_key_contact">Kontaktlara müraciət</string>
@@ -683,6 +693,7 @@
     <string name="pref_title_cloud_trash_bin">Buludda silinən notlar</string>
     <string name="pref_title_common">Əlavə ayarlar</string>
     <string name="pref_title_excerpt_remind">Çıxarış xatırladıcıları</string>
+    <string name="pref_title_excerpt_summary_remind">İcmal Siyahısı</string>
     <string name="pref_title_font_size">Şrift ölçüsü</string>
     <string name="pref_title_note_style">Stil</string>
     <string name="pref_title_quick_note">Cəld notlar</string>
@@ -706,8 +717,8 @@
     <string name="repeat_mode_month">Hər ay</string>
     <string name="repeat_mode_normal_workday">Bazar ertəsi - Cümə</string>
     <string name="repeat_mode_set_item_day">Hər gün</string>
-    <string name="repeat_mode_set_item_month">每月（%s）</string>
-    <string name="repeat_mode_set_item_month_detail">每月%s</string>
+    <string name="repeat_mode_set_item_month">Aylıq（%s）</string>
+    <string name="repeat_mode_set_item_month_detail">Ayda %s</string>
     <string name="repeat_mode_set_item_month_detail_day">d日</string>
     <string name="repeat_mode_set_item_month_detail_lastday">Hər ayın son günü</string>
     <string name="repeat_mode_set_item_month_global">Hər ay (eyni vaxt)</string>
@@ -770,6 +781,7 @@
     <string name="setting_other">DİGƏR</string>
     <string name="setting_privacy">Gizlilik Siyasəti</string>
     <string name="single_link_excerpt_saving">Elementlər saxlanılır…</string>
+    <string name="single_link_excerpt_summary_saving">İcmal siyahısı yaradılır.</string>
     <string name="single_new_excerpt_title">Çıxarışlar</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -858,6 +870,9 @@
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="to_be_read_bubble_tips">Kopyalanmış keçid və mətn, icmalı birbaşa notlara köçürəcək.</string>
+    <string name="to_be_read_link_bubble_tips">İcmalı \"Notlar\"da saxlamaq üçün toxunun</string>
+    <string name="to_be_read_list">İcmal Siyahısı</string>
     <string name="to_view_alarm_content">Baxmaq üçün toxun</string>
     <string name="toast_cancel_to_insert_image">"Təsvir əlavə edilə bilmədi."</string>
     <string name="toast_excerpt_end">Çıxarış uğurla yaradıldı</string>
@@ -883,6 +898,8 @@
     <string name="toast_refuse_to_use_record_audio">"Mikrofon icazəsi məhdudlaşdırıldı.
 Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Notlarınıza şəkil əlavə edə bilmək üçün \"Notlar\"ın anbara müraciətinə icazə verin</string>
+    <string name="toast_show_no_network">Lütfən şəbəkəyə bağlanıb yenidən sınayın.</string>
+    <string name="toast_show_xiaomi_account">Xiaomi hesabınıza giriş edib yenidən sınayın.</string>
     <string name="today">Bu gün</string>
     <string name="todo_alert_title_delete">Tamamlanan tapşırıqları sil</string>
     <string name="todo_audio_default_content">"[Səsli tapşırıq] "</string>

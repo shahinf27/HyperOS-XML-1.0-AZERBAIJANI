@@ -1063,11 +1063,13 @@ mm"</string>
     <string name="summary4">"\"Divar kağızı Karuseli\"nə xoş gəldiniz! Burada sevimli divar kağızı kateqoriyalarına abunə ola və Kilid ekranınıza müntəzəm olaraq yeni şəkillər göndərə bilərsiniz. "</string>
     <string name="summary5">"Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik. "</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_international">"Bu özəlliyi istifadə edərək &lt;a href ='%1$s'&gt;İstifadəçi Razılaşmamız&lt;/a&gt; və &lt;a href='%2$s'&gt;Gizlilik Siyasətimizlə&lt;/a&gt; razılaşırsınız. Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır.​"</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="sure_close_gallery">Divar kağızı Karuseli söndürülsün?</string>
     <string name="sure_close_gallery_des">"\"Divar kağızı Karuseli\"ni söndürsəniz, Əsas ekran və Kilid ekranınıza yeni şəkillər göndərə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
+    <string name="surprise_wallpaper_auth_failed_tip">İstifadəçi məlumatlarının doğrulanması uğursuz oldu. Lütfən giriş statusunuzu və sistem vaxtını yoxlayın.</string>
     <string name="surprise_wallpaper_can_not_open_tip">Lütfən əvvəlcə şəkil döndərməni açın</string>
     <string name="surprise_wallpaper_empty_dlg_content">Sürpriz Divar kağızları öz-özünə seçilmiş divar kağızları (əgər fəaldırsa) və ya təsadüfi strategiya əsasında özəlləşdirilmiş divar kağızları yaradacaq və şəkil dönmə tezliyi 1 günlə məhdudlaşdırılacaq. Yaratma uğursuz olsa, divar kağızı orijinal şəkil istifadə edilərək güncəllənəcək.</string>
     <string name="surprise_wallpaper_empty_dlg_title">Sürpriz Divar kağızları</string>

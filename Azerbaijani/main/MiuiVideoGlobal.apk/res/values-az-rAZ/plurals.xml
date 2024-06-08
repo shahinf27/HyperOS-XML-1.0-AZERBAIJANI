@@ -52,10 +52,6 @@
         <item quantity="other">%d saniyə geri çək</item>
         <item quantity="one">%d saniyə geri çək</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">%1$d saniyəyə əsas səhifəyə geri qayıdılacaq…</item>
-        <item quantity="one">%1$d saniyəyə əsas səhifəyə geri qayıdılacaq…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>

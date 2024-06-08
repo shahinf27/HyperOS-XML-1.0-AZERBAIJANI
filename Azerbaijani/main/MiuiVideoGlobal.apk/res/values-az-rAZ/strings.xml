@@ -214,11 +214,11 @@
     <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
-    <string name="com.crashlytics.android.build_id">892a26ac8b2645ca8931223af42f0734</string>
+    <string name="com.crashlytics.android.build_id">40d4a38888fc467580759ab5e2d1c107</string>
     <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Ayarlarda müraciətə icazə verin."</string>
     <string name="com_permission_title">İcazələr tələb olunur</string>
     <string name="comment_model_add_comment">Bir rəy əlavə et</string>
-    <string name="comment_model_bg_add_comment">Fikirlərinizi cəmiyyətimizlə paylaşın</string>
+    <string name="comment_model_bg_add_comment">Fikirlərinizi icmamızla paylaşın</string>
     <string name="comment_model_bg_deleted_comment">Bu rəy silindi</string>
     <string name="comment_model_close">"Rəy yazmaq indi mövcud deyil! İzləmədə qalın!"</string>
     <string name="comment_model_comment">Rəylər</string>
@@ -374,6 +374,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="download_unable_tip">"Bu element endirilə bilmir"</string>
     <string name="download_video">Video endirilir</string>
     <string name="downloading">Endirilir…</string>
+    <string name="draw_ad_button_click_text">Açmaq üçün silkələ və ya toxun</string>
+    <string name="draw_ad_button_slide_text">Detallar üçün sürüşdür</string>
     <string name="early_morning">Səhər</string>
     <string name="empty"></string>
     <string name="empty_channels">Kanalları idarə et</string>
@@ -464,14 +466,10 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_activity_title">Əks-əlaqə</string>
     <string name="feedback_contact_empty">Kontakt məlumatlarınızı daxil edin</string>
     <string name="feedback_contact_title">Kontakt məlumatları</string>
-    <string name="feedback_detail_input_hint">Mesajınızı daxil edin</string>
-    <string name="feedback_hint">"Rastlaşdığınız problemi açıqlayın."</string>
     <string name="feedback_hint_contact">Telefon/QQ/E-poçt</string>
     <string name="feedback_hint_text">"Rastlaşdığınız problemi açıqlayın."</string>
-    <string name="feedback_input_tip">Burada problemləri açıqlaya və ya təkliflər verə bilərsiniz.</string>
     <string name="feedback_net_error">"Göndərilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="feedback_sent">Göndər</string>
-    <string name="feedback_success">Uğurla göndərildi</string>
     <string name="feedback_success_toast">Uğurla göndərildi. Əks-əlaqəniz üçün təşəkkürlər!</string>
     <string name="feedback_tag_title">Kateqoriya</string>
     <string name="feedback_text_empty_toast">Əvvəlcə əks-əlaqənizi daxil edin.</string>
@@ -760,7 +758,6 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="inline_mute_click_tip">Səsi açmaq üçün toxunun</string>
     <string name="input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
-    <string name="input_size_tips_new">%d simvola qədər daxil edə bilərsiniz</string>
     <string name="isornot_your_mi_account">Bu sizin Mi Hesabınızdır?</string>
     <string name="item_card_all_replies">Bütün cavablar</string>
     <string name="item_card_continue_play">Avto-oxut</string>
@@ -869,7 +866,6 @@ seçin"</string>
     <string name="local_zoom_adjust_button">Ekran rejimini dəyişdir</string>
     <string name="lock_screen">Kilid ekranı</string>
     <string name="login">Daxil ol</string>
-    <string name="login_tip">Əks-əlaqələrinizə verdiyimiz cavabları ala bilmək üçün daxil olun.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Çıxış et</string>
     <string name="logout_account">Çıxış et</string>
@@ -982,6 +978,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="manager_request_continue">İcazə ver</string>
     <string name="manager_request_tip">"Təkrar göstərmə"</string>
     <string name="manager_request_title">"Bu fayla müraciət edilə bilmir"</string>
+    <string name="mangotv_episode">%d. epizod</string>
     <string name="mangotv_feature_list_title3">Epizod %s əlavə edildi</string>
     <string name="mangotv_feature_more">Daha çox</string>
     <string name="mangotv_feature_title1">Epizodlar</string>
@@ -1201,7 +1198,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="music_new_user_dialog_got_it">Anladım</string>
     <string name="music_new_user_dialog_tip">\"Mi Video\"ya xoş gəldiniz! Bu tətbiq yerli video pleyer və onlayn musiqi və video axın xidmətlərini təqdim edir.</string>
     <string name="my_favorite_channels">Sevimli kannallarım</string>
-    <string name="my_feedback_title">Əks-əlaqəm</string>
     <string name="native_body">Gövdə</string>
     <string name="native_headline">Başlıq</string>
     <string name="native_media_view">Media görünüşü</string>
@@ -1406,6 +1402,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Şəkil içində şəkil rejimini istifadə edə bilmək üçün ən son sistem versiyasına güncəlləyin.</string>
     <string name="play_at_normal_speed">1X sürəti ilə oxudulur</string>
+    <string name="play_at_speed">%.1fX sürəti ilə oxudulur</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Pleylist yarat</string>
     <string name="play_list_save_dialog_title">Pleylistə əlavə et</string>
@@ -1694,8 +1691,8 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>
@@ -1730,7 +1727,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="start_download_tip">Növbəyə əlavə edildi. Profil &gt; \"Endirilənlər\"də irəliləyişi yoxlayın.</string>
     <string name="storage_external_sdcard">SD kart</string>
     <string name="storage_internal_sdcard">Daxili anbar</string>
-    <string name="submit">Göndər</string>
     <string name="subscribe">ABUNƏ OL</string>
     <string name="subscribe_author_recommend_btn">Abunə ol</string>
     <string name="subscribe_author_recommend_title">Bu məzmun yaradıcıların ən yeni videolarına baxmaq üçün abunə olun</string>
@@ -1849,7 +1845,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Bu mükafat hazırda əlçatmazdır. Daha sonra yenidən sınayın.</string>
     <string name="toast_m3u8_download_path_tip">"m3u8 formatındakı məzmunun endirmə yolu dəyişdirilə bilmir"</string>
     <string name="toast_play_error_tip">"Bu fayl oxudula bilmir"</string>
-    <string name="toast_request_too_frequently">Sürətli deyil!</string>
     <string name="toast_share_failed">"Paylaşıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
@@ -2008,9 +2003,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="type_content">Məzmun</string>
-    <string name="type_issue">Problem</string>
-    <string name="type_suggestion">Təklif</string>
     <string name="ugc_no_net">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ui_common_title_back">Geri</string>
     <string name="unknow">Bilinmir</string>
