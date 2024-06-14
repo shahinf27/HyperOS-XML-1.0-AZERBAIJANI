@@ -160,7 +160,7 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="home_page_forecast_video_desc">Forecast</string>
+    <string name="home_page_forecast_video_desc">Proqnoz</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">İndi</string>
     <string name="item_city_list_temperature_no_data">--</string>
@@ -259,7 +259,7 @@
     <string name="recovery_progress">Elementlər bərpa edilir (%1$d/%2$d)…</string>
     <string name="request_permission_background_location_dialog_content">Bu tətbiqin həmişə dəqiq yer məlumatlarını istifadə etdiyinə əmin olmaq üçün həmişə yerləşmənizə müraciət etməsinə icazə verin.</string>
     <string name="request_permission_location_dialog_content">Hazırkı yerləşmənizlə əlaqəli hava məlumatlarını göstərmək üçün</string>
-    <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
+    <string name="required_permissions">android.permission.POST_NOTIFICATIONS;android.permission .ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION</string>
     <string name="restore_right_now">Bərpa et</string>
     <string name="retry">Yenidən sına</string>
     <string name="saturday">Şənbə</string>
@@ -355,12 +355,14 @@
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
+    <string name="update_notification_info">Datalar arxaplanda güncəllənir…</string>
     <string name="updated_a_moment_ago">Bir az əvvəl güncəlləndi</string>
     <string name="view_forecast_item_yesterday">Dünən</string>
     <string name="view_indexes_item_today">Bu gün</string>
     <string name="view_indexes_item_tommorrow">Sabah</string>
     <string name="wait_for_wlan_china">Wi-Fi-ı gözlə</string>
     <string name="weather_main_aqi_desc">HKİ</string>
+    <string name="weather_service_channel_name">Arxaplan xidmətləri</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
