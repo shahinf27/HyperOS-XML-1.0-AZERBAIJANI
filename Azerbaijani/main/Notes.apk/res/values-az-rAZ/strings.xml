@@ -47,6 +47,7 @@
     <string name="actionbar_home_description">Geri</string>
     <string name="add_account_desc">Notlarınız Xiaomi Hesabınızla sinxronlaşdırılsın?</string>
     <string name="add_excerpt_summary">İcmal siyahısı əlavə et</string>
+    <string name="add_pic_excerpt_summary">Təsvir icmalı əlavə et</string>
     <string name="added_to_clipboard">Uğurla kopyalandı</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="ai_chat_declare_double_link"><Data>Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
@@ -219,11 +220,16 @@
     <string name="excerpt">Çıxarışlar</string>
     <string name="excerpt_ares_limit">Həvəsinizi yüksək qiymətləndiririk, lakin hazırda yüksək trafiklə üzləşmişik. Lütfən baxmaq üçün orijinal keçidə toxunun və ya daha sonra yenidən sınayın.</string>
     <string name="excerpt_bubble_tips">Kopyalanmış mətn və saxlanılmış təsvirlər Notlarda saxlanılacaq</string>
+    <string name="excerpt_image_ares_limit">Həvəsinizi yüksək qiymətləndiririk, lakin hazırda yüksək trafiklə üzləşmişik. Lütfən orijinal təsvirə istinad edin və ya daha sonra yenidən sınayın.</string>
+    <string name="excerpt_image_summary_fail">Məzmun təhlili uğursuz oldu. Lütfən orijinal təsviri incələyin və ya daha sonra yenidən sınayın.</string>
+    <string name="excerpt_image_summary_huangfan">Məzmun həssasdır, lütfən orijinal təsvirə istinad edin.</string>
     <string name="excerpt_link_bubble_tips">Notlarda saxlamaq üçün toxunun</string>
+    <string name="excerpt_original_image">Orijinal təsvir:</string>
     <string name="excerpt_original_text">Orijinal mətn：</string>
     <string name="excerpt_summary_fail">Məzmun təhlili uğursuz oldu. Lütfən baxmaq üçün orijinal keçidə toxunun və ya daha sonra yenidən sınayın.</string>
     <string name="excerpt_summary_huangfan">Məzmun həssasdır. Lütfən baxmaq üçün orijinal keçidə toxunun.</string>
     <string name="excerpt_summary_link_bubble_tips">İcmalı \"Notlar\"da saxlamaq üçün toxunun.</string>
+    <string name="excerpt_text_min">İcmal yaratmaq üçün çox az mətn var. Lütfən orijinal təsvirə istinad edin.</string>
     <string name="excerpted_to_note">Çıxarışlar \"Notlar\"da saxlanıldı</string>
     <string name="excerpting">Çıxarış yaradılır…</string>
     <string name="expand_button_title">Qabaqcıl</string>
@@ -782,6 +788,7 @@
     <string name="setting_privacy">Gizlilik Siyasəti</string>
     <string name="single_link_excerpt_saving">Elementlər saxlanılır…</string>
     <string name="single_link_excerpt_summary_saving">İcmal siyahısı yaradılır.</string>
+    <string name="single_link_pic_excerpt_summary_saving">Təsvir icmalı yaratma davam edir</string>
     <string name="single_new_excerpt_title">Çıxarışlar</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -871,6 +878,7 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="to_be_read_bubble_tips">Kopyalanmış keçid və mətn, icmalı birbaşa notlara köçürəcək.</string>
+    <string name="to_be_read_image_list">Təsvir icmalı</string>
     <string name="to_be_read_link_bubble_tips">İcmalı \"Notlar\"da saxlamaq üçün toxunun</string>
     <string name="to_be_read_list">İcmal Siyahısı</string>
     <string name="to_view_alarm_content">Baxmaq üçün toxun</string>

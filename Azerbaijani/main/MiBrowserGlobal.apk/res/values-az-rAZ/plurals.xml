@@ -80,6 +80,30 @@
         <item quantity="other">%d saniyə geri çək</item>
         <item quantity="one">%d saniyə geri çək</item>
     </plurals>
+    <plurals name="festival_game_task_gifts">
+        <item quantity="other">%2$d hədiyyə qutusu qazan</item>
+        <item quantity="one">%2$d hədiyyə qutusu qazan</item>
+    </plurals>
+    <plurals name="festival_game_task_tips">
+        <item quantity="other">%1$d dəfə oxut, %2$s</item>
+        <item quantity="one">%1$d dəfə oxut, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_second_task_tips">
+        <item quantity="other">%1$d saniyə nəzər sal, %2$s</item>
+        <item quantity="one">%1$d saniyə nəzər sal, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_task_gifts">
+        <item quantity="other">%2$d hədiyyə qutusu qazan</item>
+        <item quantity="one">%2$d hədiyyə qutusu qazan</item>
+    </plurals>
+    <plurals name="festival_news_task_tips">
+        <item quantity="other">%1$d dəqiqə nəzər sal, %2$s</item>
+        <item quantity="one">%1$d dəqiqə nəzər sal, %2$s</item>
+    </plurals>
+    <plurals name="festival_task_finish">
+        <item quantity="other">Təbriklər! %d hədiyyə qutusu qazandınız</item>
+        <item quantity="one">Təbriklər! %d hədiyyə qutusu qazandınız</item>
+    </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d element</item>
         <item quantity="one">%1$d element</item>
