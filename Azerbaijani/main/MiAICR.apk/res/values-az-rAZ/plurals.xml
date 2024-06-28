@@ -72,4 +72,8 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">%d naxış icra edildi</item>
+        <item quantity="one">%d naxış icra edildi</item>
+    </plurals>
 </resources>

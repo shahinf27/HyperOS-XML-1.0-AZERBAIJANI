@@ -102,6 +102,7 @@
     <string name="am">GƏ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_bugly_id">e5f6fa4ff3</string>
+    <string name="app_closed_toast">Dinamik üzlər bağlıdır</string>
     <string name="app_description_content">"Musiqi, səs pleyeri ehtiva edən və səs fayllarını idarə etməyinizə imkan verən bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra yenə də səs fayllarını oxutmağa davam edə biləcəksiniz."</string>
     <string name="app_description_title">\"Musiqi\" Əsas ekrandan silinsin?</string>
     <string name="app_disable_description_content">Mi Musiqi, bir sistem tətbiqidir. Onu sıradan çıxartsanız, digər tətbiqlərin istifadəsinə təsir edə bilər. Yenə də sıradan çıxarılsın?</string>
@@ -114,6 +115,7 @@
     <string name="app_notify_dialog_path_8">Ayarlar &gt; Bildirişlər və status çubuğu &gt; Tətbiq bildirişləri &gt; Musiqi</string>
     <string name="app_notify_dialog_subtitle">Bildiriş panelində musiqi oxudulmasına nəzarət edə bilmək üçün Mi Musiqi bildirişlərini işə salın.</string>
     <string name="app_notify_dialog_title">İcazələr tələb olunur</string>
+    <string name="app_opened_toast">Dinamik üzlər açıqdır</string>
     <string name="app_permission_confirm">Anladım</string>
     <string name="app_permission_optional">İxtiyari icazələr</string>
     <string name="app_permission_require">Məcburi icazələr</string>
@@ -164,13 +166,29 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_dialog_vip_confirm_text">Qoşul</string>
     <string name="asm_dialog_vip_message">Yüksək keyfiyyətli mahnıları dinləmək və daha çox məzmun endirmək üçün VIP üzvlükdə qeydiyyatdan keçin.</string>
     <string name="asm_disable_song_click_tip">"Bu mahnı, müəllif hüququ ilə bağlı məsələlərə görə mövcud deyil"</string>
+    <string name="asm_download_all_start_label">Hamısını davam etdir</string>
+    <string name="asm_download_all_stop_label">Hamısına fasilə ver</string>
+    <string name="asm_download_allow_abort">İmtina</string>
+    <string name="asm_download_allow_always">Həmişə icazə ver</string>
+    <string name="asm_download_allow_oneshot">Bir dəfə icazə ver</string>
+    <string name="asm_download_delete">Bu endirmə indi silinsin?</string>
+    <string name="asm_download_delete_all">Bu endirmələr indi silinsin?</string>
+    <string name="asm_download_error">"Endirilə bilmədi. Yenidən sınamaq üçün toxunun."</string>
     <string name="asm_download_failed">"\"%1$s\" endirilə bilmədi"</string>
     <string name="asm_download_is_downloaded">Mahnı uğurla endirildi</string>
     <string name="asm_download_is_downloaded_hq">HQ olaraq endirildi</string>
     <string name="asm_download_is_downloading">Endirilir…</string>
     <string name="asm_download_list_not_supported">"Bu siyahıdakı bəzi mahnılar endirilə bilmir"</string>
+    <string name="asm_download_mobile_net_dialog_content">"Wi-Fi-a bağlanmamısınız. Mobil internetlə endirirsiniz?"</string>
+    <string name="asm_download_mobile_net_dialog_title">İnternet istifadəsi xatırlatması</string>
+    <string name="asm_download_paused">Fasilə verildi. Davam etdirmək üçün toxunun.</string>
     <string name="asm_download_pending_status_msg">Endirməyə hazırlanır…</string>
+    <string name="asm_download_queue_waiting">Gözləyir</string>
+    <string name="asm_download_setting_mobile">Mobil internetlə endirmələrə icazə ver</string>
+    <string name="asm_download_setting_mobile_open_tips">Cihazınız Wi-Fi-a bağlanmadıqda mobil internetlə elementləri endirməsinə icazə ver</string>
+    <string name="asm_download_storage_not_enough">Cihazda yetərsiz anbar sahəsi</string>
     <string name="asm_download_success">\"%1$s\" endirildi</string>
+    <string name="asm_download_title">Endirilənləri idarə et</string>
     <string name="asm_during_the_payment">Ödəniş statusu yoxlanılır…</string>
     <string name="asm_fail_play_song">"Mahnı endirilə bilmədi"</string>
     <string name="asm_google_connect_failed">"Ödəniş tamamlana bilmədi. Play Store-da qeydiyyatdan keçdiyinizə əmin olun."</string>
@@ -183,6 +201,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_item_not_available">element əlçatmazdır</string>
     <string name="asm_loadstate_error_retry">İnternetə bağlanın və yenidən sınamaq üçün toxunun</string>
     <string name="asm_loadstate_not_more">"İndilik bu qədər"</string>
+    <string name="asm_message">Bildirişlər</string>
     <string name="asm_network_error">Şəbəkə bağlantınızı yoxlayın</string>
     <string name="asm_new_song_title">Yeni mahnılar</string>
     <string name="asm_no_need_download_songs">Mahnı endirmə növbəsindədir</string>
@@ -336,7 +355,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">f4437b5539364809abfae9490ed50c61</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">7dcceed73a5747a58b3138bbacfdae03</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -1283,6 +1302,8 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="nowplaying_circle_style_wave">Dalğa</string>
     <string name="nowplaying_dialog_title_delete_tracks">Bu mahnı növbədən silinsin?</string>
     <string name="nowplaying_menu_item_delete">Növbədən sil</string>
+    <string name="nowplaying_menu_item_gif_close">Dinamik üzləri işə sal</string>
+    <string name="nowplaying_menu_item_gif_open">Dinamik üzləri söndür</string>
     <string name="offline_notification_text">Reklamı açmaq üçün toxunun</string>
     <string name="offline_notification_title">Xətdən kənar olduğunuz vaxt saxladığınız reklama baxın</string>
     <string name="offline_opt_in_confirm">Oldu</string>
@@ -1859,6 +1880,7 @@ Xoşbəxt ol"</string>
     <string name="supplementary_songs">Əlavə mahnılar</string>
     <string name="swap">dəyişdir</string>
     <string name="swipe_for_more">Daha çox musiqili videolar üçün yuxarı sürüşdürün</string>
+    <string name="swipe_to_exit">Çıxmaq üçün yenidən sürüşdür</string>
     <string name="switch_success">Uğurla keçildi</string>
     <string name="tab_album">Albomlar</string>
     <string name="tab_album_list">Albomlar</string>

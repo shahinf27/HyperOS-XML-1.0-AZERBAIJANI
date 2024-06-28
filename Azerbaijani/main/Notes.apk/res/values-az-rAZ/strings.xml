@@ -46,12 +46,14 @@
     <string name="actionbar_close_description">Bağla</string>
     <string name="actionbar_home_description">Geri</string>
     <string name="add_account_desc">Notlarınız Xiaomi Hesabınızla sinxronlaşdırılsın?</string>
-    <string name="add_excerpt_summary">İcmal siyahısı əlavə et</string>
+    <string name="add_excerpt_summary">İcmal siyahısına əlavə et</string>
     <string name="add_pic_excerpt_summary">Təsvir icmalı əlavə et</string>
+    <string name="add_text_excerpt_summary">Mətn icmalı əlavə et</string>
     <string name="added_to_clipboard">Uğurla kopyalandı</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="ai_chat_declare_double_link"><Data>Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="ai_chat_dlg_content">Fərqli ssenarilərdə müxtəlif məlumat mənbələri üçün (brazuerlər, WeChat və Feishu kimi tətbiqlərdə görünən keçidlər və ya mətnlər kimi) məlumatların cəld yığılması və ümumiləşdirilməsindən əlavə bu məlumatların arxivlənməsi üçün vahid bir girişdə avtomatik olaraq yaradılması və təqdim edilməsi funksiyası əldə edilə bilər.</string>
+    <string name="ai_createing_text">Süni Zəka yaradır...</string>
     <string name="ai_watermark">Süni Zəka tərəfindən yaradılıb:</string>
     <string name="alarm_bar_title">Xatırladıcı</string>
     <string name="alert_action_edit_anyway">Düzəlişə davam et</string>
@@ -881,6 +883,7 @@
     <string name="to_be_read_image_list">Təsvir icmalı</string>
     <string name="to_be_read_link_bubble_tips">İcmalı \"Notlar\"da saxlamaq üçün toxunun</string>
     <string name="to_be_read_list">İcmal Siyahısı</string>
+    <string name="to_be_read_text_list">Mətn icmalı</string>
     <string name="to_view_alarm_content">Baxmaq üçün toxun</string>
     <string name="toast_cancel_to_insert_image">"Təsvir əlavə edilə bilmədi."</string>
     <string name="toast_excerpt_end">Çıxarış uğurla yaradıldı</string>
