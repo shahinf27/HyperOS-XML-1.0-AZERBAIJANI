@@ -226,6 +226,13 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="btn_copy">Kopyala</string>
     <string name="btn_open">Aç</string>
     <string name="business_num">%d</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
     <string name="camera_permission_name">Kameranı istifadə et</string>
     <string name="can_not_send_with_too_many">"Bir dəfəyə bu qədər çox element göndərilə bilmir"</string>
     <string name="cancel">İmtina</string>
@@ -329,7 +336,7 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">c2d5afe531c5431aa6b4b69c88fccc95</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">79dab52b26684e5b9d08c3593702ccd5</string>
     <string name="comment_app_menu">Rəy</string>
     <string name="comment_description">Rəy</string>
     <string name="comment_hint">Rəy</string>
@@ -704,6 +711,10 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="experience_improve">İstifadəçi Təcrübə Proqramı</string>
     <string name="exported">Xaricə köçürüldü</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
+    <string name="external_app_leave_incognito_leave">Söndür</string>
+    <string name="external_app_leave_incognito_stay">Davam et</string>
+    <string name="external_app_leave_incognito_warning">Bu veb sayt, Gizli rejimin xaricindəki bir tətbiqlə məlumat paylaşmağa çalışır. İndi söndürülsün?</string>
+    <string name="external_app_leave_incognito_warning_title">Gizli rejim söndürülsün?</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fallback_menu_item_copy_link">Keçidi kopyala</string>
