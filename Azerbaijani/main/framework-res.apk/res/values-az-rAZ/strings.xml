@@ -534,7 +534,6 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_feedbackIntentNameKey"></string>
     <string name="config_foldedArea"></string>
     <string name="config_forceVoiceInteractionServicePackage"></string>
-    <string name="config_fusedLocationProviderPackageName">com.xiaomi.location.fused</string>
     <string name="config_globalAppSearchDataQuerierPackage"></string>
     <string name="config_hdmiCecSetMenuLanguageActivity">com.android.systemui/com.android.systemui.hdmi.HdmiCecSetMenuLanguageActivity</string>
     <string name="config_headlineFontFamily"></string>
@@ -584,7 +583,7 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_rawContactsLocalAccountName">default</string>
     <string name="config_rawContactsLocalAccountType">com.android.contacts.default</string>
     <string name="config_rearDisplayPhysicalAddress"></string>
-    <string name="config_recentsComponentName">com.android.launcher3/com.android.quickstep.RecentsActivity</string>
+    <string name="config_recentsComponentName">com.miui.home/com.miui.home.recents.RecentsActivity</string>
     <string name="config_retailDemoPackage"></string>
     <string name="config_retailDemoPackageSignature"></string>
     <string name="config_satellite_gateway_service_package"></string>
@@ -596,7 +595,7 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_searchKeyTargetActivity"></string>
     <string name="config_secondaryBuiltInDisplayCutout"></string>
     <string name="config_secondaryDisplayShape"></string>
-    <string name="config_secondaryHomePackage">com.android.launcher3</string>
+    <string name="config_secondaryHomePackage">com.miui.home</string>
     <string name="config_secondaryLocationTimeZoneProviderPackageName"></string>
     <string name="config_sensorStateChangedActivity"></string>
     <string name="config_sensorUseStartedActivity">com.android.systemui/com.android.systemui.sensorprivacy.SensorUseStartedActivity</string>
@@ -620,7 +619,7 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="config_systemCompanionDeviceProvider"></string>
     <string name="config_systemContacts">com.android.contacts</string>
     <string name="config_systemFinancedDeviceController">com.android.devicelockcontroller</string>
-    <string name="config_systemGallery">com.android.fileexplorer</string>
+    <string name="config_systemGallery">com.miui.gallery</string>
     <string name="config_systemGameService"></string>
     <string name="config_systemImageEditor"></string>
     <string name="config_systemNotificationIntelligence"></string>
@@ -743,7 +742,7 @@ Qulaqlıq səsi tövsiyə olunan səviyyədən daha yüksək səviyyədə qalıb
     <string name="default_audio_route_name_external_device">Xarici cihaz</string>
     <string name="default_audio_route_name_headphones">Qulaqlıqlar</string>
     <string name="default_audio_route_name_usb">USB</string>
-    <string name="default_browser"></string>
+    <string name="default_browser">com.mi.globalbrowser</string>
     <string name="default_card_name">KART %d</string>
     <string name="default_notification_channel_label">Kateqoriyalandırılmamış</string>
     <string name="default_sms_application">com.android.mms</string>
