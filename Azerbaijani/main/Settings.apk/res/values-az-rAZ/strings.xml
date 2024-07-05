@@ -2546,7 +2546,7 @@ Bu icazə açıq olduqda, bir etiket aşkarlandıqda bu tətbiq seçim olaraq ə
     <string name="config_bt_slice_extra_pending_intent"></string>
     <string name="config_bt_slice_intent_action"></string>
     <string name="config_bt_slice_pending_intent_action"></string>
-    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
+    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver</string>
     <string name="config_charging_function_name">charging</string>
     <string name="config_contextual_card_feedback_email"></string>
     <string name="config_documents_and_other_storage_category_uri">content://com.android.providers.media.documents/root/documents_root</string>
@@ -5272,7 +5272,7 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
-    <string name="location_agps_def_supl_host">221.176.0.55</string>
+    <string name="location_agps_def_supl_host">supl.google.com</string>
     <string name="location_agps_def_supl_port">7275</string>
     <string name="location_agps_params_settings_title">A-GPS ayarları</string>
     <string name="location_agps_pref_apn_title">Tərcih edilən APN</string>
