@@ -228,7 +228,7 @@
     <string name="cloud_app_restore_title">Gözləyir</string>
     <string name="color_group">İkonları rəngə görə qruplaşdır</string>
     <string name="color_group_anim">Rəng kateqoriyalarında animasiyalar</string>
-    <string name="com.crashlytics.android.build_id">c7edeeaf96f44245a67273946cf8582e</string>
+    <string name="com.crashlytics.android.build_id">f7abd03c957c4618a7101a82268c6200</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_home_search_delete">Axtarış çubuğu silmə</string>
     <string name="common_home_search_delete_cancle">İmtina</string>
