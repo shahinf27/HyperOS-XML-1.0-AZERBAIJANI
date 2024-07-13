@@ -220,6 +220,8 @@
     <string name="evening">Günortadan sonra</string>
     <string name="exceed_todo_text_limitation">Tapşırıq açıqlaması çox uzundur.</string>
     <string name="excerpt">Çıxarışlar</string>
+    <string name="excerpt_ares_block">Çoxsaylı pozuntular və funksionallıq sıradan çıxarılıb.</string>
+    <string name="excerpt_ares_block_tmp">Çoxsaylı pozuntular, funksiya müvəqqəti olaraq sıradan çıxarılıb.</string>
     <string name="excerpt_ares_limit">Həvəsinizi yüksək qiymətləndiririk, lakin hazırda yüksək trafiklə üzləşmişik. Lütfən baxmaq üçün orijinal keçidə toxunun və ya daha sonra yenidən sınayın.</string>
     <string name="excerpt_bubble_tips">Kopyalanmış mətn və saxlanılmış təsvirlər Notlarda saxlanılacaq</string>
     <string name="excerpt_image_ares_limit">Həvəsinizi yüksək qiymətləndiririk, lakin hazırda yüksək trafiklə üzləşmişik. Lütfən orijinal təsvirə istinad edin və ya daha sonra yenidən sınayın.</string>
