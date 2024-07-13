@@ -54,7 +54,7 @@
     <string name="circulate_cta_agree">Razıyam</string>
     <string name="circulate_cta_all_purpose">Əsas ekran+, \"Xiaomi Ara bağlantı Xidmətləri\"nin bir hissəsidir. Bağlantılı digər cihazların Əsas ekranlarını görməyinizə və onlarla qarşılıqlı əlaqə qurmağınıza imkan verir. Normal işləyə bilməsi üçün bu xidmətin internetə bağlanması lazımdır və aşağıdakı icazələri tələb edir:</string>
     <string name="circulate_cta_app_name">Xiaomi Ara bağlantı</string>
-    <string name="circulate_cta_desc_phone_miui15_14">\"Xiaomi Ara bağlantı\"ya xoş gəlmisiniz! Bu tətbiqi ekran məzmununu yayımlamaq, multimedia oxutmanı cihazlar arasında ötürmək, Mi Smart Play, cihaz ara bağlantı özəlliklərini istifadə etmək və tətbiq köçürmək üçün istifadə edə bilərsiniz. Bu tətbiqin internetə bağlanması lazımdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:</string>
+    <string name="circulate_cta_desc_phone_miui15_14">\"Xiaomi Ara bağlantı\"ya xoş gəlmisiniz! Bu tətbiqi ekran məzmununu yayımlamaq, multimedia oxutmanı cihazlar arasında ötürmək, Xiaomi Smart Play, cihaz ara bağlantı özəlliklərini istifadə etmək və tətbiq köçürmək üçün istifadə edə bilərsiniz. Bu tətbiqin internetə bağlanması lazımdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:</string>
     <string name="circulate_cta_exit">"Razı deyiləm"</string>
     <string name="circulate_cta_new_app_name">Əsas ekran+</string>
     <string name="circulate_cta_premission_bluetooth">Cihazları bir-birinə bağlamaq və Bluetooth vasitəsilə aralarında data köçürmək üçün</string>
@@ -87,6 +87,7 @@
     <string name="desktop_switch_is_closed">Əsas ekran+ söndürüldü</string>
     <string name="device_busy">Cihaz məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="device_max_screen_count_toast">Bu cihaz eyni anda yalnız iki pəncərənin açılmasını dəstəkləyir</string>
+    <string name="device_screen_fold_switch_tip">Bunun əvəzinə bu fəaliyyəti daxili ekrandan icra edin</string>
     <string name="display_max_screen_count_toast">Bu versiyada 3-ə qədər pəncərə aça bilərsiniz</string>
     <string name="display_not_support_secondary_toast">"Bu tətbiq yeni bir pəncərədə açıla bilmir"</string>
     <string name="download_aborted">"Bağlantı yarımçıq kəsildiyinə görə köçürülə bilmədi"</string>
@@ -173,6 +174,9 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_photograph_prompt_dialog_ok">Oldu</string>
+    <string name="fold_photograph_prompt_message">Kameranı daxili ekrandan istifadə et</string>
+    <string name="fold_photograph_prompt_notification_title">Notlar üçün cihaz arası kameranı istifadə et</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
@@ -237,7 +241,7 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="low_battery_notification_content_default">Telefon batareyası %1$s dən aşağıdır</string>
     <string name="low_battery_notification_title">Zəif batareya</string>
     <string name="message_log">Mesaj jurnalları</string>
-    <string name="mi_drop">Mi Share</string>
+    <string name="mi_drop">Xiaomi Share</string>
     <string name="midnight">Gecə</string>
     <string name="mirror_call_closed">Bu zəng, başqa bir cihazda cavablandırıldı</string>
     <string name="mirror_have_been_opened">Əsas ekran+ açıqdır</string>
@@ -591,8 +595,8 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>
@@ -642,6 +646,10 @@ telefonun kilidini aç"</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
+    <string name="upgrade_car_not_tip">"Təkrar göstərmə"</string>
+    <string name="upgrade_car_ok">Anladım</string>
+    <string name="upgrade_car_version_msg">"Bu özəlliyi istifadə edə bilmək üçün, EV-nizin sistemini Ayarlar &gt; Sistem &gt; \"Sistem versiyası\"nda 1.2.1 və ya daha yuxarı versiyaya güncəlləyin."</string>
+    <string name="upgrade_car_version_title">"EV-nizin sistemini güncəlləyin"</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verbose_mode">Detallı rejim</string>

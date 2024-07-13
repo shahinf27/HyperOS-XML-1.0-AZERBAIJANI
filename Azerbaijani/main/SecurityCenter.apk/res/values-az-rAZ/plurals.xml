@@ -276,6 +276,14 @@
 ·Batareya qənaəti açıq olduqda və ya cihazınız aşırı isindikdə təkmil vizuallar əlçatmaz olacaq.
 ·Ağıllı kadr sürəti, oyununuz saniyədə ən azı %d kadr göstərməyə ayarlandıqda, ən yaxşı nəticələri göstərir."</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Qeyd:
+·Batareya qənaəti açıq olduqda və ya cihazınız aşırı isindikdə təkmil vizuallar əlçatmaz olacaq.
+·Təkmil kadr sürəti, oyununuz saniyədə ən azı %d kadr göstərməyə ayarlandıqda, ən yaxşı nəticələri göstərir."</item>
+        <item quantity="one">"Not:
+·Batareya qənaəti açıq olduqda və ya cihazınız aşırı isindikdə təkmil vizuallar əlçatmaz olacaq.
+·Təkmil kadr sürəti, oyununuz saniyədə ən azı %d kadr göstərməyə ayarlandıqda, ən yaxşı nəticələri göstərir."</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"%d günlük ödənişsiz sınaq almaq
 üçün indi Səs dəyişdiricini sınayın!"</item>

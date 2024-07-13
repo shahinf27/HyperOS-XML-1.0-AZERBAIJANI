@@ -67,7 +67,7 @@
     <string name="category_music">Musiqi</string>
     <string name="category_music_title">Musiqi</string>
     <string name="category_no_file_desc">Burada hələ element yoxdur.</string>
-    <string name="category_no_file_sub_desc">Faylları yükləmək üçün üstəgəl nişanına toxunun.</string>
+    <string name="category_no_file_sub_desc">Faylları yükləmək üçün üstəgəl ikonuna toxunun.</string>
     <string name="category_select">Seç</string>
     <string name="category_video">Videolar</string>
     <string name="category_video_title">Videolar</string>
@@ -92,6 +92,7 @@
     <string name="cloud_storage_default_title">Bulud anbarı</string>
     <string name="cloud_storage_full">Bulud anbarı dolub. Daha çox anbar sahəsi əldə etmək üçün planınızı yüksəldin.</string>
     <string name="cloud_storage_info_type_backup">Bulud nüsxələri</string>
+    <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Ailə</string>
@@ -108,6 +109,9 @@
     <string name="create_folder_success">Qovluq uğurla yaradıldı</string>
     <string name="create_other_pdf">Yeni PDF</string>
     <string name="create_pdf_manual">Yeni PDF</string>
+    <string name="creation_dialog_message">Kətanlara planşetinizdə baxın.</string>
+    <string name="creation_dialog_positive_btn">Anladım</string>
+    <string name="creation_dialog_title">Diqqət</string>
     <string name="current_speed_content">Hazırkı sürət: %1$s</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
@@ -202,7 +206,7 @@ Daha çox anbar sahəsi əldə etmək üçün planınızı yüksəldin."</string
     <string name="file_is_downloaded">Element artıq endirilib</string>
     <string name="file_list_item_desc">%1$s | %2$s</string>
     <string name="file_no_file_desc">Burada hələ element yoxdur.</string>
-    <string name="file_no_file_sub_desc">Faylları yükləmək üçün üstəgəl nişanına toxunun.</string>
+    <string name="file_no_file_sub_desc">Faylları yükləmək üçün üstəgəl ikonuna toxunun.</string>
     <string name="file_picker_loading">Bir saniyə…</string>
     <string name="file_picker_no_file">Burada element yoxdur</string>
     <string name="file_picker_title">Element seçin</string>
@@ -553,8 +557,8 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>

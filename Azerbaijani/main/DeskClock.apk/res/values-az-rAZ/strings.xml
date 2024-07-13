@@ -215,6 +215,7 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="go_back">Geri</string>
+    <string name="greenwichmean_time">GMT</string>
     <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="holiday_update_fail">"Güncəllənə bilmədi"</string>
     <string name="holiday_update_loading">Güncəllənir…</string>
@@ -509,6 +510,8 @@
     <string name="ringtone_firefly">İşıldaböcək</string>
     <string name="ringtone_weather">Hava zəngli saatı</string>
     <string name="ringtone_week">Təbiət zəngli saatı</string>
+    <string name="ruler_view_text" formatted="false">%d%d</string>
+    <string name="ruler_view_text_one">%d</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -661,6 +664,7 @@
     <string name="timer_start_timer">Taymeri başlat</string>
     <string name="timer_title">Taymer</string>
     <string name="timezone_exist_error_message">"Artıq bu saat qurşağını görüntüləyirsiniz"</string>
+    <string name="timezone_search_zero">%d</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

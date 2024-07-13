@@ -584,8 +584,8 @@ Heç bir tətbiq məlumatını iitirməyəcəksiniz."</string>
     <string name="app_source_other">Digər</string>
     <string name="app_source_settings">Tənzimlə</string>
     <string name="app_source_widget">Vicet</string>
-    <string name="app_summary">"微信/QQ 抢红包神器
-支持个人红包与群红包"</string>
+    <string name="app_summary">"WeChat/QQ Qırmızı Zərf Tutucu
+Fərdi və qrup qırmızı zərfləri dəstəkləyir"</string>
     <string name="app_usage_half_year">Son %d ay</string>
     <string name="app_usage_more_year">%d ildən çox əvvəl</string>
     <string name="app_usage_never">Heç vaxt istifadə edilmədi</string>
@@ -693,6 +693,7 @@ Heç bir tətbiq məlumatını iitirməyəcəksiniz."</string>
     <string name="apps_list_header_title_sms_access">Doğrulama kodları üçün müraciəti məhdudlaşdır</string>
     <string name="ask_create_shortcut">Əsas ekran qısayolu yaradılsın?</string>
     <string name="audio_optimization_summary">Danışıqlarda səsi təkmilləşdirin və ətrafdakı səs-küyü azaldın</string>
+    <string name="audio_optimization_summary_new">Oyun zamanı qulaqlıqların səs keyfiyyətini optimallaşdırın və zəng zamanı səs-küyü azaldın</string>
     <string name="audio_optimization_title">Təkmilləşdirilmiş səs</string>
     <string name="auto_atsk_condition_battery_level_text_down">Batareya %s çatdıqda</string>
     <string name="auto_atsk_condition_battery_level_text_up">Batareya %s dolu olduqda</string>
@@ -1336,10 +1337,16 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="create_gamebooster_destop">Əsas ekran qısayolu uğurla yaradıldı</string>
     <string name="create_shortcut">Game Turbo üçün Əsas ekran qısayolu yarat</string>
     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
+    <string name="cs_close_vt_camera_first_tips">"Can't use this feature while using cross-device camera"</string>
     <string name="cs_color_sense">Rəng temperaturu</string>
+    <string name="cs_conversation_record_using">Səsyazma</string>
     <string name="cs_func_toast_headset">Bu özəlliyi istifadə edə bilmək üçün qulaqlığınızın bağlantısını kəsin</string>
     <string name="cs_func_toast_light">Bu özəlliyi istifadə edə bilmək üçün ön kameraya keçin</string>
     <string name="cs_func_toast_pickup">Bu özəlliyi istifadə edə bilmək üçün görüntülü zəngə keçin</string>
+    <string name="cs_func_unavailable_tips">Bu özəlliyi zəng zamanı istifadə edin</string>
+    <string name="cs_light_enhance_physical_options">Rəng temperaturu</string>
+    <string name="cs_light_enhance_physical_title">Parlaqlıq</string>
+    <string name="cs_open_camera_first_tips">Bu özəlliyi istifadə etmək üçün Kameranı açın</string>
     <string name="cs_pickup_denoise_desc">Dinamik və ya qulaqlıq istifadə edərkən gələn səsin səs-küyünü azaldın</string>
     <string name="cs_pickup_denoise_title">Səs-küy azaltma</string>
     <string name="cs_pickup_multi_desc">%d dərəcə səs alma</string>
@@ -1353,12 +1360,19 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cs_pickup_vioce_print_unsupport_tips">\"Tək iştirakçı\"nı seçməzdən əvvəl səs izini qeyd edin</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Xarici cihazları ayırıb yenidən sınayın</string>
     <string name="cs_pickup_voice_print_desc">Yalnız bir nəfərdən səs alın</string>
+    <string name="cs_privacy_camera_global_settings_title">Zəng gizliliyi</string>
     <string name="cs_screen_translation_title">Ekran tərcüməsi</string>
-    <string name="cs_simultaneous_interpretation_title">Interpret</string>
+    <string name="cs_simultaneous_interpretation_title">Tərcümə</string>
     <string name="cs_title_pickup">Səs-küy azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyası</string>
     <string name="cs_title_ultraclear">Ultra HD rejimi</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Yeni Zəng alət qutusundakı eynivaxtlı tərcümə və digər konfrans zəngi alətlərini sınayın</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Yeni Zəng alət qutusundakı müxtəlif konfrans zəngi özəlliklərini sınayın</string>
+    <string name="cs_tool_box_phone_guide_case_1">Yeni Zəng alət qutusundakı eynivaxtlı tərcümə və digər özəllikləri sınayın</string>
+    <string name="cs_tool_box_phone_guide_case_2">Yeni Zəng alət qutusundakı müxtəlif özəllikləri sınayın</string>
     <string name="cs_voice_print">Səs izini yaz</string>
+    <string name="cs_vt_camera_toast_case1">Hazırkı tətbiqdə kameranı aç</string>
+    <string name="cs_vt_camera_toast_case2">Yaxınlıqda uyumlu cihaz yoxdur</string>
     <string name="cta_HIPS_Perm_Location_Desc">Xəbərdarlıq Mərkəzində, Fövqəladə hal SOS, Tətbiq batareyasına qənaət, ödəniş güvənliyi skaneri və təxmini yerləşmə xidmətində yerləşmənizlə əlaqəli özəllikləri təmin etmək üçün</string>
     <string name="cta_agree_desc">Xidmətlərimizi istifadə edə bilmək üçün bu tətbiqin internetə bağlanmasına icazə verin və yuxarıda sadalanan icazələri verin.</string>
     <string name="cta_close_dialog_cancel">İmtina</string>
@@ -1811,6 +1825,7 @@ Bu özəlliyin yalnız istinad üçün təqdim edildiyini anlamalısınız. Ald�
     <string name="ew_monitor_exit_title">Diqqət</string>
     <string name="ew_monitor_have_been">"Olduğuma qürur duyuram "</string>
     <string name="ew_monitor_info_title">Bu necə işləyir?</string>
+    <string name="ew_monitor_join">Zəlzələ izləmə proqramına qoşul</string>
     <string name="ew_monitor_join_number">Könüllü sayı</string>
     <string name="ew_monitor_join_path">Xiaomi cihazı istifadə edərək proqrama qoşul: Güvənlik &gt; Zəlzələ xəbərdarlığı &gt; Zəlzələ izləmə könüllüsü.</string>
     <string name="ew_monitor_my_content">Mobil cihazım zəlzələ erkən xəbərdarlıq şəbəkəsinin bir parçasıdır. Onun sensorları seysmik dalğaları aşkarladıqdan sonra məlumatlar AI alqoritmi tərəfindən təhlil ediləcək və təsirlənən ərazilərdəki insanlara erkən xəbərdarlıqlar veriləcək.</string>
@@ -2343,6 +2358,8 @@ könüllüsü"</string>
     <string name="gb_audition_play_instruction">Ən yaxşı effekt üçün qulaqlıqları istifadə edin</string>
     <string name="gb_award_noti_message">Mükafatları əldə etmək üçün Game Turbo-da Game for Peace arxaplan güncəlləmələrini işə sal</string>
     <string name="gb_award_noti_title">Game for Peace mükafatları buradadır!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>\"Sistem miqyasında Ultimate rejimi açıq olduqda Game Turbo-da Tarazlı rejimə keçilə bilmir. Batareya ayarlarını Güvənlik tətbiqində dəyişdirə bilərsiniz.&lt;br&gt;&lt;a href=\"#\"&gt;Güvənlik tətbiqini aç&lt;/a&gt;\"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>\"Sistem miqyasında Tarazlı rejimi açıq olduqda Game Turbo-da Tarazlı rejimə keçilə bilmir. Batareya ayarlarını Güvənlik tətbiqində dəyişdirə bilərsiniz.&lt;br&gt;&lt;a href=\"#\"&gt;Güvənlik tətbiqini aç&lt;/a&gt;\"</Data></string>
     <string name="gb_bar_high">Yüksək</string>
     <string name="gb_bar_low">Aşağı</string>
     <string name="gb_bar_mid">Orta</string>
@@ -2500,6 +2517,8 @@ ancaq enerji sərfiyyatını artırır və cihazın aşırı isinməsinə səbə
     <string name="gb_predownload_receive_tips">Mükafatları almaq üçün arxaplan güncəlləmələrini işə salın</string>
     <string name="gb_predownload_receiving">Alınır…</string>
     <string name="gb_predownload_title">Arxaplan güncəlləmələri</string>
+    <string name="gb_setting_dock_toast">Ön kamera köməkçi özəllikləri artıq Zəng alət qutusunda əlçatandır</string>
+    <string name="gb_setting_dock_toast_2">Ön kamera köməkçi özəllikləri artıq Zəng alət qutusunda əlçatandır</string>
     <string name="gb_shortcut_pref_title">Əsas ekran qısayolu</string>
     <string name="gb_shoulder_guide_message1">Çiyin düyməsi ilə istifadə etmək üçün [L] düyməsini istənilən funksional mövqeyə daşı</string>
     <string name="gb_shoulder_guide_message2">[1] əməliyyatı, düyməyə basaraq aktivləşdirilir. [2] əməliyyatı, düyməni buraxaraq aktivləşdirilir.</string>
@@ -2573,7 +2592,7 @@ ancaq enerji sərfiyyatını artırır və cihazın aşırı isinməsinə səbə
     <string name="gb_vision_enhance_desc">Şəkil keyfiyyətini və performansını yaxşılaşdır</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Ağıllı kadr sürəti
 %dFPS"</string>
-    <string name="gb_vision_enhance_smart_frame_enhance">Enhance frame rate</string>
+    <string name="gb_vision_enhance_smart_frame_enhance">Təkmil kadr sürəti</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Ağıllı kadr sürəti</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Hərəkəti daha hamar etmək üçün kadr sürətini avtomatik ayarla</string>
     <string name="gb_vision_enhance_super_resolution">Super dəqiqlik</string>
@@ -2643,9 +2662,21 @@ məqamlarını yazın"</string>
     <string name="gd_dock_shortcut_splitescreen">Bölünmüş ekran</string>
     <string name="gd_setting_conversation">Konfrans alətləri</string>
     <string name="gd_setting_conversation_desc">Tam ekranlı səsli və görüntülü zənglərdə istifadə etmək üçün müxtəlif özəlliklər təqdim edir</string>
+    <string name="gd_setting_dock_activity_title">Yan alət qutusu</string>
+    <string name="gd_setting_dock_call_summary">Səsli və görüntülü zəng özəllikləri (məs. işıq doldurma)</string>
+    <string name="gd_setting_dock_call_title">Zəng alət qutusu</string>
+    <string name="gd_setting_dock_game_summary">Oyun oynayarkən görüntünü və performansı təkmilləşdirin</string>
+    <string name="gd_setting_dock_game_summary_new">Oyun oynayarkən görüntünü və performansı təkmilləşdirin</string>
+    <string name="gd_setting_dock_summary">Bir tətbiqi tam ekran istifadə edərkən digər tətbiqləri üzən pəncərələrdə aç</string>
+    <string name="gd_setting_dock_title">Yan çubuğu</string>
+    <string name="gd_setting_dock_video_summary">Videolara baxarkən Dolby Atmos kimi effektləri istifadə et</string>
+    <string name="gd_setting_dock_video_summary_new">Videolara baxarkən alətləri və effektləri istifadə et</string>
+    <string name="gd_setting_group_custom_conversation_apps">Zənglər üçün səs izini yaz</string>
     <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Oyun tətbiqlərini idarə et</string>
     <string name="gd_setting_group_custom_settings">Fərdiləşdirmə</string>
     <string name="gd_setting_group_custom_vtb_apps">Video tətbiqlər</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Video tətbiqləri idarə et</string>
     <string name="gd_setting_group_title_switch">Səhnələr</string>
     <string name="gd_setting_gtb">Oyun oynayarkən göstər</string>
     <string name="gd_setting_gtb_desc">Oyun üçün xüsusi özəlliklər</string>
@@ -2661,16 +2692,22 @@ məqamlarını yazın"</string>
     <string name="gd_sidebar_long_press_tips">Cihazı şaquli tutaraq göstəricini hərəkət etdirmək üçün basılı tutun</string>
     <string name="gd_splite_screen_tips">"Bölünmüş ekran, üzən pəncərələri dəstəkləmir"</string>
     <string name="gdpr_msg"><Data>\"Güvənlik risklərini aşkarlaya bilmək və datanızı qoruya bilmək üçün cihazınız haqqında lazımi miqdarda məlumat yığmağımız lazımdır. Xidmətlərimizi istifadə etməzdən əvvəl &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın. Bu cür məlumatları yığmağımıza icazə vermədiyiniz halda, yenə də bu tətbiqi istifadə edə biləcəksiniz, ancaq bəzi özəlliklər sizin üçün əlçatan olmayacaq.\"</Data></string>
-    <string name="ge">个</string>
+    <string name="ge">Fərdi</string>
     <string name="get_detail_by_click">Detallara baxmaq üçün toxunun</string>
     <string name="get_phone_num_fail">Bilinməyən telefon nömrəsi</string>
     <string name="get_sys_info">Məlumat alınır…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Pəncərəni hərəkət etdirmək üçün göstəricini basılı tutun</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Üzən pəncərədə açmaq üçün yan çubuqdakı tətbiqə toxunun.
+· Bir tətbiqi üzən pəncərədə açmaq üçün onu ekranın mərkəzinə və ya Bölünmüş ekranı istifadə etmək üçün yana sürükləyin.
+· Pəncərəni hərəkət etdirmək üçün göstəricini basılı tutun."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Üzən pəncərədə açmaq üçün yan çubuqdakı tətbiqə toxunun.
 · Bir tətbiqi üzən pəncərədə açmaq üçün onu ekranın mərkəzinə və ya Bölünmüş ekranı istifadə etmək üçün yana sürükləyin.
 · Pəncərəni hərəkət etdirmək üçün göstəricini basılı tutun."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Üzən pəncərədə açmaq üçün yan çubuqdakı tətbiqə toxunun.
 · Pəncərəni hərəkət etdirmək üçün göstəricini basılı tutun."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Yan çubuğu açmaq üçün sürüşdürün və üzən pəncərədə açmaq üçün bir tətbiqə toxunun.
+Pəncərəni hərəkət etdirmək üçün göstəricini basılı tutun."</string>
     <string name="global_satisfaction_notification_button">Qiymət</string>
     <string name="global_satisfaction_notification_channel">İstifadəçi məmnuniyyəti anketi</string>
     <string name="global_satisfaction_notification_subhead">Təcrübəniz haqqında bizə məlumat verin</string>
@@ -3331,6 +3368,17 @@ Cihazınız indi %s daha sürətlidir."</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+    <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+    <string name="miuix_font_style_misans_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -3917,6 +3965,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_fast_charge_switch_summary_new">Məhsulla birlikdə gələn doldurma cihazını qoşduqda və batareya təyin edilən səviyyədən aşağı endikdə doldurma sürətini artırmağı xatırlat</string>
     <string name="pc_fast_charge_switch_title">Doldurma sürətini artır</string>
     <string name="pc_fast_charge_switch_toast_message">Dəyişikliklər, bu cihazı növbəti dəfə doldurduğunuzda tətbiq ediləcək</string>
+    <string name="pc_fast_charge_temp_remider">"Doldurma sürətini avtomatik tənzimləmək üçün işə salın. Bu özəllik yalnız Xiaomi-nin təmin etdiyi doldurma cihazları ilə işləyir. Cihazınız doldurma zamanı isinə bilər."</string>
     <string name="pc_fast_charge_title">Doldurma sürətini artır</string>
     <string name="pc_going_to_exit_extreme_mode">Yuxu rejimindən çıxılır</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız doldurulur. Yuxu rejimi bağlıdır.</string>
@@ -4005,6 +4054,16 @@ söndürülür"</string>
     <string name="pc_search_keywords_capacity">Batareya tutumu</string>
     <string name="pc_search_keywords_property">Performans</string>
     <string name="pc_settings_title">Batareya</string>
+    <string name="pc_smart_charge_button_summary">Batareyanın ömrünü uzatmaq üçün sistem, cihazınızı necə doldurduğunuzu öyrənəcək və batareya %1$s səviyyəsinə çatdıqda doldurmanı dayandıracaq</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Cihazınız isindi. Batareya %1$s səviyyəsinə çatdıqda doldurma dayandırılacaq</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Hərəkət edir… Batareya %1$s səviyyəsinə çatdıqda doldurma dayandırılacaq</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Doldurma %s olduqda dayandırılacaq</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">"Batareyanın ömrünü uzatmaq üçün avtomobilə bağlandıqda bu cihazın batareyası hazırkı səviyyənin üzərinə çıxmayacaq."</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Təkrar göstərmə"</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Batareya qoruması</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">"Batareyanın ömrünü uzatmaq üçün avtomobilə bağlandıqda bu cihazın batareyası hazırkı səviyyənin üzərinə çıxmayacaq"</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Batareya qoruması</string>
+    <string name="pc_smart_charge_title">Ağıllı doldurma</string>
     <string name="pc_smart_discharge_checkbox_summary">Naviqasiya özəlliklərini istifadə edərkən, doldurma müəyyən edilmiş faizdə avtomatik olaraq dayandırılacaq. Batareya qənaəti söndürüləcək.</string>
     <string name="pc_smart_discharge_checkbox_title">Doldurmanın avtomatik kəsilməsi</string>
     <string name="pc_smart_discharge_drop_down_title">Avtomatik bağlantı kəsmə ayarları</string>
@@ -4017,6 +4076,8 @@ söndürülür"</string>
     <string name="pc_statistics_battery_use_title">Batareya istifadəsi</string>
     <string name="pc_suggest_open_fast_charge">%dW sürətli doldurmanı işə sal</string>
     <string name="pc_temperature_too_high">Cihaz aşırı isinib</string>
+    <string name="pc_this_time_charge_full">Bu dəfə tam doldur</string>
+    <string name="pc_this_time_charge_full_work">Demək olar ki, tam dolub</string>
     <string name="pc_timely_charging_summary">Batareya %1$s altındadır. Batareya zəif olarkən cihaz aşırı isinirsə, bu, batareyaya zərər verə bilər.</string>
     <string name="pc_timely_charging_title">Cihazınızı doldurun</string>
     <string name="pc_to_phone_install">USB vasitəsilə %s quraşdırılması əngəlləndi</string>
@@ -4040,6 +4101,7 @@ söndürülür"</string>
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Aşırı isinmə və avadanlıqla bağlı problemlərdən çəkinin</string>
     <string name="perfermance_optimization_title">Performans optimallaşdırma</string>
+    <string name="performance_frame_enhance_super_display_tips">"Təkmil kadr sürəti və super dəqiqlik eyni anda işləyə bilməz. Birini işə salsanız, digəri söndürüləcək."</string>
     <string name="performance_frame_insert_super_display_tips">"Ağıllı kadr sürəti və super dəqiqlik eyni anda fəal ola bilməz. Birini işə salsanız, digəri söndürüləcək."</string>
     <string name="perm_intercept_content">Bu tətbiqə aşağıdakı icazə verilsin: %1s?</string>
     <string name="perm_intercept_notification_title">%1s üçün bildirişləri istifadə etmə icazəsi vermək, bu tətbiqin aşağıdakı əməliyyatı icra etməsinə imkan verəcək:</string>
@@ -4176,6 +4238,8 @@ söndürülür"</string>
     <string name="permission_precise_location">Dəqiq yerləşmə</string>
     <string name="permission_precise_location_sumary">Bu özəllik söndürüldükdə, tətbiqlər yalnız təxmini yerləşmənizə müraciət edə biləcək</string>
     <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\"&gt;%2$s&lt;/a&gt;</Data></string>
+    <string name="permission_risk_app_for_desc">Bu tətbiq, güvənlik riskləri yarada bilər. Yenə də icazələr verilsin?</string>
+    <string name="permission_risk_app_for_title">Risklər aşkarlandı</string>
     <string name="permission_share_uid">Dəqiq yerləşmə</string>
     <string name="permission_upgrade_more">Daha çox gizlilik qoruma özəllikləri</string>
     <string name="permission_upgrade_privacy_title">"Səs yazma və kontaktlara müraciət icazələri, artıq belə icazələri yalnız müvafiq tətbiqləri istifadə edərkən verməyə imkan verən seçimə malikdir. Şəxsi məlumatlarınızın gizliliyini qorumaq üçün tətbiqlər arxaplanda bu əməliyyatları icra etmir."</string>
@@ -4259,6 +4323,9 @@ söndürülür"</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Bu tətbiq, boş bir kontakt qaytardı</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Bu tətbiq, boş bir zəng statusu qaytardı</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Bu tətbiq, boş bir SMS qaytardı</string>
+    <string name="permission_warning_for_cancel">İmtina</string>
+    <string name="permission_warning_for_ensure">İcazə ver</string>
+    <string name="permission_warning_for_risk">İcazə verməyə qərar versəniz, gizliliyinizi qorumaq üçün tətbiqə boş mesajlar qaytarılacaq.</string>
     <string name="permission_with_SMS_and_MMS">SMS və MMS ilə əlaqəli icazələr</string>
     <string name="permission_with_call_and_contact">Telefon zəngləri, kontakt məlumatları və zəng tarixçələri ilə əlaqəli icazələr.</string>
     <string name="permission_with_read_write_clipboard">Tətbiqlərin elementlərə müraciət etməsinə və onları lövhədə saxlamasına icazə ver</string>
@@ -4902,6 +4969,8 @@ söndürülür"</string>
     <string name="privacy_empty_location">"Bu gün yerləşməyə müraciət edilmədi"</string>
     <string name="privacy_empty_record">"Bu gün səs yazılmadı"</string>
     <string name="privacy_empty_storage">"Bu gün anbara müraciət edilmədi"</string>
+    <string name="privacy_extra_provision_positive_btn">Razıyam</string>
+    <string name="privacy_extra_provision_title">Uzatma xidmətləri</string>
     <string name="privacy_flares_behavior_recent">Tətbiq davranışı</string>
     <string name="privacy_flares_capsule_current">%1s | İndi</string>
     <string name="privacy_flares_capsule_recent">%1s | Təzəlikcə</string>
@@ -4981,6 +5050,7 @@ söndürülür"</string>
     <string name="privacy_provision_summary">Gizlilik qoruması, məhsullarımızın dizaynının arxasında duran öhdəlikdir</string>
     <string name="privacy_provision_text">Gizliliyinizə hörmət etməkdə və onu qorumaqda qərarlıyıq. İnformasiya güvənliyi sahəsində tədqiqat və inkişafa üstünlük verən Xiaomi, daim datanızı qoruyan üsulları, təcrübələri və texniki həlləri təkmilləşdirmək üzərində işləyir. Həmçinin, gizliliyinizi təmin etmək üçün ən son nailiyyətlərimizi tərəfdaşlarımızla paylaşırıq.</string>
     <string name="privacy_provision_title">Gizlilik</string>
+    <string name="privacy_provison_no_network">Əvvəlcə şəbəkəyə bağlanın.</string>
     <string name="privacy_recommend_category">Fərdiləşdirmə</string>
     <string name="privacy_recommend_summary">Fərdiləşdirilmiş məzmun tövsiyələri al</string>
     <string name="privacy_recommend_title">Fərdiləşdirilmiş tövsiyələr</string>
@@ -5286,6 +5356,13 @@ Razılıq indi geri götürülsün?"</string>
     <string name="sd_mount">SD kartı tax</string>
     <string name="sd_mount_summary"></string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_keyword_apply">Tətbiq</string>
+    <string name="search_keyword_applybar">Tətbiq yuvası</string>
+    <string name="search_keyword_call">Zəng</string>
+    <string name="search_keyword_sidebar">Yan çubuğu</string>
+    <string name="search_keyword_tool">Alətlər</string>
+    <string name="search_keyword_tools">Alət qutusu</string>
+    <string name="search_keyword_voice">Səsli</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_result_text">"Heç bir tətbiq tapıla bilmədi"</string>
     <string name="secondart_setting_title">Qırmızı zərf xatırlatma ayarları</string>
@@ -5413,7 +5490,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="sim_lock_done_disable">"SIM kartınız qorunmur"</string>
     <string name="sim_lock_done_enable">SIM kartınız qorunur</string>
     <string name="sim_lock_done_title">SIM güvənliyi</string>
-    <string name="sim_lock_enable_done_message">"SIM kartınız bu cihazla əlaqələndirildi. SIM PIN avtomatik olaraq doğrulanacaq. Bu SIM kartı digər cihazlarda istifadə edərkən hələ də PIN kodu əllə daxil etməli olacaqsınız."</string>
+    <string name="sim_lock_enable_done_message">"SIM kartınız bu cihazla əlaqələndirildi. SIM kartı istifadə etdikdə və ya başqa bir cihaza taxdıqda PIN-inizi doğrulamalı olacaqsınız."</string>
     <string name="sim_lock_guide_button">Ayarlar</string>
     <string name="sim_lock_guide_message">Güvənlik risklərinə qarşı daha az həssas etmək üçün SIM kartınızı bu cihazla əlaqələndirin</string>
     <string name="sim_lock_guide_title">SIM kartınızı qoruyun</string>
@@ -6395,6 +6472,8 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="toast_cleaner_cloudscan">Təmizləyici onlayn tərifləri istifadə edəcək</string>
     <string name="toast_dark_mode_fixed">Uğurla düzəldildi. Dəyişiklikləri tətbiq etmək üçün bu səhifəni tərk edin.</string>
     <string name="toast_flow_notification">İnternet istifadə bildirişləri işə salındı</string>
+    <string name="toast_gamembox_unenable_pad">Əvvəlcə \"Güvənlik\"də Game Turbo-nu işə sal</string>
+    <string name="toast_gamembox_unenable_phone">Əvvəlcə \"Güvənlik\"də Game Turbo-nu işə sal</string>
     <string name="toast_garbage_lib">Təmizləyici üçün avto-güncəlləmə işə salındı</string>
     <string name="toast_keyword_blank">Bir açar söz daxil etməlisiniz</string>
     <string name="toast_keyword_exist">Açar söz əlavə edildi</string>
@@ -6754,8 +6833,16 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="wakepath_delete_all_tips">"Davam etsəniz, hər bir tətbiqə digər tətbiqləri açmaq üçün icazə verməli olacaqsınız. Yenə də davam edilsin?"</string>
     <string name="wakepath_delete_app_start_all">"Davam etsəniz, digər tətbiqləri açmaq üçün yenidən %s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
     <string name="wakepath_delete_app_start_other_app">"Davam etsəniz, %2$s açmaq üçün %1$s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
+    <string name="wakepath_manager_allow_list">İcazə verildi</string>
+    <string name="wakepath_manager_allow_start">İcazə verildi</string>
+    <string name="wakepath_manager_checkbox_desc">%1$s üçün digər tətbiqləri başlatma icazəsi ver</string>
+    <string name="wakepath_manager_checkbox_title">Zəncirvari başlatmaya icazə ver</string>
+    <string name="wakepath_manager_empty_list">Heç bir tətbiqin başladılmasına icazə verilmir</string>
+    <string name="wakepath_manager_reject_list">Məhdudlaşdırıldı</string>
+    <string name="wakepath_manager_reject_toast">Bu tətbiqin digər tətbiqləri başlatmasına icazə vermək üçün Ayarlarda \"Zəncirvari başlatmanı idarə et\"i axtarın</string>
     <string name="wakepath_manager_title">Zəncirvari başlatmanı idarə et</string>
     <string name="warn_function_no_work">&lt;u&gt;Qırmızı zərfin gəlməsi sizə normal xatırladıla bilmir?&lt;/u&gt;</string>
+    <string name="warningcenter_accurate_area_title">Təsirlənmiş ərazi</string>
     <string name="warningcenter_action_check">Bax</string>
     <string name="warningcenter_alert_home">Yerləşmə</string>
     <string name="warningcenter_alert_room">Otaq</string>
@@ -6785,7 +6872,7 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="warningcenter_disaster_hailang">Dalğalar</string>
     <string name="warningcenter_disaster_hanchao">Soyuq dalğa</string>
     <string name="warningcenter_disaster_icon_title">Demo xəbərdarlığı</string>
-    <string name="warningcenter_disaster_info">"CMA-nın Xəbərdarlıq Mərkəzi tərəfindən dərc edildi"</string>
+    <string name="warningcenter_disaster_info">Güvəndə qalmaq və riskləri minimuma endirmək üçün fəlakət xəbərdarlıqları alın</string>
     <string name="warningcenter_disaster_info_from">Erkən Xəbərdarlıq Mərkəzi | Milli Erkən Xəbərdarlıq Məlumat Yayım Mərkəzindən səlahiyyətli buraxılış</string>
     <string name="warningcenter_disaster_info_title">Xəbərdarlıqlar haqqında</string>
     <string name="warningcenter_disaster_leiyudafeng">Tufan və güclü külək</string>
@@ -6826,6 +6913,7 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="warningcenter_disaster_search_hint">Xəbərdarlıq növü/bölgə/yayımlayan agentlik</string>
     <string name="warningcenter_disaster_search_keywords">Hava xəbərdarlıqları</string>
     <string name="warningcenter_disaster_senlinhuoxian">Meşə yanğını sığortası</string>
+    <string name="warningcenter_disaster_service_area">Xidmətin əhatə dairəsi</string>
     <string name="warningcenter_disaster_taifeng">Tayfun</string>
     <string name="warningcenter_disaster_title">Fəlakət xəbərdarlığı</string>
     <string name="warningcenter_disaster_type_all">Bütün növlər</string>

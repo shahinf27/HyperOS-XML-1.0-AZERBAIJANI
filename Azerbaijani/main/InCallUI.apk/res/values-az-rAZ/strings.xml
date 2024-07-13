@@ -35,8 +35,11 @@
     <string name="ai_mode_auto">Avtomatik</string>
     <string name="ai_mode_manual">Əllə</string>
     <string name="ai_mode_subtitles">Altyazılar</string>
+    <string name="align_satellite_model_call">Zəng</string>
     <string name="align_satellite_model_exit">Çıx</string>
+    <string name="align_satellite_model_mms">Mesaj</string>
     <string name="align_satellite_model_use">Başla</string>
+    <string name="align_satellite_model_use_exp">Bitir</string>
     <string name="am">GƏ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="antifraud_center">Fırıldaqçılıq əleyhinə xəbərdarlıq platforması</string>
@@ -72,6 +75,7 @@
     <string name="call_progress_info_user_busy">Digər şəxs indi məşğuldur. Lütfən daha sonra zəng edin.</string>
     <string name="call_progress_info_user_call_rejected">Nömrəniz hal-hazırda xidmət xaricindədir</string>
     <string name="call_record_wait_label">Gözləyir</string>
+    <string name="call_recording">Zəng səsyazması davam edir</string>
     <string name="call_recording_deny_permission_msg">"Yaza bilmir. Əvvəlcə Ayarlarda icazələri verin."</string>
     <string name="call_recording_error_low_storage">Anbarda yetərli boş yer yoxdur.</string>
     <string name="call_recording_error_privacy">"Qonaq rejimində səs yazıla bilmir"</string>
@@ -185,6 +189,10 @@
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
+    <string name="flip_expand_conference_call_text">Konfrans zəngini idarə etmək üçün açın</string>
+    <string name="flip_expand_suport_videocall_text">Görüntülü zəng seçimləri üçün açın</string>
+    <string name="flip_expand_switch_call_text">Çoxkanallı zəngə keçmək üçün açın</string>
+    <string name="flip_video_incoming_call_label">Görüntülü zəng</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -383,7 +391,7 @@
     <string name="pm">GS</string>
     <string name="private_num">Özəl nömrə</string>
     <string name="relay_cal_from_device_name">%1$s üzərindən</string>
-    <string name="relay_call">Handoff</string>
+    <string name="relay_call">Köçürmə</string>
     <string name="relay_call_device_name">Bağlantı qurulan cihaz (%1$s)</string>
     <string name="relay_call_unable_to_work">"Köçürülən zənglər üçün bu özəllik istifadə edilə bilmir"</string>
     <string name="relay_device_local">Bu cihaz</string>
@@ -397,15 +405,22 @@
     <string name="satellite_debug_azimuth">Azimut</string>
     <string name="satellite_debug_compass">Kompas</string>
     <string name="satellite_debug_evevation">Yüksəklik</string>
-    <string name="satellite_debug_rssi">Rssi siqnal gücü</string>
     <string name="satellite_debug_satellite">Peyk</string>
     <string name="satellite_diable_earpiece">"Qulaqlıqlar peyk zənglərində istifadə edilə bilmir"</string>
     <string name="satellite_dialog_button">Üzən pəncərə</string>
     <string name="satellite_dialog_cancel">İmtina</string>
-    <string name="satellite_guide_azimuth">Peyk ikonu mavi sahədə olana qədər hərəkət edin</string>
+    <string name="satellite_dialog_cancel_exp">İmtina</string>
+    <string name="satellite_get_gps_timeout">"Yer məlumatı alına bilmir. Açıq bir ərazidə qalın və siqnalı əngəlləyən obyektlərdən uzaq durun."</string>
+    <string name="satellite_guide_azimuth">Peyk, skan ərazisində olana qədər hərəkət edin</string>
+    <string name="satellite_guide_azimuth_floating">Skan ərazisinə daxil olun</string>
+    <string name="satellite_guide_azimuth_in">Peyk, skan ərazisindədir</string>
+    <string name="satellite_guide_azimuth_in_floating">Peyk, skan ərazisindədir</string>
+    <string name="satellite_guide_azimuth_leave">Peyk, skan ərazisini tərk etdi</string>
+    <string name="satellite_guide_azimuth_leave_floating">Daha da uzaqlaşır</string>
     <string name="satellite_guide_down">"Topu mavi sahəyə qoymaq üçün
 cihazınızı aşağı əyin"</string>
-    <string name="satellite_guide_elevation">Peyk ikonu mavi dairədə olana qədər hərəkət edin</string>
+    <string name="satellite_guide_elevation">Mavi dairəni peykə tərəf hərəkət etdirmək üçün cihazınız əyin, sonra sabit qalın</string>
+    <string name="satellite_guide_elevation_floating">Dairəni peykə yerləşdirin</string>
     <string name="satellite_guide_found">Peyk tapıldı</string>
     <string name="satellite_guide_left">"Peyk ikonunu mavi sahəyə qoymaq üçün
 cihazınızı sola əyin"</string>
@@ -413,17 +428,39 @@ cihazınızı sola əyin"</string>
 cihazınızı sağa əyin"</string>
     <string name="satellite_guide_searching">Peyk axtarılır…</string>
     <string name="satellite_guide_searching_floating">Axtarılır…</string>
+    <string name="satellite_guide_searching_fold">"Peyk axtarılır… Cihazı açmayın."</string>
+    <string name="satellite_guide_searching_unfold">"Peyk axtarılır… Cihazı qatlamayın."</string>
+    <string name="satellite_guide_signal">Daha yaxşı siqnal üçün, cihazınızı bir qədər yuxarı və aşağı hərəkət etdirin</string>
     <string name="satellite_guide_up">"Topu mavi sahəyə qoymaq üçün
 cihazınızı yuxarı əyin"</string>
-    <string name="satellite_incall_tip">Dinamik açıqdır</string>
-    <string name="satellite_satellite_accessory">"Tiantong Satellite siqnal gücləndirici aksesuarlarını istifadə edirəm"</string>
+    <string name="satellite_incall_tip">"Peyk rabitələri istifadə edilərkən qulaqlıq istifadə edilə bilmir"</string>
+    <string name="satellite_knew">Anladım</string>
+    <string name="satellite_latitude_longitude">"Hazırkı yer: "</string>
+    <string name="satellite_location_deny_permission_msg">Tiantong Peyk rabitələrini işə salmaq üçün yerləşmə müraciətinə icazə verin</string>
+    <string name="satellite_satellite_accessory">"Peyk üçün sqnal gücləndirici istifadə edirəm"</string>
+    <string name="satellite_satellite_service_redirection">Aktivləşdir</string>
+    <string name="satellite_satellite_service_tip">"Deyəsən, peyklə birbaşa bağlantı xidmətini aktivləşdirməmisiniz. Aktivləşdirdikdən sonra peykləri axtarmağa çalışın."</string>
     <string name="satellite_service_provider">Xidmət, China Telecom tərəfindən təmin edilir</string>
+    <string name="satellite_service_reject_cause_imei">"Cihazın IMEI-si qeydiyyatdan keçməyib"</string>
+    <string name="satellite_service_reject_cause_not_enable_International_roaming">Beynəlxalq rouminqi işə sal</string>
+    <string name="satellite_service_reject_cause_not_order_tiantong">Tiantong Peyk xidmətlərini işə sal</string>
+    <string name="satellite_service_reject_cause_not_use_ctc">China Telecom SIM kartını daxil et</string>
+    <string name="satellite_signal_boost_setting_dialog">Qurulub aktivləşdirildikdən sonra, siqnal gücləndirici bu qurğunun peykə olan bucağını bir qədər dəyişdirərək buludlu və qaranlıq şəraitdə peyk rabitələrinin siqnal gücünü və stabilliyini artıracaq.</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Peyk siqnal gücləndirini quraşdırın və istifadə etməyə başlayın</string>
     <string name="satellite_state">"Cihazınızı hərəkət etdirməyin"</string>
     <string name="satellite_state_auto_exit">Çıx (%ds)</string>
-    <string name="satellite_state_connected">"Peykə bağlandı. Cihazınızı hərəkət etdirməyin."</string>
+    <string name="satellite_state_connected">"Peykə bağlandı
+Cihazı bu mövqedə tutun"</string>
+    <string name="satellite_state_connected_exp">Peyk uğurla yerləşdirildi</string>
+    <string name="satellite_state_connected_exp_floating">Peyk uğurla yerləşdirildi</string>
     <string name="satellite_state_connected_floating">"Cihazınızı hərəkət etdirməyin"</string>
-    <string name="satellite_state_connecting">Bağlantı qurulur… (%d s)</string>
+    <string name="satellite_state_connecting">Peykə bağlanır… (%d s)</string>
+    <string name="satellite_state_connecting_floating">Bağlantı qurulur (%d s)</string>
+    <string name="satellite_state_gps_noti_content">Yer məlumatınız istifadə edilir…</string>
+    <string name="satellite_state_gps_noti_title">Peyk rabitələri</string>
+    <string name="satellite_state_occlusion_prompt">Siqnalın qarşısını ala biləcək binalardan və ya ağaclardan uzaq durun</string>
     <string name="satellite_state_retry">Sınamağa davam et</string>
+    <string name="satellite_state_voice_reg_fail_exit">Çıx</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
