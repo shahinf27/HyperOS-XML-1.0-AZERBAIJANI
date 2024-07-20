@@ -7222,7 +7222,7 @@ OTG, 10 dəqiqəlik fəaliyyətsizlikdən sonra avtomatik sönəcək."</string>
     <string name="paper_mode_title">Kağız</string>
     <string name="papger_effect_category">Rejim</string>
     <string name="params_interpretation">Detallı xüsusiyyətlər</string>
-    <string name="parental_control_title">Valideyn nəzarətləri</string>
+    <string name="parental_control_title">Valideyn nəzarəti</string>
     <string name="partial_connectivity_text">Bəzi tətbiqlər və xidmətlər limitli bağlantıya görə işləməyə bilər. Yenə də istifadə edilsin?</string>
     <string name="passpoint_content">%1$s - kimlik məlumatları</string>
     <string name="passpoint_label">Saxlanıldı</string>
