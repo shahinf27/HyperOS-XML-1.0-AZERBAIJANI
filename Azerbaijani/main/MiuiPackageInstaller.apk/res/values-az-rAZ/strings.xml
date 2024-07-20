@@ -71,6 +71,7 @@
     <string name="app_info_version_replace">Versiya: %1$s -&gt; %2$s</string>
     <string name="app_installing_not_allow">"%1$s quraşdırılmasını əngəllədiniz. "</string>
     <string name="app_installing_not_allow_1">"%1$s - bir tətbiq quraşdırması əngəlləndi. "</string>
+    <string name="app_installing_not_allow_2">Quraşdırma əngəlləndi. Tərcihlərinizi dəyişdirmək üçün Ayarlarda \"Bilinməyən tətbiqləri quraşdır\" seçimini axtarın.</string>
     <string name="app_name">Paket quraşdırıcı</string>
     <string name="app_not_found_dlg_text">"Tətbiq, quraşdırılmış tətbiqlər siyahısında tapılmadı."</string>
     <string name="app_not_found_dlg_title">Tətbiq tapılmadı</string>
