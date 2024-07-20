@@ -76,6 +76,62 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">İndi yox (%d san)</item>
+        <item quantity="one">İndi yox (%d san)</item>
+    </plurals>
+    <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Geri sayım: %d san</item>
+        <item quantity="one">Geri sayım: %d san</item>
+    </plurals>
+    <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Ən azı %d simvol daxil edin</item>
+        <item quantity="one">Ən azı %d simvol daxil edin</item>
+    </plurals>
+    <plurals name="pcl_number_locked">
+        <item quantity="other">%d tətbiq kilidləndi</item>
+        <item quantity="one">%d tətbiq kilidləndi</item>
+    </plurals>
+    <plurals name="pcl_number_to_lock">
+        <item quantity="other">%d tətbiq kilidlənmədi</item>
+        <item quantity="one">%d tətbiq kilidlənmədi</item>
+    </plurals>
+    <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Ən azı %d rəqəm daxil edin</item>
+        <item quantity="one">Ən azı %d rəqəm daxil edin</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Təkrar göndər (%d san)</item>
+        <item quantity="one">Təkrar göndər (%d san)</item>
+    </plurals>
+    <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Geri götür (%d san)</item>
+        <item quantity="one">Geri götür (%d san)</item>
+    </plurals>
+    <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Ən azı %d nöqtəni birləşdir</item>
+        <item quantity="one">Ən azı %d nöqtəni birləşdir</item>
+    </plurals>
+    <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Ən azı %s nöqtəni birləşdir</item>
+        <item quantity="one">Ən azı %s nöqtəni birləşdir</item>
+    </plurals>
+    <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">%s rəqəm daxil edin</item>
+        <item quantity="one">%s rəqəm daxil edin</item>
+    </plurals>
+    <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d saniyə gözləyib yenidən sınayın.</item>
+        <item quantity="one">%d saniyə gözləyib yenidən sınayın.</item>
+    </plurals>
+    <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Sil (%d san)</item>
+        <item quantity="one">Sil (%d san)</item>
+    </plurals>
+    <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Ən azı %s nöqtəni birləşdir</item>
+        <item quantity="one">Ən azı %s nöqtəni birləşdir</item>
+    </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">"Cihazınızı kəsintisiz %d dəqiqə istifadə etdiniz"</item>
         <item quantity="one">"Cihazınızı kəsintisiz %d dəqiqə istifadə etdiniz"</item>
