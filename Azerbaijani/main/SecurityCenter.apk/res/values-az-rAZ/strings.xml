@@ -1337,7 +1337,6 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="create_gamebooster_destop">Əsas ekran qısayolu uğurla yaradıldı</string>
     <string name="create_shortcut">Game Turbo üçün Əsas ekran qısayolu yarat</string>
     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
-    <string name="cs_close_vt_camera_first_tips">"Can't use this feature while using cross-device camera"</string>
     <string name="cs_color_sense">Rəng temperaturu</string>
     <string name="cs_conversation_record_using">Səsyazma</string>
     <string name="cs_func_toast_headset">Bu özəlliyi istifadə edə bilmək üçün qulaqlığınızın bağlantısını kəsin</string>
@@ -1346,7 +1345,6 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cs_func_unavailable_tips">Bu özəlliyi zəng zamanı istifadə edin</string>
     <string name="cs_light_enhance_physical_options">Rəng temperaturu</string>
     <string name="cs_light_enhance_physical_title">Parlaqlıq</string>
-    <string name="cs_open_camera_first_tips">Bu özəlliyi istifadə etmək üçün Kameranı açın</string>
     <string name="cs_pickup_denoise_desc">Dinamik və ya qulaqlıq istifadə edərkən gələn səsin səs-küyünü azaldın</string>
     <string name="cs_pickup_denoise_title">Səs-küy azaltma</string>
     <string name="cs_pickup_multi_desc">%d dərəcə səs alma</string>
@@ -4238,8 +4236,6 @@ söndürülür"</string>
     <string name="permission_precise_location">Dəqiq yerləşmə</string>
     <string name="permission_precise_location_sumary">Bu özəllik söndürüldükdə, tətbiqlər yalnız təxmini yerləşmənizə müraciət edə biləcək</string>
     <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\"&gt;%2$s&lt;/a&gt;</Data></string>
-    <string name="permission_risk_app_for_desc">Bu tətbiq, güvənlik riskləri yarada bilər. Yenə də icazələr verilsin?</string>
-    <string name="permission_risk_app_for_title">Risklər aşkarlandı</string>
     <string name="permission_share_uid">Dəqiq yerləşmə</string>
     <string name="permission_upgrade_more">Daha çox gizlilik qoruma özəllikləri</string>
     <string name="permission_upgrade_privacy_title">"Səs yazma və kontaktlara müraciət icazələri, artıq belə icazələri yalnız müvafiq tətbiqləri istifadə edərkən verməyə imkan verən seçimə malikdir. Şəxsi məlumatlarınızın gizliliyini qorumaq üçün tətbiqlər arxaplanda bu əməliyyatları icra etmir."</string>
@@ -4323,9 +4319,6 @@ söndürülür"</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Bu tətbiq, boş bir kontakt qaytardı</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Bu tətbiq, boş bir zəng statusu qaytardı</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Bu tətbiq, boş bir SMS qaytardı</string>
-    <string name="permission_warning_for_cancel">İmtina</string>
-    <string name="permission_warning_for_ensure">İcazə ver</string>
-    <string name="permission_warning_for_risk">İcazə verməyə qərar versəniz, gizliliyinizi qorumaq üçün tətbiqə boş mesajlar qaytarılacaq.</string>
     <string name="permission_with_SMS_and_MMS">SMS və MMS ilə əlaqəli icazələr</string>
     <string name="permission_with_call_and_contact">Telefon zəngləri, kontakt məlumatları və zəng tarixçələri ilə əlaqəli icazələr.</string>
     <string name="permission_with_read_write_clipboard">Tətbiqlərin elementlərə müraciət etməsinə və onları lövhədə saxlamasına icazə ver</string>
@@ -6833,16 +6826,8 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="wakepath_delete_all_tips">"Davam etsəniz, hər bir tətbiqə digər tətbiqləri açmaq üçün icazə verməli olacaqsınız. Yenə də davam edilsin?"</string>
     <string name="wakepath_delete_app_start_all">"Davam etsəniz, digər tətbiqləri açmaq üçün yenidən %s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
     <string name="wakepath_delete_app_start_other_app">"Davam etsəniz, %2$s açmaq üçün %1$s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
-    <string name="wakepath_manager_allow_list">İcazə verildi</string>
-    <string name="wakepath_manager_allow_start">İcazə verildi</string>
-    <string name="wakepath_manager_checkbox_desc">%1$s üçün digər tətbiqləri başlatma icazəsi ver</string>
-    <string name="wakepath_manager_checkbox_title">Zəncirvari başlatmaya icazə ver</string>
-    <string name="wakepath_manager_empty_list">Heç bir tətbiqin başladılmasına icazə verilmir</string>
-    <string name="wakepath_manager_reject_list">Məhdudlaşdırıldı</string>
-    <string name="wakepath_manager_reject_toast">Bu tətbiqin digər tətbiqləri başlatmasına icazə vermək üçün Ayarlarda \"Zəncirvari başlatmanı idarə et\"i axtarın</string>
     <string name="wakepath_manager_title">Zəncirvari başlatmanı idarə et</string>
     <string name="warn_function_no_work">&lt;u&gt;Qırmızı zərfin gəlməsi sizə normal xatırladıla bilmir?&lt;/u&gt;</string>
-    <string name="warningcenter_accurate_area_title">Təsirlənmiş ərazi</string>
     <string name="warningcenter_action_check">Bax</string>
     <string name="warningcenter_alert_home">Yerləşmə</string>
     <string name="warningcenter_alert_room">Otaq</string>
@@ -6872,7 +6857,7 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="warningcenter_disaster_hailang">Dalğalar</string>
     <string name="warningcenter_disaster_hanchao">Soyuq dalğa</string>
     <string name="warningcenter_disaster_icon_title">Demo xəbərdarlığı</string>
-    <string name="warningcenter_disaster_info">Güvəndə qalmaq və riskləri minimuma endirmək üçün fəlakət xəbərdarlıqları alın</string>
+    <string name="warningcenter_disaster_info">"CMA-nın Xəbərdarlıq Mərkəzi tərəfindən dərc edildi"</string>
     <string name="warningcenter_disaster_info_from">Erkən Xəbərdarlıq Mərkəzi | Milli Erkən Xəbərdarlıq Məlumat Yayım Mərkəzindən səlahiyyətli buraxılış</string>
     <string name="warningcenter_disaster_info_title">Xəbərdarlıqlar haqqında</string>
     <string name="warningcenter_disaster_leiyudafeng">Tufan və güclü külək</string>
@@ -6913,7 +6898,6 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="warningcenter_disaster_search_hint">Xəbərdarlıq növü/bölgə/yayımlayan agentlik</string>
     <string name="warningcenter_disaster_search_keywords">Hava xəbərdarlıqları</string>
     <string name="warningcenter_disaster_senlinhuoxian">Meşə yanğını sığortası</string>
-    <string name="warningcenter_disaster_service_area">Xidmətin əhatə dairəsi</string>
     <string name="warningcenter_disaster_taifeng">Tayfun</string>
     <string name="warningcenter_disaster_title">Fəlakət xəbərdarlığı</string>
     <string name="warningcenter_disaster_type_all">Bütün növlər</string>
