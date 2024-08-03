@@ -80,6 +80,12 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agreement_desc">İstifadəçi Razılaşması (məcburi)</string>
     <string name="alaka_required">Bu mahnını dinləmək üçün ödəniş etməlisiniz</string>
+    <string name="alarm_clock_album_modify_fail">"Dəyişdirilə bilmədi"</string>
+    <string name="alarm_clock_audio_name">Səhər havası</string>
+    <string name="alarm_clock_audio_text_city">Bu gün %1$s şəhərində hava %2$s.</string>
+    <string name="alarm_clock_audio_text_date">Sabahınız xeyir! Bu gün %1$s.</string>
+    <string name="alarm_clock_audio_text_temperature">Temperatur: %1$s</string>
+    <string name="alarm_clock_click_hint">"Bugünün havasını dinləmək üçün toxunun"</string>
     <string name="alarm_clock_recommend_desc">Hər gün yeni bir mahnı ilə oyan</string>
     <string name="alarm_clock_recommend_switch">Tövsiyə edilən zəngli saat səsi</string>
     <string name="alarm_clock_ringtones_successful">Zəngli saat uğurla quruldu</string>
@@ -355,7 +361,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">6cd5c4eb8b09408ea9c2b7eecaf73e09</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">a782fd2af6354a85af6bc9a64376ce77</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -1251,6 +1257,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="network_error_and_retry">"Bağlantı qurula bilmədi, yenidən sınamaq üçün toxunun"</string>
     <string name="network_request_error">"Şəbəkə ilə bağlantı qurula bilmir"</string>
     <string name="network_settings_error">"Şəbəkəyə bağlana bilmir"</string>
+    <string name="network_tip_title">Yeni musiqilərlə dolu dünyaya qoşulun</string>
     <string name="network_traffic">İnternet istifadəsi</string>
     <string name="next_time">İndi yox</string>
     <string name="next_to_play">Növbəti</string>
@@ -1752,6 +1759,7 @@ Xoşbəxt ol"</string>
     <string name="set_ringtones_failed">"Zəngi səsi olaraq ayarlana bilmədi"</string>
     <string name="set_ringtones_successful">%s, zəng səsi olaraq ayarlandı</string>
     <string name="setting_feature_setting">Özəllik ayarları</string>
+    <string name="setting_open">İşə sal</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_search_key_notification">Musiqi bildirişləri;Musiqi;Bildirişlər;mahnılar</string>
     <string name="settings_search_path_advance">Sistem tətbiqləri/Musiqi/Xidmət və ayarlar/Qabaqcıl ayarlar</string>

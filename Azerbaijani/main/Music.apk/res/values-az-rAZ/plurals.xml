@@ -250,6 +250,14 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="other">Bu gün %1$d qazan</item>
         <item quantity="one">Bu gün %1$d qazan</item>
     </plurals>
+	<plurals name="temp_range_c">
+        <item quantity="other">%1$d-%2$d dərəcə selsi</item>
+        <item quantity="one">%1$d-%2$d dərəcə selsi</item>
+    </plurals>
+    <plurals name="temp_range_f">
+        <item quantity="other">%1$d-%2$d dərəcə faranheyt</item>
+        <item quantity="one">%1$d-%2$d dərəcə faranheyt</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Videolar</item>
         <item quantity="one">Video</item>
