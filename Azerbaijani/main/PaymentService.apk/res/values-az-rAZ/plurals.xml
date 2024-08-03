@@ -2,11 +2,11 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">%d saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">%d saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">%d saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -42,7 +42,7 @@
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">%d saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -62,7 +62,7 @@
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
-        <item quantity="one">1 element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>
