@@ -859,7 +859,7 @@ və tərcihləri avtomatik ayarlayın"</string>
     <string name="connect_view_sub_title_monitor">Bağlantılı kameralar</string>
     <string name="connect_view_sub_title_new">"Multicam quraşdırma, gecikməni azaltmaq üçün daha çox bant genişliyi istifadə edir.
 Altıncı nəsil standartı dəstəkləyən %s GHz Wi-Fi şəbəkələrinə bağlanmağı tövsiyə edirik."</string>
-    <string name="connect_view_sub_title_new2" formatted="false">"Multicam quraşdırma, gecikməni azaltmaq üçün daha çox bant genişliyi istifadə edir. Altıncı nəsil standartı dəstəkləyən %1s GHz Wi-Fi şəbəkələrinə bağlanmağı tövsiyə edirik. 4K %2s FPS dəstəklənmir."</string>
+    <string formatted="false" name="connect_view_sub_title_new2">"Multicam quraşdırma, gecikməni azaltmaq üçün daha çox bant genişliyi istifadə edir. Altıncı nəsil standartı dəstəkləyən %1s GHz Wi-Fi şəbəkələrinə bağlanmağı tövsiyə edirik. 4K %2s FPS dəstəklənmir."</string>
     <string name="connect_view_title">Multicam quraşdırma</string>
     <string name="connect_view_toast_start_error_camera">"Kamera başladıla bilmədi. Yenidən sınayın."</string>
     <string name="connect_view_toast_start_error_monitor">"Monitor başladıla bilmədi. Yenidən sınayın."</string>
@@ -1845,7 +1845,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="module_name_super_moon">Super ay</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOG</string>
-    <string name="moiton_detection_960_fps_video_tip" formatted="false">%1d FPS videolar ən çox %2d saniyə uzunluğunda ola bilər</string>
+    <string formatted="false" name="moiton_detection_960_fps_video_tip">%1d FPS videolar ən çox %2d saniyə uzunluğunda ola bilər</string>
     <string name="moiton_detection_tip">Hərəkət aşkarlanır… Cihazı sabit saxlayın.</string>
     <string name="moiton_detection_video_3840fps_3840">%d FPS</string>
     <string name="moiton_detection_video_electric_quantity_tip">Bu özəlliyi istifadə edə bilmək üçün cihazınızı doldurun</string>
@@ -1958,7 +1958,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="multi_window_mode_not_supported">"Kamera çoxlu pəncərə rejimində istifadə edilə bilməz"</string>
     <string name="music_hint_tt">Xidmət mənbəyi iTingzhuole</string>
-    <string name="mutex_hdr_quality" formatted="false">"HDR %1s %2s FPS üçün dəstəklənmir"</string>
+    <string formatted="false" name="mutex_hdr_quality">"HDR, %1s %2s FPS üçün dəstəklənmir"</string>
     <string name="network_access_user_notice_agree">Razıyam</string>
     <string name="network_access_user_notice_message_live_video"><Data>\"Qısa videolar üçün effekt, musiqi və digər özəllikləri təmin etmək məqsədilə \"Kamera\"nın internetə bağlanması lazımdır.&lt;br/&gt;&lt;br/&gt;Aşağıdakı \"Razıyam\"a toxunaraq &lt;a href =%1$s&gt;İstifadəçi Razılaşmamız&lt;/a&gt; və &lt;a href =%2$s&gt;Gizlilik Siyasətimizlə&lt;/a&gt;, razılaşırsınız və \"Kamera\"nın internetə bağlanmasına icazə verirsiniz.\"</Data></string>
     <string name="network_access_user_notice_message_mi_live_video"><Data>\"Qısa videolar\"a xoş gəlmisiniz! Xidmətimizin musiqi və digər özəllikləri sizə təqdim etməsi məqsədilə internetə bağlanmasına ehtiyacı var. &lt;br/&gt;&lt;br/&gt;Xidmətimizi istifadə etməzdən əvvəl, &lt;a href =%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href =%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt;, oxuyub razılaşmalı, həmçinin tətbiqin internetə bağlanmasına icazə verməlisiniz.</Data></string>
@@ -3407,7 +3407,7 @@ və onlara düzəliş etməyinizə imkan verir"</string>
     <string name="warm_prompt">İpucu</string>
     <string name="watermark_choose_one_tip">Hər fotoya yalnız bir filiqran tətbiq edə bilərsiniz.</string>
     <string name="watermark_choose_one_tip_film">Hər fotoya yalnız bir filiqran tətbiq edə bilərsiniz.</string>
-    <string name="watermark_count_format" formatted="false">%d/%d</string>
+    <string formatted="false" name="watermark_count_format">%d/%d</string>
     <string name="watermark_film_unsupported_action">胶片水印不支持连拍、电影画幅、专业模式超清功能和第三方APP调用。</string>
     <string name="watermark_function_description">Filiqranlar haqqında</string>
     <string name="watermark_keep_at_least_one">Ən azı bir seçim edin</string>

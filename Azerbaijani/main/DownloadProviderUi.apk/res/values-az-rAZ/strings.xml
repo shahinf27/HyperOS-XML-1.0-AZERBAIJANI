@@ -75,7 +75,7 @@
     <string name="dialog_content_limit0">Endirmələri məhdudlaşdır</string>
     <string name="dialog_content_limit_max">Limitsiz</string>
     <string name="dialog_delete_positive">Sil</string>
-    <string name="dialog_download_dir_content" formatted="false">Endirmələriniz üçün ilkin təyinat qovluğu \"%s\" əvəzinə \"%s/DLManager\" olaraq dəyişdirildi.</string>
+    <string formatted="false" name="dialog_download_dir_content">Endirmələriniz üçün ilkin təyinat qovluğu \"%s\" əvəzinə \"%s/DLManager\" olaraq dəyişdirildi.</string>
     <string name="dialog_download_dir_title">Yeni təyinat qovluğu</string>
     <string name="dialog_file_missing_body">"Fayl tapıla bilmədi, deyəsən silinib."</string>
     <string name="dialog_file_missing_title">"Fayl açıla bilmir"</string>

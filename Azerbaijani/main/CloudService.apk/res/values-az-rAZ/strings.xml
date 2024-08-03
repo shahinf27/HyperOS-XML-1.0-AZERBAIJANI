@@ -638,7 +638,7 @@
     <string name="permission_status_allow">İcazə verildi</string>
     <string name="permission_status_deny">İcazə verilmədi</string>
     <string name="permission_status_loading">Cihaz statusuna müraciət edilir…</string>
-    <string name="phone_guarantee_service_description" formatted="false">Ekran zədələnmələrinə və qəzalara qarşı qoruma, aktivləşdirmədən sonrakı %d gün ərzində satın alına bilər. Uzadılmış zəmanət, aktivləşdirmədən sonrakı %d gün ərzində satın alına bilər.</string>
+    <string formatted="false" name="phone_guarantee_service_description">Ekran zədələnmələrinə və qəzalara qarşı qoruma, aktivləşdirmədən sonrakı %d gün ərzində satın alına bilər. Uzadılmış zəmanət, aktivləşdirmədən sonrakı %d gün ərzində satın alına bilər.</string>
     <string name="phone_guarantee_service_name">Cihaz zəmanəti</string>
     <string name="picker_list_empty">Kontakt yoxdur</string>
     <string name="picker_search_empty">"Kontakt tapıla bilmədi"</string>

@@ -62,13 +62,13 @@
     <string name="app_name">SplitLib</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auto_silence_entries1">Heç vaxt</string>
-    <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> dəqiqə</string>
-    <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> dəqiqə</string>
-    <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> dəqiqə</string>
-    <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> dəqiqə</string>
-    <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> dəqiqə</string>
-    <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> dəqiqə</string>
-    <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> dəqiqə</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> dəqiqə</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> dəqiqə</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> dəqiqə</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> dəqiqə</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> dəqiqə</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> dəqiqə</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> dəqiqə</string>
     <string name="auto_silence_summary">Zəngli saat və taymerlər susdurulduqdan sonra vaxtı ayarla</string>
     <string name="auto_silence_title">Avto-susdurma</string>
     <string name="back">Çıx</string>
@@ -288,7 +288,7 @@
     <string name="minute_spinner_fifteen">%d</string>
     <string name="minute_spinner_fifty">%d</string>
     <string name="minute_spinner_fifty_five">%d</string>
-    <string name="minute_spinner_five" formatted="false">%d%d</string>
+    <string formatted="false" name="minute_spinner_five">%d%d</string>
     <string name="minute_spinner_forty">%d</string>
     <string name="minute_spinner_forty_five">%d</string>
     <string name="minute_spinner_ten">%d</string>
@@ -296,7 +296,7 @@
     <string name="minute_spinner_thirty_five">%d</string>
     <string name="minute_spinner_twenty">%d</string>
     <string name="minute_spinner_twenty_five">%d</string>
-    <string name="minute_spinner_zero" formatted="false">%d%d</string>
+    <string formatted="false" name="minute_spinner_zero">%d%d</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
@@ -352,20 +352,20 @@
     <string name="module_unzipping">Səs paketi açılır…</string>
     <string name="module_update_success_control">Anladım</string>
     <string name="module_weather_ringtone_download_data_new">Hava durumu zəngli saatı, mövcud hava durumuna görə fərqli zəng səsləri seçir. \"Saat\"ın işləməsi üçün ≈%d MB-lıq səsi endirməsi lazımdır. İndi endirilsin?</string>
-    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Hava durumu zəngli saatı, mövcud hava durumuna görə fərqli zəng səsləri seçir. \"Saat\"ın, ≈ &lt;xliff:g id=FLOW refersto=30&gt;%d&lt;/xliff:g&gt; MB-lıq səsi endirməsi üçün internetə bağlanması lazımdır. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
+    <string formatted="false" name="module_weather_ringtone_download_data_privacy_new"><Data>Hava durumu zəngli saatı, mövcud hava durumuna görə fərqli zəng səsləri seçir. \"Saat\"ın, ≈ &lt;xliff:g id=FLOW refersto=30&gt;%d&lt;/xliff:g&gt; MB-lıq səsi endirməsi üçün internetə bağlanması lazımdır. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
     <string name="module_weather_ringtone_download_wifi">Hava durumu zəngli saatı, mövcud hava durumuna görə fərqli zəng səsləri seçir. \"Saat\"ın işləməsi üçün səsi endirməsi lazımdır. İndi endirilsin?</string>
     <string name="module_weather_ringtone_download_wifi_privacy"><Data>Hava durumu zəngli saatı, mövcud hava durumuna görə fərqli zəng səsləri seçir. \"Saat\"ın, səsi endirməsi üçün internetə bağlanması lazımdır. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
     <string name="module_weather_ringtone_introduce">Hava durumu zəngli saatı, mövcud hava durumuna görə fərqli zəng səsləri seçir. Həmçinin səhərlər mövcud hava məlumatlarını dinləməyinizə imkan verir.</string>
     <string name="module_weather_ringtone_introduce_global">Hava durumu zəngli saatı, mövcud hava durumuna görə fərqli zəng səsləri seçir.</string>
     <string name="module_weather_ringtone_update_data_new">Hava durumu zəngli saatı, indi arxaplan musiqisi və daha yaxşı səs anonsları ilə gəlir. \"Saat\"ın işləməsi üçün ≈%d MB-lıq səsi endirməsi lazımdır. İndi endirilsin?</string>
     <string name="module_week_ringtone_download_data_new">Təbiət zəngli saatı, tarixə görə fərqli səslər oxudur. \"Saat\"ın işləməsi üçün ≈%d MB-lıq səsi endirməsi lazımdır. İndi endirilsin?</string>
-    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Təbiət zəngli saatı tarixə görə fərqli səslər oxudur. \"Saat\"ın, ≈ &lt;xliff:g id=FLOW refersto=30&gt;%d&lt;/xliff:g&gt; MB-lıq səsi endirməsi üçün internetə bağlanması lazımdır. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
+    <string formatted="false" name="module_week_ringtone_download_data_privacy_new"><Data>Təbiət zəngli saatı tarixə görə fərqli səslər oxudur. \"Saat\"ın, ≈ &lt;xliff:g id=FLOW refersto=30&gt;%d&lt;/xliff:g&gt; MB-lıq səsi endirməsi üçün internetə bağlanması lazımdır. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
     <string name="module_week_ringtone_download_wifi">Təbiət zəngli saatı, tarixə görə fərqli səslər oxudur. \"Saat\"ın işləməsi üçün səsi endirməsi lazımdır. İndi endirilsin?</string>
     <string name="module_week_ringtone_download_wifi_privacy"><Data>Təbiət zəngli saatı, tarixə görə fərqli səslər oxudur. \"Saat\"ın, səsi endirməsi üçün internetə bağlanması lazımdır. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
     <string name="module_week_ringtone_introduce">Təbiət zəngli saatı, tarixə görə fərqli səslər oxudur.</string>
     <string name="module_week_ringtone_update_data_new">Təbiət zəngli saatı, tarixə görə fərqli səslər oxudur. \"Saat\"ın işləməsi üçün ≈%d MB-lıq səsi endirməsi lazımdır. İndi endirilsin?</string>
     <string name="module_white_noise_download_data_new">\"Saat\"ın, ətraf səs-küy taymerləri üçün səs fayllarını endirməsi lazımdır. Bu endirmə üçün ≈%d MB mobil internet tələb olunur. İndi endirilsin?</string>
-    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>\"Ətraf səs-küy taymerləri (≈&lt;xliff:g id=FLOW refersto=30&gt;%d&lt;/xliff:g&gt; MB) üçün səs fayllarını endirmək və fərdiləşdirilmiş xidmətləri təmin etmək üçün, \"Saat\"ın internetə bağlanmasına ehtiyac var. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. İndi mobil internet istifadə edirsiniz. Razılaşırsınız?</Data></string>
+    <string formatted="false" name="module_white_noise_download_data_privacy_new"><Data>\"Ətraf səs-küy taymerləri (≈&lt;xliff:g id=FLOW refersto=30&gt;%d&lt;/xliff:g&gt; MB) üçün səs fayllarını endirmək və fərdiləşdirilmiş xidmətləri təmin etmək üçün, \"Saat\"ın internetə bağlanmasına ehtiyac var. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. İndi mobil internet istifadə edirsiniz. Razılaşırsınız?</Data></string>
     <string name="module_white_noise_download_wifi">\"Saat\"ın, ətraf səs-küy taymerləri üçün səs fayllarını endirməsi lazımdır. İndi endirilsin?</string>
     <string name="module_white_noise_download_wifi_privacy"><Data>\"Ətraf səs-küy taymerləri üçün səs fayllarını endirmək və fərdiləşdirilmiş xidmətləri təmin etmək üçün, \"Saat\"ın internetə bağlanmasına ehtiyac var. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
     <string name="monday">Bazar ertəsi</string>
@@ -461,9 +461,9 @@
     <string name="not_set_temporarily">Xeyr, təşəkkürlər</string>
     <string name="not_update">İndi yox</string>
     <string name="notification_adv_time_entries1">Təyin edilən vaxtda</string>
-    <string name="notification_adv_time_entries2"><xliff refersto="15" id="MINUTES">%d</xliff> dəqiqə əvvəl</string>
-    <string name="notification_adv_time_entries3"><xliff refersto="30" id="MINUTES">%d</xliff> dəqiqə əvvəl</string>
-    <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> saat əvvəl</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> dəqiqə əvvəl</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> dəqiqə əvvəl</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> saat əvvəl</string>
     <string name="notification_adv_time_entries5">Heç nə</string>
     <string name="notification_permission_desc">"Bildiriş icazəsini verməsəniz, çağıranda siqnalları söndürə bilməyəcəksiniz. İndi icazə verilsin?"</string>
     <string name="notification_permission_dialog_content">Zəngli saat bildirişlərini almaq üçün bu tətbiqin bildiriş göndərməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
@@ -510,7 +510,7 @@
     <string name="ringtone_firefly">İşıldaböcək</string>
     <string name="ringtone_weather">Hava zəngli saatı</string>
     <string name="ringtone_week">Təbiət zəngli saatı</string>
-    <string name="ruler_view_text" formatted="false">%d%d</string>
+    <string formatted="false" name="ruler_view_text">%d%d</string>
     <string name="ruler_view_text_one">%d</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
@@ -543,7 +543,7 @@
     <string name="sleep_duration">"Yuxu müddəti: "</string>
     <string name="sleep_duration_avg_text_diff">Ortalama yuxu müddəti (%1$s-%2$s)</string>
     <string name="sleep_duration_no_data">Hələ ki, yetərli məlumat yoxdur</string>
-    <string name="sleep_duration_recommendation_new" formatted="false">İnsanların əksəriyyətinə gecə %d-%d saat yuxu lazımdır</string>
+    <string formatted="false" name="sleep_duration_recommendation_new">İnsanların əksəriyyətinə gecə %d-%d saat yuxu lazımdır</string>
     <string name="sleep_duration_text">%1$s %2$s</string>
     <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">DND rejimi</string>
@@ -633,10 +633,10 @@
     <string name="time_picker_label_minute">Dəq</string>
     <string name="time_picker_label_second">San</string>
     <string name="time_settings">Saat ayarları</string>
-    <string name="time_view" formatted="false">%02d:%02d.%02d</string>
-    <string name="time_view_with_hour" formatted="false">%02d:%02d:%02d.%02d</string>
-    <string name="time_view_with_hour_span" formatted="false">%02d:%02d:%02d%02d</string>
-    <string name="time_view_with_span" formatted="false">%02d:%02d%02d</string>
+    <string formatted="false" name="time_view">%02d:%02d.%02d</string>
+    <string formatted="false" name="time_view_with_hour">%02d:%02d:%02d.%02d</string>
+    <string formatted="false" name="time_view_with_hour_span">%02d:%02d:%02d%02d</string>
+    <string formatted="false" name="time_view_with_span">%02d:%02d%02d</string>
     <string name="timer_alert_mute_off">Taymer dayananda zəngli saat çalacaq</string>
     <string name="timer_alert_mute_on">"Taymer dayananda zəngli saat çalmayacaq"</string>
     <string name="timer_alert_mute_switch">Taymer zəngli saatlarını susdurmaq üçün dəyişdirin</string>
@@ -651,7 +651,7 @@
     <string name="timer_desc_use_brush_teeth">Diş fırçalama</string>
     <string name="timer_desc_use_facial_mask">Üz maskası</string>
     <string name="timer_desc_use_sleep">Mürgüləmə</string>
-    <string name="timer_display" formatted="false">%02d:%02d:%02d</string>
+    <string formatted="false" name="timer_display">%02d:%02d:%02d</string>
     <string name="timer_end_time">Taymer %s vaxtında dayanacaq</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

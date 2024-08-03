@@ -215,6 +215,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Ekran sönülü ikən, tətbiq, yayım prosesini yarımçıq kəsmədən arxaplanda işləyəcək. Ekranı yenidən açmaq üçün Güc düyməsinə basın.</string>
     <string name="all_address_choose_hint">Bu bölgədəki bütün nömrələr</string>
     <string name="allow_all">Hamısına icazə ver</string>
+    <string name="allow_device_id_access">Cihaz kimliyini istifadə edə biləcək tətbiqləri seçin</string>
     <string name="allow_notify">allow_notify</string>
     <string name="allow_onetime">Bir dəfə icazə ver</string>
     <string name="allow_tips_smart_task">allow_tips_smart_task</string>
@@ -1339,6 +1340,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
     <string name="cs_color_sense">Rəng temperaturu</string>
     <string name="cs_conversation_record_using">Səsyazma</string>
+    <string name="cs_func_toast_bluetooth_headset">Bu özəlliyi istifadə edə bilmək üçün Bluetooth qulaqlıqlarının bağlantısını kəsin</string>
     <string name="cs_func_toast_headset">Bu özəlliyi istifadə edə bilmək üçün qulaqlığınızın bağlantısını kəsin</string>
     <string name="cs_func_toast_light">Bu özəlliyi istifadə edə bilmək üçün ön kameraya keçin</string>
     <string name="cs_func_toast_pickup">Bu özəlliyi istifadə edə bilmək üçün görüntülü zəngə keçin</string>
@@ -1369,6 +1371,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cs_tool_box_phone_guide_case_1">Yeni Zəng alət qutusundakı eynivaxtlı tərcümə və digər özəllikləri sınayın</string>
     <string name="cs_tool_box_phone_guide_case_2">Yeni Zəng alət qutusundakı müxtəlif özəllikləri sınayın</string>
     <string name="cs_voice_print">Səs izini yaz</string>
+    <string name="cs_voice_search">voiceprint</string>
     <string name="cs_vt_camera_toast_case1">Hazırkı tətbiqdə kameranı aç</string>
     <string name="cs_vt_camera_toast_case2">Yaxınlıqda uyumlu cihaz yoxdur</string>
     <string name="cta_HIPS_Perm_Location_Desc">Xəbərdarlıq Mərkəzində, Fövqəladə hal SOS, Tətbiq batareyasına qənaət, ödəniş güvənliyi skaneri və təxmini yerləşmə xidmətində yerləşmənizlə əlaqəli özəllikləri təmin etmək üçün</string>
@@ -1470,15 +1473,31 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="delete_input">Sil</string>
     <string name="deleted_apps">Silinmiş tətbiqlər</string>
     <string name="demo_number">241</string>
-    <string name="desc_share_uid_sec" formatted="false">%1s. %2s</string>
+    <string formatted="false" name="desc_share_uid_sec">%1s. %2s</string>
     <string name="descx_quick_scan_cancel">Skan ləğv edildi</string>
     <string name="descx_quick_scan_preparation">Bir saniyə…</string>
     <string name="detail_app_button">Tətbiq məlumatı</string>
     <string name="details_subtitle">İstifadə detalları</string>
+    <string name="device_id">Fərdiləşdirilmiş tövsiyələr üçün cihaz kimliyi</string>
+    <string name="device_id_app_manager_dialog_continue">"Dayandırma"</string>
+    <string name="device_id_app_manager_dialog_message">Bəzi tətbiqlərin fəaliyyətlərinizi izləməsinə icazə vermisiniz. İzləməni indi dayandıra bilərsiniz.</string>
+    <string name="device_id_app_manager_dialog_stop">Dayandır</string>
+    <string name="device_id_app_manager_switch_sub_title">Bu özəllik bağlı olduqda, bütün yeni izləmə tələblərinə avtomatik rədd cavabı veriləcək</string>
+    <string name="device_id_app_manager_switch_title">Tətbiqlərin izləmə tələblərinə icazə ver</string>
+    <string name="device_id_app_manager_tips">Tətbiqlər, fərdiləşdirilmiş reklam tövsiyələrini və digər özəllikləri təqdim etmək üçün izləmə identifikatorlarını istifadə edərək fərqli tətbiq və veb saytlardakı fəaliyyətlərinizi izləyə biləcək</string>
+    <string name="device_id_app_manager_title">Tətbiq izləməni idarə et</string>
+    <string name="device_id_manager_tips">Sistem, gizliliyinizi qorumaq üçün cihaz identifikatorları əvəzinə tətbiqlərə sıfırlana bilən izləmə identifikatorları (OAID) təqdim edir</string>
+    <string name="device_id_manager_title">İzləmə identifikatorunu idarə et</string>
+    <string name="device_id_reset">İzləmə identifikatorunu sıfırla</string>
+    <string name="device_id_reset_msg">Sıfırladıqdan sonra, bu cihaza yeni bir identifikator təyin ediləcək.</string>
+    <string name="device_id_str">Hazırkı izləmə identifikatoru: %s</string>
     <string name="device_manager_apply_step_1">Bu tətbiq üçün cihaz administratoru aktivləşdirilsin?</string>
     <string name="device_manager_apply_step_2">"Bu tətbiq üçün cihaz administratorunun aktivləşdirilməsi, şəxsi məlumatlarınızın ifşa olunmasına səbəb ola bilər.
 Cihazınızdakı bütün datalar silinə və Kilid ekranı parolunuz sıfırlana bilər."</string>
     <string name="device_manager_apply_step_3">Davam etməzdən əvvəl bütün mümkün riskləri anladığınıza əmin olun. Bu tətbiq üçün cihaz administratoru indi aktivləşdirilsin?</string>
+    <string name="device_oaid">Virtual kimliyi idarə et</string>
+    <string name="device_oaid_desc">Unikal identifikatorunuzun əvəzinə sistem, quraşdırılmış tətbiqlərə virtual bir kimlik (OAID) təqdim edəcək. Bu, tətbiqlərin davranışlarınızı və tərcihlərinizi izləməsini önləyir və gizliliyinizi qoruyur.</string>
+    <string name="device_oaid_title">Virtual kimlik</string>
     <string name="dialog_app_roaming_message">"Rouminqdə olarkən %1$s mobil internet istifadə edə bilmir. Ölkəxarici rouminqdə olarkən, yalnız istisnalara əlavə etdiyiniz tətbiqlər mobil interneti istifadə edə bilər."</string>
     <string name="dialog_app_roaming_title">"%1$s üçün ölkəxarici rouminq fəal deyil"</string>
     <string name="dialog_btn_delete_icon">Sil</string>
@@ -1985,7 +2004,7 @@ könüllüsü"</string>
     <string name="fast_open_list_open_title">允许在%s个应用中速抢</string>
     <string name="fast_open_noti_summary">%s给你发来一个红包</string>
     <string name="fast_open_summary">开启速抢模式后，收到红包新消息将打断当前使用应用切换到抢红包窗口。</string>
-    <string name="fbo_search_path" formatted="false">%s/%s/%s</string>
+    <string formatted="false" name="fbo_search_path">%s/%s/%s</string>
     <string name="file_confirm_start_activity">"%s, Qalereya və sosial media tətbiqlərinizə müraciət edə bilməz. Bu tətbiq, elementləri paylaşmaq üçün bu cihazda saxlanan fayllara müraciət etmək istəyir. İcazə verilsin?"</string>
     <string name="finger_remind_message">Əvvəlcə barmaq izinizi əlavə edin. Ayarları açmaq üçün toxunun.</string>
     <string name="fingerprint_identify_msg">Barmaq izi ilə kilid açmanı işə sal</string>
@@ -2400,7 +2419,7 @@ təkmilləşdirilmiş vizual təcrübə"</string>
     <string name="gb_dialog_record_way_ai_new">AI yazıları %d gün ərzində oyun qutusunda saxlanılır.</string>
     <string name="gb_dialog_record_way_finish">Hazırdır</string>
     <string name="gb_dialog_record_way_manual">Əllə 30 saniyəyə qədər uzunluqda videolar yazın</string>
-    <string name="gb_dialog_record_way_manual_desc" formatted="false">Oyun seansı zamanı əllə %d-%d saniyəlik video yazın.</string>
+    <string formatted="false" name="gb_dialog_record_way_manual_desc">Oyun seansı zamanı əllə %d-%d saniyəlik video yazın.</string>
     <string name="gb_dialog_record_way_manual_new">Əllə %d saniyəyə qədər uzunluqda videolar yazın</string>
     <string name="gb_dialog_record_way_setting_tip_one">Artan enerji sərfiyyatı və gecikmə</string>
     <string name="gb_dialog_record_way_setting_tip_title">Bu özəllik aşağıdakı problemlərə səbəb ola bilər:</string>
@@ -2845,7 +2864,7 @@ Pəncərəni hərəkət etdirmək üçün göstəricini basılı tutun."</string
     <string name="gtb_setting">Ayarlar</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Bağlantını sabit saxlamaq və şəbəkələr arası keçiddən qaçınmaq üçün oyun seansları zamanı ikinci SIM-dəki bütün rabitə xidmətlərini əngəlləyin. İkinci SIM, siz oyunu dayandırdığınız zaman əngəldən ççıxarılacaq.</string>
     <string name="gtb_setting_item_summary_smart_5g">Game Turbo bir 5G şəbəkəsi aşkarladıqda, şəbəkə gecikməsini azaltmaq üçün cihazınızı mövcud olan ən yaxşı şəbəkəyə bağlayır</string>
-    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Mi/Redmi ruterlərinə bağlandıqda bağlantı sürətini 10%-20% artır</string>
+    <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Mi/Redmi ruterlərinə bağlandıqda bağlantı sürətini 10%-20% artır</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Mi/Redmi ruterlərinə bağlandıqda bağlantı sürətini %1$s-%2$s artır</string>
     <string name="gtb_setting_item_title_brightness">Ekran parlaqlığını avtomatik azalt</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">İkinci SIM-i əngəllə</string>
@@ -2936,7 +2955,7 @@ mənzərə rejiminə keçin!"</string>
     <string name="ime_security_warning">%1$s, parollar və digər həssas məlumatlar daxil olmaqla yazdığınız hər şeyi yaza bilər. Yenə də istifadə edilsin?</string>
     <string name="in_delete">Silinir…</string>
     <string name="in_recover">Bərpa edilir…</string>
-    <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
+    <string formatted="false" name="infinite_daily_package_usage_summary">%1s (%2s)</string>
     <string name="infinite_remind_warning_text_tips">Aylıq limitə çatdıqda xəbərdarlıq alın</string>
     <string name="info_and_call">Zənglər və mesajlar</string>
     <string name="info_antispam_close">Əngəlli siyahısı bağlıdır</string>
@@ -3033,7 +3052,7 @@ Mobil internet bağlantısını yenidən istifadə etsəniz, operatorunuz sizdə
     <string name="list_empty_text">Boşdur</string>
     <string name="load_only_under_wlan">Yalnız Wi-Fi ilə yüklə</string>
     <string name="loading">Bir saniyə…</string>
-    <string name="loading_text_format" formatted="false">Fotolarda şəxsi məlumatların olub-olmadığı yoxlanılır %d/%d</string>
+    <string formatted="false" name="loading_text_format">Fotolarda şəxsi məlumatların olub-olmadığı yoxlanılır %d/%d</string>
     <string name="local_ip_exception_summary">"Yerli IP ünvanı alına bilmədi. Bu problemi bildirmək üçün Əks-əlaqə tətbiqinə gedib cihazınızdan bir jurnal göndərin."</string>
     <string name="location">Yerləşmə</string>
     <string name="lock_all_title">Bütün tətbiqləri kilidlə</string>
@@ -3248,7 +3267,7 @@ gözlənilir"</string>
     <string name="memory_check_content">%s azad edildi</string>
     <string name="memory_clean_memory_size_tip">Keş</string>
     <string name="memory_clean_no_need_clean">Hər şey qaydasında görünür</string>
-    <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s sahə boşaldıldı.
+    <string formatted="false" name="memory_clean_no_need_clean_1_new">"%s sahə boşaldıldı.
 Cihazınız indi %s daha sürətlidir."</string>
     <string name="memory_clear_unused">Keşi təmizlə (%s)</string>
     <string name="memory_title">Əlçatan: %1$s\u0009\u0009Cəmi: %2$s</string>
@@ -3597,10 +3616,10 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="no_sim_card_by_tips">Telefon balansını və internet istifadə xəbərdarlıqlarını ayarlamaq üçün əvvəlcə bir SIM kart taxın.</string>
     <string name="noon">Günorta</string>
     <string name="normal1">Məhdud icazələr: %1s. Dəyişdirmək üçün toxunun.</string>
-    <string name="normal2" formatted="false">Məhdud icazələr: %1s, %2s. Dəyişdirmək üçün toxunun.</string>
-    <string name="normal3" formatted="false">Məhdud icazələr: %1s, %2s, %3s. Dəyişdirmək üçün toxunun.</string>
-    <string name="normal4" formatted="false">%1s, %2s, %3s, %4s. Dəyişdirmək üçün toxunun.</string>
-    <string name="normal_package_usage_summary" formatted="false">%2s/%1s (%3s)</string>
+    <string formatted="false" name="normal2">Məhdud icazələr: %1s, %2s. Dəyişdirmək üçün toxunun.</string>
+    <string formatted="false" name="normal3">Məhdud icazələr: %1s, %2s, %3s. Dəyişdirmək üçün toxunun.</string>
+    <string formatted="false" name="normal4">%1s, %2s, %3s, %4s. Dəyişdirmək üçün toxunun.</string>
+    <string formatted="false" name="normal_package_usage_summary">%2s/%1s (%3s)</string>
     <string name="not_closed">Açıq saxla</string>
     <string name="not_limited_brand">Limitsiz</string>
     <string name="not_set">Ayarlamaq üçün toxunun</string>
@@ -3710,9 +3729,12 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="numeric_recording_intro_header">Parolu daxil edin</string>
     <string name="numeric_retry_button_text">İmtina</string>
     <string name="numeric_settings_help_how_to_record">PIN necə ayarlanır</string>
+    <string name="oaid_apps_summary">Fərdi tətbiqlər üçün müraciətə icazə ver və ya müraciəti rədd et</string>
     <string name="oaid_apps_title">Virtual kimliyi idarə et</string>
     <string name="oaid_reset_content_tip">İndi virtual kimliyi söndürsəniz, bəzi tətbiqlər düzgün işləməyi dayandıra bilər, tətbiq datanızın bir hissəsi itə və ya yararsız hala düşə bilər.</string>
     <string name="oaid_reset_final_tip">Virtual kimlik yenə də söndürülsün?</string>
+    <string name="oaid_string">"Current virtual kimlik:
+%1s"</string>
     <string name="oaid_tips_content">Virtual Kimliklər (OAID), davranışlarınızı izləmək və sizin üçün reklamları fərdiləşdirmək üçün istifadə oluna bilər. Hansı tətbiqlərin virtual kimliyinizə müraciətinə icazə verildiyini seçə bilərsiniz. Unutmayın ki, müraciəti məhdudlaşdırsanız, reklam tövsiyələri əhəmiyyətsiz ola bilər və tətbiqlər normal işləməyə bilər.</string>
     <string name="offline_voice_input">Oflayn səs girişi</string>
     <string name="offline_voice_input_detail">"Səs girişi üçün internetə ehtiyacınız olmayacaq."</string>
@@ -4231,6 +4253,7 @@ söndürülür"</string>
     <string name="permission_instruction_write_contacts">Bu icazə, tətbiqlərin kontaktları əlavə etməsinə, silməsinə və onlara düzəliş etməsinə imkan verir.</string>
     <string name="permission_instruction_write_settings">Bu icazə, tətbiqlərin sistem ayarlarını dəyişdirməsinə imkan verir. Zərərli tətbiqlər, sistem ayarlarınızla bu icazəni istifadə edə və cihazınızın normal istifadəsinə təsir göstərə bilər.</string>
     <string name="permission_legacy_storage">Foto, video, səs və fayllara müraciət</string>
+    <string name="permission_oaid_desc">%1$s üçün digər tətbiqlərdəki və veb saytlardakı fəaliyyətlərinizi izləmə icazəsi verilsin?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">"Tətbiqlər kontaktlarınızı oxumazdan, zəng tarixçənizə baxmazdan, sistem ayarlarını dəyişdirməzdən və ya kamera və digər cihaz resurslarına müraciət etməzdən əvvəl icazə istəməyəcək. İcazə ayarlarında bu özəlliyi işə sala bilərsiniz."</string>
     <string name="permission_permission_control_closed_desc_dialog_title">İcazə meneceri</string>
     <string name="permission_precise_location">Dəqiq yerləşmə</string>
@@ -4582,7 +4605,7 @@ söndürülür"</string>
     <string name="power_optimize_loading">Yüklənir</string>
     <string name="power_optimize_open_hide_mode">Batareya qənaətini işə sal</string>
     <string name="power_optimize_power_save_extend_time">%s əlavə et</string>
-    <string name="power_optimize_power_save_extend_time_new" formatted="false">%1s %2s uzat</string>
+    <string formatted="false" name="power_optimize_power_save_extend_time_new">%1s %2s uzat</string>
     <string name="power_optimize_power_save_summary">Arxaplan fəaliyyətini məhdudlaşdıran çoxsaylı sistem optimallaşdırmasını tətbiq etmək üçün Batareya qənaətini işə salın</string>
     <string name="power_optimize_prohibit_app_autostart">"Tətbiqlərin avto-başlamasına icazə vermə"</string>
     <string name="power_optimize_reduce_fps">Ekran yeniləmə sürətini %d Hz-ə qədər endirin</string>
@@ -5255,6 +5278,16 @@ Razılıq indi geri götürülsün?"</string>
     <string name="reset_data_dialog_message">"Bu cihaz Xiaomi Hesabınızla əlaqələndirilməyib. Parol bərpa edilə və ya sıfırlana bilmir. Bütün vacib elementləri nüsxələyib fabrik sıfırlamasını icra edin. Sıfırlama ərzində bütün elementlər həmişəlik silinəcək və SD kartınız formatlanacaq."</string>
     <string name="reset_data_dialog_ok">Fabrik sıfırlaması</string>
     <string name="reset_data_title">"Parol bərpa edilə bilmir"</string>
+    <string name="restore_device_id_content">Fərdiləşdirilmiş tövsiyələr sıfırlanacaq</string>
+    <string name="restore_device_id_title">Cihaz kimliyini sıfırla</string>
+    <string name="restore_dialog_content">Hazırkı cihaz kimliyinizi sıfırlamaq, fərdiləşdirilmiş tövsiyələri də sıfırlayacaq. İndi sıfırlansın?</string>
+    <string name="restore_dialog_positive">Sıfırla</string>
+    <string name="restore_dialog_title">Diqqət</string>
+    <string name="restore_oaid_content">Davranış və tərcih qeydlərinizi təmizləmək üçün virtual kimliyinizi sıfırlayın</string>
+    <string name="restore_oaid_dialog_content">Çoxlu tətbiq, virtual kimliyinizi istifadə edir. İndi sıfırlasanız, tətbiq datanızın bir hissəsi yox ola və ya yararsız hala gələ bilər. Yenə də virtual kimlik sıfırlansın?</string>
+    <string name="restore_oaid_positive">Sıfırla</string>
+    <string name="restore_oaid_positive_step">Sıfırla (%1$d)</string>
+    <string name="restore_oaid_title">Virtual kimliyi sıfırla</string>
     <string name="result_autoscan_header">Ödəniş izləməsi</string>
     <string name="result_autoscan_info">Ödəniş tətbiqləri başladıldıqda, sistem mühitini avtomatik izlə</string>
     <string name="result_sms_header">Mesajlaşma riskləri aşkarlandı</string>
@@ -5494,7 +5527,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="sim_lock_lockscreen_notification_message">"Ekran kilidi olmadan PIN doğrulana bilmir"</string>
     <string name="sim_lock_lockscreen_notification_title">"SIM kart qorunmur"</string>
     <string name="sim_lock_new_pin_different_error">"Daxil etdiyiniz PIN-lər uyuşmur. Yenidən sınayın."</string>
-    <string name="sim_lock_new_pin_hint" formatted="false">%d-%d rəqəm daxil edin</string>
+    <string formatted="false" name="sim_lock_new_pin_hint">%d-%d rəqəm daxil edin</string>
     <string name="sim_lock_new_pin_message">"Yeni PIN-inizi yadda saxlayın. Əgər unutsanız, bərpa edə bilmək üçün operatorunuzun müştəri dəstəyi ilə əlaqə saxlamalı olacaqsınız."</string>
     <string name="sim_lock_new_pin_title">Yeni bir PIN ayarla</string>
     <string name="sim_lock_no_sim_notification_message">SIM PIN-ini yoxlamaq üçün toxunun</string>
@@ -5505,7 +5538,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="sim_lock_pin_dialog_message">"Dəfələrlə yanlış PIN daxil etdiniz. Artıq cəmi %d cəhdiniz qalıb. Başqa bir yanlış PIN-i daxil etsəniz, SIM kartınız kilidlənəcək. Yenə də davam edilsin?"</string>
     <string name="sim_lock_pin_dialog_title">Son cəhd</string>
     <string name="sim_lock_pin_hint">SIM PIN-ini daxil edin</string>
-    <string name="sim_lock_pin_message" formatted="false">"SIM kartınız üçün PIN ayarlamamısınız, operatorunuzun verdiyi ilkin PIN-i sınayın (%s): %d."</string>
+    <string formatted="false" name="sim_lock_pin_message">"SIM kartınız üçün PIN ayarlamamısınız, operatorunuzun verdiyi ilkin PIN-i sınayın (%s): %d."</string>
     <string name="sim_lock_pin_success">PIN uğurla doğrulandı</string>
     <string name="sim_lock_pin_title">SIM PIN-ini doğrula</string>
     <string name="sim_lock_puk_dialog_title">Cəhdlər bitir</string>
@@ -5519,7 +5552,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="sim_lock_query_new_pin">Yeni bir PIN ayarla</string>
     <string name="sim_lock_query_pin">PIN</string>
     <string name="sim_lock_query_pin_error">"PIN dəyişdirilə bilmədi"</string>
-    <string name="sim_lock_query_pin_length_error" formatted="false">PIN, %d-%d rəqəmli olmalıdır</string>
+    <string formatted="false" name="sim_lock_query_pin_length_error">PIN, %d-%d rəqəmli olmalıdır</string>
     <string name="sim_lock_query_pin_mismatch_error">"Daxil etdiyiniz PIN-lər uyuşmur"</string>
     <string name="sim_lock_query_pin_same_error">Yeni PIN-iniz köhnəsi ilə eynidir</string>
     <string name="sim_lock_query_title">PIN-i yoxla</string>
@@ -6149,7 +6182,7 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="system_permission_declare_analytics_declare">"Sizi İstifadəçi Təcrübə Proqramımıza yazılmağa dəvət edirik. Bu tətbiqin internetə bağlanması və sizə təqdim etdiyimiz xidmətləri təkmilləşdirmək məqsədilə statistikaları yığmaq üçün aşağıdakı icazələri və ya özəllikləri istifadə etməsi lazımdır. Burada məlumatları yalnız statistik məqsədlər üçün yığırıq və yığdığımız məlumatlara əsasən sizi şəxsən müəyyənləşdirə bilmirik."</string>
     <string name="system_permission_declare_disagree">Razı deyiləm</string>
     <string name="system_permission_declare_double_link"><Data>Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
-    <string name="system_permission_declare_main_purpose" formatted="false">%1s - xoş gəlmisiniz! Bu tətbiq aşağıdakı özəllikləri istifadə etməyinizə imkan verir: %2s.</string>
+    <string formatted="false" name="system_permission_declare_main_purpose">%1s - xoş gəlmisiniz! Bu tətbiq aşağıdakı özəllikləri istifadə etməyinizə imkan verir: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyun və razılaşın.</Data></string>

@@ -171,7 +171,7 @@ onları İkinci sahədə göstərin"</string>
     <string name="create_work_space">İş sahəsi yarat</string>
     <string name="creating_app_icon">İkon yaradılır…</string>
     <string name="cta_declaration_agree_and_continue">Razıyam</string>
-    <string name="cta_declaration_message_format" formatted="false">Müəssisə rejimini istifadə etməzdən əvvəl bunları oxumalı və razılaşmalısınız: &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt;. Müəssisə rejimini aktivləşdirmək üçün cihazınız internetə bağlanmalıdır. Razılaşırsınız?</string>
+    <string formatted="false" name="cta_declaration_message_format">Müəssisə rejimini istifadə etməzdən əvvəl bunları oxumalı və razılaşmalısınız: &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt;. Müəssisə rejimini aktivləşdirmək üçün cihazınız internetə bağlanmalıdır. Razılaşırsınız?</string>
     <string name="cta_declaration_title">Şərtlər və Qaydalar</string>
     <string name="current_space">Hazırkı sahə</string>
     <string name="custom_gesture_title">Özəl jestlər</string>
@@ -576,7 +576,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="long_press_menu_key">Menyu düyməsinə uzun bas</string>
     <string name="long_press_menu_key_when_lock">Kilid ekranında Menyu düyməsinə uzun bas</string>
     <string name="long_press_power_guide_know">Anladım</string>
-    <string name="long_press_power_guide_message" formatted="false">"\"Google Köməkçisi\"ni oyandırmaq üçün Güc düyməsini %s saniyə basılı tutun.
+    <string formatted="false" name="long_press_power_guide_message">"\"Google Köməkçisi\"ni oyandırmaq üçün Güc düyməsini %s saniyə basılı tutun.
 Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu açacaqsınız."</string>
     <string name="long_press_power_guide_settings">Ayarlar</string>
     <string name="long_press_power_guide_title">Güc düyməsi ilə oyandır</string>

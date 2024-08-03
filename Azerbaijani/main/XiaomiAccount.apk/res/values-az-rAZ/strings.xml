@@ -92,7 +92,7 @@
     <string name="bind_sns_description">%s ilə daxil olun</string>
     <string name="bind_weixin">WeChat hesabınızla bağlantı qurun</string>
     <string name="binded">Bağlantılıdır</string>
-    <string name="binded_description" formatted="false">"%s Xiaomi Hesabınıza bağlandı.
+    <string formatted="false" name="binded_description">"%s Xiaomi Hesabınıza bağlandı.
 Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string>
     <string name="button_agree">Razıyam</string>
     <string name="button_close">Bağla</string>
@@ -248,8 +248,8 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="find_device_interrupted">Əməliyyat yarımçıq kəsildi, bir və ya iki dəqiqə gözləyib yenidən sınayın</string>
     <string name="find_device_io_error">"Şəbəkə ilə bağlantı qurula bilmir"</string>
     <string name="find_device_location">Yeri aşkarla</string>
-    <string name="find_device_locked_account_email" formatted="false">%s, əlaqələndirilmiş e-poçt ünvanı: %s</string>
-    <string name="find_device_locked_account_phone" formatted="false">%s, əlaqələndirilmiş telefon nömrəsi: %s</string>
+    <string formatted="false" name="find_device_locked_account_email">%s, əlaqələndirilmiş e-poçt ünvanı: %s</string>
+    <string formatted="false" name="find_device_locked_account_phone">%s, əlaqələndirilmiş telefon nömrəsi: %s</string>
     <string name="find_device_message">Cihaz kilidlidir. Mesaj: %1$s. Zəng %2$s.</string>
     <string name="find_device_null_credential_error">"Cihaz məlumatları alına bilmir, Xiaomi müştəri xidmətləri ilə əlaqə saxlayın"</string>
     <string name="find_device_open">Açıq</string>

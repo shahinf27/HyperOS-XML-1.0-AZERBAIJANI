@@ -580,7 +580,7 @@ Tətbiqi yenidən açmaq və data və icazələrinizi ötürməyə davam etmək 
     <string name="paragliding">Yamac paraşütü</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="pause">Fasilə ver</string>
-    <string name="percent" formatted="false">{value, plural, one {}=1 {1%} other {#%}}</string>
+    <string formatted="false" name="percent">{value, plural, one {}=1 {1%} other {#%}}</string>
     <string name="percent_long">{value, plural, one {}=1 {1 faiz} other {# faiz}}</string>
     <string name="period_day">Dövr günü %1$d/%2$d</string>
     <string name="permdesc_readCaloriesBurned">Tətbiqin yandırılan kaloriləri oxumasına icazə verir</string>

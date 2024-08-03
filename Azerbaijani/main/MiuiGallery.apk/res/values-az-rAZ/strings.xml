@@ -94,7 +94,7 @@ AI şəklini fərqli fotolarla yaratmağa çalışın."</string>
     <string name="ai_create_image_photo_tip">AI şəkli yaradıldıqdan sonra fotolar serverlərimizdən silinəcək</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
     <string name="ai_create_image_tip">AI şəkli yaradıldıqdan sonra fotolar serverlərimizdən silinəcək</string>
-    <string name="ai_create_remain_time" formatted="false">Gözləmə vaxtı: %1s %2s</string>
+    <string formatted="false" name="ai_create_remain_time">Gözləmə vaxtı: %1s %2s</string>
     <string name="ai_creating_image_tip">"Şəkliniz hazır olduqda bildiriş alacaqsınız"</string>
     <string name="ai_creating_image_title">AI şəkli yaradılır…</string>
     <string name="ai_creation_button">Portret yarat</string>
@@ -189,9 +189,11 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_recreate_image_dialog_msg">Foto yükləməyə davam edə və ya yenilərini seçə bilərsiniz.</string>
     <string name="ai_recreate_image_dialog_title">"%s - fotoları yüklənməyib"</string>
     <string name="ai_refuse_update_toast">Bu AI şəklini güncəlləyə bilmək üçün yeni fotolar seçin</string>
-    <string name="ai_select_people_sub_title" formatted="false">%1d–%2d ən yaxşı fotolar avtomatik olaraq seçiləcək</string>
+    <string name="ai_search_picker_next_step">Növbəti</string>
+    <string name="ai_search_picker_title">Seqment seçin</string>
+    <string formatted="false" name="ai_select_people_sub_title">%1d–%2d ən yaxşı fotolar avtomatik olaraq seçiləcək</string>
     <string name="ai_select_people_title">Süni zəka şəklini yaratmaq üçün bir şəxs seçin</string>
-    <string name="ai_select_photo_complete_description" formatted="false">"%1d–%2d üz və ya yarı bədən çəkilişi seçin.
+    <string formatted="false" name="ai_select_photo_complete_description">"%1d–%2d üz və ya yarı bədən çəkilişi seçin.
 Ən yaxşı çəkilişlər avtomatik seçildi. Daha çox fotonu əllə əlavə edə bilərsiniz."</string>
     <string name="ai_select_photo_complete_toast">Ən yaxşı çəkilişlər avtomatik filtrləndi</string>
     <string name="ai_select_photo_count">Seçilmiş fotolar (%d)</string>
@@ -499,7 +501,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="btn_cancel_send">Bu köçürməni ləğv et</string>
     <string name="btn_exit_send">Çıx</string>
     <string name="btn_sure">Oldu</string>
-    <string name="burst_image_download_item_title" formatted="false">Orijinalı endir (%s|%s)</string>
+    <string formatted="false" name="burst_image_download_item_title">Orijinalı endir (%s|%s)</string>
     <string name="burst_photo_enter">Ardıcıl</string>
     <string name="burst_photo_preview_thumbnail_content_description">Foto %d</string>
     <string name="burst_preview_title">Ardıcıl çəkiliş</string>
@@ -1142,16 +1144,21 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="delete_album_msg_format_cloud">%1$s %2$s, Xiaomi Cloud və bütün sinxronlaşdırılmış cihazlardan silinsin?</string>
     <string name="delete_album_msg_format_local">%1$s %2$s silinsin?</string>
     <string name="delete_album_success">Albom silindi</string>
+    <string name="delete_all_photos">"Bu cihazdakı bütün fotoları silmək üzrəsiniz. Bu, vacib datalarınızı itirməyinizə səbəb ola bilər. Yenə də silinsin?"</string>
     <string name="delete_from_all_devices_and_cloud">bütün cihazlardan və Xiaomi Cloud-dan</string>
     <string name="delete_from_cloud">Buluddan da sil</string>
     <string name="delete_from_this_album_and_cloud">bu albomdan və Xiaomi Cloud-dan</string>
     <string name="delete_in_album">Ödənişsiz bulud anbar sahəsi üçün planınız varsa, seçilmiş elementlər buluddan və bütün bağlantılı cihazlardan silinəcək və təzəlikcə silinmiş elementlər arasında %d gün saxlanılacaq. Yenə də silinsin?</string>
     <string name="delete_in_home_page">Ödənişsiz bulud anbar sahəsi üçün planınız varsa, seçilmiş elementlər buluddan və bütün bağlantılı cihazlardan silinəcək və təzəlikcə silinmiş elementlər arasında %d gün saxlanılacaq. Yenə də silinsin?</string>
     <string name="delete_in_process">Silinir…</string>
+    <string name="delete_media_dialog_comment">Bu elementlər əvvəlcə \"Silinən elementlər\"ə daşınacaq. Oradan, elementləri geri qaytara və ya həmişəlik silə bilərsiniz.</string>
     <string name="delete_media_for_cloud">Seçilmiş elementlər buluddan və bütün sinxronlaşdırılmış cihazlardan Təzəlikcə silinmiş elementlərə daşınacaq.</string>
+    <string name="delete_media_from_cloud">Seçilmiş elementlər bütün cihazlardan və buluddan silinəcək. Yenə də silinsin?</string>
     <string name="delete_origin">Elementləri orijinal albomdan sil</string>
     <string name="delete_other_shared_images">"Başqalarının paylaşdığı fotolar silinə bilmir"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d silindi, %2$d saxlanıldı</string>
+    <string name="delete_risk_alert_message">"Silmək üçün çox sayda element seçmisiniz. Davam etsəniz, bu elementlər \"Silinən elementlər\"ə daşınacaq. Elementlər indi silinsin?"</string>
+    <string name="delete_risk_alert_title">Diqqət</string>
     <string name="delete_third_party_photo">Bu foto silinsin?</string>
     <string name="delete_third_party_video">Bu video silinsin?</string>
     <string name="deny">Rədd et</string>
@@ -1351,6 +1358,8 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="ext_sdcard_permission_request_title">Qalereyanın SD karta müraciətinə icazə verin</string>
     <string name="ext_sdcard_request_failed_button_text">Oldu</string>
     <string name="ext_sdcard_request_succeed_toast_text">"Artıq hazırsınız!"</string>
+    <string name="external_delete_notification_content">Vacib heç nəyin itmədiyinə əmin olmaq məqsədilə son silinən elementlərə baxmaq üçün toxunun</string>
+    <string name="external_delete_notification_title">Elementlər \"Qalereya\"dan silindi</string>
     <string name="face_album_empty">"İnsanları tanımaq üçün yetərli foto yyoxdur.
 Dostlarınızın daha çox fotosunu çəkin!"</string>
     <string name="face_album_empty_syncing">Data sinxronlaşdırılır, bir azdan geri qayıdın</string>
@@ -1445,7 +1454,7 @@ mövcuddur"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="foods_people_title">"Tastebuds cənnəti"</string>
+    <string name="foods_people_title">Uzun müddətdir görüşmürük</string>
     <string name="foods_people_travel_title">Yemək yolumuz %1$s ilə %2$s üzərindən keçir</string>
     <string name="foods_travel_title_one">%1$s dadı</string>
     <string name="foods_travel_title_three">"Foodie-nin %1$s"</string>
@@ -1481,13 +1490,19 @@ mövcuddur"</string>
     <string name="google_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
     <string name="google_app_id">1:184486664684:android:f43ea4abe65a1a6b7008c9</string>
     <string name="google_application_id"></string>
+    <string name="google_banner_back_stop">Nüsxələmə dayandırıldı</string>
+    <string name="google_banner_back_stop_des">"Google Hesabındakı anbar sahəniz dolub. Fotolarınızı nüsxələməyə davam etmək üçün daha çox anbar sahəsi alın və ya yer boşaldın."</string>
     <string name="google_banner_backup_des">İndi başlayın, foto və videolarınızı \"Google Fotolar\"da güvəndə saxlayın.</string>
     <string name="google_banner_backup_left_btn_text">İndi yox</string>
     <string name="google_banner_backup_right_btn_text">Nüsxələməni işə sal</string>
     <string name="google_banner_backup_title">Elementlərinizi \"Google Fotolar\"a nüsxələyin</string>
     <string name="google_banner_upgrade_des">Google Hesabınız üçün daha çox bulud anbar sahəsi ala bilərsiniz.</string>
+    <string name="google_banner_upgrade_left_btn_clean_space">Yer boşalt</string>
     <string name="google_banner_upgrade_left_btn_text">Detallara bax</string>
+    <string name="google_banner_upgrade_right_btn_get_storage">Anbar sahəsi al</string>
     <string name="google_banner_upgrade_right_btn_text">Anbar sahəsi al</string>
+    <string name="google_banner_upgrade_space_low_des">"Tezliklə yeni foto və videolarınızı nüsxələyə bilməyəcəksiniz"</string>
+    <string name="google_banner_upgrade_space_low_title">%s anbar sahəniz dolub</string>
     <string name="google_banner_upgrade_title">Bulud anbarı dolub</string>
     <string name="google_crash_reporting_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
     <string name="google_open_backup_error">"\"Google Fotolar\"a bağlana bilmədi"</string>
@@ -1918,6 +1933,7 @@ mövcuddur"</string>
     <string name="multi_view_tip_button_text">Anladım</string>
     <string name="multi_view_tip_sub_title">Göstərilən elementlərin ölçüsünü ayarlamaq üçün iki barmağınızı bir-birindən uzaqlaşdırın və ya bir-birinə tərəf yaxınlaşdırın.</string>
     <string name="multi_view_tip_title">Yaxınlaşdır və uzaqlaşdır</string>
+    <string name="multiwindow_not_support_camera">"Kamera çoxlu pəncərə rejimində istifadə edilə bilməz"</string>
     <string name="must_pick_file">Foto seçin</string>
     <string name="my_family">Evim</string>
     <string name="name_split">, </string>
@@ -2855,7 +2871,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="slim_dialog_empty_message">"Optimallaşdırılacaq elementlər tapıla bilmədi."</string>
     <string name="slim_dialog_empty_positive">Anladım</string>
     <string name="slim_dialog_empty_title">Diqqət</string>
-    <string name="slim_dialog_message" formatted="false">"Elementlər yarandıqdan %d gün sonra orijinal foto və videoları yüksək keyfiyyətli kopyaları ilə əvəz edin. Orijinal fayllar buludda saxlanılacaq. Yerli anbarda təxminən %s yer boşalda biləcəksiniz."</string>
+    <string formatted="false" name="slim_dialog_message">"Elementlər yarandıqdan %d gün sonra orijinal foto və videoları yüksək keyfiyyətli kopyaları ilə əvəz edin. Orijinal fayllar buludda saxlanılacaq. Yerli anbarda təxminən %s yer boşalda biləcəksiniz."</string>
     <string name="slim_dialog_positive">Optimallaşdır</string>
     <string name="slim_dialog_title">Anbarı optimallaşdır</string>
     <string name="slim_exit_dialog_positive">Dayandır</string>
@@ -3128,7 +3144,9 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="today_of_year_function_closed_btn_tip">İşə sal</string>
     <string name="today_of_year_function_closed_tip">"Hələ \"Bu gün\"ü işə salmamısınız"</string>
     <string name="today_of_year_location_num">Yerləşmələr</string>
+    <string name="today_of_year_next_day">Növbəti gün</string>
     <string name="today_of_year_photo_num">Fotolar</string>
+    <string name="today_of_year_pre_day">Əvvəlki gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="too_many_recipients">"%2$s nəfərdən çox alıcı əlavə edilə bilmir (Hazırda %1$s əlavə etdiniz)."</string>
     <string name="tran_notification_complete_title">Köçürmə tamamlandı</string>
@@ -3240,7 +3258,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="update_check_title">Hazırkı versiya: %s</string>
     <string name="update_ignore">Bu versiyanı yox say</string>
     <string name="update_latest_version">Hazırkı versiya güncəldir</string>
-    <string name="update_log_format" formatted="false">%s %s</string>
+    <string formatted="false" name="update_log_format">%s %s</string>
     <string name="update_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="update_new_version">Bir güncəlləmə var</string>
     <string name="update_title">İndi %s versiyası mövcuddur</string>
@@ -3265,10 +3283,10 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_compress_save_stop_tips">Sıxışdırmanı dayandırmaq üçün yenidən toxunun</string>
     <string name="video_compress_size">Sıxışdırmadan sonra ≈%s</string>
     <string name="video_edit_file_not_exits_tip">Əvvəlcə videonu endir</string>
-    <string name="video_editor_component_delete_btn_content_description">%d videosunu sil</string>
+    <string name="video_editor_component_delete_btn_content_description">%d seqmentini sil</string>
     <string name="video_editor_component_next_step">Növbəti %1$d/%2$d</string>
     <string name="video_editor_component_next_step_enabled_content_description">Növbəti</string>
-    <string name="video_editor_component_picked_imageview_content_description">%d video yuvasına əlavə edildi</string>
+    <string name="video_editor_component_picked_imageview_content_description">%d yuvasına seqment əlavə edildi</string>
     <string name="video_editor_not_support_8k_tips">"%dK videolara düzəliş edilə bilmir"</string>
     <string name="video_editor_picker_duration_too_short">Video çox qısadır</string>
     <string name="video_err">"Video oxudula bilmir"</string>

@@ -992,7 +992,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="keyboard_shortcut_search_list_title">Qısayollar</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="keyguard_accessibility_pin_area">PIN sahəsi</string>
-    <string name="keyguard_carrier_name_with_sim_locked_template" formatted="false">%s (%s)</string>
+    <string formatted="false" name="keyguard_carrier_name_with_sim_locked_template">%s (%s)</string>
     <string name="keyguard_charged">Doldur</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Doldurma sürəti artırılır %s</string>

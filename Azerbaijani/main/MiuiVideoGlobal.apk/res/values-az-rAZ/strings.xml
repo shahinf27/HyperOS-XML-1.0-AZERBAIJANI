@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="CronetProviderClassName">com.google.android.gms.net.PlayServicesCronetProvider</string>
     <string name="Earlier">Daha əvvəl</string>
     <string name="HA_AFFILIATE_ID">1268</string>
     <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
@@ -214,7 +213,7 @@
     <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
-    <string name="com.crashlytics.android.build_id">78163303ad114cd4b7ae79c893ce3337</string>
+    <string name="com.crashlytics.android.build_id">f3d9d64b68fa427e8b204f0585668d57</string>
     <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Ayarlarda müraciətə icazə verin."</string>
     <string name="com_permission_title">İcazələr tələb olunur</string>
     <string name="comment_model_add_comment">Bir rəy əlavə et</string>
@@ -370,7 +369,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="download_pending">Gözlənilir…</string>
     <string name="download_power_off_tips">"Bu özəllik hələlik mövcud deyil"</string>
     <string name="download_retry">Yenidən sına</string>
-    <string name="download_space_info" formatted="false">%s, %s</string>
+    <string formatted="false" name="download_space_info">%s, %s</string>
     <string name="download_unable_tip">"Bu element endirilə bilmir"</string>
     <string name="download_video">Video endirilir</string>
     <string name="downloading">Endirilir…</string>
@@ -594,7 +593,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="galleryplus_network_error">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="galleryplus_network_not_wifi">Video yayımı üçün mobil internet istifadəsi, əlavə operator xərcləri yarada bilər</string>
     <string name="galleryplus_next_step">Növbəti</string>
-    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Faylları idarə et %$s Altyazı əlavə et %$s Videoları yayımla %$s</string>
+    <string formatted="false" name="galleryplus_notification_linkvideo_subtitle1">Faylları idarə et %$s Altyazı əlavə et %$s Videoları yayımla %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle1_new">Şəkil içində şəkil, arxaplanda oxutma, yaxınlaşdırma, yayım və daha çoxundan yararlanın %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Şəxsi videolarınızı %$s parolla qoruyun</string>
     <string name="galleryplus_notification_linkvideo_subtitle2_new">Özəl videoları parolla qoruyun və fayllarınızı idarə edin %$s</string>
@@ -1705,7 +1704,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="source">"Mənbə: "</string>
     <string name="special_type_8k">AI 8K</string>
     <string name="special_type_log">LOG</string>
-    <string name="srl_component_falsify" formatted="false">"%s, sahəni təhrif edir,
+    <string formatted="false" name="srl_component_falsify">"%s, sahəni təhrif edir,
  İşləmə vaxtı sürükləmənin hhündürlüyünü[%.1fdp] təmsil eedir,
  Heç nə göstərmir."</string>
     <string name="srl_content_empty">\"SmartRefreshLayout\"dakı məzmun görünüşü boşdur. Xml düzüm faylına əlavə etməyi unutmusunuz?</string>
@@ -1812,7 +1811,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="tip_play_a_video">%d. Bir video oxut</string>
     <string name="tip_playlist_guide_hint_a">Google pleylistlərinizdən videolara baxın</string>
     <string name="tip_playlist_guide_hint_b">YouTube pleylistinizdəki videoları reklamsız oxudun</string>
-    <string name="tip_storage_used_space" formatted="false">%.2f GB/%.2f GB istifadə edildi</string>
+    <string formatted="false" name="tip_storage_used_space">%.2f GB/%.2f GB istifadə edildi</string>
     <string name="tip_subscribe_guide_hint_a">Google abunəliyinizdən məzmun yaradıcılarına baxın</string>
     <string name="tip_subscribe_guide_hint_b">"Abunə olduğunuz YouTube kanallarındakı güncəlləmələri reklamsız izləyin"</string>
     <string name="tip_tap_download_button">%d. \"Endir\"ə toxunun</string>
@@ -1821,7 +1820,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="title_continue_to_borwser">Brauzerdə aç</string>
     <string name="title_download_setting">Endirmə ayarları</string>
     <string name="title_history">Tarixçə</string>
-    <string name="title_mangotv_history_sub" formatted="false">%s (Epizod %d)</string>
+    <string formatted="false" name="title_mangotv_history_sub">%s (Epizod %d)</string>
     <string name="title_mangotv_subtitle_language">Altyazı dili</string>
     <string name="title_more_wonderful_smallvideo">Daha qısa videolar</string>
     <string name="title_select_directory">Qovluq seçin</string>

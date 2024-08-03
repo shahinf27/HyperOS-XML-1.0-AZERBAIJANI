@@ -205,7 +205,7 @@ yol prefiksi"</string>
     <string name="add_pre_message_attachments_yes">Əlavə et</string>
     <string name="add_star">Ulduz</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="agreement_url" formatted="false">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;dil=%2s</string>
+    <string formatted="false" name="agreement_url">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;dil=%2s</string>
     <string name="all_purpose">Kingsoft tərəfindən özəl olaraq Xiaomi üçün yaradılmış bir e-poçt müştərisi olan \"Poçt\"a xoş gəldiniz. Bu tətbiqi e-poçt yazmaq, göndərmək və almaq üçün istifadə edə bilərsiniz.</string>
     <string name="allow_notify">Bildirişlərə icazə ver</string>
     <string name="always_bcc_myself">Həmişə bir nüsxəni mənə göndər</string>
@@ -937,7 +937,7 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="ntes_had_send">Mesaj göndərildi</string>
     <string name="ntes_had_send_to_content">"Artıq əlaqələndirilmiş telefon nömrəsindən SMS göndərmisinizsə, davam etmək üçün \"Mesaj göndərildi\"yə toxunun."</string>
     <string name="ntes_login_auth_too_much">"5-dən çox doğrulama kodu əlavə edilə bilmir. Kompüterdə gələn qutunuza daxil olun və istifadə etmədiyiniz kodları silin."</string>
-    <string name="ntes_login_error_message" formatted="false">"Hesab məlumatı əldə edilə bilmir (Xəta %s). %s."</string>
+    <string formatted="false" name="ntes_login_error_message">"Hesab məlumatı əldə edilə bilmir (Xəta %s). %s."</string>
     <string name="ntes_password_error_hint">"Parolunuzu daxil edərkən xəta baş versə, bu səhifəni bağlayıb yenidən açın."</string>
     <string name="ntes_phone_send">Əlaqələndirilmiş telefon nömrəsindən bir mətn mesajı göndər</string>
     <string name="ntes_send_to">Göndər: %s</string>
@@ -1327,7 +1327,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="train_card_title_change">Rezervasiya uğurla dəyişdirildi</string>
     <string name="train_card_title_change_arrival">Təyinat nöqtəsi uğurla dəyişdirildi</string>
     <string name="train_card_title_refund">Bilet uğurla ləğv edildi</string>
-    <string name="train_travel_refund_info" formatted="false">Geri ödəmə haqqı ¥%s, geri qaytarıla bilən məbləğ ¥%s</string>
+    <string formatted="false" name="train_travel_refund_info">Geri ödəmə haqqı ¥%s, geri qaytarıla bilən məbləğ ¥%s</string>
     <string name="translated_text_too_long">Kopyalamaq üçün daha az mətn seçib yenidən sınayın</string>
     <string name="translation_loading">Bir saniyə…</string>
     <string name="translation_no_result">Nəticə yoxdur</string>

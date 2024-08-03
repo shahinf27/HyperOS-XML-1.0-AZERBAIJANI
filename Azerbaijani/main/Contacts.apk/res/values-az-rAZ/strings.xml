@@ -1306,9 +1306,9 @@ Səbəb: \"%s\""</string>
     <string name="t9_search_empty_send_sms">Mesaj göndər</string>
     <string name="t9_search_empty_video_call">Görüntülü zəng</string>
     <string name="t9_search_guide_pinyin_title1">Kontaktları tapmaq üçün rəqəm daxil edin</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">\"Davud Sabirli\" axtarmaq üçün \"%d\" və \"%d\" daxil edin</string>
+    <string formatted="false" name="t9_search_guide_pinyin_title2">\"Davud Sabirli\" axtarmaq üçün \"%d\" və \"%d\" daxil edin</string>
     <string name="t9_search_guide_zhuyin_title1">Kontaktları tapmaq üçün rəqəm daxil edin</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">\"Jalə Mərdanlı\" axtarmaq üçün %d\" və \"%d\" daxil edin</string>
+    <string formatted="false" name="t9_search_guide_zhuyin_title2">\"Jalə Mərdanlı\" axtarmaq üçün %d\" və \"%d\" daxil edin</string>
     <string name="take_new_photo">Yeni şəkil çək</string>
     <string name="take_photo">Şəkil çək</string>
     <string name="text_msim_balance">Bu gün istifadə edilən</string>

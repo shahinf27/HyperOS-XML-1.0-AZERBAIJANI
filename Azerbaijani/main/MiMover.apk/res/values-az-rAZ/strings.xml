@@ -143,7 +143,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="collect_content">Yığılmış məzmun</string>
     <string name="collect_situation">Kolleksiya statusu</string>
     <string name="collected">Yığılmış</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">0a85dfb2bac547c0bcbf36531c4f60c3</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">24e65ce8bba24d2ab68ec71b248b6015</string>
     <string name="comma_seperator">", "</string>
     <string name="connect_icloud_fail">"iCloud-a bağlana bilmədi"</string>
     <string name="connect_icloud_fail_tips">iCloud hesabınızın aktivləşdirildiyinə əmin olun. Əgər deyilsə, hesabınızı aktivləşdirmək üçün \"icloud.com\"a gedərək təlimatları izləyin.</string>
@@ -199,7 +199,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="dialog_request_permission_message_buttom_content">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="dialog_request_permission_message_extra_summary">Bu icazələr bu tətbiqin təməl özəlliklərini və xidmətlərini əlçatan etmək üçün tələb edilir.</string>
     <string name="dialog_request_permission_message_extra_title">Məcburi icazələr</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>\"Bu tətbiqin internetə bağlanmasına icazə verin və yuxarıda qeyd olunan lazımi icazələri verin. Əlavə olaraq, bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
+    <string formatted="false" name="dialog_request_permission_message_link"><Data>\"Bu tətbiqin internetə bağlanmasına icazə verin və yuxarıda qeyd olunan lazımi icazələri verin. Əlavə olaraq, bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="dialog_request_permission_message_provision_link">Bu tətbiqin internetə bağlanmasına icazə verin və yuxarıda qeyd olunan lazımi icazələri verin. Əlavə olaraq, bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün bunları oxuyun və razılaşın: %1$s və %2$s.</string>
     <string name="dialog_request_permission_title">Diqqət</string>
     <string name="dialog_tip_upgrade_summary">Deyəsən, \"Mi Mover\"in versiyası köhnədir. Faylları köçürə bilmək üçün \"Mi Mover\"i ən son versiyaya güncəlləyin.</string>

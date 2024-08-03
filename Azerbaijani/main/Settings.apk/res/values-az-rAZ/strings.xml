@@ -7905,9 +7905,9 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="resetting_second_space_passwd">İkinci sahə parolu sıfırlanır</string>
     <string name="resident_timezone_summary">İkinci saat</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (batareyaya qənaət edir)</string>
+    <string formatted="false" name="resolution_fhd_summary">%d×%d (batareyaya qənaət edir)</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (aydınlıq əlavə edir)</string>
+    <string formatted="false" name="resolution_qhd_summary">%d×%d (aydınlıq əlavə edir)</string>
     <string name="resolution_sub_title">Sistem, dəqiqliyi dəyişdirərkən arxaplanda işləyən tətbiqləri bağlaya bilər</string>
     <string name="resolver_settings_label">Sırala</string>
     <string name="restore_default_apn">İlkin APN ayarları bərpa olunur.</string>
@@ -9997,7 +9997,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="today">Bu gün</string>
     <string name="tof_gesture_cue_tone_summary">Ovucunuz aşkarlandıqda təsdiq səsini oxut</string>
     <string name="tof_gesture_cue_tone_title">Təsdiq səsini oxut</string>
-    <string name="tofgesture_description_summary" formatted="false">Cihaz mənzərə rejimində olduqda, əlinizi kameradan %d-%d sm məsafədə saxlayın, ekranın yuxarısında əl ikonu göründükdən sonra jestləri icra edin.</string>
+    <string formatted="false" name="tofgesture_description_summary">Cihaz mənzərə rejimində olduqda, əlinizi kameradan %d-%d sm məsafədə saxlayın, ekranın yuxarısında əl ikonu göründükdən sonra jestləri icra edin.</string>
     <string name="tofgesture_enable_title">Təmassız jestlər (Beta)</string>
     <string name="tofgesture_settings">Təmassız jestlər (Beta)</string>
     <string name="toggle_auto_speaker_preference_summary">Zəng əsnasında qulağınızdan uzaqlaşdırdıqda cihaz dinamikə keçəcək. Bu özəllik yalnız TalkBack açıq olduqda işləyir.</string>

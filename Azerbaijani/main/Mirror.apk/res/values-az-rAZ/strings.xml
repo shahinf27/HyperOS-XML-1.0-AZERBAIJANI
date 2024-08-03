@@ -38,7 +38,6 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">logProvider</string>
     <string name="app_no_storage_permission">Əvvəlcə %1$s üçün Ayarlar &gt; Tətbiqlər &gt; %2$s &gt; \"İcazələr\"də anbara müraciət icazəsi verin</string>
     <string name="app_not_support_subscreen">"Bu pəncərə böyüdülə bilmir"</string>
@@ -648,7 +647,7 @@ telefonun kilidini aç"</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="upgrade_car_not_tip">"Təkrar göstərmə"</string>
     <string name="upgrade_car_ok">Anladım</string>
-    <string name="upgrade_car_version_msg">"Bu özəlliyi istifadə edə bilmək üçün, EV-nizin sistemini Ayarlar &gt; Sistem &gt; \"Sistem versiyası\"nda 1.2.1 və ya daha yuxarı versiyaya güncəlləyin."</string>
+    <string name="upgrade_car_version_msg">"Telefonunuzu EV-nizə bağlaya bilmək üçün, EV-nizin sistemini Ayarlar &gt; Sistem &gt; \"Sistem versiyası\"nda 1.2.3 və ya daha yuxarı versiyaya güncəlləyin."</string>
     <string name="upgrade_car_version_title">"EV-nizin sistemini güncəlləyin"</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>

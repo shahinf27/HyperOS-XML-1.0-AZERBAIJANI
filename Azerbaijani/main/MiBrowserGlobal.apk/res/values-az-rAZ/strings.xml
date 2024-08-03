@@ -336,7 +336,7 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">38c4176aadb64029b3615a95580c3ca8</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">07c639b9adaa4354ab98eb77e37f0cf7</string>
     <string name="comment_app_menu">Rəy</string>
     <string name="comment_description">Rəy</string>
     <string name="comment_hint">Rəy</string>
@@ -1448,7 +1448,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="mw_miuichromium_error_page_btn_close">Bağla</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Təzələ</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Problem bildir</string>
-    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Zəif siqnala və ya yanlış şəbəkə konfiqurasiyasına görə şəbəkəyə bağlana bilmədi. %s1Şəbəkə ayarlarınızı%s2 yoxlayıb yenidən sınayın."</string>
+    <string formatted="false" name="mw_miuichromium_error_page_description_no_connection">"Zəif siqnala və ya yanlış şəbəkə konfiqurasiyasına görə şəbəkəyə bağlana bilmədi. %s1Şəbəkə ayarlarınızı%s2 yoxlayıb yenidən sınayın."</string>
     <string name="mw_miuichromium_error_page_diagnose">Şəbəkə diaqnostikası</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Şəbəkə diaqnostikası</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"Şəbəkə protokolu doğrulana bilmədi"</string>
@@ -1503,9 +1503,9 @@ Bu səhifə tərk edilsin?"</string>
     <string name="mw_miuichromium_error_page_server_error">Həddindən çox cihaz bağlantı qurmağa çalışır</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Cihazınızda quraşdırılmış proksi tətbiqlərinin ayarlarını yoxlayın.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">İnternet bağlantısını yoxlayın.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobil internet) %s1APN ayarlarınızı%s2 sıfırlayın.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Mobil internet) %s1APN ayarlarınızı%s2 sıfırlayın.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"Daxil etdiyiniz internet ünvanını yoxlayın."</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1Proksi ayarlarınızı%s2 yoxlayın.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) %s1Proksi ayarlarınızı%s2 yoxlayın.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Keşi təmizlə.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Keş və çərəzləri təmizlə (hesab məlumatlarınız itə bilər).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">İnternetə bağlandıqdan sonra yenidən yüklə</string>
@@ -2238,7 +2238,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="sign_in_by_others">Digər daxil olma yolları</string>
     <string name="sign_in_by_xiaommi">Xiaomi Hesabı ilə daxil olun</string>
     <string name="sign_in_failed">"Daxil ola bilmədi"</string>
-    <string name="sign_in_to" formatted="false">Daxil olun: %s1 \"%s2\"</string>
+    <string formatted="false" name="sign_in_to">Daxil olun: %s1 \"%s2\"</string>
     <string name="sign_message">İstifadəçi adı və parolunuz \"http://%s\" üçün lazımdır.</string>
     <string name="sign_out">Çıxış et</string>
     <string name="simple_page_toast">Ayarlar &gt; \"Başlatma səhifəsi ayarları\"nda ilkin olaraq seçə bilərsiniz</string>
@@ -2298,7 +2298,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="sports_card_match_status_2">Davam edir</string>
     <string name="sports_card_match_status_3">Bitdi</string>
     <string name="ssl_bad_clock_date_settings">Tarixi təyin et</string>
-    <string name="ssl_bad_clock_warning" formatted="false">"Cihazınızın tarix və saatı (%s2) yanlış olduğuna görə %s1 ilə özəl bağlantı qurula bilmədi."</string>
+    <string formatted="false" name="ssl_bad_clock_warning">"Cihazınızın tarix və saatı (%s2) yanlış olduğuna görə %s1 ilə özəl bağlantı qurula bilmədi."</string>
     <string name="ssl_bad_expired_warning">"Bu kanal %1$s tərəfindən təmin edilir. Lakin, cihazınızda ayarlanmış tarix və vaxt (%2$s), %1$s ilə güvənli bağlantı yaratmağa imkan vermir. Doğru tarix və saatı ayarlaya və ya bu kanalı istifadə etmək istəyirsinizsə \"Davam et\"ə toxuna bilərsiniz."</string>
     <string name="ssl_bad_warning">"Bu kanal %1$s tərəfindən təmin edilir. Lakin Mi Brauzer, bu serverin %1$s aid olduğunu doğrulaya bilmir, çünki sertifikatı yararsızdır və ya ləğv edilmişdir. Yanlış konfiqurasiyalar və ya əngəllənmiş bağlantı bu problemə səbəb ola bilər. Hələ də bu kanalı istifadə etmək istəyirsinizsə \"Davam et\"ə toxunun."</string>
     <string name="ssl_certificate">Güvənlik sertifikatı</string>

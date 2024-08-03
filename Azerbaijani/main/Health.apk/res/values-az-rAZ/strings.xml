@@ -1549,7 +1549,7 @@ tapıla bilmədi"</string>
     <string name="sport_outdoor_running">Qaçış</string>
     <string name="sport_pace_chart_last_km">1 km-dən az</string>
     <string name="sport_pace_step_unit">Addım/Dəqiqə</string>
-    <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
+    <string formatted="false" name="sport_pace_time_format">"%d'%d\""</string>
     <string name="sport_pref_category_voice">Səs</string>
     <string name="sport_pref_gps_voice_title">GPS siqnal səsli göstərişlər</string>
     <string name="sport_pref_voice_assist_summary">Məşq zamanı məlumat və təklifləri dinləyin</string>
@@ -1759,7 +1759,7 @@ tapıla bilmədi"</string>
     <string name="tb_mens_unmark_success">Uğurla ləğv edildi</string>
     <string name="tb_month_dialog_go_today">Bu gün seçildi</string>
     <string name="tb_month_dialog_select_date">%1$s seçildi</string>
-    <string name="tb_month_dialog_select_date_with_snore" formatted="false">%1$s seçildi, %s</string>
+    <string formatted="false" name="tb_month_dialog_select_date_with_snore">%1$s seçildi, %s</string>
     <string name="tb_multiple_selecte_all">Hamısını seç</string>
     <string name="tb_not_add_list">Əlavə edilmədi</string>
     <string name="tb_pause_detection">Fasilə ver</string>
@@ -1793,7 +1793,7 @@ tapıla bilmədi"</string>
     <string name="tb_stand_day_ring">Bu gün ayağa qalxma fasilələri: %1$s. Bu gün ən azı 12 dəfə etməlisiniz.</string>
     <string name="tb_stand_wm_column_chart">%1$s - %2$s arası ayağa qalxma fasilələri. Vaxt periodları arasında keçid etmək üçün üfüqi sürüşdürün. Detallara baxmaq üçün toxunun.</string>
     <string name="tb_stand_wm_column_click">%1$s. Ayağa qalxma fasilələri: %2$d. %3$s.</string>
-    <string name="tb_step_widget" formatted="false">Bu gün. %1$s. İrəliləyiş: %2$d%</string>
+    <string formatted="false" name="tb_step_widget">Bu gün. %1$s. İrəliləyiş: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Heç birini seçmə</string>
     <string name="tb_user_account_signed">Mi Hesabı: %1$s.</string>
     <string name="tb_user_account_unsigned">Mi Hesabına daxil olmaq üçün toxunun</string>

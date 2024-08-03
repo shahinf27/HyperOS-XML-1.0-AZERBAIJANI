@@ -183,7 +183,7 @@
     <string name="kslite_sign_url_v2"></string>
     <string name="online_security_error_code_no_operation_permission">Bu əməliyyat üçün icazəniz yoxdur</string>
     <string name="oppo_app_packageName">OPPO sənəd görüntüləyici（WPS Özəlləşdirmə）</string>
-    <string name="oppo_scre_dialog_message" formatted="false"><Data>“WPS文档查看器”是用于查看用户办公文档的软件，需要您提供文件存储的权限才能正常使用。为了更好的改进产品体验，WPS Office会收集功能使用信息，并将严格按照&lt;a href=\"%s\"&gt;《最终用户许可协议》&lt;/a&gt;和&lt;a href=\"%s\"&gt;《隐私政策》&lt;/a&gt;的说明，保护您的信息安全。</Data></string>
+    <string formatted="false" name="oppo_scre_dialog_message"><Data>“WPS文档查看器”是用于查看用户办公文档的软件，需要您提供文件存储的权限才能正常使用。为了更好的改进产品体验，WPS Office会收集功能使用信息，并将严格按照&lt;a href=\"%s\"&gt;《最终用户许可协议》&lt;/a&gt;和&lt;a href=\"%s\"&gt;《隐私政策》&lt;/a&gt;的说明，保护您的信息安全。</Data></string>
     <string name="oppo_scre_dialog_smallTip">\"Razıyam\"a toxunmaqla yuxarıdakılarla razılaşırsınız</string>
     <string name="oppo_scre_dialog_title">WPS sənəd görüntüləyici bildirişi</string>
     <string name="oppo_search_next">Növbəti</string>
@@ -390,7 +390,7 @@
     <string name="public_search_hint">Axtardığınızı daxil edin</string>
     <string name="public_searchnotfound">Nəticə yoxdur</string>
     <string name="public_secre_dialog_content_1">Xidmətlərimizi təqdim etmək və məhsullarımızı yaxşılaşdırmaq üçün, anbar sahəsinə müraciət etmək və özəlliklərimizi necə istifadə etdiyiniz haqqında məlumat yığmaq üçün icazələrə ehtiyacımız var.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data&gt;Şəxsi məlumatlarınızı &lt;a href=\"%s\"&gt;İstifadəçi Razılaşması&lt;/a &gt; və &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizə&lt;/a &gt; uyğun olaraq qoruyacağıq.&lt;/Data&gt;</string>
+    <string formatted="false" name="public_secre_dialog_content_2">&lt;Data&gt;Şəxsi məlumatlarınızı &lt;a href=\"%s\"&gt;İstifadəçi Razılaşması&lt;/a &gt; və &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizə&lt;/a &gt; uyğun olaraq qoruyacağıq.&lt;/Data&gt;</string>
     <string name="public_secre_dialog_exit">Çıx</string>
     <string name="public_secre_dialog_positive">Razıyam</string>
     <string name="public_secre_dialog_tips_agree">İstifadəçi Razılaşması və Gizlilik Siyasətimizin şərtləri və qaydaları ilə razılaşırsınızsa, xidmətlərimizi istifadə etməyə başlamaq üçün \"Razıyam\"a toxunun.</string>
@@ -488,12 +488,12 @@
     <string name="writer_page_break">Səhifə sonu</string>
     <string name="writer_page_setting_units"> sm</string>
     <string name="writer_page_setting_units_inch">düym</string>
-    <string name="writer_paragraph_set_firstlineindent" formatted="false">Birinci sətrin abzası: %.2f%2$s</string>
-    <string name="writer_paragraph_set_hangingindent" formatted="false">Asma abzas: %.2f%2$s</string>
-    <string name="writer_paragraph_set_leftindent" formatted="false">Sol abzas: %.2f%2$s</string>
-    <string name="writer_paragraph_set_rightindent" formatted="false">Sağ abzas: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spaceafter" formatted="false">Sətirdən sonrakı boşluq: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spacebefore" formatted="false">Sətirdən əvvəlki boşluq: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_firstlineindent">Birinci sətrin abzası: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_hangingindent">Asma abzas: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_leftindent">Sol abzas: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_rightindent">Sağ abzas: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spaceafter">Sətirdən sonrakı boşluq: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spacebefore">Sətirdən əvvəlki boşluq: %.2f%2$s</string>
     <string name="writer_read_mode">Görünüş rejimi</string>
     <string name="writer_revision_edit_nottrack">"Bu əməliyyat, bir təftiş olaraq işarələnməyəcək. Yenə də davam edilsin?"</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">"Hazırda bu təftişə düzəliş edilə bilmir"</string>

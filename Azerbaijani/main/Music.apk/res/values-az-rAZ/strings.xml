@@ -356,7 +356,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id">6cd5c4eb8b09408ea9c2b7eecaf73e09</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
+    <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
     <string name="common_google_play_services_enable_title">Google Play xidmətlərini fəallaşdır</string>
@@ -1332,7 +1332,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="online_apk_install_completed">Onlayn məzmun uğurla yükləndi. Baxmaq üçün %s toxunun.</string>
     <string name="online_apk_install_error_no_enough_space">"Yetərsiz anbar sahəsinə görə quraşdırıla bilmədi."</string>
     <string name="online_apk_install_error_with_reason">"Quraşdırıla bilmədi (Xəta %d)"</string>
-    <string name="online_apk_install_failed_with_reason" formatted="false">"Onlayn məzmun yüklənə bilmıdi. Yenidən sınamaq üçün %s toxunun. Xəta kodu: %d."</string>
+    <string formatted="false" name="online_apk_install_failed_with_reason">"Onlayn məzmun yüklənə bilmıdi. Yenidən sınamaq üçün %s toxunun. Xəta kodu: %d."</string>
     <string name="online_apk_install_in_background">Onlayn məzmun arxaplanda yüklənir…</string>
     <string name="online_apk_install_network_change_paused">"Mobil internet istifadə edirsiniz. Hələlik elementlərin yüklənməsinə fasilə verildi. Baxmaq üçün %s toxunun."</string>
     <string name="online_apk_install_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
@@ -1856,7 +1856,7 @@ Xoşbəxt ol"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Oxutma əsnasında mahnıları çarpazlaşdırmağa çalışın</string>
     <string name="sound_off">Səsi bağla</string>
     <string name="sound_on">Səsi aç</string>
-    <string name="srl_component_falsify" formatted="false">"%s, sahəni təhrif edir,
+    <string formatted="false" name="srl_component_falsify">"%s, sahəni təhrif edir,
  İşləmə vaxtı sürükləmənin hhündürlüyünü[%.1fdp] təmsil eedir,
  Heç nə göstərmir."</string>
     <string name="srl_content_empty">\"SmartRefreshLayout\"dakı məzmun görünüşü boşdur. Xml düzüm faylına əlavə etməyi unutmusunuz?</string>
@@ -2260,7 +2260,7 @@ Xoşbəxt ol"</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
     <string name="whitelist_title">Fayl istisnaları</string>
     <string name="widget_small_text_separator">-</string>
-    <string name="wifi_required_body" formatted="false">"Bu %s endirməni tamamlamaq üçün Wi-Fi-a bağlanın. 
+    <string formatted="false" name="wifi_required_body">"Bu %s endirməni tamamlamaq üçün Wi-Fi-a bağlanın. 
 
 Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</string>
     <string name="wifi_required_title">Bu faylı endirmək üçün Wi-Fi-a bağlanmalısınız</string>

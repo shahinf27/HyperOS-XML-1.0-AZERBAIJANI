@@ -352,7 +352,7 @@ Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyi�
     <string name="bugreport_option_interactive_title">İnteraktiv hesabat</string>
     <string name="bugreport_screenshot_failure_toast">Xəta hesabatının ekran şəkli çəkilmədi</string>
     <string name="bugreport_screenshot_success_toast">Xəta hesabatının ekran şəkli çəkildi</string>
-    <string name="bugreport_status" formatted="false">%s (%s)</string>
+    <string formatted="false" name="bugreport_status">%s (%s)</string>
     <string name="bugreport_title">Xəta hesabatı</string>
     <string name="byteShort">B</string>
     <string name="call_notification_answer_action">Cavab</string>
@@ -712,7 +712,7 @@ Qulaqlıq səsi tövsiyə olunan səviyyədən daha yüksək səviyyədə qalıb
     <string name="data_usage_warning_title">İnternet xəbərdarlığı</string>
     <string name="data_usage_wifi_limit_snoozed_title">Wi-Fi internet limitini aşdınız</string>
     <string name="data_usage_wifi_limit_title">Wi-Fi internet limitinə çatıldı</string>
-    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string formatted="false" name="date_and_time">%b %-e, %Y, %-l:%M:%S %p</string>
     <string name="date_picker_day_of_week_typeface">sans-serif-medium</string>
     <string name="date_picker_day_typeface">sans-serif-medium</string>
     <string name="date_picker_decrement_day_button">Günü azalt</string>
@@ -1496,7 +1496,7 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="mobile_no_internet">Mobil şəbəkənin internetə müraciəti yoxdur</string>
     <string name="mobile_provisioning_apn"></string>
     <string name="mobile_provisioning_url"></string>
-    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string formatted="false" name="month_day_year">%B %-e, %Y</string>
     <string name="more_item_label">Daha çox</string>
     <string name="move_button_text">Bütün pəncərəni hərəkət etdirmək üçün çərçivə düyməsinə toxunun</string>
     <string name="mte_override_notification_message">Performans və stabillik təsirlənə bilər. Sıradan çıxartmaq üçün yenidən başladın. Əgər arm64.memtag.bootctl istifadə edərək fəallaşdırılıbsa, onu \"əvvəlcədən yoxdur\" olaraq ayarlayın.</string>
@@ -2315,7 +2315,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="tethered_notification_one_device_message">%1$s bağlantılı cihaz</string>
     <string name="tethered_notification_title">İnternet paylaşımı və ya hotspot aktivdir</string>
     <string name="textSelectionCABTitle">Mətn seçmə</string>
-    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string formatted="false" name="time_of_day">%-l:%M:%S %p</string>
     <string name="time_picker_decrement_hour_button">Saatı azalt</string>
     <string name="time_picker_decrement_minute_button">Dəqiqəni azalt</string>
     <string name="time_picker_decrement_set_am_button">GƏ ayarla</string>

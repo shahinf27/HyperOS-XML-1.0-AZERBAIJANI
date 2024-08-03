@@ -770,8 +770,8 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="priority_normal">Normal</string>
     <string name="privacy_dialog_error_service">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="privacy_dialog_text_policy_link">Gizlilik Siyasəti</string>
-    <string name="privacy_dialog_tips_revoke" formatted="false">"Davam etsəniz, %s Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. %s, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi %s xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
-    <string name="privacy_dialog_tips_update" formatted="false">"%s Gizlilik Siyasəti güncəlləndi:
+    <string formatted="false" name="privacy_dialog_tips_revoke">"Davam etsəniz, %s Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. %s, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi %s xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
+    <string formatted="false" name="privacy_dialog_tips_update">"%s Gizlilik Siyasəti güncəlləndi:
 %s
 Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul edin."</string>
     <string name="privacy_dialog_title_update">Güncəllənmiş Gizlilik Siyasəti</string>
@@ -1203,9 +1203,9 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="switch_to_editor">Redaktor rejimi</string>
     <string name="switch_to_menu">Menyu rejimi</string>
     <string name="system_permission_declare_disagree">İmtina</string>
-    <string name="system_permission_declare_double_link" formatted="false">Bu özəlliyi istifadə etməzdən əvvəl bunları oxuyun və razılaşın: %1s və %2s.</string>
+    <string formatted="false" name="system_permission_declare_double_link">Bu özəlliyi istifadə etməzdən əvvəl bunları oxuyun və razılaşın: %1s və %2s.</string>
     <string name="system_permission_declare_exit">Çıx</string>
-    <string name="system_permission_declare_main_purpose" formatted="false">%1s - xoş gəldiniz! %2s</string>
+    <string formatted="false" name="system_permission_declare_main_purpose">%1s - xoş gəldiniz! %2s</string>
     <string name="system_permission_declare_mi_message">\"Mi Mesaj\"a xoş gəldiniz!</string>
     <string name="system_permission_declare_no_say_no">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq.
 Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz."</string>

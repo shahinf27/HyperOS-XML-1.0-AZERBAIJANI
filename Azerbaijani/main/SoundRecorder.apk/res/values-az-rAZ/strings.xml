@@ -645,8 +645,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="recording_quality_standard">Standart keyfiyyət</string>
     <string name="recording_status_focus_notification">Səs yazılır</string>
     <string name="recording_stopped">Dayandı</string>
-    <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
-    <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
+    <string formatted="false" name="recording_timer_format_four_sections">%02d:%02d:%02d.%02d</string>
+    <string formatted="false" name="recording_timer_format_three_sections">%02d:%02d.%02d</string>
     <string name="recovery">Bərpa et</string>
     <string name="recovery_failed_dialog_button">Anladım</string>
     <string name="recovery_failed_dialog_title">Diqqət</string>
@@ -788,9 +788,9 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="timer_format_two_sections" formatted="false">%02d:%02d</string>
+    <string formatted="false" name="timer_format">%02d:%02d</string>
+    <string formatted="false" name="timer_format_three_sections">%02d:%02d:%02d</string>
+    <string formatted="false" name="timer_format_two_sections">%02d:%02d</string>
     <string name="toast_enter_silent_mode">Səsyazma. Səssiz rejim açıqdır.</string>
     <string name="toast_exit_silent_mode">Səsyazma bitdi. Səssiz rejim bağlıdır.</string>
     <string name="toast_max_record_time">%1$s, təxminən %2$s səs yaza bilər</string>
@@ -843,7 +843,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="weibo_login_btn_content_description">Weibo ilə daxil olun</string>
     <string name="weibo_redirect_uri"></string>
     <string name="weixin_login_btn_content_description">WeChat ilə daxil olun</string>
-    <string name="wifi_recommended_body" formatted="false">Bu faylı (%s) endirmək üçün mobil internet bağlantınızı istifadə etmək internet istifadənizi artıracaq. Tarif planı limitini aşsanız, operatorunuz əlavə ödəniş ala bilər. Bu faylı endirmək üzrə Wi-Fi bağlantısını gözləmək üçün %s seçiminə toxunun.</string>
+    <string formatted="false" name="wifi_recommended_body">Bu faylı (%s) endirmək üçün mobil internet bağlantınızı istifadə etmək internet istifadənizi artıracaq. Tarif planı limitini aşsanız, operatorunuz əlavə ödəniş ala bilər. Bu faylı endirmək üzrə Wi-Fi bağlantısını gözləmək üçün %s seçiminə toxunun.</string>
     <string name="wifi_recommended_title">İnternet istifadə xəbərdarlığı</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>

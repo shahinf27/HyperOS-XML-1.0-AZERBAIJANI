@@ -189,7 +189,7 @@
     <string name="doodle_guide_dialog_confirm">Oldu</string>
     <string name="doodle_guide_dialog_skip">Ötür</string>
     <string name="doodle_guide_dialog_title">Eskiz</string>
-    <string name="doodle_guide_quick_shape_hint" formatted="false">Ştrixləri avtomatik nizamlamaq üçün eskizi %d–%d saniyə basılı tutun</string>
+    <string formatted="false" name="doodle_guide_quick_shape_hint">Ştrixləri avtomatik nizamlamaq üçün eskizi %d–%d saniyə basılı tutun</string>
     <string name="doodle_palette">Rəng palitrası</string>
     <string name="doodle_saving">Saxlanılır…</string>
     <string name="doodle_tool_background">Kətanı dəyişdir</string>

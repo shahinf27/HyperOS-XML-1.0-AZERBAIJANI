@@ -120,9 +120,9 @@
     <string name="close_camera_failed">"Kamera söndürülə bilmədi…"</string>
     <string name="close_camera_requesting">Kamera söndürülür…</string>
     <string name="cloud_video_conference">Bulud video konfransı</string>
-    <string name="conference_call_description" formatted="false">%s,%s və s. cəmi %s</string>
+    <string formatted="false" name="conference_call_description">%s,%s və s. cəmi %s</string>
     <string name="conference_call_recorder_title">Konfrans zəngi</string>
-    <string name="conference_call_single_description" formatted="false">%s və s. ümumi %s</string>
+    <string formatted="false" name="conference_call_single_description">%s və s. ümumi %s</string>
     <string name="conference_caller_info_name">"%1$s tərəfindən konfrans zəngi"</string>
     <string name="conference_callers_exceeded">"Daha çox şəxs əlavə edilə bilmir"</string>
     <string name="contacts_icon_label">Kontaktlar</string>

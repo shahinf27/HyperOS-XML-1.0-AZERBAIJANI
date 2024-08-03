@@ -310,7 +310,7 @@
     <string name="focus_mode_timer_add_limit">%d özəl taymerə qədər əlavə edə bilərsiniz</string>
     <string name="focus_mode_timer_delete">Sil</string>
     <string name="focus_mode_timer_exist">Bu seans artıq mövcuddur</string>
-    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d - %d dəqiqə</string>
+    <string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d - %d dəqiqə</string>
     <string name="focus_mode_timer_pick_dialog_title">Müddəti daxil et</string>
     <string name="focus_time_exception_tip">Deyəsən, sistem vaxtı dəyişdirildi. Fokus rejimi söndürüldü.</string>
     <string name="follow_apps_settings">Tətbiq ayarları əsasında</string>
@@ -319,7 +319,7 @@
 %1$d. Performans rejimini işə saldıqda, yenilənmə sürəti sistemin maksimum %2$d Hz-inə keçiriləcək. Yüksək yenilənmə sürətinə sahib tətbiq ayarları müvəqqəti olaraq əlçatmaz olacaq."</string>
     <string name="footer_global_fps_new">"
 %1$d. %2$s, yeniləmə sürətini sistemin maksimum %3$d Hz-inə qədər artırır. Yüksək yeniləmə sürətinə sahib tətbiq ayarları müvəqqəti olaraq əlçatmaz olacaq."</string>
-    <string name="footer_max_fps" formatted="false">"
+    <string formatted="false" name="footer_max_fps">"
 %d. Yeniləmə sürəti dəstəklənən tətbiqlər və oyunlar üçün %s Hz-ə qədər ayarlana bilər."</string>
     <string name="force_rest">Seans fasilələrini istifadə et</string>
     <string name="force_rest_summary">Seanslar təyin edilən limitə çatanda məcburi fasilələr verin</string>
@@ -872,7 +872,7 @@ vaxt qalmadı"</string>
     <string name="usage_app_limit_reach_summay">%s qaldı</string>
     <string name="usage_app_limit_reach_summay_new">%d dəq əlavə etmək üçün toxunun</string>
     <string name="usage_app_limit_reach_title">%s, ekran vaxtı limitinə çatır</string>
-    <string name="usage_app_limit_reach_title_new" formatted="false">%1s üçün qalan ekran vaxtı: %2s</string>
+    <string formatted="false" name="usage_app_limit_reach_title_new">%1s üçün qalan ekran vaxtı: %2s</string>
     <string name="usage_app_limit_summary">"Limitə çatdıqda seçilmiş tətbiqlər əlçatmaz olacaq"</string>
     <string name="usage_app_limit_title">Ekran vaxtını məhdudlaşdır</string>
     <string name="usage_app_other_settings">Əlavə ayarlar</string>
@@ -928,7 +928,7 @@ Normal işləyə bilməsi üçün bu tətbiqin ekran vaxtı məlumatlarını yı
 Bu tətbiqin internetə bağlanması lazımdır və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələri tələb edir:"</string>
     <string name="usage_home_premission_second_summary">Normal işləyə bilməsi üçün bu tətbiqin şəxsi məlumatlarınızı yığması lazımdır. Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Ekran vaxtı &gt; Ayarlar &gt; \"Ekran vaxtını söndür\" ilə səlahiyyəti ləğv edə bilərsiniz."</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>\"Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Privacy Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
+    <string formatted="false" name="usage_home_premission_second_summary_double_link_suffix"><Data>\"Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Privacy Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="usage_home_premission_second_summary_new">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Ekran vaxtı &gt; Ayarlar &gt; \"Ekran vaxtını söndür\" ilə səlahiyyəti ləğv edə bilərsiniz. Gizlilik haqqında daha çox sualınız varsa privacy@xiaomi.com üzərindən bizimlə əlaqə saxlaya bilərsiniz."</string>
     <string name="usage_new_category_limit_summary">Bu kateqoriyadakı bütün tətbiqlər üçün gündəlik istifadə limiti təyin edin</string>
     <string name="usage_new_category_limit_title">Tətbiq kateqoriyası üçün istifadəni məhdudlaşdır</string>
@@ -976,7 +976,7 @@ Bu tətbiqin internetə bağlanması lazımdır və şəxsi məlumatlarınızı 
     <string name="usage_optional_title">İxtiyari icazələr</string>
     <string name="usage_permisison_agree_desc_o">Sizi Ekran vaxtı statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı.</string>
     <string name="usage_permisison_agree_desc_p">Sizi Ekran vaxtı və Fokus rejimi statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı, ekran yandırma sayı və Fokus rejimi ayarları.</string>
-    <string name="usage_permission_double_link" formatted="false"><Data>\"Bu tətbiqin normal işləyə bilməsi üçün internetə bağlanması və tələb olunan şəxsi məlumatları yığması lazımdır. Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
+    <string formatted="false" name="usage_permission_double_link"><Data>\"Bu tətbiqin normal işləyə bilməsi üçün internetə bağlanması və tələb olunan şəxsi məlumatları yığması lazımdır. Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="usage_permission_main_desc">"\"Ekran vaxtı\"na xoş gəldiniz!
 Bu tətbiq internetə bağlanmalıdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:"</string>
     <string name="usage_permission_title">Diqqət</string>
