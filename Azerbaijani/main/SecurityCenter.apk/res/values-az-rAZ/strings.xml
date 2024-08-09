@@ -2840,7 +2840,7 @@ Pəncərəni hərəkət etdirmək üçün göstəricini basılı tutun."</string
     <string name="gtb_guide_game_mode_tips">Tərcih edilən oyun rejimini seçin</string>
     <string name="gtb_guide_gtb_button_done">Hazırdır</string>
     <string name="gtb_guide_gtb_community_desc">Təcrübənizi oyunçularınızla bölüşün</string>
-    <string name="gtb_guide_gtb_community_title">Cəmiyyət</string>
+    <string name="gtb_guide_gtb_community_title">İcma</string>
     <string name="gtb_guide_gtb_func_desc">Oyununuzu gücləndirin</string>
     <string name="gtb_guide_gtb_func_title">Game Turbo</string>
     <string name="gtb_guide_gtb_game_effected">Tətbiq edildi</string>
@@ -4030,6 +4030,8 @@ söndürülür"</string>
     <string name="pc_low_battery_fast_charge_summary">Ekran sönülü və batareya az olduqda doldurmanı sürətləndirmək üçün məhsulla birlikdə gələn doldurma cihazınızı qoşun. Bu özəllik cihazınız isinməsinə səbəb ola bilər.</string>
     <string name="pc_low_temp_charge_summary">Doldurma cihazını qoşulu saxlayın və normal doldurmaq üçün ekran söndükdən sonra batareyanın isinməsini gözlə</string>
     <string name="pc_low_temp_charge_title">Zəif temperaturda doldurma</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Mühit temperaturu həddən artıq aşağı olduqda batareya ömrünü uzatmaq üçün cihaz performansını məhdudlaşdırın</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Soyuğa davamlılıq rejimi</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$s dəq əlavə edildi, %2$s gün qaldı</string>
     <string name="pc_main_battery_text_day_hour">%1$s dəq əlavə edildi, %2$s gün %3$s sa qaldı</string>
@@ -6136,6 +6138,9 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="superpower_dialog_button_ok">Oldu</string>
     <string name="superpower_dialog_massage">"Ultra batareya qənaəti, təməl funksionallığı (məsələn, zənglər, SMS və şəbəkəyə bağlanma) mümkün olduğu qədər uzun müddət əlçatan saxlamaq üçün ən çox enerji sərf edən özəllikləri məhdudlaşdırır və cihazın performansını aşağı salır. Ultra batareya qənaəti işə salınsın?"</string>
     <string name="superpower_dialog_title">Ultra batareya qənaəti</string>
+    <string name="superpower_notification_low_temp_btn_txt">İşə sal</string>
+    <string name="superpower_notification_low_temp_summary">Soyuğa davamlılıq rejimi, Ultra batareya qənaəti açıq olduqda və mühitin temperaturu həddən artıq aşağı olduqda batareyaya daha çox qənaət edə bilər</string>
+    <string name="superpower_notification_low_temp_title">Ultra batareya qənaəti işə salınsın?</string>
     <string name="superpower_notification_new_title_new">%s səviyyəsindən daha az batareya qalır</string>
     <string name="superpower_notification_summary">Cihazınızı doldurun və ya Ultra batareya qənaətini işə salın</string>
     <string name="superpower_notification_time_12">dd MMMM, EEEE</string>
@@ -6143,6 +6148,7 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="superpower_notification_title_new">%s-dən az batareya qalıb</string>
     <string name="superpower_progress_content">Ultra batareya qənaəti işə salınır…</string>
     <string name="superpower_progress_left_time">%1$d sa %2$d dəq</string>
+    <string name="superpower_progress_low_temp_content">Soyuğa davamlılıq rejimi işə salınır…</string>
     <string name="superpower_progress_switch_home">Qaranlıq temaya dəyişdirilir</string>
     <string name="superpower_progress_title">Qalan vaxt</string>
     <string name="superpower_progress_turndown_brightness">Ekran parlaqlığı azaldılır</string>

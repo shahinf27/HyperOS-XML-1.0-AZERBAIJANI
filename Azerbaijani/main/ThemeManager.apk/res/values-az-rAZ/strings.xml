@@ -286,8 +286,8 @@
     <string name="description_version">Versiya</string>
     <string name="description_version_szie">Versiya: %1$s Ölçü: %2$s</string>
     <string name="desk_loop_will_change">Diqqət</string>
-    <string name="desktop_effects">Canlı divar kağızları</string>
-    <string name="desktop_wallpaper">Divar kağızı</string>
+    <string name="desktop_effects">Əsas ekran effektləri</string>
+    <string name="desktop_wallpaper">Əsas ekran</string>
     <string name="detail_author_attention_head">Ən görkəmli dizaynerlərimizdən bəzilərini izləyin</string>
     <string name="detail_author_fans">"İzləyici: "</string>
     <string name="detail_author_works">"Elementlər: "</string>
@@ -642,7 +642,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="large_icon_warning_not_install">Quraşdır: %s</string>
     <string name="large_icon_warning_not_install_msg">Super ikon istifadə edə bilmək üçün %s quraşdırılmalıdır. İndi quraşdırılsın?</string>
     <string name="like_list">Bəyənmələrim</string>
-    <string name="live_wallpaper">Dinamik divar kağızları</string>
+    <string name="live_wallpaper">Dinamik divar kağızı</string>
     <string name="load_from_local_photos">Qalereya</string>
     <string name="loading">Bir saniyə…</string>
     <string name="loading_picture">Təsvir yüklənir…</string>
@@ -1612,7 +1612,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="theme_component_title_photo_frame">Şəkil çərçivəsi</string>
     <string name="theme_component_title_ringtone">Zəng səsi</string>
     <string name="theme_component_title_statusbar">Status çubuğu</string>
-    <string name="theme_component_title_wallpaper">Divar kağızı</string>
+    <string name="theme_component_title_wallpaper">Əsas ekran</string>
     <string name="theme_component_video_wallpaper">Dinamik divar kağızları</string>
     <string name="theme_current_using_has_update">Tema güncəlləməsi mövcuddur</string>
     <string name="theme_description_title_customized">Özəl</string>
@@ -1672,7 +1672,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="tips_theme_gate_transfer_fail">"Bu səhifə açıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="title_component">Tema komponentləri</string>
     <string name="title_my_audio_resource">Zəng səslərim</string>
-    <string name="title_my_miwallpaper_desktop_effects">Canlı divar kağızları</string>
+    <string name="title_my_miwallpaper_desktop_effects">Əsas ekran effektləri</string>
     <string name="title_my_miwallpaper_resource">Dinamik divar kağızlarım</string>
     <string name="title_my_miwallpaper_video_file_resource">Divar kağızı filmlərim</string>
     <string name="title_my_wallpaper">Divar kağızlarım</string>

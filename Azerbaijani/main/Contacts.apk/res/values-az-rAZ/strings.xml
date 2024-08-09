@@ -1287,6 +1287,7 @@ Səbəb: \"%s\""</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="special_code_security_exception">"Əməliyyat tamamlana bilmədi. Bu, ilkin nörməyığımınız deyil."</string>
     <string name="splitConfirmation_title">Kontakt ayrılsın?</string>
+	<string name="split_screen_fab_toast">Nömrəyığımını istifadə etmək üçün sürüklə</string>
     <string name="star">*</string>
     <string name="star_letter">,</string>
     <string name="starredList">Ulduzlu</string>
@@ -1404,7 +1405,6 @@ Aşağıdakı seçimlərdən birini seçin:"</string>
     <string name="wipe_data">Datanı təmizlə</string>
     <string name="yellowPageNavigationLabel">Sarı səhifələr</string>
     <string name="yellowpage_address_tag">Ünvan</string>
-    <string name="yellowpage_information_ipc">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444-37A</string>
     <string name="yellowpage_provider_label">Zəng edən/Göndərən kimliyinin tanınması üçün texniki dəstək</string>
     <string name="yellowpage_search_the_yellowpage">Sarı səhifələrdə axtar</string>
     <string name="yesterday">Dünən</string>

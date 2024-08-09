@@ -41,8 +41,8 @@
         <item quantity="one">%d endirmə silinsin?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d endirmə uğurla silindi</item>
-        <item quantity="one">%1$d endirmə uğurla silindi</item>
+        <item quantity="other">%d endirmə uğurla silindi</item>
+        <item quantity="one">%d endirmə uğurla silindi</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d gün</item>
@@ -93,7 +93,7 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%1$d element</item>
-        <item quantity="one">%1$d element</item>
+        <item quantity="other">%d element</item>
+        <item quantity="one">%d element</item>
     </plurals>
 </resources>

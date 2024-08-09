@@ -189,8 +189,8 @@
         <item quantity="one">%1$s yeni video tapıldı</item>
     </plurals>
     <plurals name="search_head_hint_all">
-        <item quantity="other">Axtarış nəticələri (%1$d element)</item>
-        <item quantity="one">Axtarış nəticələri (%1$d element)</item>
+        <item quantity="other">Nəticələr (%1$d element)</item>
+        <item quantity="one">Nəticələr (%1$d element)</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">%1$s tətbiqi ilə əlaqəli fayllar (%2$d element)</item>

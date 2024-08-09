@@ -3298,7 +3298,6 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="display_notification_icon_0">Yoxdur</string>
     <string name="display_notification_icon_1">%d ikon</string>
     <string name="display_notification_icon_3">%d ikon</string>
-    <string name="display_notification_icon_5">%d ikon</string>
     <string name="display_prompt_confirm">Anladım</string>
     <string name="display_settings">Ekran</string>
     <string name="display_settings_new">Ekran və parlaqlıq</string>
@@ -4747,7 +4746,7 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="importance_default">İlkin</string>
     <string name="importance_high">Yüksək</string>
     <string name="importance_low">Aşağı</string>
-    <string name="importance_min">Minimal</string>
+    <string name="importance_min">Önəmsiz</string>
     <string name="importance_title">Vaciblik</string>
     <string name="important_conversations">Prioritet danışıqlar</string>
     <string name="important_conversations_summary">Danışıq bölməsinin üstündə göstər</string>
@@ -6947,7 +6946,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="notification_history_view_settings">bildiriş ayarlarına bax</string>
     <string name="notification_importance_high_title">Açılan pəncərə ekranı</string>
     <string name="notification_importance_min_title">Kiçilt</string>
-    <string name="notification_importance_title">Vaciblik</string>
+    <string name="notification_importance_title">Davranış</string>
     <string name="notification_listener_allowed">İcazə verildi</string>
     <string name="notification_listener_disable_warning_cancel">İmtina</string>
     <string name="notification_listener_disable_warning_confirm">Söndür</string>

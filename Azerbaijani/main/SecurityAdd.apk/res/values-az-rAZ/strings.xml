@@ -338,6 +338,8 @@ proqramımıza qoşulun"</string>
     <string name="gb_weixinpay_can_not_complete">"Ödəniş tamamlana bilmir. Davam etmək üçün quraşdırın."</string>
     <string name="gcm_defaultSenderId">496841722182</string>
     <string name="gdpr_msg"><Data>\"\"Güvənlik\" tətbiqinin təməl özəlliklərini istifadə etmək üçün, bunlarla razılaşmalısınız: Xiaomi, \"Güvənlik\" tətbiqinin özəlliklərini hansı üsullarla istifadə etdiyinizlə bağlı məlumatlar (məs. mobil internet istifadə statistikaları, zərərli proqram təminatı haqqında məlumat, həmçinin cihazınız haqqında təməl məlumatlar) və &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; göstərilən digər məlumat növləri daxil olmaqla, şəxsi məlumatlarınızı yığacaq, emal edəcək və istifadə edəcək.\"</Data></string>
+    <string name="global_satisfaction_network_error">"Data alına bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="global_satisfactionnetwork_loading">Data alınır…</string>
     <string name="google_api_key">AIzaSyD7fLWRBwM3F6TLY2gPNngDh1lzoLg6RF4</string>
     <string name="google_app_id">1:496841722182:android:87f129ae3ac47a72d9fd47</string>
     <string name="google_crash_reporting_api_key">AIzaSyD7fLWRBwM3F6TLY2gPNngDh1lzoLg6RF4</string>
@@ -577,6 +579,9 @@ Güvənli və zəmanətli."</string>
     <string name="pc_extreme_mode_title">Yuxu rejimi</string>
     <string name="pc_going_to_exit_extreme_mode">Yuxu rejimindən çıxılır</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız doldurulur. Yuxu rejimi bağlıdır.</string>
+    <string name="pc_satellite_auto_enter_super_power">Peyk bağlantısını təmin etmək üçün Ultra batareya qənaəti işə salındı</string>
+    <string name="pc_satellite_superpower_dialog_subtitle">Batareya çox zəifdir. Tiantong Peyk bağlantıları Ultra batareya qənaəti ilə birgə söndürüləcək. Yenə də söndürülsün?</string>
+    <string name="pc_satellite_superpower_dialog_title">Tiantong Peyk bağlantıları</string>
     <string name="permission_control">Səlahiyyət idarəetmə</string>
     <string name="playing">Oxudulur</string>
     <string name="pm">GS</string>
@@ -670,7 +675,9 @@ Lütfən oxuyub razılaşın: %s."</string>
     <string name="superpower_dialog_app_select_title">Diqqət</string>
     <string name="superpower_dialog_button_ok">Normal</string>
     <string name="superpower_exit_hint">Ultra batareya qənaəti söndürülür…</string>
+    <string name="superpower_exit_low_temperature_hint">Soyuğa davamlılıq rejimi söndürülür…</string>
     <string name="superpower_incharging">Dolur</string>
+    <string name="superpower_low_temp_mode_take_effect">Soyuğa davamlılıq rejimi açıqdır</string>
     <string name="superpower_progress_battery_last">%s qaldı</string>
     <string name="superpower_progress_left_time">%1$d sa %2$d dəq</string>
     <string name="superpower_search_hint">Tətbiqləri axtar</string>

@@ -539,7 +539,7 @@
     <string name="skip_alarm_once_hint">%s tarixində bir dəfə söndür</string>
     <string name="sleep_analysis">Statistikalar</string>
     <string name="sleep_analysis_chart_date_format">dd-MM</string>
-    <string name="sleep_date_provider_text_new">Yuxu datası, Mi Fitness tərəfindən təmin edilir</string>
+    <string name="sleep_date_provider_text_new">Yuxu datası, Xiaomi Health tərəfindən təmin edilir</string>
     <string name="sleep_duration">"Yuxu müddəti: "</string>
     <string name="sleep_duration_avg_text_diff">Ortalama yuxu müddəti (%1$s-%2$s)</string>
     <string name="sleep_duration_no_data">Hələ ki, yetərli məlumat yoxdur</string>
@@ -553,8 +553,7 @@
     <string name="sleep_notification_title">Yatmaq vaxtıdır</string>
     <string name="sleep_record">Yuxunu izlə</string>
     <string name="sleep_record_desc">Yuxu datasını yazmağa başlamaq üçün işə salın</string>
-    <string name="sleep_record_desc_detailed">Yuxu izləmə funksionallığı, Xiaomi Health tərəfindən təmin edilir. Bir dəfə işə saldıqdan sonra, Xiaomi Heath, telefon istifadənizə, fəaliyyət statistikalarına, ayarladığınız yatma və oyanma saatlarına görə yuxunuzu avtomatik olaraq yazır və statistikalarınızı qrafik şəklində göstərir. Yuxunu daha dəqiq izləmək üçün Xiaomi Health-ın avto-başlamasına icazə verin. Bütün əlaqəli datalar, asan idarə üçün cihazınızın yerli anbarında saxlanılacaq.</string>
-    <string name="sleep_record_desc_detailed_new">Yuxu izləmə, Mi Fitness Sleep özəlliyi tərəfindən təmin edilir. Bu özəlliyi açsanız, Mi Fitness, telefon istifadənizə, fəaliyyət statistikalarına, ayarladığınız yuxulama və oyanma saatlarına görə datanı avtomatik yığacaq və görüntüləyəcək. Yuxunu daha dəqiq izləmək üçün Mi Fitness-in avto-başladılmasına icazə verin.</string>
+    <string name="sleep_record_desc_detailed_new">Yuxu izləmə, Xiaomi Health Sleep özəlliyi tərəfindən təmin edilir. Bu özəlliyi açsanız, Xiaomi Health, telefon istifadənizə, fəaliyyət statistikalarına, ayarladığınız yuxulama və oyanma saatlarına görə datanı avtomatik yığacaq və görüntüləyəcək. Yuxunu daha dəqiq izləmək üçün Xiaomi Health-in avto-başladılmasına icazə verin.</string>
     <string name="sleep_record_no_data">Xiaomi Health, yetərli datanı təhlil etdikdən sonra statistikalarınız burada görünəcək</string>
     <string name="sleep_remind">Yuxu vaxtı xatırladıcısı</string>
     <string name="sleep_time">Yuxuya getmə</string>
@@ -678,8 +677,8 @@
     <string name="upcoming_alarm">Gələcək zəngli saat: %s</string>
     <string name="upcoming_alarm_hint">Bu zəngli saatı indi söndürə bilərsiniz</string>
     <string name="upcoming_alarm_new">Yaxınlaşan zəngli saat: %s</string>
-    <string name="update_health_app_desc_new">Yuxu izləmə özəlliyi, Mi Fitness tərəfindən təmin edilir. Əlaqəli özəlliklərə müraciət etmək üçün Mi Fitness-i son versiyaya güncəlləyin.</string>
-    <string name="update_health_app_new">Mi Fitness-i güncəllə</string>
+    <string name="update_health_app_desc_new">Yuxu izləmə özəlliyi, Xiaomi Health tərəfindən təmin edilir. Əlaqəli özəlliklərə müraciət etmək üçün Xiaomi Health-i son versiyaya güncəlləyin.</string>
+    <string name="update_health_app_new">Xiaomi Health-i güncəllə</string>
     <string name="update_it">Güncəllə</string>
     <string name="update_notification_info">Datalar arxaplanda güncəllənir…</string>
     <string name="usage_start">Başlat</string>

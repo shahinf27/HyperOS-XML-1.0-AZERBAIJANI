@@ -471,7 +471,7 @@ Aşağıdakı ssenarilərdə güvənlik risklərinin qarşısını effektiv şə
     <string name="miui_install_fail_reason">Səbəb</string>
     <string name="miui_install_failed_reason">"Bu tətbiq, cihazınızla uyumlu deyil"</string>
     <string name="miui_install_failed_suggestion">Bu tətbiqin uyumlu bir versiyasını istifadə edin</string>
-    <string name="miui_install_source_unkown">bilinmir</string>
+    <string name="miui_install_source_unkown">Bilinmir</string>
     <string name="miui_no_perms">Heç bir icazə tələb olunmur</string>
     <string name="miui_not_uninstall_system_app">"Sistem tətbiqləri silinə bilmir"</string>
     <string name="miui_other_permission">Digər</string>
