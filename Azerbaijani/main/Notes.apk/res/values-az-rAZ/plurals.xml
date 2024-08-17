@@ -36,6 +36,10 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+	<plurals name="ai_content_exceeded_warn">
+        <item quantity="other">"Bu notun məzmunu süni zəka emal limitlərini aşır. Ən çox %1$s simvol daxil edib yenidən sınayın."</item>
+        <item quantity="one">"Bu notun məzmunu süni zəka emal limitlərini aşır. Ən çox %1$s simvol daxil edib yenidən sınayın."</item>
+    </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">%1$s element silinsin?</item>
         <item quantity="one">%1$s element silinsin?</item>
@@ -43,6 +47,10 @@
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$s element sinxronlaşdırılmadı"</item>
         <item quantity="one">"%1$s element sinxronlaşdırılmadı"</item>
+    </plurals>
+	<plurals name="corrected_title">
+        <item quantity="other">%1$s düzəltmə</item>
+        <item quantity="one">%1$s düzəltmə</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d gün sonra</item>

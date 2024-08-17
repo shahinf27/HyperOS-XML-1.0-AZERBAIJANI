@@ -3298,6 +3298,7 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="display_notification_icon_0">Yoxdur</string>
     <string name="display_notification_icon_1">%d ikon</string>
     <string name="display_notification_icon_3">%d ikon</string>
+	<string name="display_notification_icon_5">%d ikon</string>
     <string name="display_prompt_confirm">Anladım</string>
     <string name="display_settings">Ekran</string>
     <string name="display_settings_new">Ekran və parlaqlıq</string>
@@ -5652,6 +5653,8 @@ Bu icazəyə rədd cavabı verilsə, sistem, tətbiqin bu cür tapşırıqları 
     <string name="long_background_tasks_title">Uzun müddətli arxaplan tapşırıqları</string>
     <string name="long_press_back_key">Geri düyməsinə uzun bas</string>
     <string name="long_press_buttom_key">Kilid ekranında Əsas ekran düyməsinə uzun bas</string>
+	<string name="long_press_editor_style_summary">Saata və divar kağızına düzəliş etmək üçün Kilid ekranını basılı tutun</string>
+    <string name="long_press_editor_style_title">Düzəliş etmək üçün basılı tutun</string>
     <string name="long_press_home_key">Əsas ekran düyməsinə uzun bas</string>
     <string name="long_press_menu_key">Menyu düyməsinə uzun bas</string>
     <string name="long_press_menu_key_when_lock">Kilid ekranında Menyu düyməsinə uzun bas</string>

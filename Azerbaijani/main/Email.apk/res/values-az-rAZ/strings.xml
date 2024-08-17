@@ -205,7 +205,7 @@ yol prefiksi"</string>
     <string name="add_pre_message_attachments_yes">Əlavə et</string>
     <string name="add_star">Ulduz</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string formatted="false" name="agreement_url">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;dil=%2s</string>
+    <string name="agreement_url">https://terms.miui.com/doc/eula/%2$s.html</string>
     <string name="all_purpose">Kingsoft tərəfindən özəl olaraq Xiaomi üçün yaradılmış bir e-poçt müştərisi olan \"Poçt\"a xoş gəldiniz. Bu tətbiqi e-poçt yazmaq, göndərmək və almaq üçün istifadə edə bilərsiniz.</string>
     <string name="allow_notify">Bildirişlərə icazə ver</string>
     <string name="always_bcc_myself">Həmişə bir nüsxəni mənə göndər</string>
@@ -1051,7 +1051,7 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="privacy_and_private_permission_key">privacy_and_private_permission</string>
     <string name="privacy_des">"Jurnallar, e-poçt müştərisinin sazlama məlumatlarını və cihaz məlumatlarınızı ehtiva edir. Bu məlumatlar, problemləri daha tez tapmaq üçün istifadə edilir. Aşağıdakı \"%1$s\" seçiminə toxunaraq, \"%2$s\" ilə razılaşmış olursunuz."</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
+    <string name="privacy_policy_url">https://privacy.mi.com/all</string>
     <string name="privacy_setting_agree">Razıyam</string>
     <string name="progress">İrəliləyiş:</string>
     <string name="prompt_title">Soruş</string>

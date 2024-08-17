@@ -41,8 +41,16 @@
         <item quantity="one">"Deyəsən, %s həftədir elementləri nüsxələmirsiniz. Vacib bir şeyi itirməmək üçün nüsxələr yaradın."</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">%1$s nüsxələmə (%2$s)</item>
-        <item quantity="one">%1$s nüsxələmə (%2$s)</item>
+        <item quantity="other">%1$s nüsxə (%2$s)</item>
+        <item quantity="one">%1$s nüsxə (%2$s)</item>
+    </plurals>
+	<plurals name="days_and_size_without_backup">
+        <item quantity="other">Son nüsxələmədən bəri %1$d gün keçib | Yeni data: %2$s</item>
+        <item quantity="one">Son nüsxələmədən bəri %1$d gün keçib | Yeni data: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">Son nüsxələmədən bəri %d gün keçib</item>
+        <item quantity="one">Son nüsxələmədən bəri %d gün keçib</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>

@@ -1127,6 +1127,8 @@ gəldiyini bilin"</string>
     <string name="sure_close_enhance_safe_guard_des">Mobil telefonunuzun təhlükəsizliyini qorumaq üçün Təkmil Qoruma, Xiaomi App Store güvənlik yoxlanışından keçməmiş tətbiqləri filtrləyə və etdiyiniz hər quraşdırmanı qoruya bilər!</string>
     <string name="sure_install">Bu tətbiq indi quraşdırılsın?</string>
     <string name="sure_ok">Anladım</string>
+	<string name="tango_dialog_content">%1$d-bit tətbiqləri quraşdıra bilmək üçün Tətbiq uyumluluq rejimini işə salın.</string>
+    <string name="tango_dialog_title">Tətbiq uyumluluq rejimi</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_easter_day">Pasxa</string>

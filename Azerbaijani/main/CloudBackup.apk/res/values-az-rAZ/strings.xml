@@ -31,13 +31,13 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_is_running">Tətbiqlər işləyir…</string>
     <string name="app_name">Bulud nüsxələmə​</string>
     <string name="arrange_restore_order">Tətbiqlər yenidən düzülür…</string>
     <string name="as_new_device">Əvvəlki Əsas ekranı və ayarları dəyişdir</string>
     <string name="as_new_device_summary">Əvvəlki Xiaomi Cloud nüsxələrini sil</string>
     <string name="authentication_failed">"Hesab doğrulana bilmədi."</string>
+    <string name="auto_backup_failed">"Avtomatik nüsxələyə bilmədi"</string>
     <string name="back_up_task_in_process">Nüsxələnir…</string>
     <string name="back_up_task_unfinished">"Nüsxələnə bilmədi"</string>
     <string name="backing_up_to_micloud">Nüsxələnir…</string>
@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChat datasını nüsxələmək üçün yetərli bulud anbar sahəsi yoxdur. Elementləri nüsxələmək üçün anbar planınızı yüksəldin.</string>
     <string name="backup_action_no_space_with_wechat_on_title">"WeChat datası nüsxələnə bilmədi"</string>
     <string name="backup_action_retry_now">Yenidən sına</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Bulud nüsxələmə, cihazınızda quraşdırılmış tətbiqlərin siyahısını yığacaq və bu məlumatı serverlərimizdə saxlayacaq. Bu datanı, ehtiyac olduqda endirib bərpa edə bilməyiniz üçün saxlayırıq. Bu məlumatları yığmağımızla razılaşırsınızsa aşağıdakı \"Razıyam\"a toxunun.</string>
     <string name="backup_failed_reason_app_data_error">"WeChat datası nüsxələnə bilmədi"</string>
     <string name="backup_failed_reason_app_usage_denied">Elementləri nüsxələmək üçün tələb olunan icazələri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Bu nüsxəni saxlamaq üçün yetərli anbar sahəsi yoxdur. Planınızı yüksəldin və ya anbar sahənizdə boş yer açın.</string>
@@ -65,6 +66,8 @@
     <string name="backup_remind_clean_disk_space">Anbar sahəsini boşaldın</string>
     <string name="backup_remind_cloud_space_cost">Anbar ölçüsü: %s</string>
     <string name="backup_size">Ölçü: %s</string>
+    <string name="backup_state_auto">Avto-nüsxələmə açıqdır</string>
+    <string name="backup_state_not_auto">Avto-nüsxələmə bağlıdır</string>
     <string name="backup_stopped_msg">Hazırkı nüsxələmə, əvvəlkinin üzərinə yazılacaq. Baxmaq üçün toxunun.</string>
     <string name="backup_stopped_title">Nüsxələməyə fasliə verildi</string>
     <string name="backup_success">Uğurla nüsxələndi</string>
@@ -143,6 +146,10 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="cloud_backup_detail_frequence">Nüsxələmə cədvəli</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Hər %d gün</string>
     <string name="cloud_backup_detail_frequence_every_day">Hər gün</string>
+    <string name="cloud_backup_detail_header_condition_battery">≥%s</string>
+    <string name="cloud_backup_detail_header_condition_screen">Kilid ekranı</string>
+    <string name="cloud_backup_detail_header_condition_wlan">Wi-Fi</string>
+    <string name="cloud_backup_detail_header_condition_wlan_china">Wi-Fi</string>
     <string name="cloud_backup_detail_header_msg">"Artıq cihazınızın Əsas ekran düzümünü, tətbiqləri, sistem ayarlarını və WeChat datasını nüsxələyə bilərsiniz. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Ətraflı öyrənmək üçün toxunun.&lt;/a&gt;&lt;/font&gt; "</string>
     <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Cihazınızın Əsas ekran düzümünü, tətbiq siyahısını və sistem ayarlarını nüsxələyin.&lt;font color=#0D84FF&gt;&lt;a href=&gt;Daha ətraflı öyrənmək üçün toxunun&lt;/a&gt;&lt;/font&gt;."</string>
     <string name="cloud_backup_detail_local_backup_size">Təxmini nüsxə ölçüsü: %s</string>
@@ -151,6 +158,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="cloud_backup_detail_state">Avto-nüsxələmə</string>
     <string name="cloud_backup_detail_state_summary">Wi-Fi-a bağlandıqda Xiaomi Cloud nüsxələməsini avtomatik yarat.</string>
     <string name="cloud_backup_detail_state_summary_china">Cihaz Wi-Fi-a bağlı olmalıdır, doldurulmalı və kilidli olmalıdır</string>
+    <string name="cloud_backup_detail_state_summary_china">Cihaz Wi-Fi-a bağlı, kilidli olmalıdır. Batareyası isə dolu olmalıdır.</string>
     <string name="cloud_backup_detail_time">Son nüsxələmə: %1$s</string>
     <string name="cloud_backup_detail_title">Elementləri nüsxələ</string>
     <string name="cloud_backup_get_installed_apps_summary">Əsas ekran tətbiqlərini nüsxələmək və bərpa etmək üçün</string>
@@ -318,17 +326,22 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="home_hint_global_launcher">POCO Başladıcı</string>
     <string name="home_hint_other_launcher">Digər başladıcı</string>
     <string name="home_restore_error">"Əsas ekran bərpa edilə bilmədi"</string>
+    <string name="icp_record_text">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444-38A</string>
     <string name="lack_of_storage">Yetərli anbar sahəsi yoxdur</string>
     <string name="latest_backup_time_loading">Yüklənir…</string>
     <string name="load_backup_failed">"Nüsxələr yüklənə bilmədi"</string>
     <string name="loading_progress_num">Yükləndi %s%%</string>
     <string name="loading_user_backup">İstifadəçi nüsxələri yüklənir…</string>
+    <string name="manage_and_restore_backups">Nüsxələnmiş datanı idarə edin və bərpa edin</string>
+    <string name="manage_backups">Nüsxələri idarə et</string>
+    <string name="manage_cloud_backups">Elementləri buluddan bərpa et</string>
     <string name="managespace_delete_backup">Sil</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Bağla</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Ayarlar</string>
     <string name="manual_request_permissions_dialog_description">"\"%s\" üçün icazələri verməsəniz, uğursuz nüsxələmələr və digər vacib əməliyyatlar haqqında vaxtında bildirişlər almayacaqsınız. Bu icazəni Ayarlarda verə bilərsiniz."</string>
     <string name="manual_request_permissions_dialog_title">İcazələr tələb olunur</string>
     <string name="menu_item_managespace">Sahəni idarə et</string>
+    <string name="menu_item_more_backup_options">Əlavə nüsxələmə xidmətləri</string>
     <string name="menu_item_sort">Sırala</string>
     <string name="menu_item_sort_name">Ad</string>
     <string name="menu_item_sort_size">Ölçü</string>
@@ -412,12 +425,26 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="no_account">Xiaomi Hesabına daxil olunmadı.</string>
     <string name="no_backup">Xiaomi Cloud-da nüsxə yoxdur.</string>
     <string name="noon">Günorta</string>
+    <string name="not_backup_reason">Nüsxələmə uğursuzluğunun səbəbi: %s</string>
+    <string name="not_backup_reason_battery_exception">Battery səviyyəsi %s altındadır</string>
+    <string name="not_backup_reason_cancel">Əllə ləğv edildi</string>
+    <string name="not_backup_reason_dialog_cancle_button">İmtina</string>
+    <string name="not_backup_reason_dialog_confirm_button">Təsdiqlə</string>
+    <string name="not_backup_reason_screen_exception">"Ekran kilidli deyil"</string>
+    <string name="not_backup_reason_wlan_exception">Wi-Fi xətası</string>
+    <string name="not_backup_reason_wlan_exception_china">Wi-Fi xətası</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_remind">Xatırladıcı</string>
     <string name="notification_channel_service">Xidmət</string>
     <string name="open_backup_switch">Nüsxələmə açarını dəyişdir</string>
+    <string name="open_wechat_dialog_message">"WeChat datasının nüsxələnməsi böyük miqdarda anbar sahəsini çox tez istifadə edəcək. Anbar sahəniz yetərsiz olsa, datanız buluda nüsxələnməyəcək və itə bilər. Yenə də işə salınsın?"</string>
+    <string name="open_wechat_dialog_negative_btn">İmtina</string>
+    <string name="open_wechat_dialog_positive_btn">İşə sal</string>
+    <string name="open_wechat_dialog_positive_btn_timer">İşə sal (%s s)</string>
+    <string name="open_wechat_dialog_title">WeChat nüsxələri haqqında</string>
     <string name="other_device_main_space">Birinci sahə</string>
     <string name="other_device_second_space">İkinci sahə</string>
+    <string name="page_title_more_backup_options">Əlavə nüsxələmə xidmətləri</string>
     <string name="pc_mode_not_support_restore_warning">"Elementlər PC rejimində bərpa edilə bilmir. PC rejimini söndürüb yenidən sınayın."</string>
     <string name="permission_to_use">İcazə detalları</string>
     <string name="pm">GS</string>
@@ -476,9 +503,10 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="restore_header_msg">"WeChat datasını bərpa etməzdən əvvəl, WeChat-ın bu cihazda quraşdırılmadığına əmin olun. Data bərpa edilərkən WeChat-ı açmayın və ya istifadə etməyin."</string>
     <string name="restore_header_title">Cəmi ölçü: %s</string>
     <string name="restore_header_title2">Cəmi nüsxə: %s</string>
+    <string name="restore_header_title_backup_time">Vaxt</string>
     <string name="restore_home_screen_apps">Elementləri bərpa et</string>
-    <string name="restore_home_screen_apps_options">"Nüsxə seçimləri
-%s"</string>
+    <string name="restore_home_screen_apps_options">Nüsxə seçimləri
+%s</string>
     <string name="restore_network_pause">Mobil internetə qənaətə fasilə verildi. Davam etdirmək üçün toxunun.</string>
     <string name="restore_network_unconnect">%s (Bağlantı gözlənilir)</string>
     <string name="restore_prepare_item_type_enable">Mövcud nüsxələr</string>
@@ -496,6 +524,20 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
+    <string name="save_not_backup_reason_app_data_error">"WeChat datası nüsxələnə bilmədi. Əllə nüsxələməyə çalışın."</string>
+    <string name="save_not_backup_reason_app_usage_denied_message">Bu özəlliyi istifadə edə bilmək üçün tələb olunan icazələri verin. Bunu Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; \"Bulud nüsxələməsi\"ndə edə bilərsiniz. İndi ayarlar açılsın?</string>
+    <string name="save_not_backup_reason_cloud_space_not_enough">Yetərsiz bulud anbar sahəsi</string>
+    <string name="save_not_backup_reason_cloud_space_not_enough_dialog_message">Daha çox bulud anbar sahəsi və digər üstünlüklərdən faydalanmaq üçün Xiaomi Cloud xidmətləri üzvlüyünü əldə edin. İndi satın alınsın?</string>
+    <string name="save_not_backup_reason_cloud_space_not_enough_dialog_title">Yetərsiz anbar sahəsi</string>
+    <string name="save_not_backup_reason_disk_space_not_enough">Cihazda yetərsiz anbar sahəsi</string>
+    <string name="save_not_backup_reason_disk_space_not_enough_dialog_message">Bu nüsxələmə, ən azı %s boş anbar sahəsi tələb edir. Cihazınızda bir az yer açıb yenidən sınayın.</string>
+    <string name="save_not_backup_reason_disk_space_not_enough_dialog_title">Cihazda yetərsiz anbar sahəsi</string>
+    <string name="save_not_backup_reason_get_installed_apps_denied_message">Bu özəlliyi istifadə edə bilmək üçün tələb olunan icazələri verin. İstək gəldikdə, \"Həmişə icazə ver\"i seçin. İndi ayarlar açılsın?</string>
+    <string name="save_not_backup_reason_network_error">Şəbəkə xətası</string>
+    <string name="save_not_backup_reason_no_server_response">Server məşğuldur. Əllə nüsxələməyə çalışın.</string>
+    <string name="save_not_backup_reason_override">Bu cihazlar üçün əllə nüsxələmə tələb olunur</string>
+    <string name="save_not_backup_reason_permission_denied">İcazələr tələb olunur</string>
+    <string name="save_not_backup_reason_permission_denied_dialog_title">İcazələr tələb olunur</string>
     <string name="search_menu_title">Axtar</string>
     <string name="selected">Seçildi</string>
     <string name="self_device_disable">%s (Bu cihazda dəstəklənmir)</string>
@@ -541,6 +583,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="session_waiting_network">Şəbəkə bağlantısı gözləniilir…</string>
     <string name="settings_backup">Sistem ayarları</string>
     <string name="size_unknown">Bilinməyən ölçü</string>
+    <string name="size_without_backup">%s data nüsxələnməyə hazırdır</string>
     <string name="solar_term_autumn_begins">Payız başlayır</string>
     <string name="solar_term_autumn_equinox">Payız gündönümü</string>
     <string name="solar_term_clear_and_bright">Təmiz və parlaq</string>
@@ -554,8 +597,8 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>
@@ -597,7 +640,10 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="time_picker_label_minute">M</string>
     <string name="title_alert_cancel_restore">Bərpa etməni dayandır</string>
     <string name="title_alert_restore_error">"Bərpa edilə bilmədi"</string>
+    <string name="title_back_up_task_in_process">Nüsxələnir…</string>
+    <string name="title_restore_task_in_process">Bərpa edilir…</string>
     <string name="title_restore_with_current_network">Faylları endirmək üçün hazırkı bağlantı istifadə edilir</string>
+    <string name="toast_cannot_cancel_backup">"Nüsxələmə demək olar ki, bitib və ləğv edilə bilməz"</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="total_space">Cəmi sahə: %s</string>

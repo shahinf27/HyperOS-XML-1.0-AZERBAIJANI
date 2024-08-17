@@ -297,7 +297,7 @@
     <string name="edit_event_reminder_3_days_before_time">%d gün əvvəlkini də xatırlat</string>
     <string name="edit_event_reminder_summary">Eyni gün %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d gün əvvəl və həmin gün %1$s</string>
-    <string name="edit_event_reminder_summary_3_days_before_today">%1$d gün əvvəl və təyin edilən gün saat %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%2$d gün əvvəl və təyin edilən gün saat %1$s</string>
     <string name="edit_event_reminder_text">%1$s, %2$s</string>
     <string name="edit_event_reminder_time">Xatırlatma vaxtı</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s %3$s</string>
