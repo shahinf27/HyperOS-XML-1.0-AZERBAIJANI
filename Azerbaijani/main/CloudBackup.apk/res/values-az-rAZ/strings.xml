@@ -156,9 +156,8 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="cloud_backup_detail_manage">Nüsxələri idarə et</string>
     <string name="cloud_backup_detail_no_time">Heç bir nüsxə qeydi yoxdur</string>
     <string name="cloud_backup_detail_state">Avto-nüsxələmə</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fi-a bağlandıqda Xiaomi Cloud nüsxələməsini avtomatik yarat.</string>
-    <string name="cloud_backup_detail_state_summary_china">Cihaz Wi-Fi-a bağlı olmalıdır, doldurulmalı və kilidli olmalıdır</string>
-    <string name="cloud_backup_detail_state_summary_china">Cihaz Wi-Fi-a bağlı, kilidli olmalıdır. Batareyası isə dolu olmalıdır.</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi bağlantısı, ən azı %s batareya enerjisi və ekranın sönülü olması lazımdır.</string>
+    <string name="cloud_backup_detail_state_summary_china">Wi-Fi bağlantısı, ən azı %s batareya enerjisi və ekranın sönülü olması lazımdır.</string>
     <string name="cloud_backup_detail_time">Son nüsxələmə: %1$s</string>
     <string name="cloud_backup_detail_title">Elementləri nüsxələ</string>
     <string name="cloud_backup_get_installed_apps_summary">Əsas ekran tətbiqlərini nüsxələmək və bərpa etmək üçün</string>
