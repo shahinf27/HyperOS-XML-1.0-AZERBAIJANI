@@ -85,10 +85,6 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
-    <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>lotus</item>
     </string-array>
     <string-array name="kg_glass_filters">
         <item>Orijinal</item>

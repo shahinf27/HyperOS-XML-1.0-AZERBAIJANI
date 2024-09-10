@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
-    <string name="abc_action_bar_up_description">Yuxarı keç</string>
+    <string name="abc_action_bar_home_description">Əsas ekrana get</string>
+    <string name="abc_action_bar_up_description">Yuxarı get</string>
     <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
     <string name="abc_action_mode_done">Hazırdır</string>
     <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
@@ -31,16 +31,16 @@
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="brvah_app_name">Kitabxana</string>
-    <string name="brvah_load_end">没有更多数据</string>
-    <string name="brvah_load_failed">加载失败，请点我重试</string>
-    <string name="brvah_loading">正在加载中...</string>
+    <string name="brvah_load_end">Daha çox məlumat yoxdur</string>
+    <string name="brvah_load_failed">Yüklənmədi, yenidən sınamaq üçün toxunun</string>
+    <string name="brvah_loading">Yüklənir...</string>
     <string name="cancel">İmtina</string>
     <string name="character_counter_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="four_guide_introduce">Click the [Macro] button on the screen to trigger the macro function that has been set</string>
-    <string name="gamebox_macro">Kombinasiyalar</string>
+    <string name="four_guide_introduce">Ayarlanan makro funksiyasını tətikləmək üçün ekrandakı [Macro] düyməsinə klikləyin</string>
+    <string name="gamebox_macro">Kombolar</string>
     <string name="gb_game_macro_action_count">Təkrarla</string>
     <string name="gb_game_macro_action_count_desc">Əməliyyatın icra edilmə sayı</string>
     <string name="gb_game_macro_action_delay">Gecikmə</string>
@@ -56,7 +56,7 @@
     <string name="gb_game_macro_apply">Tətbiq et</string>
     <string name="gb_game_macro_button_alpha">Düymə şəffaflığı</string>
     <string name="gb_game_macro_button_big">Böyük</string>
-    <string name="gb_game_macro_button_config">Ayarlama düyməsi</string>
+    <string name="gb_game_macro_button_config">Düyməni ayarla</string>
     <string name="gb_game_macro_button_size">Düymə ölçüsü</string>
     <string name="gb_game_macro_button_small">Kiçik</string>
     <string name="gb_game_macro_config_prefix">Kombinasiya %d</string>
@@ -64,7 +64,7 @@
     <string name="gb_game_macro_create_macro">Yarat</string>
     <string name="gb_game_macro_create_message">Kombinasiya yazmağa başlamaq üçün aşağıdakı düyməyə toxunun.</string>
     <string name="gb_game_macro_delete">Sil</string>
-    <string name="gb_game_macro_enable">Bağlı</string>
+    <string name="gb_game_macro_enable">Bağla</string>
     <string name="gb_game_macro_guide_tips">Başladıqdan sonra, onları bir kombinasiyada birləşdirmək üçün bir neçə əməliyyat icra edin.</string>
     <string name="gb_game_macro_guide_tips_two">Düymə təyin etmək üçün toxunun</string>
     <string name="gb_game_macro_play_count">Təkrar sayı</string>
@@ -74,7 +74,7 @@
     <string name="gb_game_macro_record_action">Yazmağa başlamaq üçün toxunun</string>
     <string name="gb_game_macro_save">Saxla</string>
     <string name="gb_game_macro_save_exit">Saxla</string>
-    <string name="gb_macro_floatview_noti">Lütfən MiMacro-nun digər tətbiqlərin üzərində görüntülənməsinə icazə verin</string>
+    <string name="gb_macro_floatview_noti">Lütfən MiMacro-nun digər tətbiqlərin üzərində görünməsinə icazə verin</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
     <string name="multiple_times">Sürət</string>

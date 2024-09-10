@@ -128,7 +128,7 @@ AI şəklini fərqli fotolarla yaratmağa çalışın."</string>
     <string name="ai_ensure_exit_select_message">"Növbəti dəfə fotoları yenidən seçməli olacaqsınız."</string>
     <string name="ai_ensure_exit_select_title">İndi çıxılsın?</string>
     <string name="ai_entrance_description">İnsanların fotoları əsasında bir süni zəka şəkli yaradın və onların portretlərini hazırlayın</string>
-    <string name="ai_entrance_title">Süni zəka portreti</string>
+    <string name="ai_entrance_title">AI Portreti</string>
     <string name="ai_exit">Çıx</string>
     <string name="ai_filter_album_tag">Yetərsiz fotoları olan insanlar filtrləndi</string>
     <string name="ai_free_creation_button">Yarat</string>
@@ -1233,6 +1233,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="dump_db_info">Data bazası məlumat tullantısı</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_baby_info">Körpə məlumatlarına bax</string>
+	<string name="edit_file_not_exits_tip">Orijinal faylı endirib yenidən sınayın</string>
     <string name="edit_subtitle_enter">Altyazılara düzəliş et</string>
     <string name="editor_cancel">İmtina</string>
     <string name="editor_export">Saxla</string>
@@ -1483,7 +1484,8 @@ mövcuddur"</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_cloud_action_upgrade_onedrive">OneDrive-ı yüksəlt</string>
     <string name="global_cloud_full_space_tip_message">Bütün foto və videolarınızı buludda nüsxələyə bilmək üçün bulud anbar sahəsi planını yüksəldin.</string>
-    <string name="global_pad">Planşetim</string>
+    <string name="global_help">"Cihazı tapa bilmirəm"</string>
+	<string name="global_pad">Planşetim</string>
     <string name="global_pc">Noutbukum</string>
     <string name="global_phone">Telefonum</string>
     <string name="global_trash_vip_info_text_login_medium_or_low_level">"Nüsxələnmiş silinən elementlər %1$s günə qədər buludda qala bilər. Nüsxələnməmiş elementlər %2$s günə qədər qalacaq."</string>
@@ -1501,7 +1503,7 @@ mövcuddur"</string>
     <string name="google_banner_upgrade_left_btn_text">Detallara bax</string>
     <string name="google_banner_upgrade_right_btn_get_storage">Anbar sahəsi al</string>
     <string name="google_banner_upgrade_right_btn_text">Anbar sahəsi al</string>
-    <string name="google_banner_upgrade_space_low_des">"Tezliklə yeni foto və videolarınızı nüsxələyə bilməyəcəksiniz"</string>
+    <string name="google_banner_upgrade_space_low_des">"Qalereya, anbar sahəniz dolduqda fotolarınızı və videolarınızı nüsxələyə bilmir"</string>
     <string name="google_banner_upgrade_space_low_title">%s anbar sahəniz dolub</string>
     <string name="google_banner_upgrade_title">Bulud anbarı dolub</string>
     <string name="google_crash_reporting_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
@@ -1546,7 +1548,7 @@ mövcuddur"</string>
     <string name="hdr_switch_show_title">Pro HDR ekran</string>
     <string name="hello_blank_fragment">Salam, boş fraqment</string>
     <string name="help">"Cihazlar tapıla bilmir?"</string>
-    <string name="help_content">"Ehtiyacınız olan cihazı tapa bilmirsinizsə, digər şəxsdən Mi Share-i açmasını xahiş edin."</string>
+    <string name="help_content">"Ehtiyacınız olan cihazı tapa bilmirsinizsə, digər şəxsdən Xiaomi Share-i açmasını xahiş edin."</string>
     <string name="hidden_album_display_name">Gizli albom</string>
     <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_nearby_photos">Yaxınlıqdakı foto və videoları gizlət</string>
@@ -1559,6 +1561,7 @@ mövcuddur"</string>
     <string name="home_menu_camera">Yalnız Kamera elementlərini göstər</string>
     <string name="home_menu_cleaner">Boş yer aç</string>
     <string name="home_menu_collage">Kollaj</string>
+	<string name="home_menu_composite_video">Video yarat</string>
     <string name="home_menu_id_photo">ID</string>
     <string name="home_menu_macarons">Sehrli vinyet</string>
     <string name="home_menu_magic_matting">Kəs</string>
@@ -1799,7 +1802,7 @@ mövcuddur"</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Share</string>
+    <string name="mi_drop">Xiaomi Share</string>
     <string name="mi_mover_working_desc">Mi Mover elementləri köçürür…</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
@@ -1926,6 +1929,8 @@ mövcuddur"</string>
     <string name="morning">Səhər</string>
     <string name="motion_photo_enter">Dinamik çəkiliş</string>
     <string name="motion_photo_play">Oxut</string>
+	<string name="motorola">Motorola</string>
+    <string name="motorola_phone">Motorola telefonu</string>
     <string name="move_to_other_albums_tip">Bu albom \"Digər albomlar\"a daşınsın?</string>
     <string name="move_to_rubbish_albums_tip">Seçilmiş elementlər lazımsız albomlara daşınsın?</string>
     <string name="movie_edit_photo">Foto</string>
@@ -1957,6 +1962,8 @@ mövcuddur"</string>
     <string name="new_year_eve">"Yeni İl ərəfəsi"</string>
     <string name="next">Növbəti</string>
     <string name="night">Axşam</string>
+	<string name="nio">NIO</string>
+    <string name="nio_phone">NIO telefonu</string>
     <string name="no">Xeyr</string>
     <string name="no_ignore_faces">Burada heç kim yoxdur</string>
     <string name="no_map_app">Bu əməliyyatı edə biləcək heç bir tətbiq tapılmadı</string>
@@ -2032,6 +2039,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="operation_edit">Düzəliş et</string>
     <string name="operation_edit_video">Düzəliş et</string>
     <string name="operation_enable_auto_upload">Buludla sinxronlaşdırmanı işə sal</string>
+	<string name="operation_export_GIF">GIF olaraq xaricə köçür</string>
+    <string name="operation_export_video">Video olaraq xaricə köçür</string>
     <string name="operation_failed">"Əməliyyat tamamlana bilmədi"</string>
     <string name="operation_favorites">Sevimlilər</string>
     <string name="operation_force_top">Sanc</string>
@@ -2578,7 +2587,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="scan_qr_code">QR kodu skan et</string>
     <string name="scan_qr_code_buttom_text">Bu alboma baxmaq üçün QR kodunu skan edin</string>
     <string name="scan_qr_to_accept_invitation">Dəvəti qəbul etmək üçün QR kodunu skan edin</string>
-    <string name="scanning_device_tips">Yaxınlıqdakı cihazlar axtarılır… Digər cihazların aşkar edilə bilən rejimdə olduğuna əmin olun.</string>
+    <string name="scanning_device_tips"><Data>Yaxınlıqdakı cihazlar axtarılır. Digər tərəf İdarəetmə mərkəzində Xiaomi Share-i işə salmalıdır. &lt;a>Daha ətraflı&lt;/a></Data></string>
     <string name="scope_storage_dialog_cancel_btn">İmtina</string>
     <string name="scope_storage_dialog_confirm_btn">Növbəti</string>
     <string name="scope_storage_dialog_description">Qalereya icazələri güncəlləndi. Məzmununa baxa bilməsi üçün Qalereyanın bu qovluğa müraciətinə icazə verin.</string>
@@ -2826,6 +2835,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="share_and_delete_screenshot">Paylaşdıqdan sonra sil</string>
     <string name="share_by_email_start">%1$s - arxaplanda paylaş</string>
     <string name="share_by_email_successfully">%1$s paylaşıldı</string>
+	<string name="share_cell_hintStr">སྤྱོད་མཁན་གྱི་ལྡོག་འདྲེན།</string>
     <string name="share_from">Mənbə: %1$s</string>
     <string name="share_public_url_text">"%1$s albomunu sizinlə paylaşıram. Burada baxa bilərsən: %2$s"</string>
     <string name="share_with_family">Ailə ilə paylaş</string>
@@ -3103,7 +3113,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="tip_not_download">Cihazda deyil. Oynadılarkən Xiaomi Cloud-dan endiriləcək.</string>
     <string name="tip_screenshot_package_info">Tətbiq adı:</string>
     <string name="tips_for_photo_page_selection">Elementlərə baxmaq üçün toxuna bilərsiniz</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="title_dynamicfeature_7350">Feature_7350</string>
     <string name="title_dynamicfeature_8450">Feature_8450</string>
     <string name="title_dynamicfeature_8550">Feature_8550</string>

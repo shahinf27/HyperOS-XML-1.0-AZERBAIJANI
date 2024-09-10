@@ -36,6 +36,14 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+	<plurals name="bi_exist_playlist_toast1">
+        <item quantity="other">%d video uğurla əlavə edildi</item>
+        <item quantity="one">%d video uğurla əlavə edildi</item>
+    </plurals>
+    <plurals name="bi_exist_playlist_toast2">
+        <item quantity="other">%d video artıq bu pleylistdədir</item>
+        <item quantity="one">%d video artıq bu pleylistdədir</item>
+    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">%d cavaba bax</item>
         <item quantity="one">%d cavaba bax</item>
@@ -95,6 +103,10 @@
     <plurals name="local_longpress_speed_chenge_tip">
         <item quantity="other">%sX sürətində oxudulur. Normal sürətdə oxutmaq üçün buraxın.</item>
         <item quantity="one">%sX sürətində oxudulur. Normal sürətdə oxutmaq üçün buraxın.</item>
+    </plurals>
+	 <plurals name="local_video_delete_confirm_text">
+        <item quantity="other">Davam etsəniz, seçdiyiniz %s elementin hamısı həmişəlik silinəcək. Yenə də silinsin?</item>
+        <item quantity="one">Davam etsəniz, seçdiyiniz %s elementin hamısı həmişəlik silinəcək. Yenə də silinsin?</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d qovluq</item>
@@ -223,5 +235,13 @@
     <plurals name="video_view_count">
         <item quantity="other">%d baxış</item>
         <item quantity="one">%d baxış</item>
+    </plurals>
+	<plurals name="vip_diaolg_pay_episoed">
+        <item quantity="other">%d epizod satın alınır</item>
+        <item quantity="one">%d epizod satın alınır</item>
+    </plurals>
+    <plurals name="vip_validity_date">
+        <item quantity="other">Etibarlılıq dövrü: %d gün</item>
+        <item quantity="one">%d epizod satın alınır</item>
     </plurals>
 </resources>

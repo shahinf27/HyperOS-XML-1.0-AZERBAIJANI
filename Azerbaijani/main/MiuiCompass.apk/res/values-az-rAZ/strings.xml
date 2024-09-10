@@ -42,7 +42,7 @@
     <string name="altitude_unit">m</string>
     <string name="am">GƏ</string>
     <string name="angle">%.0f</string>
-    <string name="app_description_content">"Kompas bir sistem tətbiqidir. Silindikdən sonra istiqamətləri, koordinatları, atmosfer təzyiqi və mövcud yüksəkliyi yoxlamaq üçün kompası istifadə edə bilməyəcəksiniz."</string>
+    <string name="app_description_content">"Kompas bir sistem tətbiqidir. Onu sildikdən sonra istiqamətləri, koordinatları və daha çoxunu yoxlamaq üçün kompası istifadə edə bilməyəcəksiniz."</string>
     <string name="app_description_title">Kompas silinsin?</string>
     <string name="app_label">Kompas</string>
     <string name="calibrate_failed">"Yüksəklik kalibrlənə bilmədi"</string>

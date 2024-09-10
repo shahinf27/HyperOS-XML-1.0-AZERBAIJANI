@@ -2297,7 +2297,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="vlog_download_cloud_file_without_wifi_msg">"Wi-Fi-ya bağlana bilmədi. Elementləri buluddan (%s) mobil internet istifadə edərək endirə bilərsiniz."</string>
     <string name="vlog_download_fail">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="vlog_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="vlog_download_sdk_without_wifi_msg">"Wi-Fi-ya bağlana bilmədi. Video redaktoru mobil internet istifadə edərək endirə bilərsiniz."</string>
+    <string name="vlog_download_sdk_without_wifi_msg">"Wi-Fi-ya bağlana bilmədi. Video redaktorunu mobil internet istifadə edərək endirə bilərsiniz."</string>
     <string name="vlog_download_sdk_without_wifi_title">Video redaktoru endirilir…</string>
     <string name="vlog_downloading_cloud_file">Elementlər buluddan endirilir…</string>
     <string name="vlog_editor_talkback_ratio_239_1">İki nöqtə otuz doqquzun birə</string>
@@ -2463,7 +2463,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="vlog_talkback_clip_add_videos">Video əlavə et</string>
     <string name="vlog_talkback_clip_bar_adjust">Cəmi müddət: %1$d. Düzəlişdən sonrakı müddət: %2$d.</string>
     <string name="vlog_talkback_clip_frames">%1$d/%2$d klip</string>
-    <string name="vlog_talkback_clip_seek_bar">Video düzəliş ötürmə sətri</string>
+    <string name="vlog_talkback_clip_seek_bar">Video düzəlişi ötürmə sətri</string>
     <string name="vlog_talkback_crop_free">Sərbəst</string>
     <string name="vlog_talkback_crop_mirror">Güzgü</string>
     <string name="vlog_talkback_crop_reset">Sıfırla</string>
@@ -2540,7 +2540,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="vlog_template_mandiao">Xəyal</string>
     <string name="vlog_template_memory">Xatirələr</string>
     <string name="vlog_template_mengchong">Sevimli</string>
-    <string name="vlog_template_more_desc">Yeni şablonlar üçün izləmə qalın</string>
+    <string name="vlog_template_more_desc">Yeni şablonlar üçün izləmədə qalın</string>
     <string name="vlog_template_net_error">Şəbəkə xətası baş verdi</string>
     <string name="vlog_template_no_more_content">Göstəriləcək element yoxdur</string>
     <string name="vlog_template_qingfeng">Aura</string>

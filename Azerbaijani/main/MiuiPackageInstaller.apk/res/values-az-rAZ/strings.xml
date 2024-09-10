@@ -869,6 +869,7 @@ Aşağıdakı ssenarilərdə güvənlik risklərinin qarşısını effektiv şə
     <string name="permission_name_write_calendar">Təqvim tədbirləri əlavə et və onlara düzəliş et</string>
     <string name="permission_name_write_external_storage">Elementləri cihazın anbarında saxla</string>
     <string name="permission_num">%1$s</string>
+	<string name="permissoion_management">İcazələrin idarə edilməsi</string>
     <string name="please_input_install_app_name">Tətbiq adını daxil edin</string>
     <string name="please_input_phone_password">Ekran kilidini daxil et</string>
     <string name="please_input_phone_password_short">Ekran kilidini daxil et</string>
