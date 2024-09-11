@@ -345,8 +345,6 @@ Lütfən yerli tarixinizi yoxlayıb yenidən sınayın."</string>
     <string name="mibi_giftcard_in_available">Əlçatan</string>
     <string name="mibi_giftcard_payment">Hədiyyə sertifikatları</string>
     <string name="mibi_giftcard_payment_with_append">Hədiyyə sertifikatlarını tətbiq et</string>
-    <string name="mibi_giftcard_push_notification_prime_title">"Bir hədiyyə sertifikatı aldınız"</string>
-    <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Mi Coin giveaway.</string>
     <string name="mibi_giftcard_record">Mi hədiyyə kartları</string>
     <string name="mibi_giftcard_unavailable">Müddəti bitdi</string>
     <string name="mibi_giftcard_use_now">İstifadə et</string>
@@ -491,14 +489,6 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="mibi_prompt_info_button_text">Oldu</string>
     <string name="mibi_prompt_info_for_first_use"><Data>\"&lt;font color=#ff7700&gt;Mi.com üzərindən avadanlıq məhsulları almaq üçün Mi Coin istifadə edə bilməzsiniz.&lt;/font&gt;\"</Data></string>
     <string name="mibi_prompt_info_title">Məsləhətlər</string>
-    <string name="mibi_push_register_fail">Push qeydiyyatı uğursuz oldu.</string>
-    <string name="mibi_push_register_success">Push qeydiyyatı uğurlu oldu.</string>
-    <string name="mibi_push_set_accept_time_fail">%1$s üçün uğursuz qəbul vaxtını ayarla.</string>
-    <string name="mibi_push_set_accept_time_success">Qəbul vaxtı %1$s - %2$s olaraq uğurla ayarlandı.</string>
-    <string name="mibi_push_set_alias_fail">%1$s üçün ləqəb təyini uğursuz oldu.</string>
-    <string name="mibi_push_set_alias_success">\"%1$s\" üçün ləqəb təyini uğurlu oldu.</string>
-    <string name="mibi_push_unset_alias_fail">%1$s üçün ləqəb silmə uğursuz oldu.</string>
-    <string name="mibi_push_unset_alias_success">\"%1$s\" üçün ləqəb silmə uğurlu oldu.</string>
     <string name="mibi_recharge_grid_error_denomination">Məbləğ %1$s - %2$s arası Mi Coin olmalıdır.</string>
     <string name="mibi_recharge_grid_item_more">Daha çox</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Məbləği seçin</string>
@@ -507,8 +497,6 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="mibi_recharge_mibi_title">Mi Coin</string>
     <string name="mibi_recharge_novalid_method">Yararlı bir artırma üsulu yoxdur.</string>
     <string name="mibi_recharge_other">Digər üsullara baxın</string>
-    <string name="mibi_recharge_push_notification_prime_title">%1$d, hesabınıza %2$s Mi Coin əlavə etdi</string>
-    <string name="mibi_recharge_push_notification_sub_title">Artırma tamamlandı.</string>
     <string name="mibi_recharge_value_money">%s CNY dəyərində Mi Coin satın alın</string>
     <string name="mibi_recharge_value_money_special_unit">%1$s %2$s dəyərində Mi Coin satın alın</string>
     <string name="mibi_recharge_warn_text">"Mi Coin istifadə edərək fiziki mal ala bilməzsiniz."</string>

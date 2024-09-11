@@ -1126,6 +1126,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="button_text_let_me_select">Anladım</string>
     <string name="button_text_next_step">Növbəti</string>
     <string name="button_text_next_step_timer">Növbəti addım (%d)</string>
+	<string name="button_text_once_accept">Bir dəfə icazə ver</string>
     <string name="button_text_open_now">Aç</string>
     <string name="button_text_reject">Rədd et</string>
     <string name="button_text_trust">Bu şəbəkəyə güvən</string>

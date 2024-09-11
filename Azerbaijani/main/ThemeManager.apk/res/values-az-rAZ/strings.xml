@@ -651,7 +651,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="local_mode">Xətdən kənar rejimi</string>
     <string name="local_mode_close">Xətdən kənar rejimi söndürülsün?</string>
     <string name="local_mode_close_desc">Onlayn xidmətləri istifadə etmək istəyirsinizsə, xətdən kənar rejimini söndürün. İndi söndürülsün?</string>
-    <string name="local_mode_close_tip">Bu divar kağızını təyin etmək üçün internet bağlantısı tələb olunur. İnternet xidmətini istifadə etmək istəyirsinizsə, yerli rejimi söndürməyiniz lazımdır. Söndürməni təsdiqləyirsiniz?</string>
+    <string name="local_mode_close_tip">Bu divar kağızını təyin etmək üçün internet bağlantısı tələb olunur. İnternet xidmətini istifadə etməyə ehtiyacınız varsa, yerli rejimi söndürməyiniz lazımdır. Söndürməni təsdiqləyirsiniz?</string>
     <string name="local_mode_desc">"Xətdən kənar rejimi yalnız yerli məzmunu istifadə edir və onlayn xidmətləri istifadə etmir"</string>
     <string name="local_mode_hint">"Xətdən kənar rejimi istifadə edirsiniz.
 Söndürmək üçün toxunun."</string>
