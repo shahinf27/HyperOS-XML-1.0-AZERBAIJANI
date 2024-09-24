@@ -336,7 +336,7 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="columbus_reward_style_speed_confirm">Davam</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">470db8aa558e4d69b03f4aba6ee69d54</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">b0ea71aa42d444e4917b7494cc659ef5</string>
     <string name="comment_app_menu">Rəy</string>
     <string name="comment_description">Rəy</string>
     <string name="comment_hint">Rəy</string>
@@ -1204,6 +1204,17 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+    <string name="miuix_font_style_misans_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>

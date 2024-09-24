@@ -812,6 +812,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="tab_apps">Tətbiqlər</string>
     <string name="tab_call">Zənglər</string>
     <string name="tab_fm">FM</string>
+	<string name="talkback_traslation">Tərcümə et</string>
+    <string name="talkback_traslation_close">Tərcüməni dayandır</string>
     <string name="temporary_not_available">"Bu özəllik hələ mövcud deyil"</string>
     <string name="text_btn_backward_3_seconds">%d saniyə geri</string>
     <string name="text_btn_complete">Dayandır</string>

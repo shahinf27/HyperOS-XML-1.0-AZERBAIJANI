@@ -89,6 +89,37 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+	<string-array name="global_recognize_language_list">
+        <item>Azərbaycan dili</item>
+        <item>Malay dili</item>
+        <item>Çex dili</item>
+        <item>Alman dili</item>
+        <item>İngilis dili</item>
+        <item>İspan dili</item>
+        <item>Fransız dili</item>
+        <item>İndoneziya dili</item>
+        <item>İtalyan dili</item>
+        <item>Niderland dili</item>
+        <item>Özbək dili</item>
+        <item>Polyak dili</item>
+        <item>Portuqal dili</item>
+        <item>Rumın dili</item>
+        <item>Slovak dili</item>
+        <item>Vyetnam dili</item>
+        <item>Türk dili</item>
+        <item>Yunan dili</item>
+        <item>Qazax dili</item>
+        <item>Rus dili</item>
+        <item>Ərəb dili</item>
+        <item>Hind dili</item>
+        <item>Tay dili</item>
+        <item>Birman dili</item>
+        <item>Koreya dili</item>
+        <item>Yapon dili</item>
+        <item>Çin dili (Mandarin dili)</item>
+        <item>Çin dili (Kanton dili)</item>
+        <item>Filippin dili</item>
+    </string-array>
     <string-array name="hd_record_scenes_entries">
         <item>Musiqi</item>
         <item>Səs</item>
